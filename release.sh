@@ -108,17 +108,18 @@ function GenerateFooterInformation() {
 }
 # Encode Data
 function EncodeData() {
-    function gfwlist2pac_autoproxy() {
-        cat ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt | base64 > ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.base64
-        mv ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.base64 ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
-    }
-    gfwlist2pac_autoproxy
+    echo "Fake Encode ..."
+    # function gfwlist2pac_autoproxy() {
+    #     cat ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt | base64 > ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.base64
+    #     mv ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.base64 ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
+    # }
+    # gfwlist2pac_autoproxy
 }
 # Output Data
 function OutputData() {
     cnacc_gfwlist="cnacc" && GenerateHeaderInformation
     for cnacc_data_task in "${!cnacc_data[@]}"; do
-        echo "||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
+        echo "||${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_clash.yaml
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_surge.yaml
@@ -128,7 +129,7 @@ function OutputData() {
     GenerateFooterInformation && EncodeData
     cnacc_gfwlist="gfwlist" && GenerateHeaderInformation
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-        echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
+        echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_clash.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},Proxy" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_surge.yaml
