@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNTE2MjczMQo=
+! Checksum: MTYxNTI0OTExOAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210308-0
-! TimeUpdated: 2021-03-08T00:18:51+00:00
+! Version: 1.0.0-20210309-0
+! TimeUpdated: 2021-03-09T00:18:38+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0.pool.ntp.org
@@ -328,6 +328,7 @@
 ||11ffjj.com
 ||11go.net
 ||11sebb.com
+||11x5home.com
 ||12-courier.push.apple.com
 ||12.beautifulero.com
 ||12.rarbg.me
@@ -479,7 +480,6 @@
 ||1686110.com
 ||1686607364.rsc.cdn77.org
 ||1688.com.au
-||168810.cn
 ||1688hg.com
 ||168ey.com
 ||168wangluo.com
@@ -652,6 +652,7 @@
 ||198banjia.com
 ||198k7.com
 ||198tlc.com
+||19977.com
 ||1afcp.com
 ||1apps.com
 ||1bao.org
@@ -996,7 +997,6 @@
 ||2gis.ru
 ||2haha.com
 ||2hisnd.com
-||2ilt.com
 ||2kzw.com
 ||2l06k.cn
 ||2l7ha.cn
@@ -1884,6 +1884,7 @@
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 ||71i.de
 ||71sem.com
+||71wx.net
 ||72.cr.rs
 ||72.edns.biz
 ||72.effers.com
@@ -2169,6 +2170,7 @@
 ||888ylg.com
 ||8899buyu.com
 ||889ut.com
+||88bf33.com
 ||88bifa.net
 ||88bifa.vip
 ||88btt.com
@@ -2618,7 +2620,6 @@
 ||a02342.droitwichadvertiser.co.uk
 ||a02342.dudleynews.co.uk
 ||a02342.echo-news.co.uk
-||a02342.enfieldindependent.co.uk
 ||a02342.eppingforestguardian.co.uk
 ||a02342.eveshamjournal.co.uk
 ||a02342.falmouthpacket.co.uk
@@ -4284,6 +4285,7 @@
 ||ads.people.com.cn
 ||ads.periodistadigital.com
 ||ads.persgroep.net
+||ads.peteava.ro
 ||ads.pfl.ua
 ||ads.phpclasses.org
 ||ads.phunuonline.com.vn
@@ -6384,6 +6386,7 @@
 ||andyjenkinsblog.com
 ||andysparis.com
 ||aneisa.com
+||anekdot.ru
 ||anetwork.ir
 ||aneuron.com
 ||anfadianqi.com
@@ -7710,6 +7713,7 @@
 ||audiencenetwork.tv
 ||audiencies.ccma.cat
 ||audifs.com
+||audio-ak-spotify-com.akamaized.net
 ||audiobeatsau.com
 ||audiobeatsbydre.com
 ||audioboo.fm
@@ -7756,6 +7760,7 @@
 ||austinmacauley.com
 ||australia.com
 ||australia.kinokuniya.com
+||australian-business-online.com
 ||australiaplus.com
 ||auth.crypto-webminer.com
 ||auth.docker.io
@@ -9483,6 +9488,8 @@
 ||bienvenuechezbestbuy.ca
 ||bierdopje.com
 ||bifa007.com
+||bifa2003.com
+||bifa2006.com
 ||bifa2007.com
 ||bifa3333.com
 ||bifa5678.com
@@ -10681,6 +10688,7 @@
 ||bonprix.nl
 ||bonprix.pl
 ||bonprix.ro
+||bonprix.ru
 ||bonprix.sk
 ||bonprix.ua
 ||bonsai.internetbrands.com
@@ -10748,6 +10756,7 @@
 ||bosco.foreignpolicy.com
 ||boscovs.com
 ||bose.com
+||boshipai.com
 ||boslife.biz
 ||boslife.net
 ||boss.bankofamerica.com
@@ -11255,7 +11264,6 @@
 ||buy-vicodin-online.supersite.fr
 ||buy-vicodin.hut1.ru
 ||buy-vicodin.iscool.nl
-||buy-xanax.aztecaonline.net
 ||buy-xanax.hut1.ru
 ||buy.itunes-apple.com.akadns.net
 ||buy.itunes.apple.com
@@ -12550,7 +12558,6 @@
 ||cdn11.contentabc.com
 ||cdn111222.com
 ||cdn13.com
-||cdn15.acloudimages.com
 ||cdn1sitescout.edgesuite.net
 ||cdn2.ad-center.com
 ||cdn2.auditude.com
@@ -13155,7 +13162,6 @@
 ||chitujsq.com
 ||chiuhua.com.cn
 ||chkci.org.hk
-||chkpt.zdnet.com
 ||chndayu.com
 ||chnfree.com
 ||chnqiang.com
@@ -16793,6 +16799,7 @@
 ||diaoyuislands.org
 ||diariosur.es
 ||diariovasco.com
+||diary.ru
 ||diauan.net
 ||diazepam.shengen.ru
 ||dice.com
@@ -18922,6 +18929,7 @@
 ||ejiakm.net
 ||ejimtl.costway.com
 ||ek8.voyage-prive.com
+||ekaing.com
 ||ekgmca.gipfel.ru
 ||ekh3.way-to-win.com
 ||ekhindi.com
@@ -20021,6 +20029,7 @@
 ||f1870.com
 ||f1880.com
 ||f1analisitecnica.com
+||f1news.ru
 ||f22.flnet.org
 ||f3399.com
 ||f35.flnet.org
@@ -22400,6 +22409,7 @@
 ||galenwu.com
 ||galeriaseroticas.xpg.com.br
 ||galerieslafayette.com
+||galgamezd.com
 ||galleries.pimproll.com
 ||galletasparati.cl
 ||gallup.com
@@ -24526,6 +24536,7 @@
 ||headphonesbeatsbydre.com
 ||headphoneses.com
 ||headphonesretailer.com
+||heads4-ak-spotify-com.akamaized.net
 ||heals.msgfocus.com
 ||health.businessweekly.com.tw
 ||health.com
@@ -25136,6 +25147,7 @@
 ||hnbutton.appspot.com
 ||hnd-efz.ms-acdc.office.com
 ||hnd-mvp.trafficmanager.net
+||hnflhzl.com
 ||hnhgw.cn
 ||hnjhj.com
 ||hnkuangshan.cn
@@ -28475,6 +28487,7 @@
 ||jp.hao123.com
 ||jp.net
 ||jp.pandora.tv
+||jp.pool.ntp.org
 ||jp.rti.org.tw
 ||jpe.a.prd.ags.trafficmanager.net
 ||jpe.b.prd.ags.trafficmanager.net
@@ -28583,7 +28596,6 @@
 ||js5162.yongkang6.com
 ||js6882.jianbangjiaoyu.com
 ||js710.com
-||js74.yqjxzw.com
 ||js77777.com
 ||js84.enyayinxiang.com
 ||js883.cnbole.net
@@ -28941,6 +28953,7 @@
 ||kaufland.ro
 ||kaufland.sk
 ||kaufmich.com
+||kavehome.com
 ||kawarthacu.com
 ||kawase.com
 ||kay.com
@@ -29194,6 +29207,7 @@
 ||kisscartoon.ac
 ||kisscartoon.is
 ||kisscartoon.su
+||kissingwolf.com
 ||kissjav.com
 ||kissmanga.com
 ||kissr.com
@@ -29868,7 +29882,6 @@
 ||lecloud.net
 ||lecool.com
 ||lede-project.org
-||ledlightingfactory.com
 ||ledobbensz.blogspot.hu
 ||lee.easymall.com.tw
 ||lee.flnet.org
@@ -36172,6 +36185,7 @@
 ||now.im
 ||now.sh
 ||nowall.effers.com
+||nowbmzk.com
 ||nowe.com
 ||nowe.hk
 ||nowepekao24.com
@@ -36280,6 +36294,7 @@
 ||nstagram.com
 ||nstat.headlines.pw
 ||nsteq.queensland.com
+||nsxxw.com
 ||nt-cdn.coccoc.com
 ||nt.se
 ||ntbk.gov.tw
@@ -38483,6 +38498,7 @@
 ||petaasia.cn
 ||petaasiapacific.com
 ||petco.com
+||peteava.ro
 ||petel.us
 ||peter-north-cum-shot.blogspot.com
 ||peterburk.free.fr
@@ -38524,6 +38540,7 @@
 ||pge.unityads.unity3d.com
 ||pgi.com
 ||pgpolice.com
+||pgrrr.com
 ||pgs.aviationweek.com
 ||pgt1.voyage-prive.es
 ||pgv.m.xunlei.com
@@ -42809,6 +42826,7 @@
 ||sb.voicefive.com
 ||sb0101.com
 ||sb5202.com
+||sbb.ch
 ||sbcomniture.focus.de
 ||sbdhdq.zeeman.com
 ||sbf111.com
@@ -44378,6 +44396,7 @@
 ||siri.com
 ||siriusxm.ca
 ||siriusxm.com
+||sirobari.jp
 ||sis.hkbisi.com
 ||sis.hkwesee.xyz
 ||sis.powayusd.com
@@ -44613,6 +44632,7 @@
 ||smallpdf.com
 ||smardroid.com
 ||smart-edge.com
+||smart-lab.ru
 ||smart-way2.com.cn
 ||smart.allocine.fr
 ||smart.businessweekly.com.tw
@@ -50845,6 +50865,7 @@
 ||tracker.wordstream.com
 ||tracker.wpserveur.net
 ||tracker.xdvdz.com
+||tracker.xelion.fr
 ||tracker.xiaoduola.xyz
 ||tracker.yoshi210.com
 ||tracker.zemoj.com
@@ -55247,6 +55268,7 @@
 ||whereiswerner.com
 ||wheretowatch.com
 ||whh.suroot.com
+||whhtxx.com
 ||whichav.com
 ||whimn.com.au
 ||whippedass.com
@@ -55700,6 +55722,7 @@
 ||wonder-product.com
 ||wongnai.com
 ||wonwg.com
+||woodenrobot.me
 ||wookiespmc.com
 ||woolite.ca
 ||woolite.com
@@ -55742,6 +55765,7 @@
 ||world-rights.org
 ||world.yam.com
 ||world2be.com
+||world3dmodel.com
 ||worldbank.org
 ||worldbankgroup.org
 ||worldbaseballclassic.com
@@ -56144,6 +56168,7 @@
 ||wuala.com
 ||wuand.com
 ||wubangtu.com
+||wudayy.com
 ||wuerkaixi.com
 ||wufi.org.tw
 ||wuguoguang.com
@@ -60273,6 +60298,7 @@
 ||x78bb.com
 ||x831.com
 ||x888x.myserver.org
+||x88dushu.com
 ||x99av.com
 ||x99bb.com
 ||xaayrl.joybird.com
@@ -60362,6 +60388,7 @@
 ||xdvdz.com
 ||xedoisong.vn
 ||xeeno.com
+||xelion.fr
 ||xelondigital.com
 ||xemphimso.com
 ||xemvtv.net
@@ -60397,6 +60424,7 @@
 ||xgirls.org
 ||xglory.tk
 ||xgmyd.com
+||xguox.me
 ||xgxhy.com
 ||xh0016.com
 ||xh0018.com
@@ -60456,6 +60484,7 @@
 ||xiaod.in
 ||xiaoduola.xyz
 ||xiaojiadianmovie.asia
+||xiaojun911.com
 ||xiaolian.com
 ||xiaomi8.dele77.com
 ||xiaomi8.dele88.com
@@ -60502,6 +60531,7 @@
 ||xinshengming.com
 ||xinshide.cn
 ||xinweide.com
+||xinyongkazhongxin.com
 ||xinyubbs.net
 ||xiongmingfeng.com
 ||xiongpian.com
@@ -60670,6 +60700,7 @@
 ||xp3.biz
 ||xp301.com
 ||xp303.com
+||xp510.com
 ||xpanama.net
 ||xpdo.net
 ||xpertmarket.com
@@ -60731,6 +60762,7 @@
 ||xukekk.oshkosh.com
 ||xun6.net
 ||xun77.com
+||xundayun.cn
 ||xunlaile.com
 ||xunleiso.com
 ||xunzhaoshiliantongzhi.github.io
@@ -60890,6 +60922,7 @@
 ||yabo.com
 ||yabo.xxx
 ||yabo260.com
+||yabo394.com
 ||yad.pandafilms.best
 ||yadi.sk
 ||yadro.ru
@@ -61140,6 +61173,7 @@
 ||ycai947.com
 ||ycembr.net-a-porter.com
 ||ycfxue.com
+||ycie.org
 ||ycjhuh.stripe-club.com
 ||ycn.org
 ||ycombinator.com
@@ -61312,6 +61346,7 @@
 ||ymtracking.com
 ||yndtjj.com
 ||ynlv114.com
+||ynmz.net
 ||ynudoo.shoeby.nl
 ||ynuf.alibaba.com
 ||ynwqls.com
@@ -61712,6 +61747,7 @@
 ||yungton.org
 ||yungyunghk.com
 ||yunjidns1.com
+||yunl1.com
 ||yunmowu.com
 ||yunshengyy.com
 ||yunsoka.com
@@ -61760,6 +61796,7 @@
 ||yymmsd.cn
 ||yyt.gfe3uh.cc
 ||yytd66.com
+||yytzw.com
 ||yyv.co
 ||yyxmv.com
 ||yyy116.com
@@ -62005,6 +62042,7 @@
 ||zgclmw.cn
 ||zgdhhjha.com
 ||zgfszs.com
+||zgjingshuiqi.com
 ||zgo.at
 ||zgody.infor.pl
 ||zgqgig.skillbox.ru
@@ -62070,7 +62108,6 @@
 ||zhenlibu1984.com
 ||zhenxiang.biz
 ||zhgpl.com
-||zhiboba.cc
 ||zhichang.5article.com
 ||zhiduo.org
 ||zhikanlouzhu.com
@@ -62102,7 +62139,6 @@
 ||zhywyl.cn
 ||zhzzz.com
 ||zi5.me
-||ziddu.com
 ||ziffdavisinternational.com
 ||ziffimages.com
 ||ziftsolutions.com
@@ -62139,12 +62175,15 @@
 ||zjcapital.cn
 ||zjcqoo.github.io
 ||zjeban.si
+||zjejua.portmans.com.au
 ||zjgj8.com
 ||zjgsq.com
 ||zjhuajian.com
 ||zjurl.cn
 ||zkb.ch
+||zkc5.fleurancenature.fr
 ||zkiz.com
+||zkmvjm.f1news.ru
 ||zkoxv.com
 ||zkshfbdg.info
 ||zkxf119.com
@@ -62152,8 +62191,14 @@
 ||zlofenix.org
 ||zlog.mp3.zing.vn
 ||zlog.zingmp3.vn
+||zlolhl.anekdot.ru
+||zlolhl.briefly.ru
+||zlolhl.diary.ru
+||zlolhl.mediametrics.ru
+||zlolhl.smart-lab.ru
 ||zlvc.net
 ||zlx.com.br
+||zm5d.lexpress.fr
 ||zmags.com
 ||zmarsa.com
 ||zmctrack.net
@@ -62169,6 +62214,7 @@
 ||znetlive.com
 ||znq9.destinia.mx
 ||znzx12345.ga
+||zobgqg.sirobari.jp
 ||zodera.hu
 ||zodgame.com
 ||zodgame.org
@@ -62244,6 +62290,7 @@
 ||zoozle.net
 ||zophar.net
 ||zopim.com
+||zopqks.kavehome.com
 ||zorpia.com
 ||zorrovpn.com
 ||zotabox.com
@@ -62256,12 +62303,15 @@
 ||zpravy.aktualne.cz
 ||zpu.samsungelectronics.com
 ||zpxtv.com
+||zqtizs.bonprix.ru
+||zqwofo.liverpool.com.mx
 ||zr22222.com
 ||zr6088.com
 ||zr7770.com
 ||zr99999.com
 ||zrhnas.tw.quickconnect.to
 ||zrii.com
+||zrsetz.shutterstock.com
 ||zrw1.destinia.jp
 ||zryydi.com
 ||zs.dhl.de
@@ -62284,6 +62334,7 @@
 ||ztzl.moe
 ||zuckerberg.com
 ||zuckerberg.net
+||zug.sbb.ch
 ||zuihuixuan.com
 ||zuirt.cc
 ||zuirt.com
