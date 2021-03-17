@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNTg1MzkxMgo=
+! Checksum: MTYxNTk0MDM0OQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210316-0
-! TimeUpdated: 2021-03-16T00:18:32+00:00
+! Version: 1.0.0-20210317-0
+! TimeUpdated: 2021-03-17T00:19:09+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -78,6 +78,7 @@
 ||021330.com
 ||02166.cc
 ||021df.com
+||022ffm.com
 ||023001.com
 ||02322.cc
 ||0235.com
@@ -107,6 +108,7 @@
 ||02og.com
 ||030buy.com
 ||031177.com
+||0315cct.com
 ||032006.com
 ||0328c.com
 ||0328x.com
@@ -232,7 +234,6 @@
 ||100mountain.com
 ||100sihu.com
 ||100tjs.com
-||100uo.com
 ||101.www1.biz
 ||1010.com.hk
 ||101010.pl
@@ -702,7 +703,6 @@
 ||1lib.cn
 ||1mb034.cn
 ||1mobile.com
-||1mobile.tw
 ||1monsterbeatsbydreus.com
 ||1mynews.com
 ||1net.com.tw
@@ -1219,7 +1219,6 @@
 ||3680369.com
 ||3688js.com
 ||3691127.com
-||3691128.com
 ||369gc.com
 ||36dm.com
 ||36ff.net
@@ -2341,6 +2340,7 @@
 ||920share.com
 ||9234.com
 ||9270.com.cn
+||9282821monday.hqnpwzu.cn
 ||929061.com
 ||92avday.com
 ||92ccav.com
@@ -2385,7 +2385,6 @@
 ||95jyb003.com
 ||95jyb11.com
 ||95wen.com
-||960335.com
 ||960876.com
 ||966cpa.com
 ||96777.cc
@@ -2471,7 +2470,6 @@
 ||999.ch3088.com
 ||999.cyl7777.com
 ||999.dlg789.com
-||999.hc55888.com
 ||999.hx202.com
 ||999.jbi6689.com
 ||999.jbi9988.com
@@ -2695,7 +2693,6 @@
 ||a02342.harwichandmanningtreestandard.co.uk
 ||a02342.heraldscotland.com
 ||a02342.maldonandburnhamstandard.co.uk
-||a02342.milfordmercury.co.uk
 ||a02342.northwichguardian.co.uk
 ||a02342.penarthtimes.co.uk
 ||a02342.redditchadvertiser.co.uk
@@ -2921,6 +2918,7 @@
 ||ab-road.net
 ||ab.5.p2l.info
 ||ab.advertiserurl.com
+||ab126.com
 ||ab13.mktossl.com
 ||ab1988.com
 ||ab1n.net
@@ -3520,6 +3518,7 @@
 ||ad.wynk.in
 ||ad.wz.cz
 ||ad.xmovies8.ru
+||ad.xmovies8.si
 ||ad.xrea.com
 ||ad.yadro.ru
 ||ad.yemeksepeti.com
@@ -4917,6 +4916,7 @@
 ||adservex.media.net
 ||adservice.dk
 ||adservice.google.co.za
+||adservice.google.com.vn
 ||adservice.tohsoft.com
 ||adserving.unibet.com
 ||adservingsolutionsinc.com
@@ -6808,6 +6808,7 @@
 ||api.cortana.ai
 ||api.crittercism.com
 ||api.crypto-loot.com
+||api.developer.xiaomi.com
 ||api.dropboxapi.com
 ||api.e-cg.cn
 ||api.ettoday.net
@@ -7595,6 +7596,7 @@
 ||asd.nl.bauhaus
 ||asd.projectfreetv.so
 ||asd.sincetrade.com
+||asd2.projectfreetv.so
 ||asda.com
 ||asdafgergeslijlika.weebly.com
 ||asdfg.jp
@@ -8853,7 +8855,6 @@
 ||bbc.de
 ||bbc.in
 ||bbcchinese.com
-||bbcdn.go.arbopl.bbelements.com
 ||bbci.co.uk
 ||bbclearningenglish.com
 ||bbcmundo.com
@@ -9005,6 +9006,7 @@
 ||bdg663.com
 ||bdg693.com
 ||bdgg.youbian.com
+||bdgns.com
 ||bdi-services.de
 ||bdj55.com
 ||bdjs.ixiumei.com
@@ -9810,7 +9812,6 @@
 ||bingads.microsoft.com
 ||bingagencyawards.com
 ||bingapistatistics.com
-||bingdiantao.com
 ||bingfeng.tw
 ||bingj.com
 ||bingparachute.com
@@ -11113,7 +11114,6 @@
 ||brazzers.com
 ||brazzersnetwork.com
 ||break.com
-||breakblack.net
 ||breakdown.me
 ||breakgfw.com
 ||breaking911.com
@@ -12042,7 +12042,6 @@
 ||cai-cai.me
 ||cai8wan.com
 ||cai950.com
-||caiheqing.com
 ||caijinglengyan.com
 ||cairn.info
 ||cairnspost.com.au
@@ -14129,6 +14128,7 @@
 ||cnbbnews.wordpress.com
 ||cnbc.com
 ||cnbcfm.com
+||cnbetway.com
 ||cnbiwei.com
 ||cnbole.net
 ||cncenter.cz
@@ -14174,6 +14174,7 @@
 ||cnseor.com
 ||cnshef.com
 ||cnstats.cdev.eu
+||cnszkl.com
 ||cnt.3dmy.net
 ||cnt.alawar.com
 ||cnt.iceporn.com
@@ -14528,6 +14529,7 @@
 ||com.vc
 ||com.ve
 ||com.vi
+||com.vn
 ||com2us.net
 ||com5.com.cn
 ||combaidu.com
@@ -16857,7 +16859,6 @@
 ||delawareonline.com
 ||delcafe.com.ar
 ||delcamp.net
-||deleak.com
 ||deledible.com.au
 ||deleyazhou.com
 ||delfi.ee
@@ -16964,6 +16965,7 @@
 ||desertbmw.com
 ||desertsun.com
 ||desgao1zt7irn.cloudfront.net
+||deshuangwang.cn
 ||design.endeavorb2b.com
 ||design.google
 ||design.ru
@@ -19967,13 +19969,13 @@
 ||epson.com
 ||eqads.com
 ||eqnan.megaseries.biz
-||eqq.damumu.xyz
 ||equabank.cz
 ||equalgrid.com
 ||equantum.com
 ||equifax.com
 ||equinenow.com
 ||equinox.com
+||equiplube.com
 ||equippo.com
 ||equitable.com
 ||equuscs.com
@@ -20316,8 +20318,6 @@
 ||events.izooto.com
 ||events.jora.com
 ||events.jotform.com
-||events.kaloo.ga
-||events.kalooga.com
 ||events.launchdarkly.com
 ||events.lbesecapi.com
 ||events.matterport.com
@@ -21342,6 +21342,7 @@
 ||ff.astv.ru
 ||ff.im
 ||ff.imacdn.com
+||ff.xue163.net
 ||ff167.net
 ||ff316.net
 ||ff633.net
@@ -21669,7 +21670,6 @@
 ||fj95560.com
 ||fjhongou.com
 ||fjqtyu.bethowen.ru
-||fjtzjy.com
 ||fk-book.com
 ||fk.mrcat.bet
 ||fkapi.net
@@ -21830,7 +21830,6 @@
 ||fochk.org
 ||focr.sg
 ||focus.de
-||focuscat.com
 ||focusoftime.com
 ||focustaiwan.tw
 ||focusvpn.com
@@ -22850,6 +22849,7 @@
 ||fwccw.com
 ||fwmrm.net
 ||fx-rashinban.com
+||fx286.com
 ||fxbqag.znak.com
 ||fxclub.cn
 ||fxcm-chinese.com
@@ -24043,6 +24043,7 @@
 ||godaddy.com
 ||godatafeed.com
 ||godbmw.com
+||goddyzhao.me
 ||godfootsteps.org
 ||godoc.org
 ||godsbigworld.wng.org
@@ -27230,7 +27231,6 @@
 ||img.uyangyong.cn
 ||img.vim-cn.com
 ||img.xiacaidd.com
-||img.ynwqls.com
 ||img.zeruinong.com
 ||img1.ak.crunchyroll.com
 ||img1.blogblog.com
@@ -29155,6 +29155,7 @@
 ||jjj626.net
 ||jjkaifa.com
 ||jjqyk.com
+||jjw5.com
 ||jjxgly.com
 ||jk-sexvideos.com
 ||jk.jetos.com
@@ -30376,6 +30377,7 @@
 ||kyurem.com
 ||kyxnz.cn
 ||kyzyhello.com
+||kz.zf678.com
 ||kzeng.info
 ||kznbadminton.co.za
 ||kzsicw.chip.de
@@ -30510,6 +30512,7 @@
 ||lanuovaviadellaseta.eu
 ||lanyes.org
 ||lanzar.publicidadweb.com
+||laod.org
 ||laodongnghean.vn
 ||laogai.it
 ||laogai.org
@@ -31103,7 +31106,6 @@
 ||linecorp.com
 ||linefriends.com
 ||linefriends.com.tw
-||linegame.jp
 ||lineinchina.com
 ||linemobile.com
 ||linescale.com
@@ -31223,7 +31225,6 @@
 ||liuli.in
 ||liuli.pw
 ||liuli.se
-||liuscx.com
 ||liuxiaobo.net
 ||liuzheyuan.com
 ||live-cams-1.livejasmin.com
@@ -31693,6 +31694,7 @@
 ||loufisher.org
 ||louisan.cn
 ||louislegrand.org
+||loushao.net
 ||lout.com
 ||lov3.net
 ||love7.xyz
@@ -31860,6 +31862,7 @@
 ||luxurylink.com
 ||luzernerzeitung.ch
 ||luzu.vn
+||lv.myapks.com
 ||lvb.com
 ||lvcha888.com
 ||lvdp.net
@@ -31932,6 +31935,7 @@
 ||m.1eighty8.com
 ||m.20mao.com
 ||m.21haodianmt.com
+||m.23txt.com
 ||m.24haitao.net
 ||m.2805u.com
 ||m.288ysb.com
@@ -31981,7 +31985,6 @@
 ||m.biqugezw.com
 ||m.bjaoyou.cn
 ||m.box.com
-||m.bs641.cn
 ||m.bsnnk.com
 ||m.ca181.com
 ||m.ca227.com
@@ -32032,7 +32035,6 @@
 ||m.feirs.com
 ||m.fenrs.com
 ||m.fhxiaoshuo.com
-||m.focuscat.com
 ||m.footjobtube4free.com
 ||m.fouas.com
 ||m.ftchinese.com
@@ -34273,6 +34275,7 @@
 ||mikle.com
 ||mikocon.com
 ||miktex.org
+||mikuclub.org
 ||milanesitracker.tekcities.com
 ||milannews.it
 ||milb.com
@@ -35245,6 +35248,7 @@
 ||move-free.net
 ||move.com
 ||move.ru
+||move7.com
 ||movefreeoffers.com
 ||movefreerewards.com
 ||movefrees.com
@@ -35369,7 +35373,6 @@
 ||ms.continuedsys.cn
 ||ms.informaengage.com
 ||ms.markosaric.com
-||ms196.net
 ||ms365surfaceoffer.com
 ||ms4dre.com
 ||ms52.cf
@@ -41760,7 +41763,6 @@
 ||qcv5.blogtruyen.vn
 ||qcw.com
 ||qd.dhzw.org
-||qd.js.sanjiangge.com
 ||qd.snwx.com
 ||qde.chinaqirun.cn
 ||qdkwaz.laredoute.fr
@@ -42033,6 +42035,7 @@
 ||r-ln-2.net.daraz.com
 ||r-login.wordpress.com
 ||r-project.org
+||r.14244.com
 ||r.254a.com
 ||r.5207470.com
 ||r.71sem.com
@@ -42981,7 +42984,6 @@
 ||riviere.com.ar
 ||riwkmo.spacemarket.com
 ||rixcloud.net
-||rjjacky.info
 ||rjjtf.biz
 ||rjlyapps1.com
 ||rjlyapps3.com
@@ -44747,6 +44749,7 @@
 ||securepaypal.info
 ||secureproxysite.com
 ||secureserver.net
+||secureservercdn.net
 ||secureshoppingbasket.com
 ||securestudies.com
 ||securetags.esri.cl
@@ -45337,6 +45340,7 @@
 ||shenjiying004.jigsy.com
 ||shenjiying005.jigsy.com
 ||shenlaoxi.com
+||shenlvyy.com
 ||shenpoker.com
 ||shentaiesp.asia
 ||shenyun.com
@@ -50533,6 +50537,7 @@
 ||tengbo9881.com
 ||tengbo9885.com
 ||tenglink.com
+||tengxunshipinwang.com
 ||tenilstats.turner.com
 ||tenjin.com
 ||tenjin.io
@@ -54406,6 +54411,7 @@
 ||v-lazer.com
 ||v-mate.mobi
 ||v-tea.com
+||v-xunlei.com
 ||v.4gpkf.cn
 ||v.9y88.com
 ||v.cdn.vine.co
@@ -55799,6 +55805,7 @@
 ||vote.sibnet.ru
 ||votolia.com
 ||votpusk.ru
+||votrima.com
 ||votrube.ru
 ||vov.vn
 ||vov0.com
@@ -56207,6 +56214,7 @@
 ||wads.ozap.com
 ||wads.plurielles.fr
 ||waffles.fm
+||waga.cc
 ||wahas.com
 ||waikeung.net
 ||waikeung.org
@@ -56987,6 +56995,7 @@
 ||whoscored.com
 ||whotalking.com
 ||whoxtv.com
+||whssni.com
 ||whu.cwpush.com
 ||whwestern.cn
 ||whxbrz.shipt.com
@@ -58623,6 +58632,7 @@
 ||www.biicode.com
 ||www.bikeinn.com
 ||www.binancezh.com
+||www.bing.com
 ||www.binyen.com
 ||www.biofos.com
 ||www.birdbeep.net
@@ -62262,6 +62272,7 @@
 ||xiexingwen.com
 ||xiezi.us
 ||xifailstibet.org
+||xiguasp.com
 ||xihua.es
 ||xijie.wordpress.com
 ||xijinping.com
@@ -62376,6 +62387,7 @@
 ||xmninetown.com
 ||xmovies.com
 ||xmovies8.ru
+||xmovies8.si
 ||xmr.101010.pl
 ||xmr.coinlab.biz
 ||xmr.crypto-pool.fr
@@ -63121,7 +63133,6 @@
 ||ynudoo.shoeby.nl
 ||ynuf.alibaba.com
 ||ynuf.alipay.com
-||ynwqls.com
 ||ynxr.rangcui.net
 ||yo.cz
 ||yo.kuaipaobiaoju.com
@@ -63451,6 +63462,7 @@
 ||ypcdbw.drive2.com
 ||ypcdbw.drive2.ru
 ||ypmate.com
+||ypstate.com
 ||ypu.samsungelectronics.com
 ||ypxxtv.com
 ||yqp29.net
@@ -63637,6 +63649,7 @@
 ||z5.com
 ||z58955.com
 ||z888.izhufu.net
+||z88951.com
 ||za.zalo.me
 ||za9mnx.com
 ||zaahir.com
@@ -63646,7 +63659,6 @@
 ||zacebook.com
 ||zachgibbens.org
 ||zadn.vn
-||zadrb.zadrottv.ru
 ||zadrottv.ru
 ||zafrc.5780.site
 ||zahir2.aeiou.pt
@@ -64003,6 +64015,7 @@
 ||zneth.com
 ||znetlive.com
 ||znq9.destinia.mx
+||znyyzyk.com
 ||znzx12345.ga
 ||zobgqg.sirobari.jp
 ||zodera.hu
@@ -64152,6 +64165,7 @@
 ||zws.avvo.com
 ||zxin131.cn
 ||zxl.qzbxfs.com
+||zxtechart.com
 ||zxvttq.goldapple.ru
 ||zy.etowns.net
 ||zyban-store.shengen.ru
