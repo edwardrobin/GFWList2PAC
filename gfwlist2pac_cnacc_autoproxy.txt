@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNzE1MDgyMQo=
+! Checksum: MTYxNzIzNzUwNwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210331-0
-! TimeUpdated: 2021-03-31T00:33:41+00:00
+! Version: 1.0.0-20210401-0
+! TimeUpdated: 2021-04-01T00:38:27+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -1126,6 +1126,7 @@
 ||1040jy.com
 ||10419.net
 ||1048yy.com
+||104sihu.com
 ||105a.com
 ||105mr.com
 ||105zx.com
@@ -3576,7 +3577,6 @@
 ||3456.com
 ||3456.tv
 ||34580.com
-||345down.com
 ||345fk.com
 ||345k.com
 ||345kam.com
@@ -5579,6 +5579,7 @@
 ||52lieshou.com
 ||52life.cc
 ||52linglong.com
+||52linux.tech
 ||52lion.com
 ||52lishi.com
 ||52luckystar.com
@@ -6155,6 +6156,7 @@
 ||5adm.net
 ||5aer.com
 ||5ag.net
+||5ailiwu.com
 ||5aivideo.com
 ||5aiyoo.com
 ||5ajob.com
@@ -6674,7 +6676,6 @@
 ||66rr5v.tdum.alibaba.com
 ||66ruian.com
 ||66s.cc
-||66shlf.com
 ||66shouyou.com
 ||66sj.com
 ||66sy.com
@@ -8770,6 +8771,7 @@
 ||98yigou.com
 ||98znz.com
 ||99-ss.com
+||99003606.com
 ||990060022.com
 ||99083.com
 ||9908qhb.com
@@ -10337,6 +10339,7 @@
 ||ah499.com
 ||ah5166.com
 ||ah8.cc
+||ah9yu.com
 ||ahacpp.com
 ||ahalei.com
 ||ahanxun.com
@@ -10641,6 +10644,7 @@
 ||ainiu.net
 ||ainiugu6.com
 ||ainiuwa.com
+||ainuanbao.com
 ||ainyi.com
 ||aiodt.com
 ||aiops.com
@@ -11306,7 +11310,6 @@
 ||alyxz.com
 ||alyzq.com
 ||am.g.ireader.com
-||am.szhome.com
 ||am.zdmimg.com
 ||am222566.com
 ||am5.com
@@ -12431,6 +12434,7 @@
 ||apppic.yingyongbei.com
 ||apppoo.com
 ||apppv.zol.com.cn
+||apprcn.com
 ||appresource.net
 ||apprn.kfc.com.cn
 ||apps.apple.com
@@ -12732,6 +12736,7 @@
 ||ashvsash.com
 ||ashvsash.net
 ||asia-dns.com
+||asia.pool.ntp.org
 ||asiabt.com
 ||asiaci.com
 ||asiacool.com
@@ -15421,6 +15426,7 @@
 ||bjhouse.com
 ||bjhrkc.com
 ||bjhscx.com
+||bjhtx.com
 ||bjhtzsgs.com
 ||bjhwbr.com
 ||bjhzkq.com
@@ -16427,6 +16433,7 @@
 ||btwuji.com
 ||btxl8.com
 ||btyou.com
+||bu-shen.com
 ||bu01.zybang.com
 ||bu02.zybang.com
 ||bu1.duba.com
@@ -17909,7 +17916,6 @@
 ||cdn-km90t7vu.sched.s2.tdnsv5.com
 ||cdn-ng.net
 ||cdn-o7p6r5ll.sched.s2.tdnsv5.com
-||cdn-okzyw.com
 ||cdn-pmmutlyp.sched.s2.tdnsv5.com
 ||cdn-pri.nlark.com
 ||cdn-qtcduyug.sched.s2.tdnsv5.com
@@ -18014,15 +18020,12 @@
 ||cdn.zhuji5.com
 ||cdn0.mobmore.com
 ||cdn08.com
-||cdn1-okzy.com
 ||cdn1.apple-mapkit.com
 ||cdn1.lbesec.com
 ||cdn1.mbs.boc.cn
 ||cdn1.mbs.boc.cn.wswebpic.com
 ||cdn1.res.nx5.com
-||cdn11-okzy.com
 ||cdn1218.com
-||cdn2-okzy.com
 ||cdn2.apple-mapkit.com
 ||cdn2.dabangq.com
 ||cdn2.jianshu.io
@@ -18031,25 +18034,19 @@
 ||cdn20.info
 ||cdn20.org
 ||cdn2000.com
-||cdn3-okzy.com
 ||cdn3.apple-mapkit.com
 ||cdn30.com
 ||cdn30.org
-||cdn33-okzy.com
 ||cdn3344.com
 ||cdn35.com
-||cdn4-okzy.com
 ||cdn4.apple-mapkit.com
-||cdn5-okzy.com
 ||cdn55.net
 ||cdn55555.com
 ||cdn56.com
-||cdn7-okzy.com
 ||cdn79.com
 ||cdn818.com
 ||cdn86.net
 ||cdn88.cc
-||cdn9-okzy.com
 ||cdnassets.115.com
 ||cdnbest.com
 ||cdnbest.net
@@ -21923,11 +21920,6 @@
 ||com-l-tudou.com
 ||com-l-youku.com
 ||com-ml-zyw.com
-||com-ok-baidu.com
-||com-ok-bilibili.com
-||com-ok-iqiyi.com
-||com-ok-qq.com
-||com-okzy.com
 ||com-t-56.com
 ||com-t-iqiyi.com
 ||com-t-letv.com
@@ -22485,6 +22477,7 @@
 ||cqfuzhuang.com
 ||cqfzb.org
 ||cqgc.com
+||cqgmfw.com
 ||cqgz.com
 ||cqh2o.com
 ||cqhansa.com
@@ -24345,7 +24338,6 @@
 ||dd.iask.cn
 ||dd.meituan.com
 ||dd.net
-||dd.wx16999.com
 ||dd1.freep.cn
 ||dd2.freep.cn
 ||dd2007.com
@@ -24842,6 +24834,7 @@
 ||dgtpcj.com
 ||dgtuoyue.com
 ||dgwap.com
+||dgwoto.com
 ||dgwtrl.com
 ||dgxue.com
 ||dgxxzs.com
@@ -27637,6 +27630,7 @@
 ||edge.ivideo.sina.com.cn
 ||edgeiptv.com
 ||edgekey.net
+||edgesrv.com
 ||edgezzz.com
 ||edhic.com
 ||edhk9.com
@@ -30750,7 +30744,6 @@
 ||ftxsoccer.com
 ||ftxzq.com
 ||ftzn.net
-||ftzsino.com
 ||fu57.com
 ||fubi8.com
 ||fuchaoqun.com
@@ -33243,6 +33236,7 @@
 ||gtm-a1b2.com
 ||gtm-a1b4.com
 ||gtm-a2b3.com
+||gtm-a2b4.com
 ||gtm-a2b6.com
 ||gtm-a3b1.com
 ||gtm-a4b4.com
@@ -33412,6 +33406,7 @@
 ||gufengge.org
 ||gufengmh.com
 ||gufengmh8.com
+||guge.info
 ||guge.tw
 ||gugeanzhuangqi.com
 ||gugeapps.com
@@ -35220,6 +35215,7 @@
 ||hcwiki.com
 ||hcx123.com
 ||hcx99.com
+||hcxchina.com
 ||hcxcw.com
 ||hcxy6.com
 ||hcxzdanbao.com
@@ -35530,7 +35526,6 @@
 ||hellohuohu.com
 ||helloimg.com
 ||hellojava.com
-||hellojava.info
 ||hellokang.net
 ||hellokid.com
 ||hellokidvip.com
@@ -36983,6 +36978,7 @@
 ||hsigus.com
 ||hsiii.com
 ||hsjingcheng.com
+||hsjkaoyan.com
 ||hslj.net
 ||hsm.sspu.edu.cn
 ||hsmc.com
@@ -38648,6 +38644,7 @@
 ||iccircle.com
 ||iccsmart.com
 ||iccsz.com
+||iccwi.net
 ||icdn2.com
 ||icdol.com
 ||icdream.com
@@ -38759,7 +38756,6 @@
 ||icodelogic.com
 ||icoderobot.com
 ||icom5g.com
-||icon.51.la
 ||icon.cecdc.com
 ||icon.cnmo.com
 ||icon.cnzz.com
@@ -40048,12 +40044,14 @@
 ||imxh.com
 ||imxingzhe.com
 ||imxpan.com
+||imxyd.com
 ||imycdn.com
 ||imydl.com
 ||imydl.tech
 ||imydns.net
 ||imyip.net
 ||imys.net
+||imyshare.com
 ||imysql.com
 ||imyuedu.com
 ||imzhitu.com
@@ -40819,6 +40817,7 @@
 ||isuzhou.me
 ||isvee.com
 ||isvjcloud.com
+||isw-ex.com
 ||iswifting.com
 ||it-api.com
 ||it-bound.com
@@ -41597,7 +41596,6 @@
 ||jcwcn.com
 ||jcwgk.com
 ||jcwxiao.com
-||jcyedan.com
 ||jcyes.com
 ||jcyx2019.com
 ||jczhijia.com
@@ -41668,6 +41666,7 @@
 ||jdhq188.cn
 ||jdhyplay.com
 ||jdiy.club
+||jdjingmai.com
 ||jdjinrong.com
 ||jdjob88.com
 ||jdjrdns.com
@@ -42433,6 +42432,7 @@
 ||jingmeiti.com
 ||jingniukeji.com
 ||jingoal.com
+||jingos.com
 ||jingp.com
 ||jingpai.com
 ||jingpaidang.com
@@ -44205,6 +44205,7 @@
 ||jyoptical.com
 ||jyous.com
 ||jypc.org
+||jypecdn3.com
 ||jyqkx.com
 ||jyqxz2015.com
 ||jyrd.com
@@ -45359,6 +45360,7 @@
 ||koiclub.net
 ||koijp.com
 ||koikreative.com
+||koinocn.com
 ||koippt.com
 ||kok1293.com
 ||kok1367.com
@@ -46078,7 +46080,6 @@
 ||l.rcd.dns.iqiyi.com
 ||l.yidianzixun.com
 ||l.ykimg.com
-||l008.com
 ||l1.tcdnlive.com
 ||l1.xfinfr.com
 ||l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
@@ -49140,7 +49141,6 @@
 ||lwen.org
 ||lwfengji.net
 ||lwfjmj.com
-||lwfree.com
 ||lwgsw.com
 ||lwhouse.com
 ||lwinfo.com
@@ -49547,7 +49547,6 @@
 ||m.yg10x.cn
 ||m.ykimg.com
 ||m.ykimg.com.w.cdngslb.com
-||m.yljmeishi.cn
 ||m.yoholm.com
 ||m.yooli.com
 ||m.youku.com
@@ -49601,7 +49600,6 @@
 ||m2.iiszg.com
 ||m2.people.cn
 ||m2374.oadz.com
-||m2497.com
 ||m2ez.com
 ||m2mzy.com
 ||m3guo.com
@@ -51117,6 +51115,7 @@
 ||mhzd.net
 ||mi-ae.net
 ||mi-dun.com
+||mi-fds.net
 ||mi-idc.com
 ||mi-img.com
 ||mi.beha.ksmobile.com
@@ -51878,7 +51877,6 @@
 ||mo.haloapps.cn
 ||mo.kugou.com
 ||mo.res.wpscdn.cn
-||mo.rjfkrzwk.cn
 ||mo.test.haloapps.com
 ||mo298.com
 ||mo2g.com
@@ -53586,6 +53584,7 @@
 ||neokylinschool.com
 ||neolee.cn
 ||neolee.com
+||neolix.net
 ||neoremind.com
 ||nepconchina.com
 ||nepian.com
@@ -54129,7 +54128,6 @@
 ||niupu.com
 ||niuqia.com
 ||niurenqushi.com
-||niurou6.com
 ||niuschools.com
 ||niushe.com
 ||niutoushe.com
@@ -55067,9 +55065,7 @@
 ||okmyapp.com
 ||okng.com
 ||okoer.com
-||okokyun.com
 ||okokzy.cc
-||okokzyyun.com
 ||okooe.com
 ||okooo.com
 ||okoooimg.com
@@ -55085,17 +55081,13 @@
 ||okweb.info
 ||okwuyou.com
 ||okxr.com
-||okyst.com
 ||okz.com
 ||okz.ltd
 ||okzhaosheng.com
 ||okzuowenxs.com
 ||okzy.co
 ||okzy.me
-||okzy.tv
-||okzyp2p.com
 ||okzyw.com
-||okzyxz.com
 ||okzyzy.cc
 ||okzyzy.com
 ||ol-cdn.com
@@ -57742,6 +57734,7 @@
 ||porlockz.com
 ||porschesky.com
 ||port.sec.miui.com
+||portablesoft.org
 ||portal-portm.meituan.com
 ||portal.xunyou.mobi
 ||portoflower.com
@@ -59167,6 +59160,7 @@
 ||qiaqa.com
 ||qiaqiafood.com
 ||qiawei.com
+||qibang123.com
 ||qibingdaojia.com
 ||qibo168.com
 ||qibookw.com
@@ -60724,6 +60718,7 @@
 ||rantu.com
 ||ranwena.com
 ||ranwenxs.com
+||ranwenzw.com
 ||ranyi.net
 ||ranzhi.net
 ||ranzhi.org
@@ -61580,6 +61575,7 @@
 ||roshanca.com
 ||rosi.okkkk.com
 ||rosinson.com
+||rossoarts.com
 ||rossoarts.net
 ||rossroma.com
 ||roswiki.com
@@ -66241,6 +66237,7 @@
 ||sqkb.com
 ||sql110.com
 ||sqlsec.com
+||sqmingli.com
 ||sqmlw.com
 ||sqph.org
 ||sqrc.net
@@ -69061,6 +69058,7 @@
 ||tengxunqiyeyou.com
 ||tengxunyundaijinquan.com
 ||tengxunyunyhw.com
+||tengy.com
 ||tengyuejz.com
 ||tengzhihh.com
 ||tengzhuan.com
@@ -73280,6 +73278,7 @@
 ||vipersaudio.com
 ||vipfengfei.com
 ||vipfengxiao.com
+||vipfinal.com
 ||vipgslb.com
 ||viphxw.com
 ||vipjr.com
@@ -75053,6 +75052,7 @@
 ||wenku-cms.bj.bcebos.com
 ||wenku.baidu.com
 ||wenku.net
+||wenku321.com
 ||wenku365.com
 ||wenku7.com
 ||wenku8.com
@@ -81642,7 +81642,6 @@
 ||xzlyt.com
 ||xzm56.com
 ||xzn56.com
-||xzokzyzy.com
 ||xzper.com
 ||xzq.greenxf.net
 ||xzqysx.com
@@ -83393,6 +83392,7 @@
 ||yomob.com.cn
 ||yomocode.com
 ||yong.chazidian.com
+||yongchang56.com
 ||yongche.name
 ||yongche.org
 ||yongchengren.com
@@ -84224,7 +84224,6 @@
 ||yueyq.com
 ||yueyu114.com
 ||yueyuanzhiye.com
-||yueyuec.com
 ||yueyuecms.com
 ||yueyuedai.com
 ||yueyues.com
@@ -85219,6 +85218,7 @@
 ||zcfccs.com
 ||zcff.net
 ||zcfirst.com
+||zcfuhua.com
 ||zcfy.cc
 ||zcgfgh.com
 ||zcgsfy.com
@@ -86116,6 +86116,7 @@
 ||zhilianhttp.com
 ||zhilianka.com
 ||zhiliaoke.com
+||zhiliaomj.com
 ||zhilingshidai.com
 ||zhilizazhi.com
 ||zhilong.me
