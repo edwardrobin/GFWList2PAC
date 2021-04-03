@@ -1,7 +1,7 @@
-# Checksum: MTYxNzMyNDQyOQo=
+# Checksum: MTYxNzQxMDI3MAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20210402-0
-# TimeUpdated: 2021-04-02T00:47:09+00:00
+# Version: 1.0.0-20210403-0
+# TimeUpdated: 2021-04-03T00:37:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com,DIRECT
@@ -143,7 +143,6 @@ DOMAIN-SUFFIX,01teacher.com,DIRECT
 DOMAIN-SUFFIX,01tingshu.com,DIRECT
 DOMAIN-SUFFIX,01ue.com,DIRECT
 DOMAIN-SUFFIX,01w.com,DIRECT
-DOMAIN-SUFFIX,01w47q.cn,DIRECT
 DOMAIN-SUFFIX,01water.com,DIRECT
 DOMAIN-SUFFIX,01wb.com,DIRECT
 DOMAIN-SUFFIX,01wed.com,DIRECT
@@ -2569,9 +2568,7 @@ DOMAIN-SUFFIX,2.1010pic.com,DIRECT
 DOMAIN-SUFFIX,2.5646.cn,DIRECT
 DOMAIN-SUFFIX,2.92caijing.com,DIRECT
 DOMAIN-SUFFIX,2.aili.com,DIRECT
-DOMAIN-SUFFIX,2.android.pool.ntp.org,DIRECT
 DOMAIN-SUFFIX,2.arpun.com,DIRECT
-DOMAIN-SUFFIX,2.asia.pool.ntp.org,DIRECT
 DOMAIN-SUFFIX,2.bashenghuo.com,DIRECT
 DOMAIN-SUFFIX,2.haoxue360.com,DIRECT
 DOMAIN-SUFFIX,2.letvlive.com,DIRECT
@@ -8027,7 +8024,6 @@ DOMAIN-SUFFIX,8yzw.com,DIRECT
 DOMAIN-SUFFIX,8z.net,DIRECT
 DOMAIN-SUFFIX,8zntx.com,DIRECT
 DOMAIN-SUFFIX,8zy.com,DIRECT
-DOMAIN-SUFFIX,9-qq.com,DIRECT
 DOMAIN-SUFFIX,9-zhuce.com,DIRECT
 DOMAIN-SUFFIX,9.pic.paopaoche.net,DIRECT
 DOMAIN-SUFFIX,900.la,DIRECT
@@ -11623,7 +11619,6 @@ DOMAIN-SUFFIX,anzhibao.com,DIRECT
 DOMAIN-SUFFIX,anzhitan.com,DIRECT
 DOMAIN-SUFFIX,anzhixiao.com,DIRECT
 DOMAIN-SUFFIX,anzhixun.com,DIRECT
-DOMAIN-SUFFIX,anzhuo2.com,DIRECT
 DOMAIN-SUFFIX,anzhuoapk.com,DIRECT
 DOMAIN-SUFFIX,anzhuoshangdian.com,DIRECT
 DOMAIN-SUFFIX,anzhuotan.com,DIRECT
@@ -26537,7 +26532,6 @@ DOMAIN-SUFFIX,dvsour.china.com,DIRECT
 DOMAIN-SUFFIX,dvvvs.com,DIRECT
 DOMAIN-SUFFIX,dvzlb8hv.v1d.szbdyd.com,DIRECT
 DOMAIN-SUFFIX,dw-collect.ksosoft.com,DIRECT
-DOMAIN-SUFFIX,dw-online.ksosoft.com,DIRECT
 DOMAIN-SUFFIX,dw.iask.com.cn,DIRECT
 DOMAIN-SUFFIX,dw.la,DIRECT
 DOMAIN-SUFFIX,dw.xcar.com.cn,DIRECT
@@ -27369,7 +27363,6 @@ DOMAIN-SUFFIX,edu84.com,DIRECT
 DOMAIN-SUFFIX,edu84.net,DIRECT
 DOMAIN-SUFFIX,edu88.com,DIRECT
 DOMAIN-SUFFIX,eduad.baidu.com,DIRECT
-DOMAIN-SUFFIX,eduancm.com,DIRECT
 DOMAIN-SUFFIX,eduartisan.com,DIRECT
 DOMAIN-SUFFIX,edub2b.net,DIRECT
 DOMAIN-SUFFIX,educg.net,DIRECT
@@ -28483,7 +28476,6 @@ DOMAIN-SUFFIX,extfans.com,DIRECT
 DOMAIN-SUFFIX,exthin.net,DIRECT
 DOMAIN-SUFFIX,extlog.snssdk.com,DIRECT
 DOMAIN-SUFFIX,extmail.org,DIRECT
-DOMAIN-SUFFIX,extralog.olclient.baofeng.com,DIRECT
 DOMAIN-SUFFIX,extremep2p.com,DIRECT
 DOMAIN-SUFFIX,extron-tech.com,DIRECT
 DOMAIN-SUFFIX,extshort.weixin.qq.com,DIRECT
@@ -32694,7 +32686,6 @@ DOMAIN-SUFFIX,growingio.com,DIRECT
 DOMAIN-SUFFIX,growthpic.weishi.qq.com,DIRECT
 DOMAIN-SUFFIX,grpc.biliapi.net,DIRECT
 DOMAIN-SUFFIX,grs.dbankcloud.cn,DIRECT
-DOMAIN-SUFFIX,grs.dbankcloud.com,DIRECT
 DOMAIN-SUFFIX,grs.hicloud.com,DIRECT
 DOMAIN-SUFFIX,grt-china.com,DIRECT
 DOMAIN-SUFFIX,grtn.cn,DIRECT
@@ -35404,7 +35395,6 @@ DOMAIN-SUFFIX,hglaser.com,DIRECT
 DOMAIN-SUFFIX,hgmhu.com,DIRECT
 DOMAIN-SUFFIX,hgnc.net,DIRECT
 DOMAIN-SUFFIX,hgqst.com,DIRECT
-DOMAIN-SUFFIX,hgra.ukmaaub.cn,DIRECT
 DOMAIN-SUFFIX,hgw.gg,DIRECT
 DOMAIN-SUFFIX,hgy413.com,DIRECT
 DOMAIN-SUFFIX,hgyjs.com,DIRECT
@@ -39936,7 +39926,6 @@ DOMAIN-SUFFIX,ioeyjsb.com,DIRECT
 DOMAIN-SUFFIX,ioffershow.com,DIRECT
 DOMAIN-SUFFIX,ioffice100.com,DIRECT
 DOMAIN-SUFFIX,ioguma.com,DIRECT
-DOMAIN-SUFFIX,ioiic.com,DIRECT
 DOMAIN-SUFFIX,ioio.in,DIRECT
 DOMAIN-SUFFIX,ioio.pw,DIRECT
 DOMAIN-SUFFIX,ioiox.com,DIRECT
@@ -43830,7 +43819,6 @@ DOMAIN-SUFFIX,k-xian.com,DIRECT
 DOMAIN-SUFFIX,k.13hangpifa.com,DIRECT
 DOMAIN-SUFFIX,k.85wa.cn,DIRECT
 DOMAIN-SUFFIX,k.97wanle.com,DIRECT
-DOMAIN-SUFFIX,k.ailefen.com,DIRECT
 DOMAIN-SUFFIX,k.gsdhome.cn,DIRECT
 DOMAIN-SUFFIX,k.innvitor.com,DIRECT
 DOMAIN-SUFFIX,k.jinxiuzhilv.com,DIRECT
@@ -46170,7 +46158,6 @@ DOMAIN-SUFFIX,le.com,DIRECT
 DOMAIN-SUFFIX,le0002.com,DIRECT
 DOMAIN-SUFFIX,le0003.com,DIRECT
 DOMAIN-SUFFIX,le1-prod-all-gs-gzlj.bilibiligame.net,DIRECT
-DOMAIN-SUFFIX,le2222.com,DIRECT
 DOMAIN-SUFFIX,le3-api.game.bilibili.com,DIRECT
 DOMAIN-SUFFIX,le5le.com,DIRECT
 DOMAIN-SUFFIX,le890.com,DIRECT
@@ -46765,6 +46752,7 @@ DOMAIN-SUFFIX,liaow0316.com,DIRECT
 DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
 DOMAIN-SUFFIX,liaozhai.tv,DIRECT
 DOMAIN-SUFFIX,liayoo.com,DIRECT
+DOMAIN-SUFFIX,lib.baomitu.com,DIRECT
 DOMAIN-SUFFIX,lib.eqh5.com,DIRECT
 DOMAIN-SUFFIX,lib.xinhuanet.com,DIRECT
 DOMAIN-SUFFIX,lib.xinhuanet.com.w.cdngslb.com,DIRECT
@@ -52657,7 +52645,6 @@ DOMAIN-SUFFIX,na610-na620.acs.m.taobao.com.gds.alibabadns.com,DIRECT
 DOMAIN-SUFFIX,na62.wagbridge.gaode.com.gds.alibabadns.com,DIRECT
 DOMAIN-SUFFIX,naadou.com,DIRECT
 DOMAIN-SUFFIX,nadianshi.com,DIRECT
-DOMAIN-SUFFIX,nads.wuaiso.com,DIRECT
 DOMAIN-SUFFIX,nadvideo.baidu.com,DIRECT
 DOMAIN-SUFFIX,nadvideo2.baidu.com,DIRECT
 DOMAIN-SUFFIX,naew.org,DIRECT
@@ -53725,7 +53712,6 @@ DOMAIN-SUFFIX,nnweding.com,DIRECT
 DOMAIN-SUFFIX,nnylf168.com,DIRECT
 DOMAIN-SUFFIX,nnynrc.com,DIRECT
 DOMAIN-SUFFIX,nnzsxblaw.com,DIRECT
-DOMAIN-SUFFIX,no-1phone.com,DIRECT
 DOMAIN-SUFFIX,noah-dream.com,DIRECT
 DOMAIN-SUFFIX,noahedu.com,DIRECT
 DOMAIN-SUFFIX,noahsnail.com,DIRECT
@@ -54444,6 +54430,7 @@ DOMAIN-SUFFIX,okooe.com,DIRECT
 DOMAIN-SUFFIX,okooo.com,DIRECT
 DOMAIN-SUFFIX,okoooimg.com,DIRECT
 DOMAIN-SUFFIX,okpush.com,DIRECT
+DOMAIN-SUFFIX,okpython.com,DIRECT
 DOMAIN-SUFFIX,okrecovery.com,DIRECT
 DOMAIN-SUFFIX,okskills.com,DIRECT
 DOMAIN-SUFFIX,oksmk.com,DIRECT
@@ -58918,6 +58905,7 @@ DOMAIN-SUFFIX,qiye8848.com,DIRECT
 DOMAIN-SUFFIX,qiyeb.iaskbus.com,DIRECT
 DOMAIN-SUFFIX,qiyegongqiu.com,DIRECT
 DOMAIN-SUFFIX,qiyegongqiu.net,DIRECT
+DOMAIN-SUFFIX,qiyegongqiu1.qiyegongqiu.com,DIRECT
 DOMAIN-SUFFIX,qiyegu.com,DIRECT
 DOMAIN-SUFFIX,qiyeku.com,DIRECT
 DOMAIN-SUFFIX,qiyem.aiwen.cc,DIRECT
@@ -62380,6 +62368,7 @@ DOMAIN-SUFFIX,securepubads.g.doubleclick.net,DIRECT
 DOMAIN-SUFFIX,security-lq.snssdk.com,DIRECT
 DOMAIN-SUFFIX,security-v6.ias.tencent-cloud.net,DIRECT
 DOMAIN-SUFFIX,security.bilibili.com,DIRECT
+DOMAIN-SUFFIX,security.browser.miui.com,DIRECT
 DOMAIN-SUFFIX,security.gome.com.cn,DIRECT
 DOMAIN-SUFFIX,security.iqiyi.com,DIRECT
 DOMAIN-SUFFIX,security.sparta.mig.tencent-cloud.net,DIRECT

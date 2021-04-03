@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNzMyNDQyOQo=
+! Checksum: MTYxNzQxMDI3MAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210402-0
-! TimeUpdated: 2021-04-02T00:47:09+00:00
+! Version: 1.0.0-20210403-0
+! TimeUpdated: 2021-04-03T00:37:50+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -144,7 +144,6 @@
 ||01tingshu.com
 ||01ue.com
 ||01w.com
-||01w47q.cn
 ||01water.com
 ||01wb.com
 ||01wed.com
@@ -2570,9 +2569,7 @@
 ||2.5646.cn
 ||2.92caijing.com
 ||2.aili.com
-||2.android.pool.ntp.org
 ||2.arpun.com
-||2.asia.pool.ntp.org
 ||2.bashenghuo.com
 ||2.haoxue360.com
 ||2.letvlive.com
@@ -8028,7 +8025,6 @@
 ||8z.net
 ||8zntx.com
 ||8zy.com
-||9-qq.com
 ||9-zhuce.com
 ||9.pic.paopaoche.net
 ||900.la
@@ -11624,7 +11620,6 @@
 ||anzhitan.com
 ||anzhixiao.com
 ||anzhixun.com
-||anzhuo2.com
 ||anzhuoapk.com
 ||anzhuoshangdian.com
 ||anzhuotan.com
@@ -26538,7 +26533,6 @@
 ||dvvvs.com
 ||dvzlb8hv.v1d.szbdyd.com
 ||dw-collect.ksosoft.com
-||dw-online.ksosoft.com
 ||dw.iask.com.cn
 ||dw.la
 ||dw.xcar.com.cn
@@ -27370,7 +27364,6 @@
 ||edu84.net
 ||edu88.com
 ||eduad.baidu.com
-||eduancm.com
 ||eduartisan.com
 ||edub2b.net
 ||educg.net
@@ -28484,7 +28477,6 @@
 ||exthin.net
 ||extlog.snssdk.com
 ||extmail.org
-||extralog.olclient.baofeng.com
 ||extremep2p.com
 ||extron-tech.com
 ||extshort.weixin.qq.com
@@ -32695,7 +32687,6 @@
 ||growthpic.weishi.qq.com
 ||grpc.biliapi.net
 ||grs.dbankcloud.cn
-||grs.dbankcloud.com
 ||grs.hicloud.com
 ||grt-china.com
 ||grtn.cn
@@ -35405,7 +35396,6 @@
 ||hgmhu.com
 ||hgnc.net
 ||hgqst.com
-||hgra.ukmaaub.cn
 ||hgw.gg
 ||hgy413.com
 ||hgyjs.com
@@ -39937,7 +39927,6 @@
 ||ioffershow.com
 ||ioffice100.com
 ||ioguma.com
-||ioiic.com
 ||ioio.in
 ||ioio.pw
 ||ioiox.com
@@ -43831,7 +43820,6 @@
 ||k.13hangpifa.com
 ||k.85wa.cn
 ||k.97wanle.com
-||k.ailefen.com
 ||k.gsdhome.cn
 ||k.innvitor.com
 ||k.jinxiuzhilv.com
@@ -46171,7 +46159,6 @@
 ||le0002.com
 ||le0003.com
 ||le1-prod-all-gs-gzlj.bilibiligame.net
-||le2222.com
 ||le3-api.game.bilibili.com
 ||le5le.com
 ||le890.com
@@ -46766,6 +46753,7 @@
 ||liaoxuefeng.com
 ||liaozhai.tv
 ||liayoo.com
+||lib.baomitu.com
 ||lib.eqh5.com
 ||lib.xinhuanet.com
 ||lib.xinhuanet.com.w.cdngslb.com
@@ -52658,7 +52646,6 @@
 ||na62.wagbridge.gaode.com.gds.alibabadns.com
 ||naadou.com
 ||nadianshi.com
-||nads.wuaiso.com
 ||nadvideo.baidu.com
 ||nadvideo2.baidu.com
 ||naew.org
@@ -53726,7 +53713,6 @@
 ||nnylf168.com
 ||nnynrc.com
 ||nnzsxblaw.com
-||no-1phone.com
 ||noah-dream.com
 ||noahedu.com
 ||noahsnail.com
@@ -54445,6 +54431,7 @@
 ||okooo.com
 ||okoooimg.com
 ||okpush.com
+||okpython.com
 ||okrecovery.com
 ||okskills.com
 ||oksmk.com
@@ -58919,6 +58906,7 @@
 ||qiyeb.iaskbus.com
 ||qiyegongqiu.com
 ||qiyegongqiu.net
+||qiyegongqiu1.qiyegongqiu.com
 ||qiyegu.com
 ||qiyeku.com
 ||qiyem.aiwen.cc
@@ -62381,6 +62369,7 @@
 ||security-lq.snssdk.com
 ||security-v6.ias.tencent-cloud.net
 ||security.bilibili.com
+||security.browser.miui.com
 ||security.gome.com.cn
 ||security.iqiyi.com
 ||security.sparta.mig.tencent-cloud.net
