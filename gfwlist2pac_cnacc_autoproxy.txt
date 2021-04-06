@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNzU4MzIzNAo=
+! Checksum: MTYxNzY2OTU3OAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210405-0
-! TimeUpdated: 2021-04-05T00:40:34+00:00
+! Version: 1.0.0-20210406-0
+! TimeUpdated: 2021-04-06T00:39:38+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -890,7 +890,6 @@
 ||1.bashenghuo.com
 ||1.cjcp.cn
 ||1.cms.s81c.com
-||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -3268,6 +3267,7 @@
 ||2zzzzzz.com
 ||3-ddesignsolutions.com
 ||3.5646.cn
+||3.chuanyi5.com
 ||3.cn
 ||3.iscrv.com
 ||3.ssqzj.com
@@ -8085,14 +8085,12 @@
 ||9133.com
 ||9136.com
 ||91378.com
-||913u.com
 ||913vr.com
 ||913you.com
 ||91472.com
 ||915.com
 ||915.im
 ||915033.p23.tc.cdntip.com
-||91530.com
 ||9154wan.com
 ||915658.com
 ||915799.com
@@ -10910,7 +10908,6 @@
 ||alibole.com
 ||alibuybuy.com
 ||alicall.com
-||alicc.txsadql.cn
 ||alicdm.com
 ||alicdn.com
 ||alicdngslb.com
@@ -13343,7 +13340,6 @@
 ||baidu.jz5u.net
 ||baidu.mobi
 ||baidu.net
-||baidu.sb
 ||baidu.to
 ||baidu1.codejie.net
 ||baidu1.com
@@ -15225,6 +15221,7 @@
 ||bjhj10000.com
 ||bjhmxx.net
 ||bjhouse.com
+||bjhqs.com
 ||bjhrkc.com
 ||bjhscx.com
 ||bjhtx.com
@@ -16440,7 +16437,6 @@
 ||byimc.com
 ||byjdxy.com
 ||byjgxy.com
-||byjr899.top
 ||byjsjxy.com
 ||byjzwh.com
 ||byjzxy.com
@@ -16576,7 +16572,6 @@
 ||c.booksir.com.cn
 ||c.btyou.com
 ||c.bxb.oupeng.com
-||c.bxjpl.cn
 ||c.caijing123.com
 ||c.cdn03.duolebo.com
 ||c.cdn04.duolebo.com
@@ -17194,7 +17189,6 @@
 ||cb.e.shifen.com
 ||cb.ksmobile.com
 ||cb.lomark.cn
-||cbaqp.com
 ||cbca.net
 ||cbdio.com
 ||cbdj1816.com
@@ -23148,7 +23142,6 @@
 ||d.jd.com
 ||d.jd.com.gslb.qianxun.com
 ||d.jjyx.com
-||d.jutaowanggou.cn
 ||d.kugou.com
 ||d.mingyihui.net
 ||d.mob.com
@@ -29247,6 +29240,7 @@
 ||feifantxt.net
 ||feifanwangg.com
 ||feifei.com
+||feifei6.com
 ||feifeiboke.com
 ||feifeicms.co
 ||feifeixitong.com
@@ -31703,7 +31697,6 @@
 ||gg.dsxdn.com
 ||gg.gao7.com
 ||gg.huangye88.com
-||gg.kkcaicai.com
 ||gg.meitu.com
 ||gg.miued.com
 ||gg.qucaigg.com
@@ -33356,6 +33349,7 @@
 ||gy7n.com
 ||gy818.com
 ||gyb086.com
+||gyca9f.dahuangcheng.cn
 ||gycode.com
 ||gydongli.com
 ||gyersf.com
@@ -35698,7 +35692,6 @@
 ||hk-myungga.net
 ||hk.bdstatic.com
 ||hk.jtsh123.com
-||hk.pool.ntp.org
 ||hk5.cc
 ||hk515.net
 ||hk6w.com
@@ -36179,7 +36172,6 @@
 ||hongtu.me
 ||hongtuwang.com
 ||hongweipeng.com
-||hongxiang666.com
 ||hongxiaolong.com
 ||hongxin18.com
 ||hongxinbao.com
@@ -37693,7 +37685,6 @@
 ||hz.hzhongjianfund.com
 ||hz.miercn.com
 ||hz.mmstat.com
-||hz.shouyoutv.com
 ||hz.turn.chillyroom.com
 ||hz100msh.com
 ||hz155.com
@@ -40504,6 +40495,7 @@
 ||itlu.org
 ||itluantan.com
 ||itmanbu.com
+||itmeseji.com
 ||itmian4.com
 ||itmind.net
 ||itminus.com
@@ -45559,7 +45551,6 @@
 ||l3-prod-all-gs-gzlj.bilibiligame.net
 ||l3-prod-patch-gzlj.bilibiligame.net
 ||l36h.com
-||l4110.com
 ||l4dk40faecw9jp.mwcname.com
 ||l5-hdslb.gslb.ksyuncdn.com
 ||l5550.com
@@ -48228,7 +48219,6 @@
 ||lskyf.com
 ||lsljgc.com
 ||lsnetlib.com
-||lsoo.org
 ||lsoos.com
 ||lspjy.com
 ||lsq6.com
@@ -52508,7 +52498,6 @@
 ||mywood.cc
 ||myxhm.net
 ||myxns.org
-||myxzy.com
 ||myyishu.com
 ||myyoudao.com
 ||myyqxiu.com
