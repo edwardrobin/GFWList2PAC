@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxNzc1NTk0NAo=
+! Checksum: MTYxNzg0MjUzNQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210407-0
-! TimeUpdated: 2021-04-07T00:39:04+00:00
+! Version: 1.0.0-20210408-0
+! TimeUpdated: 2021-04-08T00:42:15+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -236,6 +236,7 @@
 ||1.huilv.cc
 ||1.hysou.com
 ||1.kk.sqfuwu.cn
+||1.letvlive.com
 ||1.modzj.net
 ||1.nanrenwo.net
 ||1.soufy.cn
@@ -860,7 +861,6 @@
 ||2-vpn1.com
 ||2.4.je
 ||2.android.pool.ntp.org
-||2.asia.pool.ntp.org
 ||2.biqle.ru
 ||2.centos.pool.ntp.org
 ||2.cr.rs
@@ -2155,6 +2155,7 @@
 ||6669788.com
 ||666bg.com
 ||666k8.com
+||666kao.com
 ||666kb.com
 ||66721.com
 ||66773885.com
@@ -2179,7 +2180,6 @@
 ||668ww668.com
 ||66955.com
 ||66993885.com
-||669d.app
 ||669d.tv
 ||66dofan.com
 ||66go.vip
@@ -2268,7 +2268,6 @@
 ||71938811.com
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 ||71i.de
-||71sem.com
 ||71wx.net
 ||72.cr.rs
 ||72.edns.biz
@@ -2355,7 +2354,6 @@
 ||777905c.com
 ||777905d.com
 ||777905l.com
-||777905n.com
 ||777905x.com
 ||777905z.com
 ||777amgj.com
@@ -2448,6 +2446,7 @@
 ||806699a.com
 ||80700.com
 ||8080189.com
+||8080s.net
 ||808pb.com
 ||80smp4.net
 ||81.25u.com
@@ -2582,7 +2581,6 @@
 ||888.abc1234.com
 ||888.com
 ||888.etowns.org
-||888.gl000.com
 ||888.hnyzjc.com
 ||888.jbi8888.com
 ||888.lzgye.com
@@ -2852,6 +2850,7 @@
 ||98app1.com
 ||98ben.com
 ||98c93808a49d47f36c906690045960f6.clo.footprintdns.com
+||98jy.net
 ||98lft.com
 ||98tee.com
 ||98tou.com
@@ -3181,7 +3180,6 @@
 ||a0415704157.byethost7.com
 ||a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 ||a05.uadexchange.com
-||a0o5x.work
 ||a0pple.net
 ||a0trade.top
 ||a1.api.bbc.co.uk
@@ -5543,7 +5541,6 @@
 ||adsrv.moebelmarkt.tv
 ||adsrv.swidnica24.pl
 ||adsrv.tuscaloosanews.com
-||adsrv.wilmingtonstar.com
 ||adsrv2.swidnica24.pl
 ||adsrv2.wilmingtonstar.com
 ||adsrvr.org
@@ -5746,7 +5743,6 @@
 ||adx.gayboy.at
 ||adx.golfnews.vn
 ||adx.groupstate.com
-||adx.hendersonvillenews.com
 ||adx.hongtinnhanh.com
 ||adx.hzbxm.com
 ||adx.kul.vn
@@ -5949,7 +5945,6 @@
 ||ag.hg1088.com
 ||ag.jf3303.com
 ||ag.xw283.com
-||ag260.net
 ||ag8.com
 ||ag88.com
 ||ag8809.com
@@ -6581,6 +6576,7 @@
 ||amateurgalls.com
 ||amateursexy.net
 ||amazingfacts.org
+||amazon-awcs.com
 ||amazon-fashions.com
 ||amazon-jp-recruiting.com
 ||amazon-lantern.com
@@ -7564,7 +7560,6 @@
 ||api.gimbal.com
 ||api.github.com
 ||api.grumft.com
-||api.hfyhjg.cn
 ||api.huangye.miui.com
 ||api.identitynow.com
 ||api.imqtyik.com
@@ -8130,6 +8125,7 @@
 ||appsha1.cointraffic.io
 ||appshelf.ttpsdk.info
 ||appshopper.com
+||appsodo.com
 ||appsonebay.net
 ||appspot-preview.com
 ||appspot.com
@@ -12808,7 +12804,6 @@
 ||buyu8833.com
 ||buyu8855.com
 ||buyu8899.com
-||buyu901.com
 ||buyu919.com
 ||buyu983.com
 ||buyu984.com
@@ -13049,7 +13044,6 @@
 ||c.sibnet.ru
 ||c.silvinst.com
 ||c.snow.com
-||c.sssgao999.com
 ||c.staffns.emailvision.net.daraz.com
 ||c.statcounter.com
 ||c.statstat888.com
@@ -13283,6 +13277,7 @@
 ||cai8wan.com
 ||cai950.com
 ||caijinglengyan.com
+||caijinglun.com
 ||caikuu.com
 ||cainz.com
 ||cairn.info
@@ -14201,7 +14196,6 @@
 ||cdpeu.org
 ||cdpweb.org
 ||cdpwu.org
-||cdqmyj.com
 ||cdrbenefits.com
 ||cds.j3z9t3p6.hwcdn.net
 ||cds.s5x3j6q5.hwcdn.net
@@ -14445,6 +14439,7 @@
 ||changken.idv.tw
 ||changp.com
 ||changpao888.com
+||changshacsa.com
 ||channel24.co.za
 ||channel4.com
 ||channel8news.sg
@@ -15900,7 +15895,6 @@
 ||comet.it
 ||comet.yahoo.com
 ||cometotheduckside.com
-||comflag.com
 ||comfortclick.co.uk
 ||comhealth.xyz
 ||comic-mega.me
@@ -17867,7 +17861,6 @@
 ||dafagood.com
 ||dafahao.com
 ||dafapoker.com
-||dafayun9.com
 ||dafoh.org
 ||daftporn.com
 ||dagbladet.no
@@ -18682,7 +18675,6 @@
 ||dev.visualwebsiteoptimizer.com
 ||deva.guru
 ||devcon.org
-||devdiv.com
 ||developer.apple.com
 ||developer.jsecoin.com
 ||developer.mozilla.org
@@ -18844,6 +18836,7 @@
 ||diandianxs.com
 ||dianjoy.com
 ||dianomioffers.co.uk
+||diantansuo.com
 ||dianwenwang.com
 ||dianyingonline.com
 ||dianzhu.net
@@ -20250,7 +20243,6 @@
 ||dw-online.ksosoft.com
 ||dw-world.com
 ||dw-world.de
-||dw.cbsimg.net
 ||dw.com
 ||dw.de
 ||dw9uc6c6b8nwx.cloudfront.net
@@ -20273,6 +20265,7 @@
 ||dx7722.com
 ||dxc.technology
 ||dxe2.heip.fr
+||dxgo95ahe73e8.cloudfront.net
 ||dxiong.com
 ||dxjpqe.usereserva.com
 ||dxkkb5tytkivf.cloudfront.net
@@ -22097,6 +22090,7 @@
 ||est-a-la-masion.com
 ||estadisticas.lanacion.com.ar
 ||estadonline.publiguias.cl
+||estatcounter.co.uk
 ||estaticos.soitu.es
 ||estebull.com
 ||estiloydecoracion.es
@@ -22343,6 +22337,7 @@
 ||events.practo.com
 ||events.privy.com
 ||events.realgravity.com
+||events.reclamefolder.nl
 ||events.reddit.com
 ||events.redditmedia.com
 ||events.shareably.net
@@ -25244,6 +25239,9 @@
 ||galegroup.com
 ||galenwu.com
 ||galerieslafayette.com
+||galgame.net
+||galgamez.cc
+||galgamez.com
 ||galgamezd.com
 ||galleries.pimproll.com
 ||galletasparati.cl
@@ -27582,7 +27580,6 @@
 ||hd.stheadline.com
 ||hd1280.lvkuaizi.com
 ||hd21.com
-||hd22088.com
 ||hd88998.com
 ||hdapp1008-a.akamaihd.net
 ||hdat.xyz
@@ -29033,7 +29030,6 @@
 ||hxcpp22.com
 ||hxcpp8.com
 ||hxguqogewaicf42s.in.net
-||hxh999.com
 ||hxwk.org
 ||hxwq.org
 ||hy1.com
@@ -29073,6 +29069,7 @@
 ||hypothes.is
 ||hypovereinsbank.de
 ||hyprmx.com
+||hyq666.com
 ||hysou.com
 ||hyssp.haiyunx.com
 ||hystq.com
@@ -29674,6 +29671,7 @@
 ||im099.com
 ||im17.com
 ||im2.smartadserver.com
+||im5.org
 ||im88.tw
 ||ima3vpaid.appspot.com
 ||imac-apple.com
@@ -31314,7 +31312,6 @@
 ||itprotoday.com
 ||itpuk-mms.itpro.co.uk
 ||itracking.fccinteractive.com
-||itrade.dgg.com.hk
 ||itraffic.su
 ||itrio.ch
 ||itripto.com
@@ -31376,7 +31373,6 @@
 ||itxtech.org
 ||iu13.net
 ||iu45.com
-||iu45.me
 ||iubenda.com
 ||iuh.com
 ||iuhrdf.org
@@ -31895,6 +31891,7 @@
 ||jianchesl.com
 ||jianchiapp.com
 ||jianduankm.com
+||jianguopuzi.com
 ||jiangweiping.com
 ||jiangxiz.com
 ||jianingy.com
@@ -32181,7 +32178,6 @@
 ||jre-travel.com
 ||jria.jpn.com
 ||jrklein.com
-||jrncl.com
 ||jrpt.jrptweb.org
 ||jrsef.com
 ||js-agent.newrelic.com
@@ -32600,7 +32596,6 @@
 ||kangye.org
 ||kankan.today
 ||kankanwu.com
-||kankia.com
 ||kanlxy.com
 ||kannewyork.com
 ||kannilu.com
@@ -33283,7 +33278,6 @@
 ||kumparan.com
 ||kun.im
 ||kunay.nullrefexcep.com
-||kuncibandung.com
 ||kunstler.tor-exit.calyxinstitute.org
 ||kuntfutube.com
 ||kuobee.com
@@ -34930,7 +34924,6 @@
 ||lu851.com
 ||lua.org
 ||lua.pl
-||luandouxiyoulibao.com
 ||lubbockonline.com
 ||lubeabc.com
 ||lubetech.com
@@ -35244,7 +35237,6 @@
 ||m.hy10010.com.cn
 ||m.icyrd.com
 ||m.ihais.com
-||m.infvb.com
 ||m.irs01.com
 ||m.iruad.com
 ||m.jbb006666.com
@@ -36661,7 +36653,6 @@
 ||mbulanna.com
 ||mbvn.dyh-uat.1680170.com
 ||mbx2119.com
-||mbxjs920.com
 ||mc-doualiya.com
 ||mc.7kzw.com
 ||mc.a48505.cn
@@ -39230,6 +39221,7 @@
 ||msg-jpwe-01-chatsvcagg.japanwest.cloudapp.azure.com
 ||msg.com
 ||msg.ettoday.net
+||msg.mobile.kugou.com
 ||msga.71.am
 ||msgamesresearch.com
 ||msgapi-prod-ea-azsc1-1.cloudapp.net
@@ -39485,7 +39477,6 @@
 ||mx1.freemail.ne.jp
 ||mx1.outingtravel.com
 ||mx123.us
-||mx2619.com
 ||mx2636.com
 ||mx981.com
 ||mxapparc.com
@@ -40033,7 +40024,6 @@
 ||nationwidechildrens.org
 ||nativ.podruzke.ru
 ||native.cli.bz
-||native.ext.media
 ||native.sharethrough.com
 ||native.wpu.sh
 ||native123.com
@@ -41256,7 +41246,6 @@
 ||nowbmzk.com
 ||nowe.com
 ||nowe.hk
-||nowepekao24.com
 ||nowlinux.com
 ||nownews.com
 ||nowpublic.com
@@ -43784,6 +43773,7 @@
 ||penguin.cz
 ||penguincoders.net
 ||penguinvids.com
+||pengyouyinxiang.com
 ||pengyulong.com
 ||penisbot.com
 ||pennet.com
@@ -46983,6 +46973,7 @@
 ||reckittbenckiser.tv
 ||reckittprofessional.com
 ||reclame.lequipement.fr
+||reclamefolder.nl
 ||recnet.com
 ||recnet.net
 ||recode.net
@@ -48387,7 +48378,6 @@
 ||sadbmetrics.diariosur.es
 ||sadbmetrics.diariovasco.com
 ||sadbmetrics.elbalcondemateo.es
-||sadbmetrics.elbolardo.com
 ||sadbmetrics.elcomercio.es
 ||sadbmetrics.elcorreo.com
 ||sadbmetrics.eldiariomontanes.es
@@ -54505,6 +54495,7 @@
 ||steamunlocked.net
 ||steamusercontent-a.akamaihd.net
 ||steamuserimages-a.akamaihd.net
+||steamvideo-a.akamaihd.net
 ||steco.net
 ||steel-storm.com
 ||steelbrick.com
@@ -69638,6 +69629,7 @@
 ||y68kk.com
 ||y734.com
 ||y8022.com
+||y80s.net
 ||y89.com
 ||y9f5i6q5.stackpathcdn.com
 ||ya.com
@@ -70858,6 +70850,7 @@
 ||zg88.1apps.com
 ||zg99.1apps.com
 ||zg99.biz.tm
+||zgclmc.com
 ||zgclmw.cn
 ||zgdhhjha.com
 ||zgfszs.com
@@ -71184,6 +71177,7 @@
 ||zuckerberg.com
 ||zuckerberg.net
 ||zug.sbb.ch
+||zuidaziyuan.com
 ||zuidema.nl
 ||zuihuixuan.com
 ||zuirt.cc
