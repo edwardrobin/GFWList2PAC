@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxODM2MDYwNAo=
+! Checksum: MTYxODQ0NzEzNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210414-0
-! TimeUpdated: 2021-04-14T00:36:44+00:00
+! Version: 1.0.0-20210415-0
+! TimeUpdated: 2021-04-15T00:38:55+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -12,6 +12,7 @@
 ||0.up.qingdaonews.com
 ||00042.com
 ||0006266.com
+||0006999.com
 ||0007.net
 ||0008887.com
 ||000dn.com
@@ -883,7 +884,6 @@
 ||1.bashenghuo.com
 ||1.cjcp.cn
 ||1.cms.s81c.com
-||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -2275,6 +2275,7 @@
 ||18lipin.com
 ||18o8.com
 ||18ph.com
+||18pps.com
 ||18qiang.com
 ||18shuwu.com
 ||18touch.com
@@ -8725,7 +8726,6 @@
 ||998dns.com
 ||998jk.com
 ||998jx.com
-||999.cai87.com
 ||9991.com
 ||999120.net
 ||999178.com
@@ -9253,7 +9253,6 @@
 ||abbyschoice.net
 ||abbyychina.com
 ||abc-ca.com
-||abc.dooccn.com
 ||abc.douguo.com
 ||abc.if.qidian.com
 ||abc.jia.com
@@ -12194,7 +12193,6 @@
 ||appdaka.com
 ||appdao.com
 ||appdj.xesimg.com
-||appdl-1-drcn.dbankcdn.com
 ||appdl-2-drcn.dbankcdn.com
 ||appdl-3-drcn.dbankcdn.com
 ||appdl-4-drcn.dbankcdn.com
@@ -14593,7 +14591,6 @@
 ||bi-track.hypergryph.com
 ||bi.manhuaren.com
 ||bi.ptqy.gitv.tv
-||bi.yeshen.com
 ||bi11.com
 ||biacgn.com
 ||bian-min.com
@@ -15246,7 +15243,7 @@
 ||bjkix-pay.kuaishoupay.com
 ||bjkqj.com
 ||bjkrtwl.com
-||bjl4777.com
+||bjl4999.com
 ||bjl6777.com
 ||bjl777.com
 ||bjl8789.com
@@ -21337,7 +21334,6 @@
 ||cnwen.net
 ||cnwenshi.net
 ||cnwest.com
-||cnwest88.com
 ||cnwhc.com
 ||cnwhotel.com
 ||cnwindows.com
@@ -28011,7 +28007,6 @@
 ||erdong.site
 ||erdosrcb.com
 ||ere3j2e001.com
-||erebor.douban.com
 ||erentalcarpro.com
 ||ereuiib.com
 ||erfdhiu.com
@@ -30659,6 +30654,7 @@
 ||fyuanpack.com
 ||fyvart.com
 ||fywx.cc
+||fyxz.com
 ||fyzku.com
 ||fz.letv.com
 ||fz0512.com
@@ -31553,6 +31549,7 @@
 ||geshui100.com
 ||geshuishuilvbiao2017.com
 ||gesuo.com
+||get.sogou.com
 ||get.vip
 ||get233.com
 ||getbingo.net
@@ -34798,7 +34795,6 @@
 ||hdc-api.eqxiu.com
 ||hdc1new.taobao.com
 ||hdchd.cc
-||hdchd.com
 ||hddhhn.com
 ||hddznet.com
 ||hdfimg.com
@@ -36137,7 +36133,6 @@
 ||hongt.com
 ||hongtastock.com
 ||hongtongad.com
-||hongtu.me
 ||hongtuwang.com
 ||hongweipeng.com
 ||hongxiaolong.com
@@ -36621,7 +36616,6 @@
 ||httpdns.browser.miui.com
 ||httpdns.danuoyi.tbcache.com
 ||httpdns.meituan.com
-||httpdns.push.heytapmobi.com
 ||httprunner.org
 ||httpsbaidu.com
 ||httpsdns.baidu.com
@@ -36874,7 +36868,6 @@
 ||huatuo007.com
 ||huatuocode.huatuo.qq.com
 ||huatuocode.weiyun.com
-||huatuospeed.weiyun.com
 ||huatuowenda.com
 ||huatuoyf.com
 ||huaue.com
@@ -37860,7 +37853,6 @@
 ||i.w.inmobi.com
 ||i.waimai.meituan.com
 ||i.wuhaolin.cn
-||i.xdywlw.cn
 ||i.xunlei.com
 ||i.y.qq.com
 ||i.youdao.com
@@ -42854,7 +42846,6 @@
 ||js.cnmo.com
 ||js.ctags.cn
 ||js.data.cctv.com
-||js.daxueshengqiandai.com
 ||js.duotegame.com
 ||js.ea3w.com
 ||js.feitian001.com
@@ -43299,7 +43290,6 @@
 ||jump.luna.58.com
 ||jump1.pszyzxh.org
 ||jump2.bdimg.com
-||jumpcnnet.com
 ||jumpjumpcat.com
 ||jumple.com
 ||jumpluna.58.com
@@ -47744,6 +47734,7 @@
 ||login2.dftoutiao.com
 ||loginlog.sdo.com
 ||logisticsy.com
+||logman.dmall.com
 ||logo-emblem.com
 ||logo123.net
 ||logo234.com
@@ -48911,7 +48902,6 @@
 ||m.y195j.cn
 ||m.yalayi.com
 ||m.yanjunbo.com
-||m.yapusheji.com
 ||m.yes.youku.com
 ||m.yg10x.cn
 ||m.yizhijin.cn
@@ -60238,7 +60228,6 @@
 ||remark.dance
 ||remax-bj.com
 ||remehealth.com
-||remembermor.club
 ||rememtek.com
 ||remen88.com
 ||remind.api.weibo.com
@@ -61432,7 +61421,6 @@
 ||saee.org.cn
 ||saf588.com
 ||safe-store-md.com
-||safe.ucweb.com
 ||safe524.xyz
 ||safebrowsing-cache.google.com
 ||safebrowsing.googleapis.com
@@ -65425,6 +65413,7 @@
 ||sr.m.hub.sandai.net
 ||src.leju.com
 ||src.sr
+||src.zf313.com
 ||srcb.com
 ||srcbcz.com
 ||srcmini.com
@@ -65587,6 +65576,7 @@
 ||ssp.tencentmusic.com
 ||ssp.xiaomi.com
 ||ssp.youxiaoad.com
+||ssp.zf313.com
 ||ssp86.com
 ||sspaas.com
 ||sspai.com
@@ -67846,6 +67836,7 @@
 ||tb.code.twyxi.com
 ||tb.himg.baidu.com
 ||tb1.bdstatic.com
+||tb104x.corp.youdao.com
 ||tb2.bdstatic.com
 ||tb3.bdstatic.com
 ||tb51.net
