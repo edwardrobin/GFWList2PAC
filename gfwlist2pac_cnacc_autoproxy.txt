@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxODYxOTg1OAo=
+! Checksum: MTYxODcwNjM1Nwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210417-0
-! TimeUpdated: 2021-04-17T00:37:38+00:00
+! Version: 1.0.0-20210418-0
+! TimeUpdated: 2021-04-18T00:39:17+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -880,6 +880,7 @@
 ||1.bashenghuo.com
 ||1.cjcp.cn
 ||1.cms.s81c.com
+||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -2147,7 +2148,6 @@
 ||17wan.la
 ||17wan7.com
 ||17wanba.com
-||17wanjia.com
 ||17wanxiao.com
 ||17wclass.com
 ||17weike.com
@@ -2554,7 +2554,6 @@
 ||2.asia.pool.ntp.org
 ||2.bashenghuo.com
 ||2.haoxue360.com
-||2.letvlive.com
 ||2.nanrenwo.net
 ||2.tuxi.com.cn
 ||2.up.qingdaonews.com
@@ -6965,7 +6964,6 @@
 ||72zx.com
 ||730.nuomi.n.shifen.com
 ||730011.com
-||730646.com
 ||731c.com
 ||731yz.com
 ||73232yx.com
@@ -7505,7 +7503,6 @@
 ||80txt.la
 ||80vps.com
 ||80xb.com
-||80yc.com
 ||80ym.com
 ||80yunying.com
 ||80zhan.com
@@ -7742,7 +7739,6 @@
 ||87ma.com
 ||87money.com
 ||87pk.com
-||87xue.com
 ||87yy.com
 ||88-z.com
 ||88.yunqishi.net
@@ -9498,7 +9494,6 @@
 ||activity.tuifish.com
 ||activity.tuigorilla.com
 ||activity.tuipear.com
-||activity.yuyiya.com
 ||actlog.dftoutiao.com
 ||actom.me
 ||actoys.com
@@ -12053,7 +12048,6 @@
 ||apmconfig.douyucdn.cn
 ||apmconfig.douyucdn.cn.wsglb0.com
 ||apme-magnetics.com
-||apmnqut.cn
 ||apmvista.com
 ||apnring.com
 ||apns.ios.ijinshan.com
@@ -12716,6 +12710,7 @@
 ||atmbox.com
 ||atobo.com
 ||atoken.com
+||atom-log.3.cn
 ||atomhike.com
 ||atomic-art.com
 ||atominn.com
@@ -14014,7 +14009,6 @@
 ||bd1.99danji.com
 ||bd1.click.com.cn
 ||bd1.dopa.com
-||bd1.flfgw.cn
 ||bd1.guancha.cn
 ||bd1.idgdmgroup.com.cn
 ||bd1.jobui.com
@@ -14782,7 +14776,6 @@
 ||billionconnect.com
 ||billionseo.com
 ||billowlink.com
-||billts.site
 ||billwang.net
 ||biluzww.com
 ||bim-times.com
@@ -16055,7 +16048,6 @@
 ||btb8.com
 ||btba.cc
 ||btbat.com
-||btblt.com
 ||btbt.tv
 ||btbt4k.com
 ||btby-pump.com
@@ -16555,6 +16547,7 @@
 ||c.ns8d.com
 ||c.pc.qq.com
 ||c.pcs.baidu.com
+||c.qhruisen.cn
 ||c.saastt.com
 ||c.sayhi.360.cn
 ||c.shantelope.com
@@ -16574,6 +16567,7 @@
 ||c.xadingli.cn
 ||c.xiaobaipan.com
 ||c.xjsytoy.com
+||c.xlhwzx.cn
 ||c.y.qq.com
 ||c.yanyanbiji.com
 ||c.yes.youku.com
@@ -18341,6 +18335,7 @@
 ||channel-analysis.gmw.cn
 ||channel.fanxing.kugou.com
 ||channel.hitouch.hicloud.com
+||channel.m.163.com
 ||channel.vaptcha.net
 ||channel.vaptcha.net.w.cdngslb.com
 ||channeleffect.com
@@ -35270,7 +35265,6 @@
 ||hg6668.cc
 ||hg67822.com
 ||hg707.com
-||hg70777.com
 ||hg7799.net
 ||hg8880.org
 ||hga833.cc
@@ -42978,7 +42972,6 @@
 ||jsm.39yst.com
 ||jsm.9939.com
 ||jsmaochang.com
-||jsmen.com
 ||jsmian.com
 ||jsmjys.com
 ||jsmo.xin
@@ -43218,7 +43211,6 @@
 ||julianhd.net
 ||julihun.com
 ||julive.com
-||jullycn.com
 ||julucn.com
 ||julur.com
 ||julyapp.com
@@ -43246,6 +43238,7 @@
 ||jump.luna.58.com
 ||jump1.pszyzxh.org
 ||jump2.bdimg.com
+||jumpcnnet.com
 ||jumpjumpcat.com
 ||jumple.com
 ||jumpluna.58.com
@@ -48719,7 +48712,6 @@
 ||m.eqxiu.com
 ||m.fcb.com.cn
 ||m.fcb.com.cn.w.alikunlun.com
-||m.frjxdv.cn
 ||m.g.pptv.com
 ||m.game.weibo.cn
 ||m.gaosan.com
@@ -50133,7 +50125,6 @@
 ||memagames.com
 ||member.bilibili.com
 ||member.jr.jd.com
-||memedia.cn
 ||memewan.com
 ||memeyule.com
 ||memorieslab.com
@@ -50654,7 +50645,6 @@
 ||mime.n.shifen.com
 ||mimg.126.net
 ||mimg.127.net
-||mimg.hjmoiye.cn
 ||mimgame.com
 ||mimi456.com
 ||mimi518.com
@@ -52462,7 +52452,6 @@
 ||n4403ad.doubleclick.net
 ||n459.com
 ||n5km17un.sched.s2-dk.tdnsv5.com
-||n5zofzj9feqacv34ldubugdmu2piwi16.yundunwaf3.com
 ||n6zw.com
 ||n77777777.com
 ||n802.com
@@ -55731,7 +55720,6 @@
 ||pc9.com
 ||pcapi.douyucdn.cn
 ||pcaposter.com
-||pcauto.irs01.com
 ||pcb-hl.com
 ||pcb-si.com
 ||pcb3.com
@@ -58132,6 +58120,7 @@
 ||qhpta.com
 ||qhrcsc.com
 ||qhres.com
+||qhruisen.cn
 ||qhscw.net
 ||qhserver.com
 ||qhsetup.com
@@ -58821,7 +58810,6 @@
 ||qkhtml.com
 ||qkkjd.com
 ||qkl123.com
-||qklyz.com
 ||qknown.com
 ||qksw.com
 ||qktoutiao.com
@@ -60189,6 +60177,7 @@
 ||renderoffice.alipaydns.com
 ||rendiyu.com
 ||rendna.com
+||renesas.cn
 ||renfas.com
 ||renhence.com
 ||renhengshiye.com
@@ -60255,7 +60244,6 @@
 ||report.adview.cn
 ||report.gamecenter.qq.com
 ||report.gome.com.cn
-||report.huatuo.qq.com
 ||report.idqqimg.com
 ||report.meituan.com
 ||report.pcgec.qq.com
@@ -61407,7 +61395,6 @@
 ||saintic.com
 ||saipujianshen.com
 ||saipujiaoyu.com
-||saiqizhi.com
 ||sairaicc.com
 ||sairui020.com
 ||saite-xdc.com
@@ -63859,7 +63846,6 @@
 ||shxhgzf.com
 ||shxiaoran.com
 ||shxibeiquanshe.com
-||shxsy.org
 ||shxt.com
 ||shxwcb.com
 ||shy99.com
@@ -67202,6 +67188,7 @@
 ||t.lint2.com
 ||t.lksb.wang
 ||t.mookie1.cn
+||t.neolee.cn
 ||t.oq68.com
 ||t.pzclw.cn
 ||t.qiuqiuqipai.com
@@ -70707,7 +70694,6 @@
 ||uc.ali213.net
 ||uc.cn
 ||uc.qq.uuaoz.com
-||uc.whkwpzz.cn
 ||uc.zhuici.com
 ||uc003.com
 ||uc108.com
@@ -71709,6 +71695,7 @@
 ||v.nkzker.cn
 ||v.oq68.com
 ||v.pdfmxsh.cn
+||v.qhruisen.cn
 ||v.ql01t4.com
 ||v.qq.com
 ||v.saastt.com
@@ -71728,6 +71715,7 @@
 ||v.weishi.qq.com.lxdns.com
 ||v.weishi.qq.com.vdncache.com
 ||v.xjsytoy.com
+||v.xlhwzx.cn
 ||v.yanyanbiji.com
 ||v.yunnanpulasi.com
 ||v.yushengyuancaishui.com
@@ -76989,7 +76977,6 @@
 ||xfzhsf.com
 ||xfztc.com
 ||xg.depnegj.cn
-||xg.tjwmtrw.cn
 ||xg.whsbpw.cn
 ||xgamevip.com
 ||xgantt.net
@@ -78437,6 +78424,7 @@
 ||xlgao.com
 ||xlgxapp.com
 ||xlhb.com
+||xlhwzx.cn
 ||xlimg.net
 ||xlinclass.com
 ||xlisp.net
@@ -83235,7 +83223,6 @@
 ||yun.115.com
 ||yun.ikuai8.com
 ||yun.ikuai8.com.w.kunlungr.com
-||yun.lvehaisen.com
 ||yun.pm
 ||yun.rili.cn
 ||yun.sifuhe.cn
