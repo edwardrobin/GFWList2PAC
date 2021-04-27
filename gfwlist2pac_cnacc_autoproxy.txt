@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYxOTM5NzY1Ngo=
+! Checksum: MTYxOTQ4MzkxNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210426-0
-! TimeUpdated: 2021-04-26T00:40:56+00:00
+! Version: 1.0.0-20210427-0
+! TimeUpdated: 2021-04-27T00:38:36+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -10,6 +10,7 @@
 ||0-gold.net
 ||0.pic.paopaoche.net
 ||0.pic.pc6.com
+||0.pool.ntp.org
 ||0.up.qingdaonews.com
 ||00042.com
 ||0006266.com
@@ -895,6 +896,7 @@
 ||1.cjcp.cn
 ||1.click.com.cn
 ||1.cms.s81c.com
+||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -1349,7 +1351,6 @@
 ||1188.com
 ||1189.tv
 ||118cy.com
-||118ex.cn
 ||118jm.com
 ||118pan.com
 ||118qikan.com
@@ -10831,7 +10832,6 @@
 ||agd.p.360.cn
 ||agd2.p.360.cn
 ||agdist-api.cloud.huawei.com
-||age-spa.com
 ||age06.com
 ||agefans.tv
 ||agemiracles.com
@@ -12933,7 +12933,6 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
-||app-site-association.cdn-apple.com
 ||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
@@ -13808,7 +13807,6 @@
 ||avatarmind.com
 ||avatarmobi.com
 ||avatars.115.com
-||avbdf.com
 ||avc-mr.com
 ||avc-ott.com
 ||avc.com.tw
@@ -13953,7 +13951,6 @@
 ||az76zwsr.v1d.szbdyd.com
 ||az8bsr7b.v1d.szbdyd.com
 ||azber.com
-||azchcdna.com
 ||azchcdnb.com
 ||azchcdng.com
 ||azchcdnj.com
@@ -14013,7 +14010,6 @@
 ||b.tvsou.com
 ||b.unjs.com
 ||b.wxebgpj.cn
-||b.xp0f4cj.cn
 ||b.youdao.com
 ||b.zol-img.com.cn
 ||b0.bdstatic.com
@@ -15881,7 +15877,6 @@
 ||bingtuannet.com
 ||bingwang.cc
 ||bingyan.net
-||bingyublog.com
 ||bingzhilv.com
 ||binkery.com
 ||binmt.cc
@@ -17646,7 +17641,6 @@
 ||c.gridsumdissector.com
 ||c.gsc.qq.com
 ||c.hiphotos.baidu.com
-||c.isdspeed.qq.com
 ||c.jjkk.org
 ||c.jumorecn.com.cn
 ||c.kanwby.com
@@ -23610,7 +23604,6 @@
 ||cqjy.com
 ||cqkdtui.com
 ||cqkdtui1.com
-||cqkeb.com
 ||cqkhg.com
 ||cqkjwx.com
 ||cqkqinfo.com
@@ -24080,7 +24073,6 @@
 ||ctdc-itshare.org
 ||ctdcn.com
 ||ctdisk.com
-||ctdns.cn
 ||ctdns.net
 ||ctdsb.com
 ||ctdsb.net
@@ -24830,7 +24822,6 @@
 ||dacankao.net
 ||dacannsd.v1d.szbdyd.com
 ||dacaqfxo.v1d.szbdyd.com
-||dacedsfa.cn
 ||dach3mnw.v1d.szbdyd.com
 ||dach665e.v1d.szbdyd.com
 ||dach7dpq.v1d.szbdyd.com
@@ -26195,7 +26186,6 @@
 ||dhzmr.wang
 ||di-prd.samsung.com.cn
 ||di.res.netease.com
-||di2y21.top
 ||di3fang.com
 ||di3fang.vip
 ||diablo3.nosdn.127.net
@@ -33226,7 +33216,6 @@
 ||gaoxiao88.net
 ||gaoxiaobang.com
 ||gaoxiaojob.com
-||gaoxiaotu.com
 ||gaoxiaovod.com
 ||gaoxin123.com
 ||gaoxinbao.xyz
@@ -34778,7 +34767,6 @@
 ||growthpic.weishi.qq.com
 ||grpc.biliapi.net
 ||grs.dbankcloud.cn
-||grs.dbankcloud.com
 ||grs.hicloud.com
 ||grt-china.com
 ||grtn.cn
@@ -35953,7 +35941,6 @@
 ||haha33.com
 ||haha360.com
 ||haha365.com
-||haha5.cn
 ||haha9911.com
 ||hahack.com
 ||hahacoding.cn
@@ -39222,7 +39209,6 @@
 ||huatugz.com
 ||huatuo.qq.com
 ||huatuo007.com
-||huatuocode.weiyun.com
 ||huatuowenda.com
 ||huatuoyf.com
 ||huaue.com
@@ -43756,7 +43742,6 @@
 ||jdcloud-oss.com
 ||jdcloud.com
 ||jdcloudcache.com
-||jdcloudcache.net
 ||jdcloudedge.com
 ||jdcloudnaming.net
 ||jdcloudstatic.net
@@ -43783,7 +43768,6 @@
 ||jdgwdq.com
 ||jdhhmd.com
 ||jdhonline.com
-||jdhq188.cn
 ||jdhyplay.com
 ||jdiy.club
 ||jdjingmai.com
@@ -44272,7 +44256,6 @@
 ||jiasule.net
 ||jiasule.org
 ||jiasuzhu.com
-||jiataotao.com
 ||jiataoyuan.com
 ||jiathis.com
 ||jiatui.com
@@ -44817,7 +44800,6 @@
 ||jiub.ren
 ||jiubuhua.com
 ||jiucaicaijing.com
-||jiuchengweb.cn
 ||jiuchutong.com
 ||jiucool.org
 ||jiuday.com
@@ -46616,7 +46598,6 @@
 ||kaidanbao.com
 ||kaidianbang.com
 ||kaieconblog.net
-||kaierdle.com
 ||kaifabang.com
 ||kaifae.com
 ||kaifage.com
@@ -46713,7 +46694,6 @@
 ||kanam.me
 ||kanbaobei.com
 ||kanbardata.com
-||kanbilibili.com
 ||kanbing.net
 ||kanbox.com
 ||kanchao.com
@@ -47066,7 +47046,6 @@
 ||kelibiao.com
 ||kellen.wang
 ||kelon.com
-||keloop.cn
 ||kelphome.com
 ||kelu.org
 ||kelvy.iomsew.com
@@ -47111,7 +47090,6 @@
 ||kepler.ptqy.gitv.tv
 ||kepuchina.org
 ||kepusky.com
-||kepuwen.com
 ||ker58.com
 ||kerlala.com
 ||kermitym.com
@@ -47846,7 +47824,6 @@
 ||ksyuncdn-k1.com
 ||ksyuncdn.com
 ||ksyungslb.com
-||ksyunv5.com
 ||kszhuanjia.com
 ||kt007.com
 ||kt11.net
@@ -48307,7 +48284,6 @@
 ||l-f.pw
 ||l-rcd.iqiyi.com
 ||l.dalemax.cn
-||l.dzooo.cn
 ||l.fancyapi.com
 ||l.fastapi.net
 ||l.glrcy.cn
@@ -48727,7 +48703,6 @@
 ||laserfair.com
 ||lashou.com
 ||lashouimg.com
-||lasjhqjsjg.com
 ||lastdream.net
 ||lastikemami.com
 ||lastww.com
@@ -49409,7 +49384,6 @@
 ||lhu36lu8.sched.d0.tdnsv5.com
 ||lhwill.com
 ||lhwytj.com
-||lhy2.xyz
 ||lhzjz.com
 ||lhzly.net
 ||lhzq.com
@@ -49572,7 +49546,6 @@
 ||licairen.net
 ||licancan.com
 ||licat.com
-||licdn.cn
 ||license.bluesoleil.com
 ||license.sensetime.com
 ||license.vod2.myqcloud.com
@@ -52157,7 +52130,6 @@
 ||maiche168.com
 ||maichuang.net
 ||maicuole.com
-||maidagu.com
 ||maidangao.com
 ||maidengju.net
 ||maidi.me
@@ -52312,7 +52284,6 @@
 ||malagis.com
 ||malait.com
 ||malaosi.com
-||malaysiaairlines.com
 ||maldiveszh.com
 ||maldun.com
 ||males120.com
@@ -53342,7 +53313,6 @@
 ||menwww.com
 ||menxue.com
 ||menyuannews.com
-||meo-sub.site
 ||meowcat.org
 ||meowpass.cc
 ||mepai.me
@@ -54970,6 +54940,7 @@
 ||msc.jd.com.gslb.qianxun.com
 ||msc1434.com
 ||mscbsc.com
+||msch.f.360.cn
 ||mschcdn.com
 ||msclick2.kuwo.cn
 ||mscto.com
@@ -56456,7 +56427,6 @@
 ||nfzmbrand.com
 ||ng-alain.com
 ||nga.cn
-||ngaacdn.cn
 ||ngabbs.com
 ||ngacn.cc
 ||ngacn.com
@@ -61969,7 +61939,6 @@
 ||qhxmlyts.com
 ||qhxyms.com
 ||qhxz.com
-||qhyc55.com
 ||qhyccd.com
 ||qhyedu.com
 ||qhyzzzs.com
@@ -62433,7 +62402,6 @@
 ||qinqin.com
 ||qinqinxiaobao.com
 ||qinrenzhuanfa2.tiedan2019.com
-||qinsashipin.com
 ||qinsmoon.com
 ||qinto.com
 ||qinwanghui.com
@@ -62704,8 +62672,6 @@
 ||qlotc.net
 ||qlpe8.com
 ||qlpw.net
-||qlqkcxj.com
-||qlqkzz.com
 ||qlrc.com
 ||qls.fun
 ||qlteacher.com
@@ -64741,7 +64707,6 @@
 ||robei.com
 ||roboo.com
 ||robook.com
-||robooot.com
 ||roborock.com
 ||robot-china.com
 ||robot.lenovo.com.cn
@@ -66550,7 +66515,6 @@
 ||seemoread.com
 ||seen.h01ce.cn
 ||seentao.com
-||seeocean.top
 ||seeqiu.net
 ||seer520.com
 ||seersee.com
@@ -66841,7 +66805,6 @@
 ||sfsc.gifshow.com
 ||sfsc1.gifshow.com
 ||sfsc2.gifshow.com
-||sfscooter.cn
 ||sftj.e.shifen.com
 ||sftx-api.gifshow.com
 ||sftx-cmcc.gifshow.com
@@ -66941,7 +66904,6 @@
 ||sh.58.com
 ||sh.c21.com.cn
 ||sh.centanet.com
-||sh.cn
 ||sh.com
 ||sh.file.myqcloud.com
 ||sh.gsxt.gov.cn
@@ -68246,7 +68208,6 @@
 ||shwqjx.com
 ||shws.org
 ||shwsg.net
-||shwslmz.com
 ||shwyky.net
 ||shxb.net
 ||shxbe.com
@@ -69926,6 +69887,7 @@
 ||ssl.ts7.qq.com
 ||ssl.ts8.qq.com
 ||ssl.woshishuish.top
+||ssl.youkag.com
 ||ssl4.my.800cdn.com
 ||sslaaa.com
 ||sslbaidu.jomodns.com
@@ -70716,7 +70678,6 @@
 ||sucainiu.com
 ||sucaitu.cc
 ||sucaiw.com
-||succ123.com
 ||suchasplus.com
 ||suchen820.com
 ||suchso.com
@@ -71729,7 +71690,6 @@
 ||szyixiu.net
 ||szyjedu.com
 ||szymweb.com
-||szyoyi.cn
 ||szyran.com
 ||szysmpay.com
 ||szyuda88.com
@@ -75204,7 +75164,6 @@
 ||txip8.com
 ||txiqy.v9.sched.tdnsv2.com
 ||txitech.com
-||txjhds.com
 ||txjszz.com
 ||txjy.syggs.mofcom.gov.cn
 ||txlt.com
@@ -75494,7 +75453,6 @@
 ||uadrc.com
 ||uadscc.com
 ||uaedata.com
-||uaevivi.top
 ||uao-online.com
 ||uao.so
 ||uapi.ads.heytapmobi.com
@@ -76971,7 +76929,6 @@
 ||vanrui.com
 ||vanterc.com
 ||vants.org
-||vanyool.net
 ||vapee.com
 ||vapejoin.com
 ||vapps.me
@@ -81205,6 +81162,7 @@
 ||www.aliyun.com
 ||www.allbet688.com
 ||www.allyingshi.com
+||www.alqp37.com
 ||www.amap.com
 ||www.amd.com
 ||www.analog.com
@@ -83876,7 +83834,6 @@
 ||xizhezhe.com
 ||xizhi.com
 ||xizhibei.me
-||xizhide01.cn
 ||xizi.com
 ||xizike.com
 ||xiziquan.com
