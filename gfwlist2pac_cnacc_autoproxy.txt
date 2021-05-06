@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMDE3NDEwNAo=
+! Checksum: MTYyMDI2MDQ4Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210505-0
-! TimeUpdated: 2021-05-05T00:21:44+00:00
+! Version: 1.0.0-20210506-0
+! TimeUpdated: 2021-05-06T00:21:23+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -999,6 +999,7 @@
 ||1001g.com
 ||1001hw.com
 ||1001p.com
+||10037.x.adanxing.com
 ||1004333.shop.liebiao.com
 ||10044.cn
 ||100580.com
@@ -1141,7 +1142,6 @@
 ||1040jy.com
 ||10419.net
 ||1048yy.com
-||104sihu.com
 ||105a.com
 ||105mr.com
 ||105zx.com
@@ -4812,7 +4812,6 @@
 ||4243.net
 ||4251895.b2b.jinanfa.cn
 ||425300.co
-||425300.com
 ||425yx.com
 ||42651.com
 ||426g.com
@@ -9015,7 +9014,6 @@
 ||91xinche.com
 ||91xsj.com
 ||91xueshu.com
-||91xvideo.com
 ||91xww.com
 ||91xy.com
 ||91y.com
@@ -10021,6 +10019,7 @@
 ||aad.tw
 ||aadongman.com
 ||aads-cng.net
+||aagw.sdo.com
 ||aaid.amap.com
 ||aaid.umeng.com
 ||aaid.uyunad.com
@@ -10465,6 +10464,7 @@
 ||ad.gamebox.360.cn
 ||ad.ganji.com
 ||ad.gmw.cn
+||ad.gr.doubleclick.net
 ||ad.holaq.com
 ||ad.hpplay.cn
 ||ad.huajiao.com
@@ -10483,6 +10483,7 @@
 ||ad.mo.doubleclick.net
 ||ad.mobile.youku.com
 ||ad.mobstazinc.cn
+||ad.no.doubleclick.net
 ||ad.partner.gifshow.com
 ||ad.player.baidu.com
 ||ad.pt.doubleclick.net
@@ -10772,6 +10773,7 @@
 ||ads.adroi.com.cn
 ||ads.aplus.pptv.com
 ||ads.aplusapi.pptv.com
+||ads.cc-dt.com
 ||ads.ccstock.cn
 ||ads.ce.cn
 ||ads.cgchannel.com
@@ -10972,7 +10974,6 @@
 ||adyun.com
 ||adzh.com
 ||adzhongdian.com
-||adzjvnet.allyes.com
 ||adzop.com
 ||adzshd.com
 ||ae-people.com
@@ -12969,6 +12970,7 @@
 ||api.installer.xiaomi.com
 ||api.interaction.sohu.com
 ||api.io.mi.com
+||api.iplay.163.com
 ||api.iqiyi.com
 ||api.ishansong.com
 ||api.itaoxiaoshuo.com
@@ -13114,7 +13116,6 @@
 ||api.zhihu.com
 ||api.zhirenzhufu.com
 ||api.zhuanlan.sina.com.cn
-||api.zhuti.xiaomi.com
 ||api.zol.com
 ||api.zone.lixian.vip.xunlei.com
 ||api1.888zy.cn
@@ -13471,7 +13472,6 @@
 ||applicationloader.net
 ||applinzi.com
 ||applog.ddxq.mobi
-||applog.matrix.netease.com
 ||applog.reader.qq.com
 ||applog.uc.cn
 ||applog.ucdns.uc.cn
@@ -15556,7 +15556,6 @@
 ||bdfzcd.net
 ||bdfzgz.net
 ||bdfzxj.net
-||bdg251.com
 ||bdg256.com
 ||bdg88.com
 ||bdgg.qjy168.com
@@ -18139,6 +18138,7 @@
 ||c.gridsumdissector.com
 ||c.gsc.qq.com
 ||c.hiphotos.baidu.com
+||c.img001.com
 ||c.jjkk.org
 ||c.jumorecn.com.cn
 ||c.kanwby.com
@@ -18880,6 +18880,7 @@
 ||cby.me
 ||cbzhuanyun.com
 ||cc-1.com
+||cc-dt.com
 ||cc-glass.com
 ||cc-hn1.lol.qq.com
 ||cc.anjuke.com
@@ -22095,6 +22096,7 @@
 ||clickm.fang.com
 ||clickm.soufun.com
 ||clickn.fang.com
+||clickserve.cc-dt.com
 ||clickserve.dartsearch.net
 ||clickserver.googleads.com
 ||clicksun.net
@@ -23848,7 +23850,6 @@
 ||cooch3d.com
 ||coocox.org
 ||coodir.com
-||coodoor.com
 ||coodub.com
 ||cooer.net
 ||coofans.com
@@ -23929,6 +23930,7 @@
 ||copymanga.com
 ||copymanga.org
 ||corachic.com
+||coral-task.uc.cn
 ||coral.qq.com
 ||coral2.uc.cn
 ||coralsec.com
@@ -26243,6 +26245,7 @@
 ||dc-cn.com
 ||dc-eventlog.missfresh.cn
 ||dc.3.cn
+||dc.chillyroom.com
 ||dc.console.aliyun.com
 ||dc.cp21.ott.cibntv.net
 ||dc.letv.com
@@ -32050,7 +32053,9 @@
 ||feed.theta.sogou.com
 ||feed.youshu.cc
 ||feed.youshu.cc.w.kunlunle.com
+||feedads.g.doubleclick.net
 ||feedback.amsproxy.qq.com
+||feedback.cn.ronghub.com
 ||feedback.zhangle.com
 ||feedflpc.jomodns.com
 ||feedfreev6.jomodns.com
@@ -33088,7 +33093,6 @@
 ||fp-it.fengkongcloud.com
 ||fp.czvv.com
 ||fp.fraudmetrix.cn
-||fp.ps.netease.com
 ||fp.tongdun.net
 ||fpb.docin.com
 ||fpb.sohu.com
@@ -33888,6 +33892,7 @@
 ||galiaoba.com
 ||galitv.alicdn.com
 ||galleon.dmall.com
+||galleryfaceapi.micloud.xiaomi.net
 ||gallerysearchapi.micloud.xiaomi.net
 ||gallopgazelle.com
 ||galstars.net
@@ -33914,7 +33919,6 @@
 ||game.baichuanhd.cn
 ||game.bilibili.com
 ||game.bilibili.com.w.cdngslb.com
-||game.chillyroom.com
 ||game.china.com
 ||game.eve.mdt.qq.com
 ||game.funshion.com
@@ -35758,7 +35762,6 @@
 ||growthpic.weishi.qq.com
 ||grpc.biliapi.net
 ||grs.dbankcloud.cn
-||grs.dbankcloud.com
 ||grs.hicloud.com
 ||grt-china.com
 ||grtn.cn
@@ -40480,6 +40483,7 @@
 ||huichengip.com
 ||huichewang.com
 ||huichexiang.net
+||huichuan-mc.sm.cn
 ||huichuan.sm.cn
 ||huid.ad.360.cn
 ||huidang.com
@@ -43004,6 +43008,7 @@
 ||img0.egou.com
 ||img0.pconline.com.cn
 ||img0.qidian.com
+||img001.com
 ||img005.com
 ||img01.51jobcdn.com
 ||img01.51jobcdn.com.51jobdns.com
@@ -46249,6 +46254,7 @@
 ||jizunnet.com
 ||jj-inn.com
 ||jj-tv.com
+||jj.cn
 ||jj20.com
 ||jj3721.com
 ||jj55.com
@@ -50177,6 +50183,7 @@
 ||lbl520.com
 ||lboyue.com
 ||lbrbis.com
+||lbs.mail.163.com
 ||lbs.map.qq.com
 ||lbs.netease.im
 ||lbs.pandora.xiaomi.com
@@ -53319,6 +53326,7 @@
 ||m.rrsdl.com
 ||m.rzxlszy.vip
 ||m.sewxi.com
+||m.sfscooter.cn
 ||m.shilian168.cn
 ||m.simba.taobao.com
 ||m.sina.com.cn
@@ -55891,7 +55899,6 @@
 ||mo-yu.com
 ||mo.alibdm.xyz
 ||mo.baidu.com
-||mo.cifree.xyz
 ||mo.haloapps.cn
 ||mo.kugou.com
 ||mo.m.taobao.com
@@ -63383,7 +63390,6 @@
 ||q14.cnzz.com
 ||q1qfc323.com
 ||q1qq2.com
-||q1scv.vov0.com
 ||q2.qlogo.cn
 ||q2100.com
 ||q2ak.com
@@ -66636,7 +66642,6 @@
 ||rkdatabase.com
 ||rkeji.com
 ||rkgaming.com
-||rkidc.net
 ||rksec.com
 ||rkvir.com
 ||rl.go2yd.com
@@ -68557,7 +68562,6 @@
 ||seecsee.com
 ||seed-china.com
 ||seed.bitcoin.jonasschnelli.ch
-||seed.bitcoin.sipa.be
 ||seed.bitcoin.sprovoost.nl
 ||seed.btc.petertodd.org
 ||seedasdan.org
@@ -70488,6 +70492,7 @@
 ||simengadx.com
 ||simg.iigs9.com
 ||simg.s.weibo.com
+||simg.sinajs.cn
 ||simiam.com
 ||simici3.com
 ||simiki.org
@@ -70530,7 +70535,6 @@
 ||sinanet.com
 ||sinanya.com
 ||sinaquyong.com
-||sinas.allyes.com
 ||sinashow.com
 ||sinasinasinasina.com
 ||sinastorage.com
@@ -70981,7 +70985,6 @@
 ||slrbs.com
 ||slready.com
 ||sls.console.aliyun.com
-||slsbc.cn
 ||slsd.gsau.edu.cn
 ||slsrole.alicdn.com
 ||slsteel.com
@@ -72261,6 +72264,7 @@
 ||stat.lianmeng.360.cn
 ||stat.m.360.cn
 ||stat.m.jd.com
+||stat.m.jj.cn
 ||stat.meitudata.com
 ||stat.mobgi.com
 ||stat.moji.com
@@ -79034,7 +79038,6 @@
 ||v1.phb123.com
 ||v1.play.log.hunantv.com
 ||v1.res.log.hunantv.com
-||v1.taksh.cn
 ||v10.kwaicdn.com
 ||v10.kwaicdn.com.w.kunlunca.com
 ||v10.kwaicdn.com.w.kunlunca.com.qr.uuhimalayanqm.com
@@ -83649,6 +83652,7 @@
 ||www.18183.com
 ||www.192ly.com
 ||www.2p.com
+||www.34ms.com
 ||www.35fwkb.cn
 ||www.360doc.cn
 ||www.360doc.com
@@ -83738,6 +83742,7 @@
 ||www.bbtnews.com.cn
 ||www.bd739.com
 ||www.bd831.com
+||www.bdg251.com
 ||www.bdg256.com
 ||www.betterzip.net
 ||www.bfgho.com
