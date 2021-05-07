@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMDI2MDQ4Mwo=
+! Checksum: MTYyMDM0Njk1Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210506-0
-! TimeUpdated: 2021-05-06T00:21:23+00:00
+! Version: 1.0.0-20210507-0
+! TimeUpdated: 2021-05-07T00:22:33+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -10911,7 +10911,6 @@
 ||adv.grtn.cn
 ||adv.jxnews.com.cn
 ||adv.madserving.com
-||adv.sec.miui.com
 ||adv.zuimeitianqi.com
 ||adv5678.com
 ||adver.qq.com
@@ -12799,7 +12798,6 @@
 ||api-20200527.xkspbz.com
 ||api-a.op-mobile.opera.com
 ||api-access.pangolin-sdk-toutiao-b.com
-||api-access.pangolin-sdk-toutiao.com
 ||api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 ||api-accounts.firefox.com.cn
 ||api-ad.kajicam.com
@@ -13012,7 +13010,6 @@
 ||api.meituan.com
 ||api.mengtuiapp.com
 ||api.merro.xyz
-||api.micloud.xiaomi.net
 ||api.microyan.com
 ||api.middle.transfer.search.miui.com
 ||api.mini.wps.cn
@@ -18880,7 +18877,6 @@
 ||cby.me
 ||cbzhuanyun.com
 ||cc-1.com
-||cc-dt.com
 ||cc-glass.com
 ||cc-hn1.lol.qq.com
 ||cc.anjuke.com
@@ -23782,7 +23778,6 @@
 ||congzhi.com
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
-||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
 ||connc.gj.qq.com
@@ -24595,6 +24590,7 @@
 ||csicmakers.com
 ||csiea.net
 ||csimg2.qunliao.info
+||csisolar.com
 ||csisseos.vip
 ||csj309.vip
 ||csjcs.com
@@ -26006,6 +26002,7 @@
 ||data.help.jr.mi.com
 ||data.hicloud.com
 ||data.highpin.cn
+||data.mistat.xiaomi.com
 ||data.openspeech.cn
 ||data.p4psearch.1688.com
 ||data.qq.com
@@ -32736,7 +32733,6 @@
 ||flacro.me
 ||flamesky.org
 ||flaredup.com
-||flash.sec.miui.com
 ||flash127.com
 ||flash2-http.qq.com
 ||flash8.net
@@ -33919,6 +33915,7 @@
 ||game.baichuanhd.cn
 ||game.bilibili.com
 ||game.bilibili.com.w.cdngslb.com
+||game.chillyroom.com
 ||game.china.com
 ||game.eve.mdt.qq.com
 ||game.funshion.com
@@ -33963,7 +33960,6 @@
 ||game2.com
 ||game234.com
 ||game3-center.dftoutiao.com
-||game333.net
 ||game345.com
 ||game3vs7novel.com
 ||game4343.com
@@ -34737,7 +34733,6 @@
 ||gg.51cto.com
 ||gg.anqu.com
 ||gg.blueidea.com
-||gg.caixin.com
 ||gg.cs090.com
 ||gg.dsxdn.com
 ||gg.gao7.com
@@ -35315,6 +35310,7 @@
 ||golangweb.com
 ||golaravel.com
 ||gold-v.com
+||gold.org
 ||gold.szonline.net
 ||gold58.com
 ||gold600.com
@@ -39419,6 +39415,7 @@
 ||home.httpcn.com
 ||home.meishichina.com
 ||home.wps.cn
+||home.yxgz.club
 ||home.zhuanlan.sina.com.cn
 ||home0311.com
 ||home0538.com
@@ -56630,7 +56627,6 @@
 ||msmov.a.yximgs.com.azchcdna.com
 ||msmov.a.yximgs.com.mcchcdn.com
 ||msn-china.bing123.com
-||mso.allyes.com
 ||msoftdl.360.cn
 ||msooso.com
 ||msotu.com
@@ -64063,7 +64059,6 @@
 ||qie.tv
 ||qiecdn.com
 ||qieerxi.com
-||qiehe.net
 ||qiekj-web-log.cn-shanghai.log.aliyuncs.com
 ||qiekj.com
 ||qieman.com
