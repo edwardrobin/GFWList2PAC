@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMTI5ODE2NAo=
+! Checksum: MTYyMTM4NDM4Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210518-0
-! TimeUpdated: 2021-05-18T00:36:04+00:00
+! Version: 1.0.0-20210519-0
+! TimeUpdated: 2021-05-19T00:33:02+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -4217,7 +4217,6 @@
 ||33app.net
 ||33bus.com
 ||33cp.com
-||33down.com
 ||33hei.com
 ||33ip.com
 ||33iq.com
@@ -9942,7 +9941,6 @@
 ||98stack.com
 ||98t.net
 ||98w2mrmw.sched.sma.tdnsv5.com
-||98yigou.com
 ||98znz.com
 ||99-ss.com
 ||990060022.com
@@ -11534,7 +11532,6 @@
 ||adshownew.it168.com
 ||adshows.21cn.com
 ||adsin.zhangyoubao.com
-||adsjdy.com
 ||adsl.cn
 ||adslot.uc.cn
 ||adslr.com
@@ -11832,7 +11829,6 @@
 ||aguo.com
 ||agw.xinyue.qq.com
 ||agxs.net
-||agxsw.com
 ||ah-inter.com
 ||ah-px.com
 ||ah.gsxt.gov.cn
@@ -14090,6 +14086,7 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
+||app-site-association.cdn-apple.com
 ||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
@@ -14110,6 +14107,7 @@
 ||app.bilibili.com
 ||app.biligame.com
 ||app.cctv.com
+||app.chat.xiaomi.net
 ||app.chinaz.com
 ||app.chinaz.com.wswebpic.com
 ||app.cloud.yfp2p.net
@@ -14177,10 +14175,12 @@
 ||appadhoc.com
 ||appao.com
 ||appapi.17house.com
+||appapi.dmall.com
 ||appapis.dmall.com
 ||appapisdk.tanv.com
 ||apparelsos.com
 ||appbacklog.dftoutiao.com
+||appbackupapi.micloud.xiaomi.net
 ||appbi.com
 ||appbk.com
 ||appbocai.com
@@ -14211,7 +14211,6 @@
 ||appdelivery.4008123123.com
 ||appdetailh5.vivo.com.cn
 ||appdj.xesimg.com
-||appdl-1-drcn.dbankcdn.com
 ||appdl-2-drcn.dbankcdn.com
 ||appdl-3-drcn.dbankcdn.com
 ||appdl-4-drcn.dbankcdn.com
@@ -14627,7 +14626,6 @@
 ||asean-china-center.org
 ||aseantradecenter.com
 ||asearch.alicdn.com
-||asen0713.com
 ||aseoe.com
 ||aserver-heyi.m.taobao.com
 ||asew0d.tdum.alibaba.com
@@ -16482,7 +16480,6 @@
 ||bdjs.6822.com
 ||bdjs.91zhuti.com
 ||bdjs.99.com.cn
-||bdjs.999d.com
 ||bdjs.guangyuanol.cn
 ||bdjs.gushiju.net
 ||bdjs.jb51.net
@@ -23198,7 +23195,6 @@
 ||client-api.itunes.apple.com.mwcname.com
 ||client-dmp.suishenyun.cn
 ||client-lz.rili.cn
-||client-monitor.tantanapp.com
 ||client-stats.gclick.cn
 ||client-upload.cn-shanghai.log.aliyuncs.com
 ||client.aldtop.com
@@ -23217,6 +23213,7 @@
 ||clientflow.apple.com
 ||clientflow.apple.com.akadns.net
 ||clientflow.apple.com.cdn20.com
+||clientgear.com
 ||clientlog.music.163.com
 ||clientlog3.music.163.com
 ||clientlog3.music.ntes53.netease.com
@@ -24911,7 +24908,6 @@
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
 ||conn1.oppomobile.com
-||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
 ||connc.gj.qq.com
@@ -25580,6 +25576,7 @@
 ||creke.net
 ||creo-support.com
 ||crestgps.com
+||crestv.com
 ||crewcn.com
 ||crfchina.com
 ||crfly.com
@@ -26005,7 +26002,6 @@
 ||ctv4down.acdn.rgslb.com
 ||ctvpost.com
 ||ctvwx.com
-||ctxcdn.cn
 ||ctxyw.com
 ||ctycdn.com
 ||ctyo.com
@@ -29283,7 +29279,6 @@
 ||dlyestar.com
 ||dlyile.com
 ||dlyilian.com
-||dlyukun.cn
 ||dlzb.com
 ||dlztb.com
 ||dlzyc.com
@@ -31249,7 +31244,6 @@
 ||dyn.ithome.com
 ||dyn.wps.cn
 ||dynacw.com.cn
-||dynamic-ip.xyz
 ||dynamic.api.tiles.ditu.live.com
 ||dynamic.app.m.letv.com
 ||dynamic.live.app.m.letv.com
@@ -31574,7 +31568,6 @@
 ||e7e.co
 ||e7e6.net
 ||e7e7e7.com
-||e7free.allyes.com
 ||e7wei.com
 ||e8068.com
 ||e816.cc
@@ -32356,7 +32349,6 @@
 ||eisdl.com
 ||eisoo.com
 ||eistudy.com
-||eistudy.net
 ||eit0571.com
 ||eiv.baidu.com
 ||ej38.com
@@ -39145,7 +39137,6 @@
 ||hagres-drcn.dbankcdn.com
 ||haguan.com
 ||haguotu.com
-||haguro.moe
 ||haguworld.com
 ||haha168.com
 ||haha33.com
@@ -42401,6 +42392,7 @@
 ||huajianmed.com
 ||huajiao.com
 ||huajie8.com
+||huajifen.com
 ||huajin100.com
 ||huajing-inf.com
 ||huajingsec.com
@@ -43632,7 +43624,6 @@
 ||i.51job.com.51jobdns.com
 ||i.9le.net
 ||i.adsame.com
-||i.ai.mi.com
 ||i.ali213.net
 ||i.alicdn.com
 ||i.alicdn.com.danuoyi.tbcache.com
@@ -43717,7 +43708,6 @@
 ||i1.chuimg.com
 ||i1.fuimg.com
 ||i1.go2yd.com
-||i1.hdslb.com
 ||i1.hoopchina.com.cn
 ||i1.letvimg.com
 ||i1.sinaimg.cn
@@ -44695,7 +44685,6 @@
 ||ii.gdt.qq.com
 ||ii010.com
 ||ii090.com
-||ii1.chajiaotong.com
 ||ii3g.com
 ||ii4lp.tdum.alibaba.com
 ||ii74.com
@@ -46136,7 +46125,6 @@
 ||interface.bilibili.com
 ||interface.dmzj.com
 ||interface.im.taobao.com
-||interface.music.163.com
 ||interface.sina.cn
 ||interface2.mxingkong.com.cn
 ||interface3.music.163.com
@@ -47121,7 +47109,6 @@
 ||iwshang.com
 ||iwucha.com
 ||iwuly.com
-||iwwacgx.cn
 ||iwwwwwi.com
 ||iwx.mail.qq.com
 ||iwxapi.com
@@ -51798,6 +51785,7 @@
 ||ku6img.com
 ||ku6vms.com
 ||ku7711.net
+||ku8.tv
 ||ku82.com
 ||ku86.com
 ||ku8ku8.com
@@ -53241,6 +53229,7 @@
 ||leting.io
 ||letmeneembibvnf.hk
 ||letoom.com
+||letou118.net
 ||letou8.com
 ||letouqp.com
 ||lets-study.com
@@ -53250,7 +53239,6 @@
 ||letuknowit.com
 ||letushu.com
 ||letv-cdn.com
-||letv.allyes.com
 ||letv.axp.admaster.com.cn
 ||letv.cn
 ||letv.com
@@ -55780,7 +55768,6 @@
 ||lzcqt.com
 ||lzeweb.com
 ||lzfjq.com
-||lzg.im
 ||lzgxq.com
 ||lzhongdian.com
 ||lzhpo.com
@@ -61251,7 +61238,6 @@
 ||njctkj.com
 ||njcto.com
 ||njcw.com
-||njcyfpv.cn
 ||njd1.com
 ||njdapaidang.com
 ||njdewo.com
@@ -62987,7 +62973,6 @@
 ||osxapps.itunes.apple.com
 ||osxapps.itunes.apple.com.w.alikunlun.com
 ||osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
-||osxapps.itunes.g.aaplimg.com
 ||osyum.com
 ||osyunwei.com
 ||ot.io.mi.com
@@ -67186,6 +67171,7 @@
 ||qhm1.cnzz.com
 ||qhm123.com
 ||qhm2.cnzz.com
+||qhmanhua.com
 ||qhmhbkj.com
 ||qhmsg.com
 ||qhmt1xj5.v1d.szbdyd.com
@@ -67890,6 +67876,7 @@
 ||qixiwl.com
 ||qixoo.com
 ||qixunka.com
+||qiyabi.vip
 ||qiye.163.com
 ||qiye.99114.com
 ||qiye.la
@@ -69257,7 +69244,6 @@
 ||qwimm.com
 ||qwolf.com
 ||qwomcrm.com
-||qwp365.cn
 ||qwpeo.net
 ||qwpo2018.com
 ||qwps.cn
@@ -72296,6 +72282,7 @@
 ||search.51job.com.51jobdns.com
 ||search.appstore.vivo.com.cn
 ||search.bilibili.com
+||search.browser.miui.com
 ||search.cdn.huya.com
 ||search.dangdang.com
 ||search.dpool.sina.com.cn
@@ -72416,7 +72403,6 @@
 ||seecmedia.net
 ||seecsee.com
 ||seed-china.com
-||seed.bitcoin.jonasschnelli.ch
 ||seed.btc.petertodd.org
 ||seedasdan.org
 ||seeddsp.com
@@ -72639,7 +72625,6 @@
 ||servicesupport.hicloud.com
 ||servicesupport1.hicloud.com
 ||servicewechat.com
-||serving-sys.cn
 ||servingcdn.com
 ||sesamestreetenglishchina.com
 ||sescse.com
@@ -77158,6 +77143,7 @@
 ||sursenelec.com
 ||sursung.com
 ||surtime.com
+||suruicloud.com
 ||survey-y.com
 ||survey.aliyun.com
 ||survey.leiting.com
@@ -87104,6 +87090,7 @@
 ||wlwujie.com
 ||wlx.tenpay.com
 ||wlxb.sspu.edu.cn
+||wlxit.com
 ||wlxmall.com
 ||wlxww.com
 ||wlyfw.com
@@ -87750,7 +87737,6 @@
 ||wsq.cool
 ||wss.cnzz.com
 ||wss.neixin.cn
-||wsskj520.cn
 ||wsssec.com
 ||wssy128.com
 ||wstatic-hb.bj.bcebos.com
@@ -91585,7 +91571,6 @@
 ||xn--0xv28g5vz8fs.com
 ||xn--2krw29cdqai43k.com
 ||xn--2qu92fhtx4ff.site
-||xn--2qux23c9ziyrq.club
 ||xn--2qux23c9ziyrq.plus
 ||xn--2qux23confgml.club
 ||xn--2qux23confgml.online
@@ -98751,6 +98736,7 @@
 ||yswh.com
 ||yswhy.com
 ||yswlgame.com
+||yswliot.com
 ||yswpq.com
 ||yswxcn.com
 ||ysx8.com
@@ -99744,7 +99730,6 @@
 ||yz168.cc
 ||yz360.cc
 ||yz3g.net
-||yz7ka3.cn
 ||yz868.com
 ||yzbank.com
 ||yzbo.tv
