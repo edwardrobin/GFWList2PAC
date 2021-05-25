@@ -1,15 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMTgxNjU1OAo=
+! Checksum: MTYyMTkwMjk0Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210524-0
-! TimeUpdated: 2021-05-24T00:35:58+00:00
+! Version: 1.0.0-20210525-0
+! TimeUpdated: 2021-05-25T00:35:43+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
 ||0-6.com
 ||0-gold.net
 ||0.pic.pc6.com
-||0.pool.ntp.org
 ||0.up.qingdaonews.com
 ||00.auto.sohu.com
 ||00042.com
@@ -2577,7 +2576,6 @@
 ||188seo.com
 ||188soft.com
 ||188wan.com
-||188y188.com
 ||188yd.com
 ||189.cn
 ||189.ly93.cc
@@ -10445,7 +10443,6 @@
 ||a3.jandan.net
 ||a3.mzstatic.com
 ||a3116817c6493f49cf3c63caff3962b5.dlied1.cdntips.net
-||a32a.com.cn
 ||a390v39z.sched.s2-dk.tdnsv5.com
 ||a3a5xi06.sched.pddlego-dk.tdnsv5.com
 ||a3dbb2db4761ad7d6de576d464c067f6.safeframe.googlesyndication.com
@@ -10782,12 +10779,12 @@
 ||abuquant.com
 ||abusi.net
 ||abuyun.com
-||ac-dun.security.ntes53.netease.com
 ||ac.51job.com
 ||ac.86huoche.com
 ||ac.atpanel.com
 ||ac.csdn.net
 ||ac.dun.163.com
+||ac.dun.163yun.com
 ||ac.jice.io
 ||ac.mmstat.com
 ||ac.o2.qq.com
@@ -12912,6 +12909,7 @@
 ||am222566.com
 ||am5.com
 ||am774.com
+||am88.com
 ||am89.com
 ||ama.adwo.com
 ||amaomb.com
@@ -13677,7 +13675,6 @@
 ||api.cupid.ptqy.gitv.tv
 ||api.cupid.qiyi.com
 ||api.danmu.tv.sohu.com
-||api.developer.xiaomi.com
 ||api.device.xiaomi.net
 ||api.dewmobile.net
 ||api.df.mob.com
@@ -13702,6 +13699,7 @@
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
+||api.geetest.com
 ||api.gi.igexin.com
 ||api.gotokeep.com
 ||api.growingio.com
@@ -14071,8 +14069,6 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
-||app-site-association.cdn-apple.com
-||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
 ||app-v6.ias.tencent-cloud.net
@@ -14626,6 +14622,7 @@
 ||ashvsash.com
 ||ashvsash.net
 ||asia-dns.com
+||asia.pool.ntp.org
 ||asiabt.com
 ||asiaci.com
 ||asiacool.com
@@ -18787,7 +18784,6 @@
 ||buyinball.com
 ||buyjk.com
 ||buykee.com
-||buyku88.com
 ||buylabel.com
 ||buysun.net
 ||buysweet.com
@@ -18932,6 +18928,7 @@
 ||bysj999.com
 ||bysocket.com
 ||bysso.baiying.cn
+||bystack.com
 ||bysxfz.com
 ||byt.zoosnet.net
 ||byte.online
@@ -22839,7 +22836,6 @@
 ||ciliba.life
 ||ciliba.pro
 ||ciliguanjia.cyou
-||cilimao.me
 ||cilin.org
 ||cilogo.com
 ||ciluwx.com
@@ -23428,7 +23424,6 @@
 ||clyv5jqo.v1d.szbdyd.com
 ||clyv5jqr.v1d.szbdyd.com
 ||clz.me
-||cm-10-10.getui.com
 ||cm-10-133.getui.com
 ||cm-10-134.getui.com
 ||cm-10-135.getui.com
@@ -24898,7 +24893,6 @@
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
 ||conn1.oppomobile.com
-||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
 ||connc.gj.qq.com
@@ -24907,7 +24901,6 @@
 ||connect-drcn.hispace.hicloud.com
 ||connect.play.aiseet.atianqi.com
 ||connect.qq.com
-||connect.rom.miui.com
 ||connect.unity.cn
 ||connectivity.samsung.com.cn
 ||connectivitycheck.cbg-app.huawei.com
@@ -26996,6 +26989,7 @@
 ||dajiangsai.org
 ||dajiangtai.com
 ||dajianhui.com
+||dajiaochongmanhua.com
 ||dajiashequ.com
 ||dajiashuo.com
 ||dajiatou.com
@@ -30331,7 +30325,6 @@
 ||dssz.org
 ||dsti.net
 ||dstoutiao.com
-||dstrchina.cn
 ||dswjcms.com
 ||dswmt.com
 ||dswzxh.com
@@ -34590,7 +34583,6 @@
 ||finchain.info
 ||finchina.com
 ||finctive.com
-||find.api.micloud.xiaomi.net
 ||find.qq.com
 ||findermp.video.qq.com
 ||finderweb.net
@@ -34836,7 +34828,6 @@
 ||floverow.com
 ||flow.10010.com
 ||flow.ci
-||flow.dmall.com
 ||flow.qq.com
 ||flow.wps.cn
 ||flowbet365.com
@@ -36846,6 +36837,7 @@
 ||gg.51cto.com
 ||gg.anqu.com
 ||gg.blueidea.com
+||gg.caixin.com
 ||gg.cs090.com
 ||gg.dsxdn.com
 ||gg.gao7.com
@@ -37645,7 +37637,6 @@
 ||gosspublic.alicdn.com.danuoyi.alicdn.com
 ||gosuncdn.com
 ||gosunm.com
-||got002.com
 ||goten.com
 ||goto.sogou.com
 ||gotocdn.com
@@ -39325,7 +39316,6 @@
 ||halaha.com
 ||halffashion.com
 ||halfrost.com
-||halidown.com
 ||halihali.li
 ||halixun.com
 ||halloar.com
@@ -40139,6 +40129,7 @@
 ||hcdn2.luffycity.com
 ||hcdn2.luffycity.com.w.kunlungr.com
 ||hcdnd100.gslb.c.cdnhwc1.com
+||hcdnd120.global.c.cdnhwc6.com
 ||hcdnl.pull02.gslb.c.cdnhwc2.com
 ||hcdnl.pulldyin.gslb.c.cdnhwc2.com
 ||hcdnl.pullhls.gslb.c.cdnhwc2.com
@@ -41199,7 +41190,6 @@
 ||hk.jtsh123.com
 ||hk.lianjia.com
 ||hk.linkedin.com
-||hk.pool.ntp.org
 ||hk.preview.ftn.qq.com
 ||hk.uwenku.com
 ||hk.uy
@@ -47120,7 +47110,6 @@
 ||ixiao9.com
 ||ixiaochengxu.cc
 ||ixiaolu.com
-||ixiaomiyun.com
 ||ixiaowai.com
 ||ixiaoyuanzhi.com
 ||ixiatxt.com
@@ -49416,7 +49405,6 @@
 ||js.union-wifi.com
 ||js.users.51.la
 ||js.users.51.la.wsdvs.com
-||js.xihuangdushu.com
 ||js.xtgreat.com
 ||js.xuexila.com
 ||js.xz6d.com
@@ -54612,7 +54600,6 @@
 ||log.51cto.com
 ||log.9wuli.com
 ||log.ad.xiaomi.com
-||log.avlyun.com
 ||log.bitauto.com
 ||log.bol.wo.cn
 ||log.china.cn
@@ -55860,6 +55847,7 @@
 ||m.czhywzhsyxgs.com
 ||m.czvv.com
 ||m.da.mgtv.com
+||m.dajiaochongmanhua.com
 ||m.dancihu.com
 ||m.data.accuratead.cn
 ||m.data.mob.com
@@ -56902,6 +56890,8 @@
 ||matongxue.com
 ||matools.com
 ||matouwang.com
+||matpool.com
+||matpool.net
 ||matrix-prod08.ke.com
 ||matrix.cdn.bcebos.com
 ||mats.gtimg.com
@@ -61909,6 +61899,7 @@
 ||o2osd.com
 ||o2ting.com
 ||o2yhq.com
+||o360.youbo02.com
 ||o37o.net
 ||o3ndix.com
 ||o4p7y.cn
@@ -64924,7 +64915,6 @@
 ||pinpailun.com
 ||pinpaiv.com
 ||pinshan.com
-||pinshanghe.com
 ||pinshiwen.com
 ||pinshu.cc
 ||pinshu.com
@@ -65335,7 +65325,6 @@
 ||poocg.me
 ||pooioo.com
 ||pook.com
-||pool.ntp.org
 ||pool.v6.bt.n0808.com
 ||poolct.17173.com
 ||pooldist.shouyou.com
@@ -70020,7 +70009,6 @@
 ||report-vip-ssl.xunlei.com
 ||report.adview.cn
 ||report.cms.qq.com
-||report.dx.vip.tantanapp.com
 ||report.gamecenter.qq.com
 ||report.gome.com.cn
 ||report.idqqimg.com
@@ -71099,7 +71087,6 @@
 ||s0.meituan.net
 ||s0.pstatp.com
 ||s0.ssl.qhimg.com
-||s0.ssl.qhres.com
 ||s03-ml.gslb.ksyuncdn.com
 ||s03-p2p.gslb.ksyuncdn.com
 ||s03-region.gslb.ksyuncdn.com
@@ -75965,7 +75952,6 @@
 ||ssp.tencentmusic.com
 ||ssp.xiaomi.com
 ||ssp.youxiaoad.com
-||ssp.zf313.com
 ||ssp86.com
 ||sspaas.com
 ||sspai.com
@@ -76655,6 +76641,7 @@
 ||store.steamchina.com
 ||store.storeimages.apple.com.akadns.net
 ||store.storeimages.cdn-apple.com
+||store.storevideos.cdn-apple.com
 ||store.sunlands.com
 ||store.sunlands.com.wswebcdn.com
 ||store.taobao.com
