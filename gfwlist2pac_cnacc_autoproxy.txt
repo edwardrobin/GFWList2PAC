@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMTkwMjk0Mwo=
+! Checksum: MTYyMTk4OTc0Ngo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210525-0
-! TimeUpdated: 2021-05-25T00:35:43+00:00
+! Version: 1.0.0-20210526-0
+! TimeUpdated: 2021-05-26T00:42:26+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -921,6 +921,7 @@
 ||1.cjcp.cn
 ||1.click.com.cn
 ||1.cms.s81c.com
+||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -5171,7 +5172,6 @@
 ||43c55.com
 ||43d1b890f453d12d1e361ba6ecf71e65.dl.txcdns.com
 ||43img.com
-||43xt.com
 ||43zhubao.com
 ||442zb.com
 ||4433ad3f7624c10275940b6c9b054fbb.dlied1.cdntips.net
@@ -8373,7 +8373,6 @@
 ||7kzw.com
 ||7littlemen.com
 ||7liwu.com
-||7lizhi.com
 ||7lk.com
 ||7lw.com
 ||7m1030.tdum.alibaba.com
@@ -10430,7 +10429,6 @@
 ||a21fs.com
 ||a21yishion.com
 ||a22345.51sole.com
-||a2397.oadz.com
 ||a278ea87.51cto.com.cname.yunduns.com
 ||a2dongman.com
 ||a2p-s01-drcn.cloud.dbankcloud.cn
@@ -10840,6 +10838,7 @@
 ||account.synology.cn
 ||account.umeng.com
 ||account.wps.cn
+||account.xiaomi.com
 ||account.youdao.com
 ||account.youku.com
 ||account.zhihu.com
@@ -11951,6 +11950,7 @@
 ||aicdn.com
 ||aicdn2.com
 ||aicdn4.com
+||aicdn5.com
 ||aichagu.com
 ||aichaicp.com
 ||aichaoxing.com
@@ -12855,7 +12855,6 @@
 ||allwinnertech.com
 ||allwinso.com
 ||allyes.com
-||allyes.com.cn
 ||allyes.net
 ||allyingshi.com
 ||allystar.com
@@ -13623,6 +13622,7 @@
 ||api.3839app.com
 ||api.557400.com
 ||api.5hte21mz.com
+||api.account.xiaomi.com
 ||api.ad.xiaomi.com
 ||api.ad.yipinread.com
 ||api.adbana.com
@@ -13699,7 +13699,6 @@
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
-||api.geetest.com
 ||api.gi.igexin.com
 ||api.gotokeep.com
 ||api.growingio.com
@@ -13773,6 +13772,7 @@
 ||api.meituan.com
 ||api.mengtuiapp.com
 ||api.merro.xyz
+||api.micloud.xiaomi.net
 ||api.microyan.com
 ||api.middle.transfer.search.miui.com
 ||api.mini.wps.cn
@@ -15073,7 +15073,6 @@
 ||awake-stats.jpush.cn
 ||awaken.amap.com
 ||awaken.amap.com.gds.alibabadns.com
-||awaker.hk
 ||awaker.net
 ||awaysoft.com
 ||awbang.com
@@ -15151,7 +15150,6 @@
 ||axzlk.com
 ||ay57.com
 ||ay99.net
-||aya1.xyz
 ||aycav.com
 ||ayfdc.com
 ||ayfy.com
@@ -18170,7 +18168,6 @@
 ||bokeboke.net
 ||bokecc.com
 ||bokecs.net
-||bokee.allyes.com
 ||bokee.com
 ||bokee.net
 ||bokerb.com
@@ -18407,6 +18404,7 @@
 ||bqg26.com
 ||bqg5.cc
 ||bqg8.cc
+||bqg8.la
 ||bqiapp.com
 ||bqimg.com
 ||bql999.com
@@ -18935,6 +18933,7 @@
 ||bytebye.com
 ||bytecdn.cn
 ||bytecdn.com
+||bytecdntp.com
 ||byted-static.com
 ||byted.org
 ||bytedance.com
@@ -20411,6 +20410,7 @@
 ||cdn.cnbj1.fds.api.mi-img.com
 ||cdn.console.aliyun.com
 ||cdn.convergemob.com
+||cdn.cytivalifesciences.com.cn
 ||cdn.data.video.iqiyi.com
 ||cdn.data.video.ptqy.gitv.tv
 ||cdn.dcloud.net.cn
@@ -21213,6 +21213,7 @@
 ||channel.fanxing.kugou.com
 ||channel.hitouch.hicloud.com
 ||channel.kandian.qq.com
+||channel.m.163.com
 ||channel.vaptcha.net
 ||channel.vaptcha.net.w.cdngslb.com
 ||channel2-account-ssl.xunlei.com
@@ -24444,7 +24445,6 @@
 ||cnys.com
 ||cnyu.com
 ||cnyugan.com
-||cnyuheng.net
 ||cnyuming.com
 ||cnyunwei.com
 ||cnyw.net
@@ -24721,7 +24721,6 @@
 ||com-youku.net
 ||com.cn
 ||com.fi
-||com.hunlaife.cn
 ||com.tv
 ||com21.com
 ||com4loves.com
@@ -24893,6 +24892,7 @@
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
 ||conn1.oppomobile.com
+||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
 ||connc.gj.qq.com
@@ -25436,7 +25436,6 @@
 ||cqslsc.com
 ||cqsms.net
 ||cqsoft.org
-||cqsto.com
 ||cqsxedu.com
 ||cqsy.org
 ||cqt8.com
@@ -26728,6 +26727,7 @@
 ||d9.sinaimg.cn
 ||d959c33da1b7a55b8b5e10f902512b35.dlied1.cdntips.net
 ||d97b3956e88f47d54d10499f0ca8b01e.safeframe.googlesyndication.com
+||d9917.com
 ||da-qian.com
 ||da-quan.net
 ||da.2000888.com
@@ -31613,6 +31613,7 @@
 ||easemob.com
 ||easerun.com
 ||easesale.com
+||easeslb.com
 ||easetuner.com
 ||easeus.com
 ||easeyedelivery.com
@@ -34093,7 +34094,6 @@
 ||feedback-system.webapp.163.com
 ||feedback.aliexpress.com
 ||feedback.amsproxy.qq.com
-||feedback.cn.ronghub.com
 ||feedback.zhangle.com
 ||feedflpc.jomodns.com
 ||feedfreev6.jomodns.com
@@ -35001,6 +35001,7 @@
 ||fontke.com
 ||fonts-gstatic.wp-china-yes.net
 ||fonts-gstatic.yecdn.com
+||fonts.geekzu.org
 ||fonts.googleapis.com
 ||fonts.gstatic.com
 ||fonts.yecdn.com
@@ -35377,6 +35378,7 @@
 ||ftoul.com
 ||ftp-idc.pconline.com.cn
 ||ftp.pconline.com.cn
+||ftp.pet
 ||ftp6399077.host205.sanfengyun.cn
 ||ftqq.com
 ||ftrsit.com
@@ -35677,6 +35679,7 @@
 ||fy027.com
 ||fy169.net
 ||fy558.com
+||fy685.com
 ||fy98.com
 ||fybanks.com
 ||fybiji.com
@@ -36137,6 +36140,7 @@
 ||ganggeban123.com
 ||ganggg.com
 ||ganghaowang.com
+||ganglonggou.com
 ||gangpaibao.com
 ||gangpiaoquan.com
 ||gangqinpu.com
@@ -36199,6 +36203,7 @@
 ||gaofenplatform.com
 ||gaoguai.com
 ||gaoguang.com
+||gaoguangcn.com
 ||gaogulou.com
 ||gaohaipeng.com
 ||gaohangip.com
@@ -36822,6 +36827,7 @@
 ||gfvip09an.com
 ||gfvip09aq.com
 ||gfvip09at.com
+||gfwiki.org
 ||gfwsl.geforce.cn
 ||gfxaa.com
 ||gfxcamp.com
@@ -41521,7 +41527,6 @@
 ||hnmsw.com
 ||hnmuseum.com
 ||hnmyyz.com
-||hnnuange.com
 ||hnnx.com
 ||hnnxs.com
 ||hnnzwhyy.com
@@ -41558,6 +41563,7 @@
 ||hntobacco.com
 ||hntv.tv
 ||hntvjiaotong.com
+||hnweimeng.net
 ||hnwisecom.com
 ||hnwlcm.com
 ||hnwlxh.net
@@ -43728,7 +43734,6 @@
 ||i360mall.com
 ||i3done.com
 ||i3dpworld.com
-||i3ds.fun
 ||i3dy0ee7.sched.sma.tdnsv5.com
 ||i3geek.com
 ||i3gt.com
@@ -44469,6 +44474,7 @@
 ||ifenghui.com
 ||ifengimg.com
 ||ifenglian.com
+||ifengniao.net
 ||ifengo.com
 ||ifengpai.com
 ||ifengtui.com
@@ -44659,6 +44665,7 @@
 ||ihwrm.com
 ||ihx.cc
 ||ihxlife.com
+||ihykb.com
 ||ihypo.net
 ||ihzzy.com
 ||ii.cc
@@ -46107,6 +46114,7 @@
 ||interface.im.taobao.com
 ||interface.sina.cn
 ||interface2.mxingkong.com.cn
+||interface3.music.163.com
 ||interface3.music.163.com.163jiasu.com
 ||internal-amis-res.cdn.bcebos.com
 ||internal-api-security.feishu.cn
@@ -48521,6 +48529,7 @@
 ||jinzhuguo.com
 ||jinzjy.com
 ||jinzunjy.com
+||jioluo.com
 ||jiongcun.com
 ||jiongdm.com
 ||jiongji.com
@@ -49829,6 +49838,7 @@
 ||jumore.com
 ||jumorenews.com
 ||jump.alibaba.com
+||jump.ishop789.com
 ||jump.luna.58.com
 ||jump.taobao.com
 ||jump1.pszyzxh.org
@@ -51051,6 +51061,7 @@
 ||kfd3sm2c.com
 ||kfd9999.com
 ||kfdcc.com
+||kfhmyy.com
 ||kfj.cc
 ||kfqrc.com
 ||kfrsrcw.com
@@ -52091,6 +52102,7 @@
 ||kwstr.com
 ||kwting.com
 ||kwtzn.com
+||kwurl.ucweb.com
 ||kwx.gd
 ||kwxjh.net
 ||kx001.com
@@ -54600,6 +54612,7 @@
 ||log.51cto.com
 ||log.9wuli.com
 ||log.ad.xiaomi.com
+||log.avlyun.com
 ||log.bitauto.com
 ||log.bol.wo.cn
 ||log.china.cn
@@ -54784,7 +54797,6 @@
 ||lokyi.name
 ||lol-data-filter.wegame.com.cn
 ||lol-wegame-client-1258344700.file.myqcloud.com
-||lol.17173.com
 ||lol.aci.game.qq.com
 ||lol.ams.game.qq.com
 ||lol.qq.com
@@ -55608,6 +55620,7 @@
 ||lxway.com
 ||lxway.net
 ||lxws.net
+||lxxh1.com
 ||lxxm.com
 ||lxy.me
 ||lxy520.net
@@ -55986,7 +55999,6 @@
 ||m.qidian.qq.com
 ||m.qiremanhua.com
 ||m.qpic.cn
-||m.qulishi.com
 ||m.quxiangkeji.cn
 ||m.qy.net
 ||m.qzone.com
@@ -56150,7 +56162,6 @@
 ||m2.static.yximgs.com.w.cdngslb.com
 ||m2017.doyo.cn
 ||m2017.doyo.cn.wswebpic.com
-||m2374.oadz.com
 ||m2ez.com
 ||m2mzy.com
 ||m3.map.gtimg.com
@@ -56392,7 +56403,6 @@
 ||mail.tsinghua.edu.cn
 ||mail.vip.jsbc.com
 ||mail.wo.cn
-||mail.yeah.net
 ||mail163.com
 ||maila88.com
 ||mailatuan.net
@@ -60488,7 +60498,6 @@
 ||ncyinghuochong.net
 ||ncyunqi.com
 ||nczfj.com
-||nczld.com
 ||nd.mdfull.com
 ||nd090.com
 ||nd15.com
@@ -61440,7 +61449,6 @@
 ||nodejs999.com
 ||nodekey.com
 ||nodepacific.com
-||nodetoo.com
 ||nodeyun.video.qq.com
 ||nohken-sdy.com
 ||nohup.cc
@@ -68719,7 +68727,6 @@
 ||quanji.com
 ||quanji.la
 ||quanji.net
-||quanji360.com
 ||quanji55.com
 ||quanjiao.net
 ||quanjing.cnzz.com
@@ -69321,7 +69328,6 @@
 ||qz930.com
 ||qz96811.com
 ||qzact.qzone.qq.com
-||qzamfz.com
 ||qzapp.qlogo.cn
 ||qzbbs.com
 ||qzbigstone.com
@@ -71079,7 +71085,6 @@
 ||s.zixuntop.com
 ||s.zlongad.com
 ||s.zol-img.com.cn
-||s.zp0573.cn
 ||s0-img.huxiucdn.com
 ||s0.2mdn.net
 ||s0.ifengimg.com
@@ -71134,7 +71139,6 @@
 ||s1.sonkwo.com
 ||s1.sonkwo.hk
 ||s1.ssl.qhimg.com
-||s1.ssl.qhres.com
 ||s1.ssl.qhres2.com
 ||s1.stat.lianmeng.360.cn
 ||s1.tansuotv.com
@@ -74709,6 +74713,7 @@
 ||sky-deep.com
 ||sky-fire.com
 ||sky-planning.net
+||sky.mohurd.gov.cn
 ||sky.news.sina.com.cn
 ||sky.nfcos.cn
 ||sky.vip.youku.com
@@ -75774,7 +75779,6 @@
 ||src.leju.com
 ||src.onlinedown.net
 ||src.sr
-||src.zf313.com
 ||srcb.com
 ||srcbcz.com
 ||srcmini.com
@@ -77510,7 +77514,6 @@
 ||sywgy.com
 ||syxcn.com
 ||syxj.net
-||syxlhw.com
 ||syyim.com
 ||syys8.com
 ||syyx.com
@@ -78229,7 +78232,6 @@
 ||tajubao.com
 ||tajyw.net
 ||takefoto.cn
-||takeinblue.com
 ||takeitem.com
 ||taksh.cn
 ||takungpao.com
@@ -78306,7 +78308,6 @@
 ||tangjiu.com
 ||tangkx.com
 ||tanglei.name
-||tanglue.co
 ||tangmi.net
 ||tangobrowser.net
 ||tangongye.com
@@ -79671,6 +79672,7 @@
 ||times-asia.com
 ||timesaward.dftoutiao.com
 ||timesawards.com
+||timesdf-hn.com
 ||timeserver.cnzz.net
 ||timeso.cc
 ||timetw.com
@@ -80169,7 +80171,6 @@
 ||tonehk.com
 ||tonewinner.com
 ||tong.fang.anjuke.com
-||tongbaigong.org
 ||tongbanjie.com
 ||tongbanjie.info
 ||tongbaoyun.com
@@ -87119,7 +87120,6 @@
 ||wn-x.jd.com.gslb.qianxun.com
 ||wn.pos.baidu.com
 ||wn.pos.e.shifen.com
-||wn.x.jd.com
 ||wn1998.com
 ||wn3331.com
 ||wn51.com
@@ -88288,6 +88288,7 @@
 ||www.cmsky.com
 ||www.cmstop.com
 ||www.cn-eh.com
+||www.cn.tradetech.net
 ||www.cn5135.com
 ||www.cnblogs.com
 ||www.cncc7.com
@@ -91561,7 +91562,6 @@
 ||xn--nyw032beqlm2f.net
 ||xn--rss99n.com
 ||xn--s4t325g.com
-||xn--tt-rv2cuk223byodtx8f.com
 ||xn--vhquvr92a7u1b.com
 ||xn--wlqw5ebvdhpi5hepihs3c.com
 ||xn--wxt79hbyb675a.online
@@ -91809,7 +91809,6 @@
 ||xsyqmztg.com
 ||xsyushan.com
 ||xsyxsc.com
-||xszedu.com
 ||xszp.cc
 ||xszrcw.com
 ||xszww.com
@@ -98793,7 +98792,6 @@
 ||yuanjisong.com
 ||yuanjoy.com
 ||yuanlai.com
-||yuanlai521.com
 ||yuanlian365.com
 ||yuanliao.info
 ||yuanlin.com
@@ -102872,6 +102870,7 @@
 ||zymxp.com
 ||zynh.org
 ||zyoffice.com
+||zyoogame.com
 ||zyops.com
 ||zyou100.com
 ||zyoung.me
