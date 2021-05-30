@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMjI1MDA0Ngo=
+! Checksum: MTYyMjMzNjgxNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210529-0
-! TimeUpdated: 2021-05-29T01:00:46+00:00
+! Version: 1.0.0-20210530-0
+! TimeUpdated: 2021-05-30T01:06:55+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -936,6 +936,7 @@
 ||1.mgff.com
 ||1.mm100.com
 ||1.nanrenwo.net
+||1.pic.paopaoche.net
 ||1.pic.pc6.com
 ||1.pncdn.cn
 ||1.proewildfire.cn
@@ -983,7 +984,6 @@
 ||10000tc.com
 ||10000yao.com
 ||10001wan.com
-||100024.xyz
 ||1000414.hybrid.miniapp.taobao.com
 ||10006.info
 ||1000ci.net
@@ -8772,7 +8772,6 @@
 ||866lvyou.com
 ||866wn.com
 ||8671.net
-||86722.com
 ||8673h.com
 ||867game.com
 ||867wn.com
@@ -13761,6 +13760,7 @@
 ||api.meituan.com
 ||api.mengtuiapp.com
 ||api.merro.xyz
+||api.micloud.xiaomi.net
 ||api.microyan.com
 ||api.middle.transfer.search.miui.com
 ||api.mini.wps.cn
@@ -14243,7 +14243,6 @@
 ||appleadstech.com
 ||applebl.com
 ||applecsb.crm.189.cn
-||applecx.com
 ||applehunt.com
 ||appletuan.com
 ||applex.net
@@ -18101,7 +18100,6 @@
 ||boblog.com
 ||bobo.163.com
 ||bobo.com
-||bobobd.com
 ||bobopic.com
 ||bobopos.com
 ||bobosays.com
@@ -23761,7 +23759,6 @@
 ||cn.launcher.battlenet.com.cn
 ||cn.linkedin.com
 ||cn.made-in-china.com
-||cn.mclean.50union.com
 ||cn.msi.com
 ||cn.mvconf.50union.com
 ||cn.net
@@ -27295,7 +27292,6 @@
 ||dashentv.com
 ||dashenxiaoshuo.com
 ||dashet.com
-||dasheyuan.com
 ||dashgame.com
 ||dashi.com
 ||dashikou.com
@@ -27353,7 +27349,6 @@
 ||data.wuseng.net
 ||data.xiaoheihe.cn
 ||data.xxt.aichaoxing.com
-||data.yd126.com
 ||data2.itv.ptqy.gitv.tv
 ||data380.com
 ||data6.video.iqiyi.com
@@ -28692,7 +28687,6 @@
 ||diershoubing.com
 ||dietfd.com
 ||difanapp.com
-||dig.bdurl.net
 ||dig.qbao.com
 ||dig.zjurl.cn
 ||digbo.org
@@ -31213,7 +31207,6 @@
 ||dylc.com
 ||dylxx.net
 ||dyly.com
-||dymi.cc
 ||dyn.ithome.com
 ||dyn.wps.cn
 ||dynacw.com.cn
@@ -31414,7 +31407,6 @@
 ||e.kuaishou.com
 ||e.poonscn.com
 ||e.qiaoyuwang.com
-||e.qj10b.cn
 ||e.qq.com
 ||e.so.com
 ||e.sogou.com
@@ -34807,6 +34799,7 @@
 ||floverow.com
 ||flow.10010.com
 ||flow.ci
+||flow.dmall.com
 ||flow.qq.com
 ||flow.wps.cn
 ||flowbet365.com
@@ -37973,6 +37966,7 @@
 ||gss0.baidu.com
 ||gss0.bdstatic.com
 ||gss3.bdstatic.com
+||gssdlv.com
 ||gssdsj.com
 ||gssfgk.com
 ||gsstaf.com
@@ -40057,7 +40051,6 @@
 ||hbwhrd.org
 ||hbwjs.com
 ||hbwlyh.com
-||hbwust.com
 ||hbww.org
 ||hbxdf.com
 ||hbxhxkj.com
@@ -41177,6 +41170,7 @@
 ||hk.jtsh123.com
 ||hk.lianjia.com
 ||hk.linkedin.com
+||hk.pool.ntp.org
 ||hk.preview.ftn.qq.com
 ||hk.uwenku.com
 ||hk.uy
@@ -43626,6 +43620,7 @@
 ||i.mairuan.com
 ||i.meituan.com
 ||i.mhwsw.com
+||i.mi.com
 ||i.mid.tdnsv6.com
 ||i.mmcdn.cn
 ||i.mooc.chaoxing.com
@@ -47414,7 +47409,6 @@
 ||jc.zu.anjuke.com
 ||jc001.cn
 ||jc0531.com
-||jc1.dayfund.cn
 ||jc170.com
 ||jc315.com
 ||jc35.com
@@ -56146,6 +56140,7 @@
 ||m3avko1.cachenode.cn
 ||m3guo.com
 ||m3u8.live.video.ptqy.gitv.tv
+||m3ws.kugou.com
 ||m4.lefile.cn
 ||m4.lefile.cn.cdn20.com
 ||m4.mogu66.com
@@ -58521,7 +58516,6 @@
 ||mlzcn.com
 ||mm.365dmp.com
 ||mm.anqu.com
-||mm.awrsx.cn
 ||mm.cc
 ||mm.com
 ||mm.jbzj.com
@@ -59017,6 +59011,7 @@
 ||moooc.cc
 ||mooooc.com
 ||moootooo.com
+||moorburn.com
 ||moore.live
 ||moore.ren
 ||moore8.com
@@ -62136,7 +62131,6 @@
 ||oimagec6.ydstatic.com
 ||oimagec7.ydstatic.com
 ||oimagec8.ydstatic.com
-||oipapio.com
 ||oiuwe.com
 ||oj3y7wx427mfa02u.aliyunddos1026.com
 ||ok-meeting.com
@@ -68894,7 +68888,6 @@
 ||quote.51.la
 ||quote.eastmoney.com
 ||quotes.money.163.com
-||qupai.me
 ||qupaibei.com
 ||qupaicloud.com
 ||qupeiyin.com
@@ -71508,7 +71501,6 @@
 ||sanjiasoft.com
 ||sanjieke.com
 ||sanjinjiake.com
-||sanjueyaluosi.com
 ||sanjun.com
 ||sankaijian.com
 ||sankgo.com
@@ -73925,7 +73917,6 @@
 ||shuashuaapp.com
 ||shuazhibo.com
 ||shubao201.com
-||shubao29.com
 ||shubao95.com
 ||shubulo.com
 ||shubuzi.com
@@ -76476,7 +76467,6 @@
 ||stats.yinyuetai.com
 ||stats2.unicompayment.com
 ||statsonline.pushct.baidu.com
-||status.blueskyxn.com
 ||status.qiekj.com
 ||statwup.huya.com
 ||staycu.com
@@ -76625,7 +76615,6 @@
 ||storyboardworld.com
 ||storyday.com
 ||storyren.com
-||storysec.com
 ||stourweb.com
 ||stovol.club
 ||stoyard.com
@@ -77193,6 +77182,7 @@
 ||swiftmi.com
 ||swiftstar.net
 ||swijoy.com
+||swisswalls.com
 ||switch.pcfg.cache.wpscdn.cn
 ||swjack.com
 ||swjinsheng.com
@@ -90225,6 +90215,7 @@
 ||xiaohongchun.com
 ||xiaohongdian.wang
 ||xiaohongshu.com
+||xiaohongshulvyou.com
 ||xiaohuabaichu.com
 ||xiaohuabuluo.com
 ||xiaohuai.com
@@ -91883,7 +91874,6 @@
 ||xueche8.com
 ||xuechebu.com
 ||xuechela.com
-||xuechenlei.com
 ||xueda.com
 ||xuedi.com
 ||xuedong97.com
@@ -99676,7 +99666,6 @@
 ||yzs.com
 ||yzspdq.com
 ||yzsqxx.com
-||yzssc.net
 ||yzt-tools.com
 ||yztcdn.com
 ||yztown.club
