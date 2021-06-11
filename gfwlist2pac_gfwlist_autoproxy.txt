@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyMzI4NTAzOQo=
+! Checksum: MTYyMzM3MTI3OAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210610-0
-! TimeUpdated: 2021-06-10T00:30:39+00:00
+! Version: 1.0.0-20210611-0
+! TimeUpdated: 2021-06-11T00:27:58+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -972,7 +972,6 @@
 ||187f7deefc81732e7115b0cbe59957c0.clo.footprintdns.com
 ||188226.com
 ||188522.com
-||1885888.com
 ||188685.com
 ||1888810.com
 ||188982.com
@@ -1298,6 +1297,7 @@
 ||2.speedknow.co
 ||2.tlu.dl.delivery.mp.microsoft.com
 ||2.top4top.io
+||2.tuxi.com.cn
 ||20-courier.push.apple.com
 ||20-courier2.push.apple.com
 ||20-fahrten-bahn.de
@@ -1474,7 +1474,6 @@
 ||22afcp.com
 ||22find.com
 ||22gg940.com
-||22jinsha.com
 ||22l54sjb9226u1m2.aliyunddos0026.com
 ||22leto.com
 ||22letou.com
@@ -2909,7 +2908,6 @@
 ||5ijo.01net.com
 ||5ily.com
 ||5isotoi5.org
-||5jcom.com.cn
 ||5kk.am
 ||5kli.r5.cr.rs
 ||5kyh.56.flnet.org
@@ -7249,7 +7247,6 @@
 ||ads.pfl.ua
 ||ads.phim47.com
 ||ads.phimhp.com
-||ads.phimvang.org
 ||ads.phpclasses.org
 ||ads.phunuonline.com.vn
 ||ads.phunusuckhoe.vn
@@ -9650,7 +9647,6 @@
 ||analogjoe.com
 ||analy1.dtnnetwork.be
 ||analyse.bcovery.com
-||analysis.afreecatv.com
 ||analysis.fc2.com
 ||analysis.polarisoffice.com
 ||analysis.torrenthaja7.com
@@ -10526,7 +10522,6 @@
 ||aphjor.welovepuzzle.ro
 ||api-2-0.spot.im
 ||api-3-0-0.twitter.com
-||api-a.op-mobile.opera.com
 ||api-adservices.apple.com
 ||api-analytics-bootstrap.metaps.com
 ||api-analytics.metaps.com
@@ -10638,7 +10633,6 @@
 ||api.codacy.com
 ||api.codeclimate.com
 ||api.coinerra.com
-||api.comm.miui.com
 ||api.company-target.com
 ||api.cookielaw-script.it
 ||api.cookielaw.eu
@@ -11083,7 +11077,6 @@
 ||appcloudcdn.com
 ||appconsent.io
 ||appcontent.serif.com
-||appdl-1-drcn.dbankcdn.com
 ||appdownload.qm2500.com
 ||appdownloader.net
 ||appdynamics.co.uk
@@ -16717,7 +16710,6 @@
 ||bodybybtl.com
 ||bodycote.com
 ||bodyfluids-jav.com
-||bodylistener-hk.com
 ||boehringer-ingelheim.ca
 ||boehringer-ingelheim.com
 ||boehringer-ingelheim.de
@@ -18516,7 +18508,6 @@
 ||ca488.com
 ||ca5066.com
 ||ca515.com
-||ca518.com
 ||ca538.com
 ||ca5566.com
 ||ca559.com
@@ -23395,7 +23386,6 @@
 ||core.gcp.vip.tantanapp.com
 ||core.royalads.net
 ||core.spreedly.com
-||core.tantanapp.com
 ||core.unit-sense.net
 ||core.vnecdn.com
 ||core3.proxyswitcher.com
@@ -23450,7 +23440,6 @@
 ||corporate.mattamyhomes.com
 ||corporatecashpassport.com
 ||corporateforms.americanexpress.com
-||corporatemarketing.smu.edu.sg
 ||corporationmicrosoft.duckdns.org
 ||corpr-es-1.net.daraz.com
 ||corpyancancook.net.daraz.com
@@ -23546,6 +23535,7 @@
 ||count18.51yes.com
 ||count5.51yes.com
 ||count6.51yes.com
+||count7.51yes.com
 ||counter-strike.net
 ||counter.123counts.com
 ||counter.1gb.ru
@@ -29465,7 +29455,6 @@
 ||e-wok.tv
 ||e-words.jp
 ||e-zone.com.hk
-||e.53trya.cn
 ||e.60sk.ru
 ||e.7clink.com
 ||e.ailix.cn
@@ -35706,7 +35695,6 @@
 ||freevpnservers.com
 ||freevpnsoftware.net
 ||freevpnss.com
-||freevpnssh.com
 ||freevpnusa.com
 ||freevpnworld.com
 ||freewallpaper4.me
@@ -37514,10 +37502,8 @@
 ||gg.benbenlong.xyz
 ||gg.bet
 ||gg.btnk024.com
-||gg.eeload.com
 ||gg.egouz.com
 ||gg.icad.ae.org
-||gg.jkmeishi.com
 ||gg.pl
 ||gg168.xyz
 ||gg2.dss9927.com
@@ -37829,6 +37815,7 @@
 ||glennhilton.com
 ||gleventslive.com.br
 ||glextv.com
+||glg.uu.163.com
 ||glide.com
 ||glide.org
 ||glideapps.com
@@ -41746,7 +41733,6 @@
 ||hammer-europe.com
 ||hammer.de
 ||hammer.net
-||hamptoroads.com
 ||hamropatro.com
 ||hamster.darkbit.io
 ||hamza1366.hopto.org
@@ -41800,7 +41786,6 @@
 ||haoli777.net
 ||haoli797.com
 ||haomou.net
-||haonic.net
 ||haopianw5.com
 ||haoqupu.com
 ||haosf999.com
@@ -47426,7 +47411,6 @@
 ||ipalter.com
 ||ipan.klxq.icu
 ||ipapi.tmbi.com
-||ipaylike.com
 ||ipbc.crypto-webminer.com
 ||ipc.org
 ||ipcamouflage.com
@@ -49045,7 +49029,6 @@
 ||jjj112.net
 ||jjj626.net
 ||jjptr.com
-||jjqyk.com
 ||jjshouse.com
 ||jjshouse.fr
 ||jjtang.com
@@ -49143,7 +49126,6 @@
 ||jochen-hoenicke.de
 ||jochen-schweizer.de
 ||jochgvofd.a0001.net
-||joci.net
 ||jockesnusk.duckdns.org
 ||jockey.com
 ||jody0sora.com
@@ -49390,6 +49372,7 @@
 ||js.gewuwen.com
 ||js.goods.redtram.com
 ||js.gumgum.com
+||js.haoxyx.com
 ||js.hs-analytics.net
 ||js.hs-banner.com
 ||js.hs-scripts.com
@@ -52609,7 +52592,6 @@
 ||lingxiu98.com
 ||linicom.co.il
 ||linicom.co.uk
-||lining888.com
 ||link-o-rama.com
 ||link.admin.kodakmoments.com
 ||link.afterpay.com
@@ -52906,7 +52888,6 @@
 ||liuruiyi.com
 ||liuxiaobo.net
 ||liuxue.stellour.com
-||liuxueban.org
 ||liuzheyuan.com
 ||liuzhixiong.top
 ||live-cams-1.livejasmin.com
@@ -53790,7 +53771,6 @@
 ||ltbjeans.com
 ||ltcmak.alodokter.com
 ||ltdcommodities.com
-||ltdcr.hk
 ||ltdhunt.com
 ||ltecrf.dhgate.com
 ||ltgplc.com
@@ -54089,7 +54069,6 @@
 ||m.7ou7ou.com
 ||m.90mh.com
 ||m.918.com
-||m.9r48f.cn
 ||m.a5188yes.com
 ||m.aak90.com
 ||m.acgcd.com
@@ -54225,7 +54204,6 @@
 ||m.kencorp.co.jp
 ||m.khuoy.com
 ||m.kjhfy.com
-||m.kyxnz.cn
 ||m.laoqu123.com
 ||m.lengren.com.cn
 ||m.lesanmo.top
@@ -54260,7 +54238,6 @@
 ||m.msujd.cn
 ||m.mth02.com
 ||m.muyuge.com
-||m.mxguan.com
 ||m.myfreecams.com
 ||m.mysports98.com
 ||m.mysty.com.cn
@@ -54521,7 +54498,6 @@
 ||macbookpro.net
 ||macbookpro.us
 ||macbookpros.com
-||macbooksale.com
 ||macboxset.com
 ||maccms.com
 ||macdonaldlaurier.ca
@@ -59890,7 +59866,6 @@
 ||mscom.demdex.net
 ||mscomajax.vo.msecnd.net
 ||mscrl.microsoft.com
-||mscs.svaeuzh.cn
 ||msdkcoll.emarbox.com
 ||msdn-uxservice-prod-wus.azurewebsites.net
 ||msdn.com
@@ -61024,7 +60999,6 @@
 ||nautiluslib-oa-1.net.daraz.com
 ||nautilusr-ln-1.net.daraz.com
 ||nauu66.com
-||nav.cn.ronghub.com
 ||nav.dj0020.com
 ||nav.djin09.com
 ||nav.jbb0016.com
@@ -61916,7 +61890,6 @@
 ||ngensis.com
 ||ngeo.com
 ||nghenhinvietnam.vn
-||nginfo.industrialinfo.com
 ||nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 ||nginx-k8s.elstc.co
 ||nginx-nfreya.net.daraz.com
@@ -62188,7 +62161,6 @@
 ||nikkei.co.jp
 ||nikkei.com
 ||nikkisixx.net
-||niko-kp.com
 ||nikomo.fi
 ||nikoninst.com
 ||nikotsu.000webhostapp.com
@@ -68120,7 +68092,6 @@
 ||plausible.play.date
 ||plausible.prod.sketch.com
 ||plausible.promlabs.com
-||plausible.punchfork.com
 ||plausible.rachel.systems
 ||plausible.regex.help
 ||plausible.resilienz-kongress.de
@@ -70114,6 +70085,7 @@
 ||public.wmo.int
 ||publicaffairsbooks.com
 ||publicagent.com
+||publicassets.cdn-apple.com
 ||publications.nomination.fr
 ||publicbroadcasting.net
 ||publicidad.elmundo.es
@@ -71654,7 +71626,6 @@
 ||r6---sn-un57en7e.googlevideo.com
 ||r6---sn-vgqsdn7s.googlevideo.com
 ||r6.galya.ru
-||r6sb.com
 ||r7.com
 ||r8877.com
 ||r9---sn-n8v7kn7d.googlevideo.com
@@ -71946,7 +71917,6 @@
 ||raycast.app
 ||raycast.com
 ||rayer.idv.tw
-||rayfilead.roxcdn.com
 ||raygun.io
 ||rayjump.com
 ||rayloo.com
@@ -74010,7 +73980,6 @@
 ||s.blinds.com
 ||s.boom.ro
 ||s.brightspace.com
-||s.c-ctrip.com
 ||s.c.appier.net
 ||s.cadent.bloomberglaw.com
 ||s.cameratico.com
@@ -77790,7 +77759,6 @@
 ||sjsu.edu
 ||sjtujr.com
 ||sjxxhtlm.gain.tw
-||sjy-stone.com.cn
 ||sjy002.jigsy.com
 ||sjy003.jigsy.com
 ||sjyskm.litres.ru
@@ -82007,7 +81975,6 @@
 ||stat.optad360.mgr.consensu.org
 ||stat.ouedkniss.com
 ||stat.pl
-||stat.pladform.ru
 ||stat.pravmir.ru
 ||stat.prawo.pl
 ||stat.profinfo.pl
