@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyNTg3Njg1MAo=
+! Checksum: MTYyNTk2MzM2MQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210710-0
-! TimeUpdated: 2021-07-10T00:27:30+00:00
+! Version: 1.0.0-20210711-0
+! TimeUpdated: 2021-07-11T00:29:21+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -898,6 +898,7 @@
 ||1-yuan.net
 ||1.01fy.cn
 ||1.07swz.com
+||1.07swz.com.cname756.yjs-cdn.com
 ||1.1010pic.com
 ||1.11467.com
 ||1.5000yan.com
@@ -909,7 +910,6 @@
 ||1.92caijing.com
 ||1.aili.com
 ||1.arpun.com
-||1.asia.pool.ntp.org
 ||1.bashenghuo.com
 ||1.cjcp.cn
 ||1.click.com.cn
@@ -10679,7 +10679,6 @@
 ||ac.jice.io
 ||ac.mmstat.com
 ||ac.o2.qq.com
-||ac.zxh.la
 ||ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ||ac1.pingpingw.com
 ||ac14f0de04fdcd4a-cl2.qcloudcjgj.com
@@ -18811,6 +18810,7 @@
 ||bzfwq.com
 ||bzfxw.com
 ||bzgame.apk4399.com
+||bzgame.cc
 ||bzgd.com
 ||bzkad.com
 ||bzko.com
@@ -19711,7 +19711,6 @@
 ||cc-i.gridsumdissector.com
 ||cc.anjuke.com
 ||cc.co
-||cc.dace.hupu.com
 ||cc.m.jd.com
 ||cc.maotuying.com
 ||cc.map.qq.com
@@ -28446,6 +28445,7 @@
 ||diershoubing.com
 ||dietfd.com
 ||difanapp.com
+||dig.bdurl.net
 ||dig.qbao.com
 ||dig.zjurl.cn
 ||digbo.org
@@ -29109,7 +29109,6 @@
 ||dmread.com
 ||dmrtb.com
 ||dms63.he3kz8.com
-||dmsjiaoyu.com
 ||dmssc.net
 ||dmtg.com
 ||dmtracking.1688.com
@@ -30532,7 +30531,6 @@
 ||duoqu.com
 ||duorenwei.com
 ||duorou.com
-||duoroumao.cn
 ||duosai.com
 ||duose.com
 ||duosenfashion.com
@@ -31840,6 +31838,7 @@
 ||ee-skin.com
 ||ee-vip.net
 ||ee.hx623.cn
+||ee.m19ud.cn
 ||ee.u0r9.cn
 ||ee.xfya3.cn
 ||ee.yg10x.cn
@@ -31948,7 +31947,6 @@
 ||eflybird.com
 ||eflycloud.com
 ||eflydns.net
-||eflyingfire.com
 ||efmac.org
 ||efnchina.com
 ||efotile.com
@@ -34707,7 +34705,6 @@
 ||fohee.net
 ||fokan88.com
 ||folieyun.com
-||folkw.com
 ||foloda.com
 ||folou.com
 ||fomen123.com
@@ -34989,6 +34986,7 @@
 ||freshnewsnet.com
 ||frhelper.com
 ||friendeye.com
+||friends-public-service-prod06.ol.epicgames.com
 ||fright-tattoo.com
 ||fringe-zero.com
 ||friok.com
@@ -35689,6 +35687,7 @@
 ||galgame.cc
 ||galiaoba.com
 ||galitv.alicdn.com
+||galleon.dmall.com
 ||galleryapi.micloud.xiaomi.net
 ||galleryfaceapi.micloud.xiaomi.net
 ||gallerysearchapi.micloud.xiaomi.net
@@ -36539,7 +36538,6 @@
 ||gfvip09an.com
 ||gfvip09aq.com
 ||gfvip09at.com
-||gfwiki.org
 ||gfwsl.geforce.cn
 ||gfxaa.com
 ||gfxcamp.com
@@ -38239,7 +38237,6 @@
 ||gwyzk.com
 ||gwzwfw.com
 ||gx-newmedia.com
-||gx.a.yximgs.com
 ||gx.gsxt.gov.cn
 ||gx34.com
 ||gx79.com
@@ -41031,7 +41028,6 @@
 ||hly.com
 ||hlybar.com
 ||hlytec.com
-||hlyy.cc
 ||hlyy.in
 ||hlzq.com
 ||hlzqgs.com
@@ -44889,7 +44885,6 @@
 ||img.feitian001.com
 ||img.ferlie.net
 ||img.fhyx.com
-||img.game.dwstatic.com
 ||img.gamecenter.qq.com
 ||img.gaore.com
 ||img.gaosan.com
@@ -45031,7 +45026,6 @@
 ||img01.51jobcdn.com
 ||img01.51jobcdn.com.51jobdns.com
 ||img01.sogoucdn.com
-||img01.taotaosou.cn
 ||img01.yzcdn.cn
 ||img02-al5.iplaysoft.com
 ||img02.51jobcdn.com
@@ -45197,7 +45191,6 @@
 ||img7.iqiyipic.com
 ||img898.com
 ||img9.doubanio.com
-||imgad.thepaper.cn
 ||imgad0.3conline.com
 ||imgad0.pcauto.com.cn
 ||imgad0.pconline.com.cn
@@ -46728,7 +46721,6 @@
 ||iwpai.com
 ||iwshang.com
 ||iwucha.com
-||iwwacgx.cn
 ||iwwwwwi.com
 ||iwx.mail.qq.com
 ||iwxapi.com
@@ -50329,7 +50321,6 @@
 ||katvr.com
 ||katyusha.net
 ||kaven.xyz
-||kawabangga.com
 ||kawahdinosaur.com
 ||kayege.info
 ||kayoudi.com
@@ -52666,7 +52657,6 @@
 ||lemedu.com
 ||lemeitu.com
 ||lemfix.com
-||lemicp.com
 ||lemo360.com
 ||lemobar.com
 ||lemon-h5-package.cdn.bcebos.com
@@ -53245,6 +53235,7 @@
 ||lightget.com
 ||lightgx.com
 ||lighthouse.dmallcdn.com
+||lighthouseapi.dmall.com
 ||lightingchina.com
 ||lightinit.com
 ||lightky.com
@@ -55486,7 +55477,6 @@
 ||m.jd.com.gslb.qianxun.com
 ||m.jf.10010.com
 ||m.jiaochengzhijia.com
-||m.jiaochengzhijia.com.cname.yunjiasu-cdn.net
 ||m.jiedianqian.com
 ||m.jingxi.com
 ||m.jinti.com
@@ -58932,7 +58922,6 @@
 ||msi.autohome.com.cn
 ||msite.baidu.com
 ||msits.com
-||msiyw.com
 ||msjcqm.com
 ||msjdpay.jd.com
 ||msjdpay.jd.com.gslb.qianxun.com
@@ -60913,6 +60902,7 @@
 ||nntskq.com
 ||nnudream.com
 ||nnugxenl.slt.sched.tdnsv8.com
+||nnv3api.dmzj1.com
 ||nnwb.com
 ||nnweding.com
 ||nnxinfangxiang.cn
@@ -65795,6 +65785,7 @@
 ||pwsannong.com
 ||pwt.zoosnet.net
 ||pwupdate.cdn.pandora.xiaomi.com
+||px.ads.linkedin.cn
 ||px.effirst.com
 ||px.qucaigg.com
 ||px.ucweb.com
@@ -70388,7 +70379,6 @@
 ||rywsem.com
 ||ryxxff.com
 ||ryyyx.com
-||ryzxqp.com
 ||rz-lb2.internet.spanner.alipaydns.com
 ||rz-rr2.internet.spanner.alipaydns.com
 ||rz.com
@@ -71963,7 +71953,6 @@
 ||seosn.com
 ||seosrx.net
 ||seotcs.com
-||seotianxia.com
 ||seoui.com
 ||seowdw.com
 ||seowenda.net
@@ -79354,6 +79343,7 @@
 ||tlbaby.com
 ||tlby120.com
 ||tlbyx.com
+||tlc881633.com
 ||tlc8823.com
 ||tlcharity.com
 ||tlfjw.com
@@ -87772,6 +87762,7 @@
 ||www.foodsc.net
 ||www.fortunehope.com
 ||www.fs024.com
+||www.ftuan.com
 ||www.fudan.edu.cn
 ||www.fun.tv
 ||www.fuzhou.cyberpolice.cn
