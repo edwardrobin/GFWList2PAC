@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyNjIyMjM3MAo=
+! Checksum: MTYyNjMwODc5MAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210714-0
-! TimeUpdated: 2021-07-14T00:26:10+00:00
+! Version: 1.0.0-20210715-0
+! TimeUpdated: 2021-07-15T00:26:30+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -757,7 +757,6 @@
 ||08ky.com
 ||08px.com
 ||090expo.com
-||090ld.com
 ||0912app.com
 ||0914cn.com
 ||0915home.com
@@ -906,6 +905,7 @@
 ||1.800400.net
 ||1.92caijing.com
 ||1.aili.com
+||1.ajiyuming.com
 ||1.arpun.com
 ||1.bashenghuo.com
 ||1.cjcp.cn
@@ -6618,6 +6618,8 @@
 ||5678.net
 ||5678la.com
 ||567idc.com
+||567j.xyz
+||567w.xyz
 ||5684.com
 ||569.com
 ||5694.com
@@ -10644,7 +10646,6 @@
 ||abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 ||abtest.alibaba.com
 ||abtest.tantanapp.com
-||abthink.com
 ||abtionb.com
 ||abto.cc
 ||abuquant.com
@@ -10653,6 +10654,7 @@
 ||ac-dun.security.ntes53.netease.com
 ||ac.51job.com
 ||ac.86huoche.com
+||ac.art456.com
 ||ac.atpanel.com
 ||ac.csdn.net
 ||ac.dun.163.com
@@ -11319,7 +11321,6 @@
 ||ads.oneway.mobi
 ||ads.privacy.qq.com
 ||ads.reader.yueyouxs.com
-||ads.service.kugou.com
 ||ads.serving-sys.cn
 ||ads.sina.com
 ||ads.sohu.com
@@ -12696,6 +12697,7 @@
 ||alliedjeep.com
 ||allinfinance.com
 ||allinpay.com
+||allinpayhb.com
 ||alliread.com
 ||alllget.com
 ||alllook.tv
@@ -16847,7 +16849,6 @@
 ||bibuzhengxing.com
 ||bichi.me
 ||bicn.vip
-||bicyc.com
 ||bid-view.com
 ||bid.adview.cn
 ||bid.g.doubleclick.net
@@ -17390,7 +17391,6 @@
 ||bjdjc.com
 ||bjdllti.com
 ||bjdlzl.com
-||bjdnserror1.wo.com.cn
 ||bjdongxin.com
 ||bjdsppa.com
 ||bjdt360.com
@@ -20000,7 +20000,6 @@
 ||ccxcredit.com
 ||ccxinshiji.com
 ||ccxinshijicy.com
-||ccxinshijimc.com
 ||ccxinyuedu.com
 ||ccxiyuecare.com
 ||ccxjd.com
@@ -20550,6 +20549,7 @@
 ||cecc-cx.com
 ||ceccen.com
 ||cecdc.com
+||cece-mall.com
 ||cece.com
 ||cece.la
 ||cecesat.com
@@ -21189,7 +21189,6 @@
 ||chedan5.com
 ||chediandian.com
 ||cheduo.com
-||cheduoshao.com
 ||cheer.cjoy.com.cn
 ||cheerfun.dev
 ||cheerjoy.com
@@ -21249,7 +21248,6 @@
 ||cheng95.net
 ||chengadx.com
 ||chengailvsuo.com
-||chengbo.org
 ||chengchuanren.com
 ||chengde.anjuke.com
 ||chengdebank.com
@@ -24316,6 +24314,7 @@
 ||code.sh
 ||code.ts166.net
 ||code.ttpaper.com
+||code.tui80.com
 ||code4apk.com
 ||code4app.net
 ||code666.com
@@ -28482,7 +28481,6 @@
 ||dimensionalzone.com
 ||dimg01.c-ctrip.com
 ||dimg01.c-ctrip.com.wscdns.com
-||dimg02.c-ctrip.com
 ||dimg02.c-ctrip.com.wscdns.com
 ||dimg03.c-ctrip.com
 ||dimg03.c-ctrip.com.wscdns.com
@@ -28849,6 +28847,7 @@
 ||dl1.qwp365.cn
 ||dl10.china.line.qiniudns.com
 ||dl1023.tcdn.qq.com
+||dl1234.com
 ||dl158.net
 ||dl2.gj.qq.com
 ||dl211qpe.v1d.szbdyd.com
@@ -29623,6 +29622,7 @@
 ||douyaobuy.com
 ||douyapu.com
 ||douyar.com
+||douyi.com
 ||douyin.com
 ||douyincdn.com
 ||douyinpic.com
@@ -32692,6 +32692,7 @@
 ||etaxcn.com
 ||etc.1332vp.com
 ||etc.6187wo.com
+||etc.jiguangzhuisu.com
 ||etccenter.com
 ||etcchebao.com
 ||etcsd.com
@@ -35247,7 +35248,6 @@
 ||furrychina.com
 ||furuijiaju.vip
 ||fus.lenovomm.com
-||fus158.com
 ||fusaide.com
 ||fusion.design
 ||fusion.qq.com
@@ -35601,7 +35601,6 @@
 ||g3user.com
 ||g4.iqilu.com
 ||g4.ykimg.com
-||g5f4.com
 ||g5h4.com
 ||g5qfx1if3mdj5huysbw5kx58hn8kzbbs.aliyundunwaf.com
 ||g5wzhq.tdum.alibaba.com
@@ -37212,7 +37211,6 @@
 ||gongsibao.com
 ||gongsijiaoyi.com
 ||gongsizhijia.com
-||gongtingxiang.com
 ||gongwuxing.com
 ||gongxiangcj.com
 ||gongxiao8.com
@@ -41732,6 +41730,7 @@
 ||hrzy.cc
 ||hs-fe.com
 ||hs-outlets.com
+||hs.17173.com
 ||hs.avbdf.com
 ||hs.net
 ||hs.qhupdate.com
@@ -43305,6 +43304,7 @@
 ||i.sso.sina.com.cn
 ||i.stat.nearme.com.cn
 ||i.tansuotv.com
+||i.tantanapp.com
 ||i.taobao.com
 ||i.tddmp.com
 ||i.ulmdb.cn
@@ -45836,7 +45836,6 @@
 ||ios8.app
 ||iosack.tuisong.baidu.com
 ||iosapps-cn-lb.dl-apple.com.akadns.net
-||iosapps.itunes.apple.com
 ||iosapps.itunes.apple.com.download.ks-cdn.com
 ||iosapps.itunes.apple.com.m.alikunlun.net
 ||iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -46768,6 +46767,7 @@
 ||ixueshu.com
 ||ixueyi.com
 ||ixw.lcloc.com
+||ixxcc.com
 ||ixxm.com
 ||ixxplayer.com
 ||iy.com.cn
@@ -53385,7 +53385,6 @@
 ||lingqujz.com
 ||lingrengame.com
 ||lingrn.com
-||lingshandaoly.com
 ||lingshangkaihua.com
 ||lingshi.com
 ||lingshoujia.com
@@ -54205,7 +54204,6 @@
 ||log.trackingio.com
 ||log.u.wps.cn
 ||log.umsns.com
-||log.uu.163.com
 ||log.v2.hunantv.com
 ||log.vcgame.cn
 ||log.voicecloud.cn
@@ -55011,6 +55009,7 @@
 ||lvbuo.com
 ||lvchanghuanbao.com
 ||lvchayun.com
+||lvchazhiboapp.com
 ||lvchehui.com
 ||lvcheng.com
 ||lvchicar.com
@@ -55618,7 +55617,6 @@
 ||m.youlai.cn
 ||m.youshu.cc
 ||m.yoyi.com.cn
-||m.yqqlm.vip
 ||m.ys137.com
 ||m.yxixy.com
 ||m.yxwoo.com
@@ -57080,7 +57078,6 @@
 ||meng3.com
 ||meng800.com
 ||mengat.com
-||mengbaofun.com
 ||mengchenghui.com
 ||mengdian.com
 ||mengdie.com
@@ -64651,7 +64648,6 @@
 ||plusjrmallstatic.bj.bcebos.com
 ||plusmedia.site
 ||plussvr.wps.cn
-||plustudy.com
 ||pluto.sina.cn
 ||plutuspay.com
 ||pluvet.com
@@ -68758,7 +68754,6 @@
 ||qz.esf.fang.com
 ||qz100.com
 ||qz123.com
-||qz2588.com
 ||qz828.com
 ||qz930.com
 ||qz96811.com
@@ -71036,7 +71031,6 @@
 ||sanzei.com
 ||sao.cn
 ||sao.so
-||saohuo7.com
 ||saoic.com
 ||saolife.com
 ||saomadang.com
@@ -71256,7 +71250,6 @@
 ||scjtaq.com
 ||scjyzb.net
 ||scjzjyjc.com
-||sclezhu.com
 ||sclf.org
 ||sclick.6rooms.com
 ||sclick.baidu.com
@@ -71339,7 +71332,6 @@
 ||scyongqin.com
 ||scyslb.com
 ||scytyy.net
-||scyusuan.com
 ||sczg.com
 ||sczj.org
 ||sczlb.com
@@ -71814,6 +71806,7 @@
 ||seentao.com
 ||seer.61.com
 ||seer520.com
+||seeres.com
 ||seersee.com
 ||seeseed.com
 ||seeshentech.com
@@ -72013,6 +72006,7 @@
 ||setting1.hicloud.com
 ||seuic.com
 ||sevdot.com
+||seven7777.eu
 ||sevencdn.com
 ||sevenseas-china.com
 ||sewise.com
@@ -76336,7 +76330,6 @@
 ||sunjiwen.com
 ||sunjix.com
 ||sunjs.com
-||sunke.me
 ||sunlands.com
 ||sunlands.wang
 ||sunlandstudy.com
@@ -77841,6 +77834,7 @@
 ||taojinji.com
 ||taojinyi.com
 ||taokaifu.com
+||taoke.cloud
 ||taoke.com
 ||taoke.dedecms.com
 ||taokehome.com
@@ -78242,7 +78236,6 @@
 ||tedx.net
 ||tee7.com
 ||teein.com
-||teeker.com
 ||teemm.com
 ||teemmm.com
 ||teencn.com
@@ -78896,7 +78889,6 @@
 ||tianya200.com
 ||tianya999.com
 ||tianyablog.com
-||tianyabook.com
 ||tianyaclub.com
 ||tianyaluedu.com
 ||tianyancha.com
@@ -80338,7 +80330,6 @@
 ||ttdytt.net
 ||ttechhk.com
 ||ttete.xyz
-||ttf5.net
 ||ttfanwen.com
 ||ttgjx.com
 ||tth1688.com
@@ -82587,7 +82578,6 @@
 ||v1.play.log.hunantv.com
 ||v1.res.log.hunantv.com
 ||v1.shankuwang.com
-||v1.taksh.cn
 ||v1.wphonelife.com
 ||v1.xsj.wasu.tv
 ||v10.kwaicdn.com
@@ -82953,6 +82943,7 @@
 ||vbuluo99.com
 ||vbwq1vesytgatlujbd3vnpkpoxk9zlsg.aliyundunwaf.com
 ||vc.sanzhong.co
+||vc.taoke.cloud
 ||vc.vgimer.cn
 ||vc.y.qq.com
 ||vc800.com
@@ -83817,6 +83808,7 @@
 ||vs.banyunjuhe.com
 ||vs.biz.weibo.com
 ||vs.funshion.com
+||vs.taoke.cloud
 ||vs.world.tmall.com
 ||vs14.bj2ct.u3.ucweb.com
 ||vs14.bj2cu.u3.ucweb.com
@@ -87546,6 +87538,7 @@
 ||www.bd739.com
 ||www.bdg251.com
 ||www.bdg256.com
+||www.bdg381.com
 ||www.betterzip.net
 ||www.bfgho.com
 ||www.bfxitong.com
@@ -90114,6 +90107,7 @@
 ||xincheping.com
 ||xinchuguo.com
 ||xinchukj.com
+||xincmm.com
 ||xinda22.com
 ||xindaifu.com
 ||xindayunkeji.com
@@ -96009,6 +96003,7 @@
 ||yayu.org
 ||yazhifan.com
 ||yazhougoufang.com
+||yazibt.com
 ||yazjy.com
 ||yazuo.com
 ||yazuo666.com
@@ -96307,7 +96302,6 @@
 ||yetdata.com
 ||yetianzi.com
 ||yetingjk.com
-||yetu.net
 ||yewen.us
 ||yewuyuan.com
 ||yexinggroup.com
@@ -96775,6 +96769,7 @@
 ||yingming.net
 ||yingmishi.com
 ||yingmoo.com
+||yingpingji.com
 ||yingsheng.com
 ||yingshengyl.com
 ||yingshi.jiangzi.com
@@ -99210,7 +99205,6 @@
 ||zailouxia.com
 ||zaiminglvsuo.com
 ||zaisd.com
-||zaitansuo.com
 ||zaitong.net
 ||zaitongxiang.com
 ||zaitouwang.com
@@ -100287,7 +100281,6 @@
 ||zhijuke.com
 ||zhikao100.com
 ||zhikaotong.net
-||zhikea.com
 ||zhikubao.net
 ||zhilandaren.com
 ||zhilehuo.com
