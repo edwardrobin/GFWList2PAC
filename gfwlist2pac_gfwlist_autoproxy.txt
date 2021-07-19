@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyNjU2ODE0MAo=
+! Checksum: MTYyNjY1NDU0OQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210718-0
-! TimeUpdated: 2021-07-18T00:29:00+00:00
+! Version: 1.0.0-20210719-0
+! TimeUpdated: 2021-07-19T00:29:09+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -112,7 +112,6 @@
 ||01322.cc
 ||013ld.com
 ||015001.com
-||015006.com
 ||016006.com
 ||0162884.com
 ||0162932.com
@@ -706,7 +705,9 @@
 ||124.100.77.124.zz.countries.nerd.dk
 ||125.effers.com
 ||1252345.com
+||125501.com
 ||125502.com
+||125702.com
 ||125730.com
 ||125attitude.com
 ||126.159.251.49.zz.countries.nerd.dk
@@ -793,7 +794,6 @@
 ||1388110.com
 ||1388555.com
 ||138888.co
-||138jm.com
 ||138lm.com
 ||138nh.com
 ||139.83.103.121.zz.countries.nerd.dk
@@ -943,6 +943,7 @@
 ||165.113.112.121.zz.countries.nerd.dk
 ||1653125.com
 ||16560077.com
+||1656330.com
 ||16563300.com
 ||16563377.com
 ||1656669.com
@@ -1077,7 +1078,6 @@
 ||1789846.com
 ||178jixie.com
 ||178letou.com
-||17916512.cn
 ||17bifa.com
 ||17c8edca.akstat.io
 ||17kanzb.com
@@ -1239,7 +1239,6 @@
 ||19035955.loyalty.tajawal.com
 ||19035955.mktg.tajawal.com
 ||1906999.com
-||19119v.com
 ||191927.com
 ||1919gogo.com
 ||192.79.79.126.zz.countries.nerd.dk
@@ -1452,6 +1451,7 @@
 ||2.biqle.ru
 ||2.brinkshome.com
 ||2.c.ns.emailvision.net.daraz.com
+||2.centos.pool.ntp.org
 ||2.courier-push-apple.com.akadns.net
 ||2.courier2-push-apple.com.akadns.net
 ||2.cr.rs
@@ -1742,7 +1742,6 @@
 ||2453952.com
 ||246.52.79.218.zz.countries.nerd.dk
 ||246.etowns.org
-||246.ocry.com
 ||2468.go2cloud.org
 ||2468tf.com
 ||246ys.com
@@ -2177,6 +2176,7 @@
 ||323.slyip.net
 ||325286.com
 ||32565.com
+||325723.com
 ||325735.com
 ||326.25u.com
 ||327hk.com
@@ -2587,7 +2587,6 @@
 ||3proxy.de
 ||3proxy.ru
 ||3qdigital.com
-||3rbcd.com
 ||3ren.blog
 ||3ren.ca
 ||3ruwl5q.x.incapdns.net
@@ -3374,7 +3373,6 @@
 ||5qdd.com
 ||5qq.com
 ||5s.slyip.net
-||5uf7.com
 ||5uproxy.net
 ||5v.pl
 ||5visions.com
@@ -3476,6 +3474,7 @@
 ||62775k.com
 ||62851.biz
 ||62877.com
+||628776.com
 ||6297991.com
 ||629kf.com
 ||62ma.com
@@ -3623,7 +3622,6 @@
 ||66721.com
 ||6677293.com
 ||66773885.com
-||6677gz.com
 ||667874.com
 ||668.com
 ||668000010.com
@@ -3890,7 +3888,6 @@
 ||733rr.net
 ||734.com
 ||734178b1e027d36aed72fb2760dce77e.clo.footprintdns.com
-||7349332.com
 ||734bm.com
 ||735802.cc
 ||735bm.com
@@ -4545,7 +4542,6 @@
 ||8nc8shot.txxx.com
 ||8news.com.tw
 ||8proxy.com
-||8q2g560ynxlkz9rm.in.net
 ||8qi8.com
 ||8teenxxx.com
 ||8tube.com
@@ -4715,6 +4711,7 @@
 ||9464145.com
 ||94695.com
 ||9499.co
+||9499ff.com
 ||9499y.com
 ||9499z.com
 ||9499zzz.com
@@ -4767,6 +4764,7 @@
 ||9685.net
 ||9685e.com
 ||9691vip.com
+||969605.com
 ||9699888.com
 ||96caa.com
 ||96t180i.com
@@ -4963,6 +4961,7 @@
 ||999let.com
 ||999xs.com
 ||999zclc.com
+||99ac-503270-tencent-hongkong-liveperso.d1.teridioncloud.net
 ||99acres.com
 ||99afcp.com
 ||99av.tv
@@ -4979,7 +4978,6 @@
 ||99jre.com.stat001.com
 ||99kav.com
 ||99kmt.com
-||99leto.com
 ||99letou.com
 ||99oi.us
 ||99re.com
@@ -5005,6 +5003,7 @@
 ||9aee1.com
 ||9aef1.com
 ||9aem1.com
+||9aex1.com
 ||9afa1.com
 ||9afcp.com
 ||9afd1.com
@@ -5012,7 +5011,6 @@
 ||9agf1.com
 ||9agz1.com
 ||9aje1.com
-||9am.biz
 ||9anime.com
 ||9apps.com
 ||9awi.pw
@@ -5747,7 +5745,6 @@
 ||a4flash.com
 ||a4k.net
 ||a4media.com
-||a4v5.com
 ||a4v5.top
 ||a4xo-eng.spankbang.com
 ||a5.behance.net
@@ -6054,7 +6051,6 @@
 ||abacusnews.com
 ||abaegitim.com
 ||abakus.freenet.de
-||abamia.com.ve
 ||abanca.com
 ||abandofwomen.com
 ||abanteasesores.com
@@ -6734,7 +6730,6 @@
 ||ad-analytics-bootstrap.metaps.com
 ||ad-api.band.us
 ||ad-api.ehawk.com
-||ad-arata.com
 ||ad-arata.s3.amazonaws.com
 ||ad-beta.flipboard.com
 ||ad-cdn.technoratimedia.com
@@ -6779,7 +6774,6 @@
 ||ad.aboutwebservices.com
 ||ad.abum.com
 ||ad.accesstrade.vn
-||ad.ad-arata.com
 ||ad.ad-stir.com
 ||ad.adfurikun.jp
 ||ad.admitad.com
@@ -7369,7 +7363,6 @@
 ||adevar.net
 ||adeventtracker.spotify.com
 ||adex.ednplus.com
-||adex.sato.my.id
 ||adexprtz.com
 ||adext.inkclub.com
 ||adf.kino-go.co
@@ -9435,6 +9428,7 @@
 ||agf.com
 ||agf.nl
 ||agfinancial.org
+||agforex.com
 ||agfunder.com
 ||agg.inquisitr.com
 ||agg.lifedaily.com
@@ -9960,6 +9954,7 @@
 ||alhiop.thehandsome.com
 ||ali19951995.ddns.net
 ||ali213.fhyx.hk
+||ali3215.com
 ||ali7894.com
 ||ali868.com
 ||aliabrasil.com.br
@@ -9972,6 +9967,7 @@
 ||alice.xfu.jp
 ||alicejapan.co.jp
 ||alicesgarden.fr
+||aliega.github.io
 ||alien007.my-firewall.org
 ||alien34.duckdns.org
 ||aliengu.com
@@ -11818,6 +11814,7 @@
 ||api.graphql.imdb.com
 ||api.grumft.com
 ||api.hfyhjg.cn
+||api.huangye.miui.com
 ||api.hubapi.com
 ||api.hubspot.com
 ||api.identitynow.com
@@ -11921,6 +11918,7 @@
 ||api.staffhub.office.com
 ||api.starsmp.com
 ||api.steampowered.com
+||api.sugram.chat
 ||api.systempartnerski.pl
 ||api.tabnine.com
 ||api.taboola.com
@@ -13155,6 +13153,7 @@
 ||asiawy.com
 ||asiaxcom.com
 ||asicentral.com
+||asideblog.com
 ||asimov-win.settings.data.microsoft.com.akadns.net
 ||asimov.vortex.data.trafficmanager.net
 ||asipartner.com
@@ -14128,7 +14127,6 @@
 ||axiabanners.exodus.gr
 ||axial.net
 ||axiao.tw
-||axiaplus.gr
 ||axikfy.dicksmith.com.au
 ||axin.asia
 ||axiom.co
@@ -15295,6 +15293,7 @@
 ||bbcworldwide.com
 ||bbcwsy.blacktyres.ru
 ||bbddaa.com
+||bbdglb.com
 ||bbdm.051661.com
 ||bbelements.com
 ||bbg.gov
@@ -15924,6 +15923,7 @@
 ||beesbeesbeesbees.com
 ||beetv.net
 ||beevpn.com
+||beezmall.com
 ||beezup.com
 ||befd.fanqingzhou.cn
 ||beflaire.eazy.sk
@@ -16518,6 +16518,7 @@
 ||bifa3333.com
 ||bifa5678.com
 ||bifa6677.com
+||bifa740.com
 ||bifa8885.com
 ||big-boards.com
 ||big-cup.tv
@@ -17069,6 +17070,7 @@
 ||blbrokers.com
 ||blchen.com
 ||bldr.mkt.samsung.com
+||ble.soas.ac.uk
 ||bleacherreport.com
 ||bleatingsheep.org
 ||bleep.pm
@@ -21245,7 +21247,6 @@
 ||cdn-102.statdynamic.com
 ||cdn-145.privacy-mgmt.com
 ||cdn-146.privacy-mgmt.com
-||cdn-2.gamecoast.org
 ||cdn-7n-pt.zbwowo.com
 ||cdn-adn.rayjump.com
 ||cdn-ads.thesaigontimes.vn
@@ -21815,7 +21816,6 @@
 ||ceneo.pl
 ||cenews.eu
 ||cengage.com
-||cenmxn.koton.com
 ||cenonc.bobochicparis.com
 ||censoredplanet.org
 ||censornet.com
@@ -24651,7 +24651,6 @@
 ||congressrental.asia
 ||conimicutlighthouse.viessmann-us.com
 ||conlatatca.vn
-||conn2.oppomobile.com
 ||connaissancesfinancierespratiques.ca
 ||connatix.com
 ||connect-in-canada.com
@@ -25368,6 +25367,7 @@
 ||count.webstatistik-bw.de
 ||count.yandeg.ru
 ||count10.51yes.com
+||count11.51yes.com
 ||count12.51yes.com
 ||count14.51yes.com
 ||count15.51yes.com
@@ -28585,7 +28585,6 @@
 ||delivery-dev.thebloggernetwork.com
 ||delivery.adrecover.com
 ||delivery.contextads.live
-||delivery.dmkt-sp.jp
 ||delivery.fabrouter.com
 ||delivery.myswitchads.com
 ||delivery.net
@@ -33540,6 +33539,7 @@
 ||en.people.cn
 ||en.rsf.org
 ||en.ultrex.ru
+||en.wanweibaike.com
 ||en.wikibooks.org
 ||en.wikinews.org
 ||en.wikipedia-on-ipfs.org
@@ -35711,7 +35711,6 @@
 ||falundafa-dc.org
 ||falundafa-florida.org
 ||falundafa-nc.org
-||falundafa-pa.net
 ||falundafa-sd.org
 ||falundafa-se.nu
 ||falundafa-srilanka.org
@@ -36984,6 +36983,7 @@
 ||flickriver.com
 ||flightb1a4.com
 ||flightnetwork.com
+||flightproxy-asea-02-teams.cloudapp.net
 ||flightproxy-asse-02-teams.cloudapp.net
 ||flightproxy-asse-03-teams.cloudapp.net
 ||flightproxy-asse-05-teams.cloudapp.net
@@ -40270,7 +40270,6 @@
 ||gitlabcar40.net.daraz.com
 ||gitlabr-es-1.net.daraz.com
 ||gitlib-oa-1.net.daraz.com
-||gitpapa.com
 ||gitpod.io
 ||gitstar.com
 ||gitstar.net
@@ -44228,7 +44227,6 @@
 ||gtjtht.com
 ||gtl.net
 ||gtloli.com
-||gtlp.net.cn
 ||gtm-cn-n6w1ucj0e05.ddoswafcdn.xyz
 ||gtn-mobile.com
 ||gtnde.com
@@ -44454,6 +44452,7 @@
 ||gwvrel.ny-onlinestore.com
 ||gwvvgz.borgo.hu
 ||gwyancancook.net.daraz.com
+||gx.a.yximgs.com.bbdglb.com
 ||gx.idg.se
 ||gx08s1635.deflanid.com
 ||gx6t5wf.timecoss.com
@@ -45168,7 +45167,6 @@
 ||healthcasts.co
 ||healthcatalyst.com
 ||healthcentral.com
-||healthcom.xyz
 ||healthequity.com
 ||healthesystems.com
 ||healthfully.com
@@ -46284,7 +46282,6 @@
 ||home.foni.net
 ||home.gamer.com.tw
 ||home.gelsennet.de
-||home.hicworks.idv.tw
 ||home.kcprofessional.com
 ||home.kg
 ||home.kpmg
@@ -46533,7 +46530,6 @@
 ||hot-mob.com
 ||hot-sex-tube.com
 ||hot.browser.intl.miui.com
-||hot.browser.miui.com
 ||hot.useractive.com
 ||hot1024.win
 ||hot4k.org
@@ -48774,7 +48770,6 @@
 ||inc.com
 ||inc.gs
 ||incanto.eu
-||incap-a11.g58b.com
 ||incapio.com
 ||incapsula.avslot.com
 ||incapsula2.avslot.com
@@ -50761,6 +50756,7 @@
 ||inv3te.oui.sncf
 ||invadosolutions.com
 ||invast.jp
+||invbots.com
 ||invcanada.ca
 ||inventio.com
 ||inventory-proxy.gaijin.net
@@ -51498,7 +51494,6 @@
 ||ispsystem.com
 ||ispunblock.com
 ||israbox.com
-||israel-cars-rentals.com
 ||israelinfo.ru
 ||isrg.trustid.ocsp.identrust.com
 ||iss-shipping.com
@@ -51846,10 +51841,12 @@
 ||j.mrpdata.net
 ||j.newssuite.sony.net
 ||j.people.com.cn
+||j.scswuliu.com
 ||j.sni.global.fastly.net
 ||j.softbankrobotics.com
 ||j.uralweb.ru
 ||j.wovn.io
+||j01.best
 ||j088088.com
 ||j1.ax.xrea.com
 ||j2.979067.com
@@ -52214,7 +52211,6 @@
 ||jbo27.com
 ||jbo28.com
 ||jbo311.com
-||jbo443.com
 ||jbo500.com
 ||jbo53.com
 ||jbo600.com
@@ -52708,6 +52704,7 @@
 ||jnkqnf.cifraclub.com.br
 ||jnokkt.ava.be
 ||jnoyep.myvega.ca
+||jnsz.net.cn
 ||jo2f.cheque-cadhoc.fr
 ||joachims.org
 ||joaffs.com
@@ -53077,7 +53074,6 @@
 ||js888002.com
 ||js888008.com
 ||js888600.com
-||js986.cnbole.net
 ||js9900vip.com
 ||jsb.by
 ||jsb.high-minded.net
@@ -53461,7 +53457,6 @@
 ||k8222.com
 ||k86990.com
 ||k886.net
-||k89168.com
 ||k8s-dev.keele-nnw-leis-mc-leis.net.daraz.com
 ||k8s-dev.nfreya.net.daraz.com
 ||k8s-dev.r-oa-2.net.daraz.com
@@ -54149,7 +54144,6 @@
 ||kinoclub77.ru
 ||kinogo.la
 ||kinokuniya.com
-||kinoprogramm.bild.de
 ||kinostuff.com
 ||kinoteatr.ru
 ||kinozal.website
@@ -55886,6 +55880,7 @@
 ||let85.com
 ||let853.com
 ||let89.com
+||let91.com
 ||let94.com
 ||let97.com
 ||let98.net
@@ -56002,6 +55997,7 @@
 ||ley7.freewww.biz
 ||leyinga.com
 ||leyubet1747.com
+||leyuman.com
 ||leyuntimes.com
 ||lezcuties.com
 ||lezhin.com
@@ -56039,7 +56035,6 @@
 ||lg.ua
 ||lg.yaload.ru
 ||lg1.logging.admicro.vn
-||lg2.jointreport-switch.com
 ||lg3.media.net
 ||lgappstv.com
 ||lgbdxo.azazie.com
@@ -56852,7 +56847,6 @@
 ||livetileedge.dsx.mp.microsoft.com
 ||livetracker.rfe.pangea-cms.com
 ||livetvcafe.net
-||livetvcdn.net
 ||liveu.tv
 ||liveupdate01s.asus.com
 ||livevideo.com
@@ -57490,6 +57484,7 @@
 ||louse.sigle.io
 ||lout.com
 ||lov3.net
+||love.chushoushijian.cn
 ||love.hu
 ||love.romanticcollection.ru
 ||love100girl.com
@@ -58179,6 +58174,7 @@
 ||m.laoqu123.com
 ||m.lesanmo.top
 ||m.let98.net
+||m.leyuman.com
 ||m.lfshpt.cn
 ||m.lolvsdota.cn
 ||m.louisan.cn
@@ -58784,6 +58780,7 @@
 ||mail.shohda.net.daraz.com
 ||mail.signed.partner.net.daraz.com
 ||mail.sji.edu.sg
+||mail.soas.ac.uk
 ||mail.spandex.com
 ||mail.swatfame.com
 ||mail.talentgroup.asia
@@ -62268,6 +62265,7 @@
 ||mg3333.com
 ||mg64.net
 ||mgagolf.org
+||mgame.shalong365.com
 ||mgate-elb-01.warthunder.com
 ||mgate-jupiter-am-uk-01.enlisted.net
 ||mgate-sv-lx-01.warthunder.com
@@ -63164,7 +63162,6 @@
 ||mivyyq.safeandfair.com
 ||mix-collecte-it-prod-1582605754.ap-northeast-2.elb.amazonaws.com
 ||mix.com
-||mix.kinostuff.com
 ||mix.tokyo
 ||mixaton.000webhostapp.com
 ||mixcloud.com
@@ -63406,7 +63403,6 @@
 ||mmwlcm.meleon.ru
 ||mmxtv.net
 ||mmys-cover.xmmr5q.com
-||mmyuer.com
 ||mn.5.p2l.info
 ||mn.mistermenuiserie.com
 ||mn.mn.co.cu
@@ -64089,7 +64085,6 @@
 ||movie-jamrock.com
 ||movie.chncomic.com
 ||movie.eroterest.net
-||movie.hkbisi.com
 ||movie.now.com
 ||movieads.imgs.sapo.pt
 ||movieads.ru
@@ -68781,7 +68776,6 @@
 ||olx.ua
 ||olympia.pk
 ||olympicwatch.org
-||olympus-ap.com
 ||olympusamericamarketing.com
 ||olytics.omeda.com
 ||olziko.maxmara.com
@@ -69539,7 +69533,6 @@
 ||open.spotify.com
 ||open.stealth.si
 ||open.touki.ru
-||open.tracker.cl
 ||open.trackerlist.xyz
 ||open.upeer.org
 ||open2ch.net
@@ -70781,7 +70774,6 @@
 ||pampered-chefs.com
 ||pampling.com
 ||pampopholf.com
-||pampshare.com
 ||pan.render.com
 ||pan.tjcloud.tech
 ||panafoto.com
@@ -71578,7 +71570,6 @@
 ||pcchong.com
 ||pcci.edu
 ||pccw.com
-||pccw4.qiangdong.xyz
 ||pccwglobal.com
 ||pccwsolutions.com
 ||pcdasm.flnet.org
@@ -74091,7 +74082,6 @@
 ||pri.org
 ||pri4.fat.flnet.org
 ||price.ru
-||priceengine-public-service-ecomprod01.ol.epicgames.com
 ||pricefx.com
 ||priceinfo.comuv.com
 ||priceless.com
@@ -74887,7 +74877,6 @@
 ||proxywlan-switch.net.daraz.com
 ||proxz.com
 ||proyectoclubes.com
-||proyectoq.cl
 ||prozdravi.cz
 ||prozinc.us
 ||prp11ahda.s3.amazonaws.com
@@ -75742,7 +75731,6 @@
 ||qqjlb07.app
 ||qqjlb08.app
 ||qqjlb2.com
-||qqjlb3.com
 ||qqjlb4.com
 ||qqjlb6.com
 ||qqjlb8.com
@@ -77435,6 +77423,7 @@
 ||redirect-allseason.net.daraz.com
 ||redirect-lib-ht-1.net.daraz.com
 ||redirect-r-hx-1.net.daraz.com
+||redirect.networkbench.com
 ||redirect.wargaming.net
 ||redirectcsr21.net.daraz.com
 ||redirectmail.majelan.com
@@ -77825,6 +77814,7 @@
 ||res.femina.fr
 ||res.francedimanche.fr
 ||res.iqucai.com
+||res.ohmanhua.com
 ||res.programme-television.org
 ||res.public.fr
 ||res.rbl.ms
@@ -80222,7 +80212,6 @@
 ||sb-ssl.l.google.com
 ||sb-y6.onlinegamegoonline.com
 ||sb.188bet.com
-||sb.bogou188.com
 ||sb.music.apple.com
 ||sb.sb
 ||sb.scorecardresearch.com
@@ -80856,7 +80845,6 @@
 ||sdkapi.netmera.com
 ||sdkbox.com
 ||sdkconfig.ad.intl.xiaomi.com
-||sdkm.w.inmobi.com
 ||sdks.stats-locations.com
 ||sdl.com
 ||sdlcpartners.com
@@ -82990,6 +82978,7 @@
 ||siport.com
 ||sipriyearbook.org
 ||sipurderech.co.il
+||sirajapulsa.com
 ||sirdata.com
 ||sirenji.com
 ||siri.com
@@ -87029,7 +87018,6 @@
 ||ssrshare.xyz
 ||ssrtool.com
 ||ssrxxjc.com
-||sss.zbred.com
 ||sss112.net
 ||sss16.net
 ||sss167.net
@@ -89293,6 +89281,7 @@
 ||sugh8yami.com
 ||sugobbs.com
 ||sugoi.pomf.se
+||sugram.chat
 ||sugumiru18.com
 ||suhrthu.com
 ||suimeng.la
@@ -89963,7 +89952,6 @@
 ||swtor.net
 ||swwcyk.ahaber.com.tr
 ||swwcyk.aspor.com.tr
-||swwcyk.fotomac.com.tr
 ||swwcyk.sabah.com.tr
 ||swwcyk.takvim.com.tr
 ||swxgvo.techacademy.jp
@@ -90050,7 +90038,6 @@
 ||syitu.com
 ||syjidh1.xyz
 ||sykc.madeindesign.ch
-||sykty.com
 ||sylfoundation.org
 ||sylvain-deffaix.com
 ||sylvania.com
@@ -95216,6 +95203,7 @@
 ||transistor.fm
 ||translate-acx.amazon.com
 ||translate.emby.media
+||translate.goog
 ||translate.google.co.il
 ||translate.google.com
 ||translate.google.hk
@@ -95322,6 +95310,7 @@
 ||trcka8net.irobot-jp.com
 ||trckr.nordiskemedier.dk
 ||tre.9adz1.com
+||tre.9aex1.com
 ||tre.9bah1.com
 ||tre.9bar1.com
 ||tread.firestonecompleteautocare.com
@@ -95797,6 +95786,7 @@
 ||tt667788.com
 ||tt687.com
 ||tt836.net
+||tt99.com
 ||ttarget.ru
 ||ttauri.bikeperfect.com
 ||ttauri.creativebloq.com
@@ -96089,6 +96079,7 @@
 ||tvappstore.net
 ||tvb.com
 ||tvb.com.au
+||tvbaaa.com
 ||tvbanywhere.com
 ||tvbanywhere.com.sg
 ||tvbccc.com
@@ -97563,6 +97554,7 @@
 ||uscirf.gov
 ||uscnpm.com
 ||uscreditcardguide.com
+||uscti.org
 ||usd.sierra-boa.com
 ||usdbbx.mmartan.com.br
 ||usdehua.com
@@ -100585,6 +100577,7 @@
 ||w27.etowns.org
 ||w2blog.net
 ||w3.001www.com
+||w3.assembly.go.kr
 ||w3.flatex.at
 ||w3.flatex.de
 ||w3.flatex.nl
@@ -100816,6 +100809,7 @@
 ||wantsfly.com
 ||wantxt.cc
 ||wanwansub.com
+||wanweibaike.com
 ||wanyepu.com
 ||wanyi111.com
 ||wanyi777.com
@@ -103380,6 +103374,7 @@
 ||wt.vhb.de
 ||wtamu.edu
 ||wtaphf.descomplica.com.br
+||wtatsapp.com
 ||wtbamu.plus.co.jp
 ||wtbevents.pricespider.com
 ||wtbn.org
@@ -104271,6 +104266,7 @@
 ||www.91vpnn.com
 ||www.91vpv.com
 ||www.91wenwen.com
+||www.91yun.org
 ||www.92avday.com
 ||www.93522.com
 ||www.939025.com
@@ -104314,7 +104310,6 @@
 ||www.99xin6.com
 ||www.99xx.com
 ||www.9aec1.com
-||www.9am.biz
 ||www.9amjs.com
 ||www.9anime.com
 ||www.9apps.com
@@ -104619,6 +104614,7 @@
 ||www.asiariskmanagement.com
 ||www.asiatoday.us
 ||www.asiawy.com
+||www.asideblog.com
 ||www.askasu.idv.tw
 ||www.askingpoint.com
 ||www.asmr8.org
@@ -104779,6 +104775,7 @@
 ||www.beadiste.com
 ||www.beauty.com
 ||www.beeg.co
+||www.beezmall.com
 ||www.befuck.com
 ||www.beijingcream.com
 ||www.beingbrunel.com
@@ -105283,6 +105280,7 @@
 ||www.chinaelections.com
 ||www.chinaelections.org
 ||www.chinageeks.org
+||www.chinagfw.org
 ||www.chinagrows.com
 ||www.chinahush.com
 ||www.chinalawtranslate.com
@@ -105572,6 +105570,7 @@
 ||www.dgjawt.com
 ||www.dh3333.com
 ||www.dialoguechina.com
+||www.diamonds.agforex.com
 ||www.dianying.news
 ||www.diaosiqingnian.com
 ||www.diaosisou.com
@@ -105833,6 +105832,7 @@
 ||www.epidemicsound.com
 ||www.epochhk.com
 ||www.epochtimes-bg.com
+||www.epochtimes.co.kr
 ||www.epochtimes.com
 ||www.epochtimes.com.tw
 ||www.epochtimes.com.ua
@@ -106894,6 +106894,7 @@
 ||www.ignition-project.com
 ||www.iheart.com
 ||www.ihktv.com
+||www.ihteam.net
 ||www.ii773.net
 ||www.iicreator.com
 ||www.iidrn.com
@@ -106977,6 +106978,7 @@
 ||www.intporn.com
 ||www.intralot.it
 ||www.inty3000.com
+||www.invbots.com
 ||www.inventio.com
 ||www.investor.bg
 ||www.invisiblesurfing.com
@@ -107469,6 +107471,7 @@
 ||www.let77.net
 ||www.let78.net
 ||www.let89.com
+||www.let91.com
 ||www.let97.com
 ||www.let98.net
 ||www.letelegramme.fr
@@ -109003,6 +109006,7 @@
 ||www.sng.idv.tw
 ||www.snowinn.com
 ||www.so-ga.net
+||www.soas.ac.uk
 ||www.soberrecovery.com
 ||www.sobody88.com
 ||www.socaifu.com
@@ -109604,6 +109608,7 @@
 ||www.tt5670.com
 ||www.tt667788.com
 ||www.tt836.net
+||www.tt99.com
 ||www.tthdd.com
 ||www.ttkwz.com
 ||www.ttmall.com.tw
@@ -109949,6 +109954,7 @@
 ||www.want-daily.com
 ||www.wantgoo.com
 ||www.wanvi.net
+||www.wanweibaike.com
 ||www.wanyi777.com
 ||www.wareztorrent.com
 ||www.warrenchanphotography.com
@@ -110133,6 +110139,7 @@
 ||www.wsvip0.com
 ||www.wsvipapp.com
 ||www.wsws.org
+||www.wtatsapp.com
 ||www.wuand.com
 ||www.wuji8.com
 ||www.wunanbooks.com.tw
@@ -111711,6 +111718,7 @@
 ||xam50.com
 ||xam50999.com
 ||xam52.com
+||xam63.com
 ||xam70.com
 ||xam73.com
 ||xam777888.com
@@ -111971,6 +111979,7 @@
 ||xhrplq.rolf-probeg.ru
 ||xhsdjs.com
 ||xhuom.com
+||xhxh.me
 ||xhzgold.com
 ||xhzlovehyx.cn
 ||xi666.com
