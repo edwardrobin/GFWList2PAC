@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyNzYwNDk0Nwo=
+! Checksum: MTYyNzY5MTI2OQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210730-0
-! TimeUpdated: 2021-07-30T00:29:07+00:00
+! Version: 1.0.0-20210731-0
+! TimeUpdated: 2021-07-31T00:27:49+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -10,7 +10,6 @@
 ||0.courier-push-apple.com.akadns.net
 ||0.gravatar.com
 ||0.nextyourcontent.com
-||0.pool.ntp.org
 ||0.r.msn.com
 ||000.0x1f4b0.com
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -1472,7 +1471,6 @@
 ||2.biqle.ru
 ||2.brinkshome.com
 ||2.c.ns.emailvision.net.daraz.com
-||2.centos.pool.ntp.org
 ||2.courier-push-apple.com.akadns.net
 ||2.courier2-push-apple.com.akadns.net
 ||2.cr.rs
@@ -3839,7 +3837,6 @@
 ||7004202.com
 ||70066hg.com
 ||700mh.com
-||7016281.com
 ||701pages.com
 ||7021198.com
 ||7024411.com
@@ -8479,6 +8476,7 @@
 ||ads.townhall.com
 ||ads.tracfonewireless.com
 ||ads.track.net
+||ads.tradeads.eu
 ||ads.traderonline.com
 ||ads.traffichunt.com
 ||ads.trafficjunky.net
@@ -12323,7 +12321,6 @@
 ||appcloudcdn.com
 ||appconsent.io
 ||appcontent.serif.com
-||appdl-1-drcn.dbankcdn.com
 ||appdownload.qm2500.com
 ||appdownloader.net
 ||appdynamics.co.uk
@@ -13116,7 +13113,6 @@
 ||as1.inoventiv.com
 ||as2.adserverhd.com
 ||as5205.com
-||asa.commerce.apple.com
 ||asacolhd.com
 ||asacp.org
 ||asadis.net
@@ -19040,7 +19036,6 @@
 ||bs-cookie.staging.springbok.agency
 ||bs-offers.konicaminolta.jp
 ||bs.commontools.net
-||bs.lamrd.cn
 ||bs.mybb.ru
 ||bs.nakanohito.jp
 ||bs.orsk.ru
@@ -19694,7 +19689,6 @@
 ||bw99vip.com
 ||bwater.com
 ||bway311.com
-||bway83.com
 ||bway881360.com
 ||bway882338.com
 ||bway885056.com
@@ -21444,7 +21438,6 @@
 ||cdn-102.statdynamic.com
 ||cdn-145.privacy-mgmt.com
 ||cdn-146.privacy-mgmt.com
-||cdn-adn.rayjump.com
 ||cdn-ads.thesaigontimes.vn
 ||cdn-alliancegravity.s3.amazonaws.com
 ||cdn-api.admost.com
@@ -26713,7 +26706,6 @@
 ||cuibulcuvipere.ro
 ||cuicoterapia.cl
 ||cuies.com
-||cuiqingcn.com
 ||cuisineactuelle.fr
 ||cuisineaz.com
 ||cukierniatylczynscy.lh.pl
@@ -31397,7 +31389,6 @@
 ||dt00.net
 ||dt07.com
 ||dt07.net
-||dt1pxsve3tgas.cloudfront.net
 ||dt52hnpu8y71o.cloudfront.net
 ||dtakdb1z5gq7e.cloudfront.net
 ||dtci.co
@@ -32922,7 +32913,6 @@
 ||eddiev.com
 ||eddieyang.com
 ||eddy.noneto.com
-||eddyapple.com
 ||edeals.rhymebiz.com
 ||edeka.de
 ||edenbridge.org.uk
@@ -33234,7 +33224,6 @@
 ||eharmony.ca
 ||eharmony.com
 ||eharmony.com.au
-||ehavior.net
 ||ehc.com
 ||ehdkzm.ottoversand.at
 ||ehealthinsurance.com
@@ -37381,6 +37370,7 @@
 ||flightcontrol.dev
 ||flightnetwork.com
 ||flightproxy-asea-02-teams.cloudapp.net
+||flightproxy-asea-03-teams.cloudapp.net
 ||flightproxy-asse-02-teams.cloudapp.net
 ||flightproxy-asse-03-teams.cloudapp.net
 ||flightproxy-asse-05-teams.cloudapp.net
@@ -38322,6 +38312,7 @@
 ||free.pagepeeker.com
 ||free.propdfconverter.com
 ||free.publictracker.xyz
+||free.srcdn.xyz
 ||free.thesocialsexnetwork.com
 ||free.videodownloadconverter.com
 ||free.webmailworld.com
@@ -40397,7 +40388,6 @@
 ||gf300.com
 ||gf3666.com
 ||gf4111.com
-||gf8111.com
 ||gfacecbook.com
 ||gfaf-banners.s3.amazonaws.com
 ||gfashion.com
@@ -44767,7 +44757,6 @@
 ||gtjtht.com
 ||gtl.net
 ||gtloli.com
-||gtm-cn-n6w1ucj0e05.ddoswafcdn.xyz
 ||gtn-mobile.com
 ||gtnde.com
 ||gtop.ro
@@ -45781,7 +45770,6 @@
 ||heavenmedia.com
 ||heavy-r.com
 ||heavymetalmachines.com
-||hebczce.com
 ||hebdo.ch
 ||hec.ca
 ||hechaji.com
@@ -46479,7 +46467,6 @@
 ||hj8686.com
 ||hj8815.com
 ||hj906.com
-||hj9188.com
 ||hj940.com
 ||hj949.com
 ||hj971.com
@@ -48046,7 +48033,6 @@
 ||i.static.zaplata.bg
 ||i.v2ex.co
 ||i.vimeocdn.com
-||i.w.inmobi.com
 ||i.w55c.net
 ||i.wuw.red
 ||i.youzipi.net
@@ -48962,6 +48948,7 @@
 ||images.mpression.net
 ||images.mylot.com
 ||images.netcomvad.com
+||images.nvidia.cn
 ||images.nvidia.com
 ||images.outbrainimg.com
 ||images.people2people.com
@@ -52865,7 +52852,6 @@
 ||jbet2.com
 ||jbex.com
 ||jbezdi.ilsole24ore.com
-||jbi6689.com
 ||jbi8888.com
 ||jbizz.biz
 ||jbl228.com
@@ -55388,7 +55374,6 @@
 ||ku17.net
 ||ku178.net
 ||ku18.net
-||ku555.net
 ||kuaibaopay.com
 ||kuaibo.com
 ||kuaichuanmirror.com
@@ -55530,7 +55515,6 @@
 ||kwikj.com
 ||kwis-opf.amazon.com
 ||kwitvg.letudiant.fr
-||kwm.com
 ||kwok7.com
 ||kwongwah.com.my
 ||kwp52.com
@@ -55791,7 +55775,6 @@
 ||lampenwelt.de
 ||lampsplus.com
 ||lampy.pl
-||lamrd.cn
 ||lamrim.com
 ||lamyetudiant.fr
 ||lamyig.com
@@ -57030,6 +57013,7 @@
 ||liftmaster.com
 ||liftoff.io
 ||liftone.net
+||lifu11.com
 ||lifujie.com
 ||lig.liberation.fr
 ||liga-stavok.com
@@ -58319,7 +58303,6 @@
 ||lpcres.delve.office.com
 ||lpdbca.internetaptieka.lv
 ||lpfirw.kooding.com
-||lphgse.bcc.nl
 ||lpipua.kcar.com
 ||lpl.com
 ||lplxiaohu.m.biqubao.com
@@ -61248,7 +61231,6 @@
 ||mcadforums.com
 ||mcaf.ee
 ||mcafee.com
-||mcafee.hopto.org
 ||mcalbertoxd.000webhostapp.com
 ||mcasino.le989.com
 ||mcat007.com
@@ -73835,14 +73817,12 @@
 ||pj12.tk
 ||pj2019.com
 ||pj22.cc
-||pj3635.com
 ||pj606.com
 ||pj7997.com
 ||pj806.com
 ||pj807.com
 ||pj81479.com
 ||pj8866.com
-||pj886888.com
 ||pj8877.com
 ||pjbadh2.club
 ||pjbar.xyz
@@ -76398,7 +76378,6 @@
 ||px-cloud.net
 ||px-intl.ucweb.com
 ||px.adhigh.net
-||px.ads.linkedin.com
 ||px.britepool.com
 ||px.cdn.creative.medialytics.com
 ||px.derstandard.at
@@ -76642,7 +76621,6 @@
 ||qianyi806.com
 ||qianyi808.com
 ||qidian.ca
-||qiepianyun.com
 ||qiepyp.ascianne.com
 ||qieyz.com
 ||qifa002.com
@@ -81248,7 +81226,6 @@
 ||savantwealth.com
 ||save.redroof.com
 ||saveclipbro.com
-||saveliuxiaobo.com
 ||savemedia.com
 ||savemedia.website
 ||saverthk.org
@@ -81927,7 +81904,6 @@
 ||sdk-orion.appboy.com
 ||sdk.appsflyer.com
 ||sdk.cferw.com
-||sdk.congyicn.com
 ||sdk.congyicn.com.m.alikunlun.com
 ||sdk.digitalbees.it
 ||sdk.duihuashijie.com
@@ -83468,7 +83444,6 @@
 ||shb.richaudience.com
 ||shchokc108bvomy.phlotplay.com
 ||shd163.com
-||shdhej.com
 ||sheahomes.com
 ||sheboyganpress.com
 ||sheego.de
@@ -86955,7 +86930,6 @@
 ||somniture.ventingpipe.com
 ||somniture.winecoolerdirect.com
 ||somniture.yodlee.com
-||somnivis.overstock.com
 ||somproduct.ro
 ||somt.honda.com
 ||somtr.financialengines.com
@@ -87868,6 +87842,7 @@
 ||sr.cookiescript.info
 ||srax.com
 ||srbnxr.blair.com
+||srcdn.xyz
 ||srcf.ucam.org
 ||srch.atdmt.com
 ||srcips.com
@@ -89044,6 +89019,7 @@
 ||static1.freebitco.in
 ||static1.kewaishu.info
 ||static1.sw-cdn.net
+||static2.ero2you.com
 ||static2.freebitco.in
 ||static2.sharepointonline.com
 ||static2.sharepointonline.com.edgekey.net
@@ -91721,7 +91697,6 @@
 ||t6dy.com
 ||t6k.co
 ||t7.taboola.com
-||t71q.com
 ||t75.qyqc4s.com
 ||t8.bangbrosnetwork.com
 ||t8.taboola.com
@@ -96401,7 +96376,6 @@
 ||traffic.acwebconnecting.com
 ||traffic.adexprtz.com
 ||traffic.adxprts.com
-||traffic.alexa.com
 ||traffic.buyservices.com
 ||traffic.focuusing.com
 ||traffic.hostedstatus.page
@@ -113177,7 +113151,6 @@
 ||wynnware.com
 ||wypmau.vbr.ru
 ||wyqn.net
-||wysa.2wxb5.cn
 ||wysjy.com
 ||wyt750.com
 ||wywna.cn
@@ -116060,7 +116033,6 @@
 ||zeitimpuls.at
 ||zeitin.com
 ||zeitworld.com
-||zelaiu.tradinginthefinancial.live
 ||zeldaboard.net
 ||zelenaya.net
 ||zelfo.pw
