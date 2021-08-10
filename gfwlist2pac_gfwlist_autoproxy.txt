@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyODQ2OTA3Mgo=
+! Checksum: MTYyODU1NTQ0MAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210809-0
-! TimeUpdated: 2021-08-09T00:31:12+00:00
+! Version: 1.0.0-20210810-0
+! TimeUpdated: 2021-08-10T00:30:40+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -10,6 +10,7 @@
 ||0.courier-push-apple.com.akadns.net
 ||0.gravatar.com
 ||0.nextyourcontent.com
+||0.pool.ntp.org
 ||0.r.msn.com
 ||000.0x1f4b0.com
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -450,6 +451,7 @@
 ||10010388.com
 ||100135.com
 ||1001694.com
+||10037.x.adanxing.com
 ||1005freshradio.ca
 ||10066hg.com
 ||100afrc.com
@@ -777,7 +779,6 @@
 ||13322.com
 ||1337.abcvg.info
 ||1337.cx
-||1337x.org
 ||1337x.to
 ||133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
 ||134.78.116.150.zz.countries.nerd.dk
@@ -1465,7 +1466,6 @@
 ||2.biqle.ru
 ||2.brinkshome.com
 ||2.c.ns.emailvision.net.daraz.com
-||2.centos.pool.ntp.org
 ||2.courier-push-apple.com.akadns.net
 ||2.courier2-push-apple.com.akadns.net
 ||2.cr.rs
@@ -3028,7 +3028,6 @@
 ||51ir.cn
 ||51jav.org
 ||51jiarenla.com
-||51jsq.net
 ||51juejinjie.com.cn
 ||51kanke.com
 ||51lolo.com
@@ -4217,7 +4216,6 @@
 ||8274566879.supersite2.myorderbox.com
 ||8278c.com
 ||8278h.com
-||8278n.com
 ||8278s.com
 ||8278t.com
 ||8278z.com
@@ -7269,6 +7267,7 @@
 ||ad2.nend.net
 ||ad2.netriota.hu
 ||ad2.nmm.de
+||ad2.parom.hu
 ||ad2.thisisgame.com
 ||ad2.xrea.com
 ||ad2.yam.com
@@ -8769,7 +8768,6 @@
 ||adserv008.adtech.us
 ||adserv2.bravenet.com
 ||adserve.ams.rhythmxchange.com
-||adserve.city-ad.com
 ||adserve.donanimhaber.com
 ||adserve.ehpub.com
 ||adserve.gkeurope.de
@@ -12382,7 +12380,6 @@
 ||app55555.com
 ||app6.cf
 ||app6.gq
-||app63.cf
 ||appa.pe
 ||appadvice.com
 ||appali.hnlsht.com
@@ -12403,6 +12400,7 @@
 ||appcloudcdn.com
 ||appconsent.io
 ||appcontent.serif.com
+||appdl-1-drcn.dbankcdn.com
 ||appdownload.qm2500.com
 ||appdownloader.net
 ||appdynamics.co.uk
@@ -16480,7 +16478,6 @@
 ||beta.usejump.com
 ||beta.vip123.cf
 ||beta.vpon.com
-||beta.xyz123.cf
 ||betacar40.net.daraz.com
 ||betacash.com
 ||betak.net
@@ -18375,7 +18372,6 @@
 ||bodis.com
 ||bodog.com
 ||bodog168.com
-||bodog18.com
 ||bodog68.com
 ||bodog88.net
 ||bodog88asia.com
@@ -19219,7 +19215,6 @@
 ||btbtt77.com
 ||btbttpic.com
 ||btc-alpha.com
-||btc100.com
 ||btc98.com
 ||btcake.com
 ||btcbank.bank
@@ -19391,7 +19386,6 @@
 ||bugs.launchpad.net
 ||bugs.qbittorrent.org
 ||bugs3.com
-||bugsec.org
 ||bugsnag.com
 ||bugtracker.meerai.io
 ||bugzilla.mozilla.org
@@ -21386,7 +21380,6 @@
 ||cc-api-data.adobe.io
 ||cc-api-teamprojects-ue1.adobe.io
 ||cc-api-teamprojects.adobe.io
-||cc-asea-09-skype.cloudapp.net
 ||cc-asse-05-skype.cloudapp.net
 ||cc-asse-06-skype.cloudapp.net
 ||cc-asse-09-skype.cloudapp.net
@@ -23027,7 +23020,6 @@
 ||ci.r-hx-1.net.daraz.com
 ||ci.r-ln-1.net.daraz.com
 ||ci.security
-||ci170.fafafa3388.com
 ||ci6.googleusercontent.com
 ||ci77.net
 ||ci88.net
@@ -23236,7 +23228,6 @@
 ||citrix.brookfieldrenewable.com
 ||citrusbits.com
 ||cits.com.mo
-||city-ad.com
 ||city365.ca
 ||city9x.com
 ||citya.com
@@ -24300,7 +24291,6 @@
 ||cny.yoyo.org
 ||cnyes.com
 ||cnyingyin.com
-||cnyuheng.net
 ||cnywst.com
 ||cnzhizhe.com
 ||cnzol.com
@@ -25765,6 +25755,7 @@
 ||count16.51yes.com
 ||count17.51yes.com
 ||count18.51yes.com
+||count19.51yes.com
 ||count2.51yes.com
 ||count20.51yes.com
 ||count21.51yes.com
@@ -29906,6 +29897,7 @@
 ||dimehouse.de
 ||dimehouse.fr
 ||dimehouse.nl
+||dimg04.c-ctrip.com
 ||dimoskaipoliteia.blogspot.hk
 ||dimplexthermal.com
 ||dimpy.narod.ru
@@ -33016,6 +33008,7 @@
 ||ecom.wix.com
 ||ecomapas.cl
 ||ecomm.tebu-bio.com
+||ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ||ecommstats.s3.amazonaws.com
 ||ecommtools.com
 ||ecompics.power.oho.lv
@@ -35284,7 +35277,6 @@
 ||events-collector.spot.im
 ||events-eu.freshsuccess.com
 ||events-patner.net.daraz.com
-||events-prod-1-1033355748.us-east-1.elb.amazonaws.com
 ||events-us.freshsuccess.com
 ||events.air.tv
 ||events.apester.com
@@ -36724,7 +36716,6 @@
 ||fdm.dk
 ||fdmedia.io
 ||fdn.fr
-||fdn.geekzu.org
 ||fdnyib.biketiresdirect.com
 ||fdoun.com
 ||fdp.de
@@ -46913,6 +46904,7 @@
 ||hk.myblog.yahoo.com
 ||hk.napi.ucweb.com
 ||hk.news.yahoo.com
+||hk.pool.ntp.org
 ||hk.schroders.email
 ||hk.search.yahoo.com
 ||hk.tomonews.net
@@ -47527,7 +47519,6 @@
 ||hotnewhiphop.com
 ||hotpepper.jp
 ||hotpix.fr
-||hotpornshow.com
 ||hotpot.hk
 ||hotsbot.net
 ||hotseeshow.com
@@ -48468,7 +48459,6 @@
 ||i6.cmail20.com
 ||i6.imageban.ru
 ||i6.liadm.com
-||i6.weather.oppomobile.com
 ||i60702.com
 ||i7bg4.5.shop.tm
 ||i818hk.com
@@ -54046,7 +54036,6 @@
 ||jrnrgc.kitchenshop.ro
 ||jropij.minelli.fr
 ||jrs.net
-||jrsnba.com
 ||jrsusa.org
 ||jrucbb.guestreservations.com
 ||jrxrit.europcar.de
@@ -55395,7 +55384,6 @@
 ||klsecurity.com
 ||klsg.net
 ||klxq.icu
-||klxsw.com
 ||km.1024ky.biz
 ||km.1024ky.me
 ||km.almacreations.jp
@@ -56436,7 +56424,6 @@
 ||lavageethion.com
 ||laval.cl
 ||lavande.com.tr
-||lavanyadeepak.tk
 ||lavaone.com
 ||lavate.ch
 ||lavavpn.com
@@ -59507,6 +59494,7 @@
 ||m.yuyan.live
 ||m.yuyouge.com
 ||m.yzc212.com
+||m.z0mh0u.cn
 ||m.zaoss.com
 ||m.zdjgj.cn
 ||m.zenwq.com
@@ -62069,6 +62057,7 @@
 ||media-cdn.epicgames.com
 ||media-cdn.ipredictive.com
 ||media-dl.co
+||media-exp1.licdn.com
 ||media-ext.wanarun.net
 ||media-global.net
 ||media-proweb.de
@@ -73183,7 +73172,6 @@
 ||pc-patner.net.daraz.com
 ||pc.22.ns1.name
 ||pc.com
-||pc.gutouwang.net
 ||pc.ns2.name
 ||pc.onmypc.net
 ||pc.ss.mm.newworldinteractive.com
@@ -73910,7 +73898,6 @@
 ||photojojo.com
 ||photojournal.jpl.nasa.gov
 ||photolia.net
-||photon.komoot.de
 ||photonicssociety.org
 ||photoplayhouse.com
 ||photopulse.ru
@@ -74100,7 +74087,6 @@
 ||pigav.com
 ||pigeon.i3.dmm.com
 ||pigeon.sushi.com
-||pigeonracingbooks.com
 ||pigflying.net
 ||piggyproof.benediktweishaupt.de
 ||pihawv.vprmoda.com
@@ -77093,7 +77079,6 @@
 ||pydabogados.com.ar
 ||pydnsv.ejobs.ro
 ||pyfunceble.github.io
-||pyguohai.com
 ||pyhapp.com
 ||pymbay.kinguin.net
 ||pymc.cl
@@ -77127,7 +77112,6 @@
 ||pytorch.org
 ||pytxsn.najlacnejsisport.sk
 ||pywiia.lfmall.co.kr
-||pz0033.com
 ||pz1155.com
 ||pz2777.com
 ||pz2999.com
@@ -79408,7 +79392,6 @@
 ||renren163.com
 ||renrenying.com
 ||renrenyum.com
-||renrousousuo.com
 ||rent.com
 ||rentacar.fr
 ||rentals.com
@@ -80923,7 +80906,6 @@
 ||s.adx.opera.com
 ||s.agava.ru
 ||s.alameinv.com
-||s.allanibutiti.com
 ||s.allbootdisks.com
 ||s.amazon-adsystem.com
 ||s.americanblinds.com
@@ -82717,6 +82699,7 @@
 ||search.avg.com
 ||search.avira.com
 ||search.bg
+||search.browser.miui.com
 ||search.buzzdock.com
 ||search.ch
 ||search.com
@@ -83322,6 +83305,7 @@
 ||seed-pol-4.inf.nimiq.network
 ||seed.bitcoin.sipa.be
 ||seed.bitcoin.sprovoost.nl
+||seed.bitcoin.wiz.biz
 ||seed.bitcoinstats.com
 ||seed.btc.petertodd.org
 ||seed.nimiqpool.com
@@ -85156,10 +85140,8 @@
 ||skypedataprdcoljpw01.cloudapp.net
 ||skypedataprdcoljpw02.cloudapp.net
 ||skypedataprdcoljpw03.cloudapp.net
-||skypedataprdcolneu00.cloudapp.net
 ||skypedataprdcolneu01.cloudapp.net
 ||skypedataprdcolneu02.cloudapp.net
-||skypedataprdcolneu03.cloudapp.net
 ||skypedataprdcolneu04.cloudapp.net
 ||skypedataprdcolneu05.cloudapp.net
 ||skypedataprdcolneu06.cloudapp.net
@@ -85728,7 +85710,6 @@
 ||smetrics.boston.com
 ||smetrics.bostonglobe.com
 ||smetrics.bpbusinesssolutions.com
-||smetrics.brandsworld.com.sg
 ||smetrics.braunability.com
 ||smetrics.brett-robinson.com
 ||smetrics.brewersfayre.co.uk
@@ -85900,7 +85881,6 @@
 ||smetrics.darty.com
 ||smetrics.deakin.edu.au
 ||smetrics.dekalbasgrowdeltapine.com
-||smetrics.deliciousliving.com
 ||smetrics.delta.com
 ||smetrics.deltacargo.com
 ||smetrics.der.dk
@@ -90453,7 +90433,6 @@
 ||stats.united-domains.de
 ||stats.unox.com
 ||stats.unwired-i.net
-||stats.updown.io
 ||stats.urban-media.com
 ||stats.urbanfinn.com
 ||stats.useeffect.dev
@@ -93096,15 +93075,12 @@
 ||tdep.suncamp.pl
 ||tdep.teamnijhuis.com
 ||tdep.theofficeservice.com
-||tdep.vacansoleil.be
-||tdep.vacansoleil.co.uk
 ||tdep.vacansoleil.de
 ||tdep.vacansoleil.dk
 ||tdep.vacansoleil.fr
 ||tdep.vacansoleil.hu
 ||tdep.vacansoleil.it
 ||tdep.vacansoleil.nl
-||tdep.vacansoleil.pl
 ||tdesktop.com
 ||tdf1.admyjob.com
 ||tdf1.easyviaggio.com
@@ -96507,7 +96483,6 @@
 ||tracker.digitalcamp.co.kr
 ||tracker.dler.com
 ||tracker.dler.org
-||tracker.dmcomic.org
 ||tracker.dmhy.org
 ||tracker.downdetector.com
 ||tracker.ds.is
@@ -101095,7 +101070,6 @@
 ||video.twimg.com
 ||video.vid4u.org
 ||video.videonow.ru
-||video.videos.vidto.me
 ||video.xgfemdom.com
 ||video.yahoo.com
 ||video2.stream.vidzi.tv
@@ -101141,7 +101115,6 @@
 ||videos.com
 ||videos.fleshlight.com
 ||videos.oms.eu
-||videos.vidto.me
 ||videosecrets.com
 ||videosection.com
 ||videoseyredin.net
