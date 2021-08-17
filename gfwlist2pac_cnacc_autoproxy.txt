@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyOTA3Mzc1OQo=
+! Checksum: MTYyOTE2MDE2MQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210816-0
-! TimeUpdated: 2021-08-16T00:29:19+00:00
+! Version: 1.0.0-20210817-0
+! TimeUpdated: 2021-08-17T00:29:21+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -894,6 +894,7 @@
 ||1.51sxue.cn
 ||1.5646.cn
 ||1.66law.cn
+||1.78500.cn
 ||1.800400.net
 ||1.92caijing.com
 ||1.aili.com
@@ -5469,7 +5470,6 @@
 ||517w.com
 ||517xc.com
 ||517zp.com
-||518.sdinfo.net
 ||518223.com
 ||5184.com
 ||51845.com
@@ -6757,6 +6757,7 @@
 ||58wan.com
 ||58wangwei.com
 ||58wanwan.com
+||58wzb.com
 ||58xinrui.com
 ||58xs.com
 ||58xs.la
@@ -7650,6 +7651,7 @@
 ||7-vk.com
 ||7-wx.com
 ||7.iscrv.com
+||7.pic.paopaoche.net
 ||7.pic.pc6.com
 ||700935.shop.m.liebiao.com
 ||700bike.com
@@ -8040,6 +8042,7 @@
 ||78302.com
 ||78360.net
 ||7849.com
+||78500.cn
 ||785959.vip
 ||786ip.com
 ||7878hk.com
@@ -9781,7 +9784,6 @@
 ||996a.com
 ||9973.com
 ||997788.com
-||997hw.com
 ||998.com
 ||9981seo.com
 ||9981ypk.com
@@ -9948,6 +9950,7 @@
 ||9fbank.com
 ||9fe812c8.fyeds9.com
 ||9first.com
+||9fpuhui.com
 ||9fs.com
 ||9g.com
 ||9game.cn
@@ -11390,6 +11393,7 @@
 ||adv.sec.miui.com
 ||adv.zuimeitianqi.com
 ||adv5678.com
+||advapi.ahtv.cn
 ||adver.qq.com
 ||advert.api.thejoyrun.com
 ||advert.mting.info
@@ -11531,6 +11535,7 @@
 ||afjk.com
 ||afjob88.com
 ||afm.pipi.cn
+||afoxsshadow.com
 ||afp.alicdn.com
 ||afp.m1905.com
 ||afp.zol-img.com.cn
@@ -11710,7 +11715,6 @@
 ||ai-factory.com
 ||ai-indestry.com
 ||ai-qingchang.com
-||ai-sheji.com
 ||ai-start.com
 ||ai-thinker.com
 ||ai.alimebot.taobao.com
@@ -13491,6 +13495,7 @@
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
+||api.geetest.com
 ||api.gi.igexin.com
 ||api.gotokeep.com
 ||api.growingio.com
@@ -13853,7 +13858,6 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
-||app-site-association.cdn-apple.com
 ||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
@@ -14676,6 +14680,7 @@
 ||aurora-college.cn
 ||aurora-tel.hypers.com.cn
 ||aus.cc
+||ausaview.com
 ||ausbio.com
 ||auscoo.com
 ||ausdn.com
@@ -15541,7 +15546,6 @@
 ||bajiecaiji.com
 ||bajiege.com
 ||bajiehechuang.com
-||bajiemoney.com
 ||bajieziyuan.com
 ||bajintech.com
 ||bajiu.org
@@ -16609,7 +16613,6 @@
 ||beyoner.net
 ||bf10087.com
 ||bf35.com
-||bf730.com
 ||bf7fca912e49f0c33b7bc0401e395747.dlied1.cdntips.net
 ||bf92.com
 ||bfacai.top
@@ -16998,6 +17001,7 @@
 ||biohyalux.com
 ||biolab.xyz
 ||biomasscn.com
+||bionav.cc
 ||bioon.com
 ||bioon.net
 ||biosren.com
@@ -18520,7 +18524,6 @@
 ||bw8848.com
 ||bwae.org
 ||bwangel.me
-||bway88688.com
 ||bwbot.org
 ||bwchinese.com
 ||bwda.net
@@ -18566,7 +18569,6 @@
 ||bxpedia.com
 ||bxr.im
 ||bxrfund.com
-||bxs.bilandgo.com
 ||bxsnews.com
 ||bxsychina.com
 ||bxunit.com
@@ -20210,7 +20212,6 @@
 ||cdn.unityads.unity3d.com
 ||cdn.upthinking.cn
 ||cdn.ur.qq.com
-||cdn.vaptcha.com
 ||cdn.wmpvp.com
 ||cdn.wtzw.com
 ||cdn.wtzw.com.wswebpic.com
@@ -23185,7 +23186,6 @@
 ||cm.l.qq.com
 ||cm.lianmeng.360.cn
 ||cm.masky.biddingx.com
-||cm.mct01.com
 ||cm.mediav.com
 ||cm.miaozhen.atm.youku.com
 ||cm.passport.iqiyi.com
@@ -27324,7 +27324,6 @@
 ||ddcode.net
 ||ddd-china.com
 ||ddd.1sapp.com
-||ddd.haodizhi666.com
 ||dddashj7.v1d.szbdyd.com
 ||dddazhe.com
 ||dddccs8p.com
@@ -28907,7 +28906,6 @@
 ||dm77.com
 ||dm789.com
 ||dm9.com
-||dma.15tianqi.com
 ||dmacg.net
 ||dmacore.kejet.com
 ||dmacore.kejet.net
@@ -29279,7 +29277,6 @@
 ||dongfangtai.com
 ||dongfangtech.net
 ||dongfangweiting.com
-||dongfeeng.cc
 ||dongfeng-honda-elysion.com
 ||dongfeng-honda-gienia.com
 ||dongfeng-honda-greiz.com
@@ -29887,6 +29884,7 @@
 ||dspimg.dftoutiao.com
 ||dspmnt.autohome.com.cn
 ||dspmy.ge95.com
+||dspserver.ad.cmvideo.cn
 ||dspwhy.com
 ||dspwin.adsame.com
 ||dsq.com
@@ -33675,7 +33673,6 @@
 ||feelcode.net
 ||feelec.net
 ||feeliu.com
-||feemoo.com
 ||feemoo.vip
 ||feepan.com
 ||feerbook.com
@@ -34723,7 +34720,6 @@
 ||fp.hwwt8.com
 ||fp.nanrenwo.net
 ||fp.tongdun.net
-||fpag.w48ge.cn
 ||fpb.docin.com
 ||fpb.sohu.com
 ||fpb1.apple886.com
@@ -38920,6 +38916,7 @@
 ||hangzhou.baixing.com
 ||hangzhoufcw.com
 ||hangzhouleihuai.51sole.com
+||hangzhouluohu.com
 ||hangzhoutianqi114.com
 ||hanhai.net
 ||hanhaiqikan.com
@@ -38930,7 +38927,6 @@
 ||hanjiaying.com
 ||hanjie.biz
 ||hanjjl.com
-||hanju.cc
 ||hanjucc.com
 ||hanjudao.com
 ||hanjumi.net
@@ -39738,6 +39734,7 @@
 ||hd.browser.miui.com
 ||hd.chinatax.gov.cn
 ||hd.gg
+||hd.hupu.com
 ||hd.huya.com
 ||hd.huya.com.w.alikunlun.com
 ||hd.mmstat.com
@@ -42824,6 +42821,7 @@
 ||hynkzkyy.cn
 ||hynpay.com
 ||hyocr.com
+||hyouda.com
 ||hypefolio.com
 ||hyper.sh
 ||hypergryph.com
@@ -43282,7 +43280,6 @@
 ||iamwr.com
 ||iamxiaoming.net
 ||iamxk.com
-||ian.wang
 ||ianvisa.com
 ||iaoso.com
 ||iaoyou.com
@@ -44165,6 +44162,7 @@
 ||iisp.mbs.boc.cn
 ||iissbbs.com
 ||iissnan.com
+||iiszg.com
 ||iitcp.com
 ||iitoutiao.com
 ||iivey.com
@@ -48749,7 +48747,6 @@
 ||js.duotegame.com
 ||js.ea3w.com
 ||js.fc090.com
-||js.feitian001.com
 ||js.fengniao.com
 ||js.gdyjs.com
 ||js.gomein.net.cn
@@ -50690,7 +50687,6 @@
 ||kljiyou.com
 ||klkl.tv
 ||kllife.com
-||klm123.com
 ||klmh5.com
 ||klmhw.com
 ||klmnf.com
@@ -51030,6 +51026,7 @@
 ||kscdns.com
 ||ksdlp.com
 ||ksdown.com
+||ksdq0514.com
 ||ksense.com
 ||ksfang.com
 ||ksgnr.com
@@ -55556,6 +55553,7 @@
 ||mad.m.maxthon.cn
 ||mad.stat.v-56.com
 ||mad1.jirou.com
+||madaicaifu.com
 ||madailicai.com
 ||made-in-china.com
 ||madefuns.com
@@ -60470,7 +60468,6 @@
 ||njyongji.com
 ||njywsd.com
 ||njzc025.com
-||njzglxs.com
 ||njzhongyuan.com
 ||njzhzx.net
 ||njzq.com.cn
@@ -62355,7 +62352,6 @@
 ||p-dragon.com
 ||p-e-china.com
 ||p-fastdfs.jpush.cn
-||p-hs.lecloud.com
 ||p-l.play.aiseet.atianqi.com
 ||p-vp.autohome.com.cn
 ||p.2345.6463.com
@@ -64168,6 +64164,7 @@
 ||pis.alicdn.com.gds.alibabadns.com
 ||pisx.com
 ||pites.cc
+||pitk.birdgesdk.com
 ||piworker.com
 ||pix2code.net
 ||pixelauth.com
@@ -66303,7 +66300,6 @@
 ||qhimgs4.com
 ||qhimi.com
 ||qhjyks.com
-||qhjyzb.com
 ||qhkyfund.com
 ||qhl.bealge.sogou.com
 ||qhlhfund.com
@@ -69950,6 +69946,7 @@
 ||rulejianzhan.com
 ||rulesofsurvivalgame.com
 ||rum.xundayun.cn
+||rum8.perf.linkedin.com
 ||rumengtushu.suning.com
 ||runcome.com
 ||runde666.net
@@ -78183,7 +78180,6 @@
 ||tg.52digua.com
 ||tg.jifen.2345.com
 ||tg.m.37.com
-||tg.tebiezhuan.com
 ||tg0123.com
 ||tg1234.com
 ||tg40.cdnvpn.net
@@ -78253,6 +78249,7 @@
 ||thanhong.me
 ||thanhtunghairsalon.com
 ||thankbabe.com
+||thatinterpreter.net
 ||thatsmags.com
 ||thatsmandarin.com
 ||thbattle.net
@@ -79968,7 +79965,6 @@
 ||tt-beian.com
 ||tt-bike.com
 ||tt-ly.com
-||tt-tz.com
 ||tt-vod-sched.jcloudimg.com
 ||tt.cn
 ||tt.video7.com.xi.zwtianshangm.com
@@ -82247,7 +82243,6 @@
 ||v1.play.log.hunantv.com
 ||v1.res.log.hunantv.com
 ||v1.shankuwang.com
-||v1.taksh.cn
 ||v1.wphonelife.com
 ||v1.xsj.wasu.tv
 ||v10.kwaicdn.com
@@ -85969,6 +85964,7 @@
 ||wjz-cdn.baidu.com
 ||wjz.e.shifen.com
 ||wjz0098.me
+||wjzj.vip
 ||wk-foryou.com
 ||wk-video-img.cdn.bcebos.com
 ||wk007.com
@@ -89706,7 +89702,6 @@
 ||xilexuan.com
 ||xileyougame.com
 ||xilidou.com
-||xilin.com
 ||xilinglong.net
 ||xilinguole.baixing.com
 ||xilinjie.com
@@ -90332,6 +90327,7 @@
 ||xjxy.com
 ||xjy415.net
 ||xjyaxin.com
+||xjyou88.com
 ||xjyqly.com
 ||xjytjt.com
 ||xjzdjx.com
