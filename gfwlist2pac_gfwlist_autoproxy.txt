@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyOTE2MDE3Mgo=
+! Checksum: MTYyOTI0NjU0Mgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210817-0
-! TimeUpdated: 2021-08-17T00:29:32+00:00
+! Version: 1.0.0-20210818-0
+! TimeUpdated: 2021-08-18T00:29:02+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-courier.push.apple.com
@@ -233,7 +233,6 @@
 ||05-enlisted-level3.cdn.gaijin.net
 ||0500sun.com
 ||0512pifa.com.cn
-||051352.com
 ||0513704.com
 ||051661.com
 ||051891.com
@@ -1023,6 +1022,7 @@
 ||16vvv.net
 ||16xxx.net
 ||16yyy.net
+||16zhan.com
 ||17-courier.push.apple.com
 ||17-courier2.push.apple.com
 ||17-js.com
@@ -2168,7 +2168,6 @@
 ||32.etowns.net
 ||32.info.tm
 ||32.mrface.com
-||32.ns02.biz
 ||32.slyip.net
 ||32.w2.4pu.com
 ||32.win7.us
@@ -2339,6 +2338,7 @@
 ||360factors.com
 ||360incentives.com
 ||360livemedia.com
+||360pw.com
 ||360vip.front99.com
 ||360xinfang.com
 ||360yield.com
@@ -2947,7 +2947,6 @@
 ||5017.com
 ||5017002.com
 ||5017022.com
-||50188.godxtv.com
 ||50219.dmixtv.site
 ||502310.com
 ||502325.com
@@ -3002,7 +3001,6 @@
 ||5178dy.com
 ||517m5.com
 ||517mh.net
-||517pj.com
 ||518.com.tw
 ||5182228.com
 ||518770.com
@@ -3020,12 +3018,14 @@
 ||51ir.cn
 ||51jav.org
 ||51jiarenla.com
+||51jiasu.com
 ||51juejinjie.com.cn
 ||51kanke.com
 ||51lolo.com
 ||51luoben.com
 ||51meifu.com
 ||51network.com
+||51ou.com
 ||51sa36.com
 ||51sis.live
 ||51smt2.xyz
@@ -3085,6 +3085,7 @@
 ||525xx.com
 ||52668.com
 ||52682.com
+||526wan.com
 ||5278.cc
 ||5278.mobi
 ||5278bbs.com
@@ -3097,7 +3098,6 @@
 ||52avq.co
 ||52btbtt.com
 ||52fmh.com
-||52gitlab.com
 ||52gmk.com
 ||52gsz.com
 ||52hy11.com
@@ -3319,7 +3319,6 @@
 ||591yingshi.com
 ||592meiju.com
 ||5948684.com
-||59590.com
 ||596.am
 ||5962624.cn
 ||59668a.com
@@ -4388,7 +4387,6 @@
 ||884aa.com
 ||8855buyu.com
 ||8856db1b1e4ba704dfb3ef821d3cc437.clo.footprintdns.com
-||8857634.com
 ||885868.cc
 ||885xx.me
 ||8866132.com
@@ -4955,7 +4953,6 @@
 ||999let.com
 ||999xs.com
 ||999zclc.com
-||99ac-503270-tencent-hongkong-liveperso.d1.teridioncloud.net
 ||99acres.com
 ||99av.tv
 ||99btgc01.com
@@ -5845,7 +5842,6 @@
 ||a44332.actonservice.com
 ||a47b.com
 ||a48f-4ccb77-tencent-hongkong-liveperso.d1.teridioncloud.net
-||a4dtracker.com
 ||a4flash.com
 ||a4k.net
 ||a4media.com
@@ -5862,7 +5858,6 @@
 ||a58955.com
 ||a5xo-eng.spankbang.com
 ||a6.codejumps.com
-||a6.wechatpu.com
 ||a647dbrbqs.tumblr.com
 ||a66kk.com
 ||a67.com
@@ -6474,7 +6469,6 @@
 ||abtest.em.redmart.com
 ||abtest.redmart.com
 ||abtest.swrve.com
-||abtest.tantanapp.com
 ||abthink.com
 ||abuajs.e-monsite.com
 ||abufinzio.monocul.us
@@ -11582,6 +11576,7 @@
 ||ankeschwarz.net
 ||ankidecks.com
 ||anklets.shengen.ru
+||anlibang.com
 ||anm.co.uk
 ||anmao.panor.fr
 ||anmtvla.com
@@ -12216,7 +12211,6 @@
 ||apihn3.ksapisrv.com
 ||apiion.weather.com.edgekey.net
 ||apikozakanet-a.akamaihd.net
-||apimgmthsjbwb6wj0wktows2eylns9k4cloeqvnvbwjgt89s1u.cloudapp.net
 ||apimgmthsjgbvz4hufib7a8kgzfswryy50du5vrxd5d6cno2zn.cloudapp.net
 ||apinas.nct.vn
 ||apipub.oumma.com
@@ -15671,6 +15665,7 @@
 ||bc365099.com
 ||bc525.com
 ||bc5685.com
+||bc6888.com
 ||bc8066.com
 ||bc8c9b289de186ec8917585ea971aff5.clo.footprintdns.com
 ||bc99.com
@@ -16457,7 +16452,6 @@
 ||bestsecret.at
 ||bestsecret.com
 ||bestsecret.se
-||bestsecurepractice.com
 ||bestservers.co
 ||bestshoesale2014.net
 ||bestshopping.com
@@ -22666,6 +22660,7 @@
 ||checkpoint.com
 ||checkthis.com
 ||cheddars.com
+||cheer.cjoy.com.cn
 ||cheerz.com
 ||cheesecake.jellyfish.com.tw
 ||cheetah.songrender.com
@@ -22895,6 +22890,7 @@
 ||chinauncensored.tv
 ||chinaview.wordpress.com
 ||chinavpn.net
+||chinawaijiao.com
 ||chinawater.net
 ||chinaway.org
 ||chinaweb.bsgroup.com.hk
@@ -23060,6 +23056,7 @@
 ||chrs.me.uk
 ||chrxw.com
 ||chrysler.com
+||chszebfl.tanjiang1990.cn
 ||chuang-yen.org
 ||chuangcn.org
 ||chuangmijishu.xyz
@@ -24768,7 +24765,6 @@
 ||com.bo
 ||com.by
 ||com.com
-||com.cy
 ||com.de
 ||com.econa.com
 ||com.ee
@@ -26891,6 +26887,7 @@
 ||ctot.com
 ||ctowc.org
 ||ctp1.bforbank.com
+||ctquan.com
 ||ctr-iwb.nmg.de
 ||ctr-opc.nmg.de
 ||ctr.nmg.de
@@ -29470,7 +29467,6 @@
 ||dettol.fr
 ||dettol.hu
 ||dettol.ie
-||dettol.net
 ||dettol.nl
 ||dettol.pk
 ||dettol.pl
@@ -29796,6 +29792,7 @@
 ||diamondmansion.com
 ||diamondnorthcu.com
 ||dianclan.com
+||diandianchu.com
 ||diandianxs.com
 ||dianjoy.com
 ||diannaozs.com
@@ -29805,7 +29802,6 @@
 ||dianying.news
 ||dianzhu.net
 ||dianzidesigns.com
-||diaosiqingnian.com
 ||diaosisou.com
 ||diaoyuislands.org
 ||diariogol.com
@@ -30743,6 +30739,7 @@
 ||dns2.freshegg.net.daraz.com
 ||dns2.net1.it
 ||dns2.us
+||dns234.net
 ||dns2go.com
 ||dns3.danaher.net
 ||dns9.quad9.net
@@ -31345,6 +31342,7 @@
 ||dqs001.adtech.us
 ||dqs3.darjeeling.fr
 ||dqygip.clarins.ru
+||dqzhqd.com
 ||dr-ming-xia.org
 ||dr-recella.com
 ||dr-vegefru.com
@@ -32213,7 +32211,6 @@
 ||e.7clink.com
 ||e.958so.cn
 ||e.aduiz.com
-||e.anmeilai.net
 ||e.apsalar.com
 ||e.apxyz.com
 ||e.beckmancoulter.com
@@ -33197,7 +33194,6 @@
 ||ecs.office.trafficmanager.net
 ||ecstart.com
 ||ectmingegneria.it
-||ecupcafe.eu.org
 ||ecusa.anglican.org
 ||ecxtbj.phonehouse.es
 ||ed-camin.com
@@ -33240,6 +33236,7 @@
 ||eddy.noneto.com
 ||edeals.rhymebiz.com
 ||edeka.de
+||edenab.com
 ||edenbridge.org.uk
 ||edenbrothers.com
 ||edenred.fi
@@ -35691,7 +35688,6 @@
 ||exigo.com
 ||exit.macandbumble.com
 ||exitcertified.com
-||exmo.co.in
 ||exmo.com
 ||exmormon.org
 ||exness-chinese.com
@@ -41414,6 +41410,7 @@
 ||gmyb.xinghun580.com
 ||gn-flagpoles.api.bbci.co.uk
 ||gn.com
+||gn666.com
 ||gnavi.com
 ||gnbccarson.com
 ||gnc.com
@@ -42753,7 +42750,6 @@
 ||go.karat.com
 ||go.karbonhq.com
 ||go.kareo.com
-||go.katanazirconia.com
 ||go.katena.com
 ||go.katimavik.org
 ||go.kcmcanada.ca
@@ -45855,6 +45851,7 @@
 ||hai-senishou.jp
 ||hai8.3-a.net
 ||haiduomi.cc
+||haifeisi.com
 ||haig7anax.com
 ||haima888.com
 ||hainvyy.com
@@ -45962,7 +45959,6 @@
 ||haodiao.org
 ||haoel.github.io
 ||haohan001.com
-||haoheju.com
 ||haojuzi.net
 ||haokantu.com
 ||haoli747.com
@@ -46274,6 +46270,7 @@
 ||hdwan.net
 ||hdweb.ru
 ||hdwheelsonline.com
+||hdwhgs.com
 ||hdxcpj.otrium.nl
 ||hdzog.com
 ||hdzone.org
@@ -47861,7 +47858,6 @@
 ||hp-webplatform.com
 ||hp.com
 ||hp.company
-||hp.cool
 ||hp.hacked.jp
 ||hp.io
 ||hp.myway.com
@@ -48256,6 +48252,7 @@
 ||huh.zhengtz.com
 ||huhaitai.com
 ||huhangfei.com
+||huifudai.com
 ||huigoushop.com
 ||huijia888.gq
 ||huijiadelu.com
@@ -48448,7 +48445,6 @@
 ||hwstats.unity3d.com
 ||hwtang.com
 ||hwtime.6te.net
-||hwtnetworks.com
 ||hwupgrade.it
 ||hwvqdp.obilet.com
 ||hwvqka.millets.co.uk
@@ -48739,6 +48735,7 @@
 ||i5.wal.co
 ||i5.walmartimages.com
 ||i59v.r5.cr.rs
+||i5seo.com
 ||i6.cmail20.com
 ||i6.imageban.ru
 ||i6.liadm.com
@@ -49417,6 +49414,7 @@
 ||ijobio.com
 ||ijtazz.boscooutlet.ru
 ||ijypyy.fool.ca
+||ikancai.com
 ||ikanwzd.top
 ||ikdxfh.jollyroom.se
 ||ikea.com
@@ -49687,7 +49685,6 @@
 ||imap.gmail.com
 ||imap.vivaldi.net
 ||imaqdk.labombilla.fr
-||imars.cloud
 ||imb.org
 ||imbell.com
 ||imc-france.com
@@ -52856,7 +52853,6 @@
 ||ismaelan.com
 ||ismalltits.com
 ||ismart.55555945.com
-||ismart.a0210.kulist.net
 ||ismart.spsbbtr.com
 ||ismet.kz
 ||ismetyaksi.com.tr
@@ -53210,6 +53206,7 @@
 ||izbwce.secretoutlet.com.br
 ||izegemkoers.be
 ||izgq.net
+||izhizhao.com
 ||izhufu.net
 ||izihost.org
 ||izipizi.com
@@ -53635,7 +53632,6 @@
 ||jbtalks.my
 ||jbtc.com
 ||jbttdl.beautycarechoices.com
-||jbvip01.com
 ||jbwtz.com
 ||jbysii.butiklatika.pl
 ||jbzj7.com
@@ -57237,6 +57233,7 @@
 ||lemur.joliebulle.org
 ||lemurrr.ru
 ||lemuzhi.com
+||len-aquatics.org
 ||len.etowns.org
 ||lenarcissique.com
 ||lencr.org
@@ -58247,6 +58244,7 @@
 ||liuruiyi.com
 ||liuxiaobo.net
 ||liuxue.stellour.com
+||liuyao.me
 ||liuzheyuan.com
 ||live-cams-1.livejasmin.com
 ||live-cdn.xzxwhcb.com
@@ -59554,6 +59552,7 @@
 ||m.51xmgys.com
 ||m.520xiaojin.com
 ||m.52tushuo.com
+||m.53trya.cn
 ||m.577012.com
 ||m.62mao.com
 ||m.649649.com
@@ -62653,6 +62652,7 @@
 ||medtronicinteract.com
 ||medusa.codes
 ||meebo.com
+||meecai.com
 ||meegoq.com
 ||meendo.com
 ||meerai.io
@@ -64149,6 +64149,7 @@
 ||microcycas.com
 ||microdinc.com
 ||microfocus.com
+||microidc.com
 ||microland.com
 ||microlearning.att.com
 ||micromania.fr
@@ -65686,6 +65687,7 @@
 ||moquanad.com
 ||mora-qualitas.com
 ||mora.jp
+||moracoffee.cc
 ||moralesbrothers.com
 ||moranyachts.com
 ||morayassets.blob.core.windows.net
@@ -73219,6 +73221,7 @@
 ||paste2.org
 ||pasteapp.io
 ||pastebin.com
+||pastein.net
 ||pastel.ink
 ||pastemagazine.com
 ||pastie.org
@@ -73669,6 +73672,7 @@
 ||pcmweb.nl
 ||pcna.com
 ||pcoptimum.ca
+||pcquan.com
 ||pcre.org
 ||pcrichard.com
 ||pcrpriser.se
@@ -75350,7 +75354,6 @@
 ||pmireboot.it
 ||pmmpjb.matratzen-concord.de
 ||pmo.gov.sg
-||pmpdubai.com
 ||pmrdnt.tuincentrum.nl
 ||pmstrk.mercadolivre.com.br
 ||pmu.fr
@@ -77227,7 +77230,6 @@
 ||public.popcorn-tracker.org
 ||public.porn.fr
 ||public.publictracker.xyz
-||public.screenhost.ru
 ||public.servenobid.com
 ||public.sn.files.1drv.com
 ||public.tracker.vraphim.com
@@ -77654,6 +77656,7 @@
 ||qcw.com
 ||qcxzbm.careingtondentalsavings.com
 ||qczmaa.berni.com.ua
+||qdhedu.com
 ||qdhzgg.premoa.co.jp
 ||qdiscove.000webhostapp.com
 ||qdjjj.com
@@ -77884,7 +77887,6 @@
 ||qqi.com.tw
 ||qqjj18.com
 ||qqjlb.com
-||qqjlb001.app
 ||qqjlb2.com
 ||qqjlb6.com
 ||qqjlb8.com
@@ -78105,7 +78107,6 @@
 ||quiz.directory
 ||quizlet.com
 ||quk9.destinia.com.ar
-||qukun8.xyz
 ||quledu.net
 ||qumaef.conects.com
 ||quocard.com
@@ -82493,7 +82494,6 @@
 ||sbnation.com
 ||sbobet.com
 ||sbofa88.com
-||sbofa99.com
 ||sbosport9.com
 ||sbpayment.jp
 ||sbpolice.com
@@ -83098,6 +83098,7 @@
 ||sdl.com
 ||sdlcpartners.com
 ||sdlmaf.bestsecret.at
+||sdlzlib.com
 ||sdnci.com
 ||sdome.underarmour.co.jp
 ||sdp-tagcollector.shutterstock.com
@@ -84776,6 +84777,7 @@
 ||shizhongda.hostoi.com
 ||shizmoo.com
 ||shjingyuan.net
+||shjjmc.com
 ||shkdirect.com
 ||shkinev.me
 ||shkspr.mobi
@@ -85587,7 +85589,6 @@
 ||skype.en.softonic.com
 ||skype.net
 ||skypeassets.com
-||skypedataprdcolaus00.cloudapp.net
 ||skypedataprdcolaus02.cloudapp.net
 ||skypedataprdcolcus00.cloudapp.net
 ||skypedataprdcolcus02.cloudapp.net
@@ -85614,7 +85615,6 @@
 ||skypedataprdcolneu01.cloudapp.net
 ||skypedataprdcolneu02.cloudapp.net
 ||skypedataprdcolneu04.cloudapp.net
-||skypedataprdcolneu05.cloudapp.net
 ||skypedataprdcolneu06.cloudapp.net
 ||skypedataprdcoluks01.cloudapp.net
 ||skypedataprdcoluks03.cloudapp.net
@@ -85624,7 +85624,6 @@
 ||skypedataprdcolweu01.cloudapp.net
 ||skypedataprdcolweu02.cloudapp.net
 ||skypedataprdcolweu04.cloudapp.net
-||skypedataprdcolwus00.cloudapp.net
 ||skypedataprdcolwus02.cloudapp.net
 ||skypedataprdcolwus03.cloudapp.net
 ||skypedataprdcolwus04.cloudapp.net
@@ -90696,7 +90695,6 @@
 ||stats.leaguestats.gg
 ||stats.learnappmaking.com
 ||stats.learnlinux.tv
-||stats.lebonforfait.fr
 ||stats.lefthoek.com
 ||stats.lestypesdefarine.fr
 ||stats.libresse.no
@@ -97169,7 +97167,6 @@
 ||tracker.softcube.com
 ||tracker.stats.in.th
 ||tracker.stileo.it
-||tracker.supertracker.net
 ||tracker.swateam.org.uk
 ||tracker.swedish.org
 ||tracker.tamersunion.org
@@ -99609,6 +99606,7 @@
 ||um-public-panel-prod.s3.amazonaws.com
 ||um.simpli.fi
 ||um2.eqads.com
+||um88.com
 ||umagazine.com.hk
 ||umakara.com.ua
 ||umami.nordiskehandel.cloud
@@ -104440,6 +104438,7 @@
 ||wegrowhairindy.com
 ||weheartit.com
 ||wehkamp.nl
+||weibaoke.com
 ||weiboleak.com
 ||weiboscope.jmsc.hku.hk
 ||weibosuite.com
@@ -115201,6 +115200,7 @@
 ||xiaoxiaose.com
 ||xiaoyaojing.tv
 ||xiapu.co
+||xiariboke.com
 ||xiashu.cc
 ||xiaxiaoqiang.net
 ||xiazaimv.com
@@ -115419,6 +115419,7 @@
 ||xml.trafficmoose.com
 ||xml.yepmedia.com
 ||xmladfeed.com
+||xmlicai.com
 ||xmlppcbuzz.com
 ||xmninetown.com
 ||xmohlh.melia.com
@@ -115596,6 +115597,7 @@
 ||xrchmz.mobafire.com
 ||xrea.com
 ||xrentdvd.com
+||xrfood.com
 ||xrhrrk.steepandcheap.com
 ||xrite.com
 ||xrn3.cat.flnet.org
@@ -116725,6 +116727,7 @@
 ||youdian.in
 ||youdontcare.com
 ||youero.com
+||youerwang.com
 ||youfap.me
 ||youfck.com
 ||youfreeproxytube.com
