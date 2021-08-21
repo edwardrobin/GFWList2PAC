@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyOTQxOTI4Mwo=
+! Checksum: MTYyOTUwNTcxNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210820-0
-! TimeUpdated: 2021-08-20T00:28:03+00:00
+! Version: 1.0.0-20210821-0
+! TimeUpdated: 2021-08-21T00:28:36+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -3649,7 +3649,6 @@
 ||28nxuy.tdum.alibaba.com
 ||28rv.com
 ||28sn.com
-||28tlc.com
 ||28tui.com
 ||28u.org
 ||28weixinqun.com
@@ -4303,7 +4302,6 @@
 ||360kuai.com
 ||360kuaixue.com
 ||360kxr.com
-||360laoshi.com
 ||360lj.com
 ||360log.com
 ||360longyan.com
@@ -7579,7 +7577,6 @@
 ||6jworld.com
 ||6k6g.com
 ||6k9k.com
-||6kongbao.com
 ||6kw.com
 ||6l7jdp1.cachenode.cn
 ||6laohu.com
@@ -9660,7 +9657,6 @@
 ||9718game.com
 ||9724.com
 ||973.com
-||973618.com
 ||973xs.com
 ||97616.net
 ||9766.com
@@ -13481,7 +13477,6 @@
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
-||api.geetest.com
 ||api.gi.igexin.com
 ||api.gotokeep.com
 ||api.growingio.com
@@ -13845,6 +13840,7 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
+||app-site-association.cdn-apple.com
 ||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
@@ -16261,7 +16257,6 @@
 ||bdyxzx.com
 ||be-xx.com
 ||be.dpool.sina.cn
-||be.sinbinchina.cn
 ||be738b60908021c9817b0f021b69f07b.dlied1.cdntips.net
 ||be90.com
 ||beaacc.com
@@ -18790,7 +18785,6 @@
 ||c.lenovo.com.cn
 ||c.lenovo.com.cn.wswebcdn.com
 ||c.lianwangtech.com
-||c.lxanimation.cn
 ||c.m.163.com
 ||c.mipcdn.com
 ||c.mp.qq.com
@@ -19172,7 +19166,6 @@
 ||caimai.cc
 ||caimaovip.com
 ||caimei365.com
-||caimigs.com
 ||caimoge.com
 ||caimogu.net
 ||caimomo.com
@@ -20892,6 +20885,7 @@
 ||channel.fanxing.kugou.com
 ||channel.hitouch.hicloud.com
 ||channel.kandian.qq.com
+||channel.m.163.com
 ||channel.vaptcha.net
 ||channel.vaptcha.net.w.cdngslb.com
 ||channel2-account-ssl.xunlei.com
@@ -22755,7 +22749,6 @@
 ||classic.39health.com
 ||classmateer.com
 ||clayidols.com
-||claykessack.com
 ||claymore.wang
 ||clb6.net
 ||clboss.com
@@ -31433,7 +31426,6 @@
 ||ecollision.shareinstall.com.cn
 ||ecomcbjs.jomodns.com
 ||ecomgxh.kuwo.cn
-||ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ||ecomoter.com
 ||ecook.cn
 ||ecookinn.com
@@ -32782,6 +32774,7 @@
 ||exnpk.com
 ||exntech.com
 ||exo-mk.com
+||exp-lbs.newsmth.net
 ||exp-picture.cdn.bcebos.com
 ||exp.3g.ifeng.com
 ||exp.bdstatic.com
@@ -35009,7 +35002,6 @@
 ||fun526.com
 ||fun702.com
 ||fun712.com
-||fun8003.com
 ||fun809.com
 ||fun88-i78.com
 ||fun8807.com
@@ -35169,7 +35161,6 @@
 ||fxjs.2541.com
 ||fxk8.com
 ||fxlbb.com
-||fxlim.com
 ||fxltsbl.com
 ||fxmoe.com
 ||fxo2opt.com
@@ -35904,7 +35895,6 @@
 ||gd-stats.jpush.cn
 ||gd.10086.cn
 ||gd.gsxt.gov.cn
-||gd.king10.com
 ||gd.sina.com.cn
 ||gd.sycdn.kuwo.cn
 ||gd.unicommusic.gtimg.com
@@ -37513,7 +37503,6 @@
 ||gt-oil.com
 ||gt-semi.com
 ||gt-wings.oss-cn-hangzhou.aliyuncs.com
-||gt.duowan.com
 ||gt.yy.com
 ||gt1.a.shifen.com
 ||gt1.baidu.com
@@ -39637,7 +39626,6 @@
 ||hcdnw.zjtd01.gslb.c.cdnhwc2.com
 ||hcdnw01.gslb.c.cdnhwc2.com
 ||hcdnw101.gslb.c.cdnhwc2.com
-||hcdnw120.global.c.cdnhwc6.com
 ||hcdyhr.com
 ||hcgroup.com
 ||hch518.com
@@ -41703,6 +41691,7 @@
 ||httpdns.lss.baidu.n.shifen.com
 ||httpdns.meituan.com
 ||httpdns.n.netease.com
+||httpdns.ocloud.heytapmobi.com
 ||httprunner.org
 ||https-play-g3proxy.lecloud.com
 ||https.eol.cn
@@ -44030,6 +44019,7 @@
 ||ihepa.com
 ||ihetou.com
 ||ihewro.com
+||ihezm0o.cn
 ||ihggccampaign.com
 ||ihhubei.com
 ||ihint.me
@@ -44700,7 +44690,6 @@
 ||img.pddpic.com
 ||img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 ||img.php.cn
-||img.pojies.cn
 ||img.pojies.cn.w.kunlungr.com
 ||img.poppur.com
 ||img.printf520.com
@@ -44761,7 +44750,6 @@
 ||img.zcool.cn
 ||img.zcool.cn.w.kunlungem.com
 ||img.zhls.qq.com
-||img.zsj18.com
 ||img.zuimh.com
 ||img.zuowen8.com
 ||img.zuowenwang.net
@@ -45003,7 +44991,6 @@
 ||imgopen.xmcdn.com
 ||imgorder.kfc.com.cn
 ||imgoss.douyucdn.cn
-||imgp.cymzc.com
 ||imgrt.pconline.com.cn
 ||imgs.aixifan.com
 ||imgs.aixifan.com.w.kunlunle.com
@@ -48712,7 +48699,6 @@
 ||js.icast.cn
 ||js.idgdmg.com.cn
 ||js.idgdmgroup.com.cn
-||js.jianbihuadq.com
 ||js.letvcdn.com
 ||js.maidagu.com.w.cdngslb.com
 ||js.mgtv.com
@@ -49159,7 +49145,6 @@
 ||jump.alibaba.com
 ||jump.luna.58.com
 ||jump.taobao.com
-||jump1.pszyzxh.org
 ||jump2.bdimg.com
 ||jump2006.com
 ||jumpcnnet.com
@@ -50600,7 +50585,6 @@
 ||kkguan.com
 ||kkh-global.com
 ||kkidc.com
-||kkk.inesa-btfq.com
 ||kkk5.com
 ||kkkd.com
 ||kkkkba.com
@@ -61149,7 +61133,6 @@
 ||ocsp.us.cdnetworks.com
 ||ocsp2-lb.apple.com.akadns.net
 ||ocsp2.apple.com
-||ocsp2.g.aaplimg.com
 ||ocsp2.globalsign.com
 ||ocsp3.sheca.com
 ||oct-and.com
@@ -63750,7 +63733,6 @@
 ||pic-rere.com
 ||pic.0597kk.com
 ||pic.3h3.com
-||pic.aihaogou.com.cn
 ||pic.ali213.net
 ||pic.alipayobjects.com
 ||pic.alipayobjects.com.danuoyi.tbcache.com
@@ -64513,7 +64495,6 @@
 ||popotang.com
 ||popoxiu.com
 ||poppace.com
-||poppur.b0.aicdn.com
 ||poppur.com
 ||popqiu.com
 ||popsimu.azchcdnk.com
@@ -68476,6 +68457,7 @@
 ||r.99waiyu.com
 ||r.alicpd.top
 ||r.alimc1.top
+||r.browser.miui.com
 ||r.bxb.oupeng.com
 ||r.dmp.sina.cn
 ||r.dmp.sina.com.cn
@@ -75338,6 +75320,7 @@
 ||static.iqiyi.com.w.alikunlun.com
 ||static.jebe.renren.com
 ||static.jiedianqian.com
+||static.jointreport-switch.com
 ||static.jstv.com
 ||static.kk1.cn
 ||static.leiting.com
