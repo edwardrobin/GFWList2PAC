@@ -1,14 +1,13 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYyOTkzNzY1OQo=
+! Checksum: MTYzMDAyNDMwNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210826-0
-! TimeUpdated: 2021-08-26T00:27:39+00:00
+! Version: 1.0.0-20210827-0
+! TimeUpdated: 2021-08-27T00:31:46+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
 ||0-6.com
 ||0-gold.net
-||0.cn.pool.ntp.org
 ||0.pic.paopaoche.net
 ||0.pic.pc6.com
 ||0.up.qingdaonews.com
@@ -1895,7 +1894,6 @@
 ||16.tlu.dl.delivery.mp.microsoft.com
 ||160.com
 ||160.me
-||160015.com
 ||160edu.net
 ||160yx.com
 ||1614352030.2167539694.sngdia.imtmp.net
@@ -3898,7 +3896,6 @@
 ||313.com
 ||3131tyc.com
 ||313515.com
-||3136525.com
 ||31365y.com
 ||313683.shop.liebiao.com
 ||3140173e2066fbfb966b1f5817a0e51c.safeframe.googlesyndication.com
@@ -4255,6 +4252,7 @@
 ||360dao.com
 ||360doc.cn
 ||360doc.com
+||360doc1.net
 ||360doc2.net
 ||360doc26.net
 ||360doc28.net
@@ -6424,7 +6422,6 @@
 ||53shop.com
 ||53shubiao.com
 ||53tct.com
-||53trya.cn
 ||53xjd.com
 ||53yao.com
 ||53zw.net
@@ -6637,7 +6634,6 @@
 ||57gif.com
 ||57go.com
 ||57lai.com
-||57piao.com
 ||57px.com
 ||57qy.com
 ||57sc.com
@@ -7250,6 +7246,7 @@
 ||649099.com
 ||649354.shop.258.com
 ||64ae153f951cb5d19eecd73dc6d93af3.dlied1.cdntips.net
+||64ba.com
 ||64dns.com
 ||64ds.com
 ||64gua.com
@@ -10447,6 +10444,7 @@
 ||aaid.amap.com
 ||aaid.umeng.com
 ||aaid.uyunad.com
+||aaliyaheartha.com
 ||aamachina.org
 ||aaniao.com
 ||aapig.com
@@ -11376,6 +11374,7 @@
 ||advertising.dushu.io
 ||advertpay-vip-ssl.xunlei.com
 ||advertpay.vip.xunlei.com
+||advgbid.com
 ||adview.cn
 ||adview.com
 ||advjnen0.sched.sma.tdnsv5.com
@@ -11703,7 +11702,6 @@
 ||ai2hao.com
 ||ai7.com
 ||ai7.org
-||ai8g.com
 ||ai9475.com
 ||aia1.wosign.com
 ||aiagain.com
@@ -12681,6 +12679,7 @@
 ||alwaysdesign.xin
 ||alwaysnb.com
 ||alwindoor.com
+||alwonroad.club
 ||alxw.com
 ||alyisheng.com
 ||alyms.cn
@@ -13832,7 +13831,6 @@
 ||app-router.leancloud.cn
 ||app-sage.com
 ||app-site-association.cdn-apple.com
-||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
 ||app-v6.ias.tencent-cloud.net
@@ -14520,7 +14518,6 @@
 ||aswetalk.net
 ||async.qun.qq.com
 ||asyzonline.com
-||at-img2.tdimg.com
 ||at-lib.com
 ||at-siac.com
 ||at.alicdn.com
@@ -14558,6 +14555,7 @@
 ||atelier39.org
 ||atf.com
 ||atfeng.com
+||atfjk.com
 ||atguigu.com
 ||atguigu.org
 ||athaitao.com
@@ -15445,7 +15443,6 @@
 ||baishishuju.com
 ||baishixi.xyz
 ||baishudata.com
-||baishuge.net
 ||baishunet.com
 ||baisiker.com
 ||baisu.com
@@ -15799,7 +15796,6 @@
 ||bar.i.dns.iqiyi.com
 ||bar.tmall.com
 ||barmap.com
-||barnettarn.com
 ||baron-bj.com
 ||barrage.aliyun.com
 ||barretlee.com
@@ -16847,7 +16843,6 @@
 ||bijiaocheng.com
 ||bijiasso.com
 ||bijiatu.com
-||bijie93zp.com
 ||bijienetworks.com
 ||bijirim.com
 ||bijiv.com
@@ -16976,6 +16971,7 @@
 ||biosren.com
 ||biosrepair.com
 ||biostatistic.net
+||biotecan.com
 ||biotgene.com
 ||bip.pconline.com.cn
 ||bipush.com
@@ -18760,6 +18756,7 @@
 ||c.duomai.com
 ||c.eqxiu.com
 ||c.f1zd.com
+||c.freeride.com.cn
 ||c.fwone.com
 ||c.gdt.qq.com
 ||c.gj.qq.com
@@ -18784,11 +18781,11 @@
 ||c.mp.qq.com
 ||c.mse.360.cn
 ||c.n.shifen.com
-||c.njcengpianwang.cn
 ||c.nkzker.cn
 ||c.ns8d.com
 ||c.nstool.ntes53.netease.com
 ||c.oumaite168.com.cn
+||c.panruo.net.cn
 ||c.pc.qq.com
 ||c.pcs.baidu.com
 ||c.pcs.n.shifen.com
@@ -18815,6 +18812,7 @@
 ||c.y.qq.com
 ||c.yes.youku.com
 ||c.youdao.com
+||c.youike.com.cn
 ||c.zhangle.com
 ||c.zlongad.com
 ||c0.3.cn
@@ -20678,6 +20676,7 @@
 ||cgpad.com
 ||cgplayer.com
 ||cgplusplus.com
+||cgptwd.com
 ||cgpx.org
 ||cgris.net
 ||cgsdream.org
@@ -21614,6 +21613,7 @@
 ||chinaemed.com
 ||chinaequity.net
 ||chinaera.org
+||chinaerman.com
 ||chinaesm.com
 ||chinaexam.org
 ||chinaexpo365.com
@@ -25054,6 +25054,7 @@
 ||cqyouloft.com
 ||cqypkj.byf.com
 ||cqyu.com
+||cqyzqsy.com
 ||cqzhanguan.com
 ||cqzhongxingyuan.com
 ||cqzk.net
@@ -28263,7 +28264,6 @@
 ||diershoubing.com
 ||dietfd.com
 ||difanapp.com
-||dig.bdurl.net
 ||dig.qbao.com
 ||dig.zjurl.cn
 ||digcredit.com
@@ -29016,7 +29016,6 @@
 ||dnsapple.com
 ||dnsapple.net
 ||dnscnc.com
-||dnscpu.net
 ||dnsddos.com
 ||dnsdiy.com
 ||dnsdizhi.com
@@ -30613,7 +30612,6 @@
 ||dvzlfh6o.v1d.szbdyd.com
 ||dvzlw98j.v1d.szbdyd.com
 ||dw-collect.ksosoft.com
-||dw-online.ksosoft.com
 ||dw.iask.com.cn
 ||dw.la
 ||dw.xcar.com.cn
@@ -30953,7 +30951,6 @@
 ||e.cuomm.com
 ||e.dangdang.com
 ||e.domob.cn
-||e.ejiakm.net
 ||e.eqxiu.com
 ||e.fengyx.com
 ||e.g7wf6.cn
@@ -31500,6 +31497,7 @@
 ||eddic.net
 ||eddycjy.com
 ||ede35.com
+||edenhermosa.com
 ||edge.ivideo.sina.com.cn
 ||edgeiptv.com
 ||edgesrv.com
@@ -33715,7 +33713,6 @@
 ||feitianma.com
 ||feitianwu7.com
 ||feitsui.com
-||feiwan.net
 ||feixi.baixing.com
 ||feixiaoquan.com
 ||feixiong.tv
@@ -33794,6 +33791,7 @@
 ||fengj.com
 ||fengji.me
 ||fengji.net
+||fengjiangqwe.xyz
 ||fengjing.com
 ||fengjr.com
 ||fengjunzi.com
@@ -35258,6 +35256,7 @@
 ||fzithome.com
 ||fzjxw.com
 ||fzl7.com
+||fzlbar.com
 ||fzlft.com
 ||fzlol.com
 ||fzlu.com
@@ -36209,6 +36208,7 @@
 ||geshui100.com
 ||geshuishuilvbiao2017.com
 ||gesuo.com
+||get.sogou.com
 ||get.vip
 ||get233.com
 ||getapk.cn
@@ -37317,7 +37317,6 @@
 ||greentomail.com
 ||greenxf.cn
 ||greenxf.com
-||greenxf.net
 ||greenxiazai.com
 ||gretf.com
 ||greycdn.net
@@ -37689,6 +37688,7 @@
 ||guanwangyun.com
 ||guanwawa.com
 ||guanxiaokai.com
+||guanxingyule.com
 ||guanyiyun.com
 ||guanyuanjs.com
 ||guanzhongrc.com
@@ -39106,7 +39106,6 @@
 ||haolangtech.com
 ||haolawyer.com
 ||haole.com
-||haoleio.com
 ||haolexiang.com
 ||haolezen.com
 ||haolietou.com
@@ -41814,7 +41813,6 @@
 ||hualiandressing.com
 ||hualianxin.com
 ||hualongxiang.com
-||hualongyichuangkj.com
 ||hualu5.com
 ||hualv.com
 ||huamanlou.cc
@@ -44993,6 +44991,7 @@
 ||imglf6.lf127.net
 ||imglf6.lf127.net.w.alikunlun.com
 ||imglink.win
+||imglolo.xyz
 ||imgm.gmw.cn
 ||imgmall.95516.com
 ||imgmall.95516.com.wscdns.com
@@ -45587,6 +45586,7 @@
 ||ios1234.com
 ||iosack.tuisong.baidu.com
 ||iosapps-cn-lb.dl-apple.com.akadns.net
+||iosapps.itunes.apple.com
 ||iosapps.itunes.apple.com.download.ks-cdn.com
 ||iosapps.itunes.apple.com.m.alikunlun.net
 ||iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -46462,7 +46462,6 @@
 ||iwyv.com
 ||iwyvi.com
 ||iwzwy.com
-||iwzxi.com
 ||ixav-cse.avlyun.com
 ||ixbd.net
 ||ixbren.net
@@ -46629,7 +46628,6 @@
 ||j.gamersky.com
 ||j.gamersky.com.cdn20.com
 ||j.kfd3sm2c.com
-||j.qhjrcw.com
 ||j.qiqivv.com
 ||j.qiqiww.com
 ||j.s11.cn
@@ -47063,7 +47061,6 @@
 ||jfstatic.com
 ||jftnz.com
 ||jfuwu.com
-||jfxc.com
 ||jfxqczl.com
 ||jfydgame.com
 ||jfyiyao.com
@@ -49958,6 +49955,7 @@
 ||kanxiqu.com
 ||kanxsw.com
 ||kanxue.com
+||kanzhen666.com
 ||kanzhun.com
 ||kao8.cc
 ||kaoba.info
@@ -50298,6 +50296,7 @@
 ||ketuimage.com
 ||kevincc.xyz
 ||kevinems.com
+||kevinhewu.com
 ||kevinjiang.info
 ||kevinlq.com
 ||kevinrose.gallerycdn.azure.cn
@@ -50840,6 +50839,7 @@
 ||kouyu100.com
 ||kouzi.com
 ||kowa-dental.com
+||kowa103.com
 ||koyuki.cc
 ||kp.dftoutiao.com
 ||kp8480x9d8de1a6l.aliyunddos1028.com
@@ -52068,6 +52068,7 @@
 ||lcread.com
 ||lcs.dev.surepush.cn
 ||lcsdk.3g.qq.com
+||lcshzgy.com
 ||lcskfqyhcyjc346.shop.258.com
 ||lcsrmyy.com
 ||lcux.net
@@ -52212,13 +52213,11 @@
 ||leconginfo.com
 ||lecoo.com
 ||lecoo8.com
-||lecuiwangluo.com
 ||lecuntao.com
 ||leda13.com
 ||ledaiyu.com
 ||ledanji.com
 ||ledao.so
-||ledaren.cn
 ||ledboke.com
 ||ledcax.com
 ||ledchina-sh.com
@@ -56320,7 +56319,6 @@
 ||mcuisp.com
 ||mcujl.com
 ||mculover.com
-||mcumonitor.com
 ||mcusky.com
 ||mcuzone.com
 ||mcuzx.net
@@ -60265,7 +60263,6 @@
 ||niugame.net
 ||niugp.com
 ||niuguwang.com
-||niuguwang.net.cn
 ||niuhudong.com
 ||niujinniu.com
 ||niukk.com
@@ -61341,6 +61338,7 @@
 ||okpush.com
 ||okrecovery.com
 ||okskills.com
+||okslfki.guanxingyule.com
 ||oksmk.com
 ||oksun.com
 ||oksvn.com
@@ -62135,6 +62133,7 @@
 ||ouo.us
 ||ouoou.com
 ||ouou.com
+||ouou.icu
 ||ouougo.com
 ||oupeng.com
 ||oupengcloud.net
@@ -63324,7 +63323,6 @@
 ||pdsggzy.com
 ||pdsgjj.com
 ||pdskgb.com
-||pdss.xyz
 ||pdsxww.com
 ||pdszhtl.com
 ||pdvisa.com
@@ -70109,7 +70107,6 @@
 ||s.x.cn.xtgreat.com
 ||s.xiaolianhb.com
 ||s.xiaolianhb.com.w.kunlungr.com
-||s.yaozui.com
 ||s.yidianzixun.com
 ||s.zampdsp.com
 ||s.zixuntop.com
@@ -70662,7 +70659,6 @@
 ||saturnbird.com
 ||satyam.net.in
 ||saveen.com
-||savoirflare.com
 ||savokiss.com
 ||savouer.com
 ||sawenow.com
@@ -70722,11 +70718,13 @@
 ||sc-vis.com
 ||sc.94rp.com
 ||sc.alicpb.top
+||sc.alwonroad.club
 ||sc.anhuiry.com
 ||sc.appvipshop.com
 ||sc.appvipshop.com.vipgslb.com
 ||sc.chinaz.com
 ||sc.csai.cn
+||sc.fengjiangqwe.xyz
 ||sc.gg
 ||sc.gsxt.gov.cn
 ||sc.pdss.xyz
@@ -70842,6 +70840,7 @@
 ||scinormem.com
 ||scipaper.net
 ||sciping.com
+||sciscanpub.com
 ||scisky.com
 ||scistor.com
 ||scitycase.com
@@ -72020,7 +72019,6 @@
 ||shanhuxueyuan.com
 ||shanjinqh.com
 ||shankapi.ifeng.com
-||shankapi.ifeng.com.wsssec.com
 ||shankejingling.com
 ||shanliao.com
 ||shanlink.com
@@ -73562,6 +73560,7 @@
 ||sixiju.com
 ||sixinpicnew.ksapisrv.com
 ||sixstaredu.com
+||sixt.cn
 ||sixu.life
 ||sixuexiazai.com
 ||sixunited.com
@@ -76819,6 +76818,7 @@
 ||szysmpay.com
 ||szyuda88.com
 ||szyxwkj.com
+||szyy0373.com
 ||szyyt.com
 ||szyyx.com
 ||szzbmy.com
@@ -79905,7 +79905,6 @@
 ||ttdown.com
 ||ttdtweb.com
 ||ttechhk.com
-||ttete.xyz
 ||ttfanwen.com
 ||ttgjx.com
 ||tth1688.com
@@ -81632,6 +81631,7 @@
 ||upstatic.qiecdn.com
 ||upsunet.com
 ||upthinking.cn
+||uptodate.cn
 ||uptougu.com
 ||upupbug.com
 ||upupfile.com
@@ -81923,7 +81923,6 @@
 ||uuvisa.com
 ||uuvps.com
 ||uuwego.net
-||uuwhg.com
 ||uuwow.com
 ||uuwtq.com
 ||uuxn.com
@@ -82054,6 +82053,7 @@
 ||v.douyu.com
 ||v.drawenjoy.cn
 ||v.fedsdq.com
+||v.freeride.com.cn
 ||v.gdt.qq.com
 ||v.ggsgww.cn
 ||v.heygugu.com
@@ -82089,6 +82089,7 @@
 ||v.nkzker.cn
 ||v.oq68.com
 ||v.oumaite168.com.cn
+||v.panruo.net.cn
 ||v.pdfmxsh.cn
 ||v.pengmingx.cn
 ||v.qhruisen.cn
@@ -82126,6 +82127,7 @@
 ||v.xjsytoy.com
 ||v.xlhwzx.cn
 ||v.yanyanbiji.com
+||v.youike.com.cn
 ||v.youku.com
 ||v.youth.cn
 ||v.youth.cn.wswebcdn.com
@@ -88208,6 +88210,7 @@
 ||wxtg.wasu.com
 ||wxthe.com
 ||wxtj10086.com
+||wxtp.cdn.bcebos.com
 ||wxtpb.com
 ||wxtree.com
 ||wxtz.houmags.com
@@ -88432,6 +88435,7 @@
 ||xafzjy.com
 ||xagxz.com
 ||xahhp.com
+||xahkzc.com
 ||xahrly.com
 ||xahunter.com
 ||xaidc.com
@@ -90447,7 +90451,6 @@
 ||xn--0xv28g5vz8fs.com
 ||xn--2krw29cdqai43k.com
 ||xn--2qu92fhtx4ff.site
-||xn--2qux23c9ziyrq.club
 ||xn--2qux23c9ziyrq.plus
 ||xn--2qux23c9ziyrq.video
 ||xn--2qux23confgml.club
@@ -95741,7 +95744,6 @@
 ||ydvip00ap.com
 ||ydvip00as.com
 ||ydx2.com
-||ydxlzy.com
 ||ydxxt.com
 ||ydy.com
 ||ydybt.com
@@ -96660,6 +96662,7 @@
 ||yiyunweb.com
 ||yiyurumen.com
 ||yiyuzw.com
+||yiyyy.com
 ||yiyza.xyz
 ||yizaoyiwan.com
 ||yizeijun.com
@@ -97220,6 +97223,7 @@
 ||youlu.net
 ||youlu6.com
 ||youlunlife.com
+||youluwx.com
 ||youluxe.com
 ||youmacuifen.com
 ||youmai.com
@@ -99368,7 +99372,6 @@
 ||zgzsrc.com
 ||zgzwl.com
 ||zgzxs.weathercn.com
-||zgzxwsg.com
 ||zgzy.net
 ||zgzyqccj.com
 ||zgzyqcgw.com
@@ -99376,7 +99379,6 @@
 ||zh-itone.com
 ||zh.cc
 ||zh.moegirl.org.cn
-||zh.my
 ||zh30.com
 ||zh51home.com
 ||zh9528.gallerycdn.azure.cn
@@ -99782,7 +99784,6 @@
 ||zhicg.com
 ||zhichanli.com
 ||zhicheng.com
-||zhichengyidong.com
 ||zhichikeji.com
 ||zhichiwangluo.com
 ||zhichiweiye.com
