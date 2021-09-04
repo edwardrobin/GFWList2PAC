@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMDYyODkwMwo=
+! Checksum: MTYzMDcxNTMyNAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210903-0
-! TimeUpdated: 2021-09-03T00:28:23+00:00
+! Version: 1.0.0-20210904-0
+! TimeUpdated: 2021-09-04T00:28:44+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -2902,6 +2902,7 @@
 ||2.arpun.com
 ||2.asia.pool.ntp.org
 ||2.bashenghuo.com
+||2.centos.pool.ntp.org
 ||2.cn.pool.ntp.org
 ||2.haoxue360.com
 ||2.nanrenwo.net
@@ -4036,7 +4037,6 @@
 ||3234.com
 ||323507.com
 ||324.com
-||3245dsfsd.cdgongfang.cn
 ||3250mh.com
 ||326165f333e5d78c03f526835b379ccf.dlied1.cdntips.net
 ||3266585.b2b.jinanfa.cn
@@ -9701,7 +9701,6 @@
 ||97ting.com
 ||97ui.com
 ||97uimg.com
-||97wanle.com
 ||97wd.com
 ||97xiaoshuo.com
 ||97xiaoshuo.net
@@ -13437,7 +13436,6 @@
 ||api.ad.yipinread.com
 ||api.adbana.com
 ||api.adnet.mob.com
-||api.adv.ott.cibntv.net
 ||api.adxpand.com
 ||api.afdback.ppsimg.com
 ||api.afdback.ptqy.gitv.tv
@@ -13528,7 +13526,6 @@
 ||api.hellobike.com
 ||api.hengdianfilm.com
 ||api.home.news.cn
-||api.huangye.miui.com
 ||api.huya.com
 ||api.hybrid.xiaomi.com
 ||api.hyhuo.com
@@ -13894,6 +13891,7 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
+||app-site-association.cdn-apple.com
 ||app-site-association.g.aaplimg.com
 ||app-store.name
 ||app-tj.adinall.com
@@ -14413,7 +14411,6 @@
 ||as1.wenku.baidu.com
 ||as2.binstream.live
 ||as2sc.com
-||as35q8.cn
 ||as3f.com
 ||as5.com
 ||asa.commerce.apple.com.cdn20.com
@@ -15060,7 +15057,6 @@
 ||b.hiphotos.baidu.com
 ||b.iy.com.cn
 ||b.jinxiutengzhou.cn
-||b.ndtzx.com
 ||b.nstool.ntes53.netease.com
 ||b.pingan.com.cn
 ||b.pingan.com.cn.wsglb0.com
@@ -18872,7 +18868,6 @@
 ||c.totoc.top
 ||c.tvsou.com
 ||c.uaa.iqiyi.com
-||c.v.qq.com
 ||c.v4dwkcv.com
 ||c.w.inmobi.cn
 ||c.wantxt.cc
@@ -23519,7 +23514,6 @@
 ||cn.pandora.net
 ||cn.patch.battle.net
 ||cn.patch.battlenet.com.cn
-||cn.pool.ntp.org
 ||cn.qzonestyle.gtimg.cn
 ||cn.vc
 ||cn.version.battle.net
@@ -36448,6 +36442,7 @@
 ||gg.0598yu.com
 ||gg.51cto.com
 ||gg.blueidea.com
+||gg.caixin.com
 ||gg.cs090.com
 ||gg.dsxdn.com
 ||gg.gao7.com
@@ -45252,7 +45247,6 @@
 ||importnew.com
 ||impression.gridsumdissector.com
 ||impservice-test.dictapp.youdao.com
-||impservice.chnl.youdao.com
 ||impservice.dict.youdao.com
 ||impservice.dictapp.youdao.com
 ||impservice.dictvista.youdao.com
@@ -46904,7 +46898,6 @@
 ||jblts.com
 ||jbo255.com
 ||jbo28.com
-||jbo909.com
 ||jbpbox.com
 ||jbqipa.com
 ||jbryun.com
@@ -55184,6 +55177,7 @@
 ||m.3dmgame.com
 ||m.51dongshi.com
 ||m.51job.com
+||m.52tushuo.com
 ||m.58.com
 ||m.5you.com
 ||m.6z1gf.cn
@@ -57745,6 +57739,7 @@
 ||miwifi.com
 ||mix.adsame.com
 ||mix.kinostuff.com
+||mix.linkedin.com
 ||mix.moe
 ||mixbao.com
 ||mixdo.net
@@ -62224,6 +62219,7 @@
 ||osx.dianping.com.s2txipv6.cdntip.com
 ||osx.dpfile.com
 ||osx.dpfile.com.s2txipv6.cdntip.com
+||osxapps.itunes.apple.com
 ||osxapps.itunes.apple.com.download.ks-cdn.com
 ||osxapps.itunes.apple.com.w.alikunlun.com
 ||osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -63914,7 +63910,6 @@
 ||pic.cnmo-img.com.cn
 ||pic.cubejoy.com
 ||pic.ea3w.com
-||pic.eduancm.com
 ||pic.eroacg.com
 ||pic.fancyapi.com
 ||pic.fancyapi.com.m.alikunlun.com
@@ -70300,7 +70295,6 @@
 ||s.webp2p.letv.com
 ||s.weibo.com
 ||s.wxebgpj.cn
-||s.x.cn.xtgreat.com
 ||s.xiaolianhb.com
 ||s.xiaolianhb.com.w.kunlungr.com
 ||s.yidianzixun.com
@@ -70422,7 +70416,6 @@
 ||s2.hiapk.com
 ||s2.huoying666.com
 ||s2.hy.qcloudcdn.com
-||s2.leshi123.cc
 ||s2.mini.wpscdn.cn
 ||s2.mogucdn.com
 ||s2.music.126.net
@@ -75220,7 +75213,6 @@
 ||ssyule.com
 ||ssyxlx.com
 ||ssyzx.net
-||sszj.net
 ||sszjnc.com
 ||sszzqnstatics.mxingkong.net
 ||sszzweb.mxingkong.net
@@ -101562,7 +101554,6 @@
 ||zpservice.58.com
 ||zptong.com
 ||zpwansf.cn
-||zpxw.vip
 ||zpzyb.com
 ||zq-scm.com
 ||zq12369.com
