@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMTgzODg0MQo=
+! Checksum: MTYzMTkyNDkwMAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210917-0
-! TimeUpdated: 2021-09-17T00:34:01+00:00
+! Version: 1.0.0-20210918-0
+! TimeUpdated: 2021-09-18T00:28:20+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -460,7 +460,6 @@
 ||0531.com
 ||053135.com
 ||0531jb.com
-||0531kt.com
 ||0531soso.com
 ||0531welt.com
 ||0531wt.com
@@ -2957,6 +2956,7 @@
 ||2.92caijing.com
 ||2.aili.com
 ||2.arpun.com
+||2.asia.pool.ntp.org
 ||2.bashenghuo.com
 ||2.centos.pool.ntp.org
 ||2.cn.pool.ntp.org
@@ -3704,7 +3704,6 @@
 ||285868.com
 ||2858999.com
 ||285u.com
-||286238.com
 ||2871858.b2b.jinanfa.cn
 ||2872005.b2b.jinanfa.cn
 ||287ffdd4d743c43e465206a327eaaa25.dlied1.cdntips.net
@@ -4659,7 +4658,6 @@
 ||37pps.com
 ||37see.com
 ||37tang.com
-||37team.com
 ||37wan.cn
 ||37wan.com
 ||37wan.net
@@ -5395,6 +5393,7 @@
 ||4lzx.com
 ||4miao.com
 ||4name.com
+||4nzrqw.cn
 ||4paradigm.com
 ||4px.com
 ||4pyun.com
@@ -9269,6 +9268,7 @@
 ||910weixin.com
 ||91160.com
 ||9118fu.com
+||9119dd.com
 ||911cha.com
 ||911pop.com
 ||911sl.com
@@ -10309,7 +10309,6 @@
 ||a.cr-nielsen.com
 ||a.dangdang.com
 ||a.diaoyu.cn
-||a.dmall.com
 ||a.dxzy163.com
 ||a.dyjqd.com
 ||a.ecook.cn
@@ -13865,6 +13864,7 @@
 ||api.m.gds.taobao.com
 ||api.m.huya.com
 ||api.m.jd.com
+||api.m.jd.com.gslb.qianxun.com
 ||api.m.mi.com
 ||api.m.sm.cn
 ||api.m.taobao.com
@@ -14310,7 +14310,6 @@
 ||appdelivery.4008123123.com
 ||appdetailh5.vivo.com.cn
 ||appdj.xesimg.com
-||appdl-1-drcn.dbankcdn.com
 ||appdl-2-drcn.dbankcdn.com
 ||appdl-3-drcn.dbankcdn.com
 ||appdl-4-drcn.dbankcdn.com
@@ -17844,7 +17843,6 @@
 ||bjsdr.org
 ||bjsfrj.com
 ||bjsfyh.com
-||bjsgycsf.com
 ||bjshcw.com
 ||bjsheng.com
 ||bjshijiyu.com
@@ -18004,7 +18002,6 @@
 ||blackhole-m.m.jd.com
 ||blackhole-m.m.jd.com.gslb.qianxun.com
 ||blackhole.m.jd.com
-||blackhole.m.jd.com.gslb.qianxun.com
 ||blackholeskins.com
 ||blackist.org
 ||blackmailedslave.com
@@ -18463,7 +18460,6 @@
 ||bosszhipin.com
 ||bosunman.com
 ||botfans.org
-||botmh.com
 ||botnet.cc
 ||botongr.com
 ||botorange.com
@@ -18541,6 +18537,7 @@
 ||bqrdh.com
 ||bqsm.com.cn
 ||bqteng.com
+||br.linkedin.com
 ||bragood.com
 ||braincf.com
 ||brand.lenovo.com.cn
@@ -23179,7 +23176,6 @@
 ||ckefu.com
 ||ckernel.org
 ||ckeyedu.com
-||ckg.vipyl.com
 ||ckgcjl.com
 ||ckimg.com
 ||ckjr001.com
@@ -23958,6 +23954,7 @@
 ||cn.pandora.net
 ||cn.patch.battle.net
 ||cn.patch.battlenet.com.cn
+||cn.pool.ntp.org
 ||cn.qzonestyle.gtimg.cn
 ||cn.vc
 ||cn.version.battle.net
@@ -27464,7 +27461,6 @@
 ||dasung.com
 ||dasungtech.com
 ||dat.gtags.net
-||dat.red
 ||dat1.jzjxmj.com
 ||dat8.cc
 ||data-ads.oneplusmobile.com
@@ -27862,6 +27858,7 @@
 ||dd.mifengxiuchang.com
 ||dd.myapp.com
 ||dd.net
+||dd.wx16999.com
 ||dd00c785955f2ef9e3087310b17fdfa9.dlied1.cdntips.net
 ||dd0ea595.qc.x.bsgslb.cn
 ||dd1.freep.cn
@@ -30334,6 +30331,7 @@
 ||dqzc.com
 ||dqzdhw.com
 ||dr-danmu.youku.com
+||dr-zh.com
 ||dr.cs3.duba.net
 ||dr.netease.im
 ||dr.qlogo.cn
@@ -31624,6 +31622,7 @@
 ||e.cn.miaozhen.com
 ||e.dangdang.com
 ||e.domob.cn
+||e.dr-zh.com
 ||e.eqxiu.com
 ||e.fengyx.com
 ||e.g7wf6.cn
@@ -32317,7 +32316,6 @@
 ||ee-lb.bytedns.net
 ||ee-skin.com
 ||ee-vip.net
-||ee.m19ud.cn
 ||ee1234.com
 ||ee68.com
 ||ee6a315087c7ffb1d58d8ae7ce7cf4d7.dl.txcdns.com
@@ -36392,7 +36390,6 @@
 ||ganghaowang.com
 ||ganglonggou.com
 ||gangpaibao.com
-||gangpiaoquan.com
 ||gangqinpu.com
 ||gangzai.online
 ||ganhuoche.com
@@ -38671,7 +38668,6 @@
 ||guopi8.com
 ||guopika.com
 ||guoping123.com
-||guopu.cc
 ||guoqinwang.com
 ||guorentao.com
 ||guorongfei.com
@@ -40963,7 +40959,6 @@
 ||hermes-server.hupu.com
 ||hermes.cn
 ||hermes.hupu.com
-||hermes.jd.com
 ||hermes.jd.com.gslb.qianxun.com
 ||hermesguanwang.com
 ||heroad-data.com
@@ -41060,7 +41055,6 @@
 ||hfbaogao.com
 ||hfbeta.com
 ||hfbz.com
-||hfcn.cc
 ||hfcyh.com
 ||hffund.com
 ||hffunds.cn
@@ -42697,7 +42691,6 @@
 ||hualiandressing.com
 ||hualianxin.com
 ||hualongxiang.com
-||hualongyichuangkj.com
 ||hualu5.com
 ||hualv.com
 ||huamanlou.cc
@@ -45706,7 +45699,6 @@
 ||img.zcool.cn
 ||img.zcool.cn.w.kunlungem.com
 ||img.zhls.qq.com
-||img.zuowen8.com
 ||img.zuowenwang.net
 ||img.zuoyebang.cc
 ||img0-arch.pconline.com.cn
@@ -47449,7 +47441,6 @@
 ||iximo.com
 ||ixingji.com
 ||ixinglu.com
-||ixingmei.com
 ||ixingpan.com
 ||ixinmanzhishe.com
 ||ixinqing.com
@@ -51348,7 +51339,6 @@
 ||kenxv.com
 ||kepingtong.com
 ||kepler-cn.captcha.qcloud.com
-||kepler.jd.com
 ||kepler.ptqy.gitv.tv
 ||kepuchina.org
 ||kepusky.com
@@ -55249,6 +55239,7 @@
 ||lolshipin.com
 ||loltmall.com
 ||lolver.cross.qq.com
+||lolvsdota.cn
 ||lolyculture.net
 ||lomark.cn
 ||lomoment.com
@@ -56398,6 +56389,7 @@
 ||m.lenovo.com.cn
 ||m.lenovo.com.cn.wscdns.com
 ||m.lizhi.fm
+||m.lolvsdota.cn
 ||m.lousivency.com.cn
 ||m.lu.sogou.com
 ||m.mafengwo.cn
@@ -56568,7 +56560,6 @@
 ||m1910.com
 ||m1938.com
 ||m195.zzcm5.com
-||m19ud.cn
 ||m1frzhnvfhefzjehmbexmth6k7kh2v9o.yundunwaf.com
 ||m1ok.com
 ||m1page.com
@@ -56994,6 +56985,7 @@
 ||mamioo.com
 ||mamipush.com
 ||mamsh.org
+||man655.com
 ||man66966.top
 ||manage.c3edge.com
 ||manage.ecustmde.com
@@ -57249,6 +57241,7 @@
 ||marry5.com
 ||marry80.com
 ||mars-droid.com
+||mars.jd.com
 ||mars.jd.com.gslb.qianxun.com
 ||mars.meituan.com
 ||marsfancy.com
@@ -59434,7 +59427,6 @@
 ||mon-lq.snssdk.com
 ||mon.ad.xelements.cn
 ||mon.snssdk.com
-||mon.xtgreat.com
 ||money.163.com
 ||money.finance.sina.com.cn
 ||money.qz828.com
@@ -59805,7 +59797,6 @@
 ||mse.jd.com
 ||msearch.51job.com
 ||mseddl.gitee.io
-||msedge.b.tlu.dl.delivery.mp.microsoft.com
 ||msedge.f.dl.delivery.mp.microsoft.com
 ||msedge.f.tlu.dl.delivery.mp.microsoft.com
 ||msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -62381,7 +62372,6 @@
 ||o8ak.com
 ||o8dlu8.com
 ||o8h7d.cn
-||o9jfju28l.hualongyichuangkj.com
 ||oa.sspu.edu.cn
 ||oa025.com
 ||oa0351.com
@@ -65131,7 +65121,6 @@
 ||pic.baike.soso.com
 ||pic.baike.soso.com.sched.px.tdnsv6.com
 ||pic.bdyxzx.com
-||pic.c-ctrip.com
 ||pic.c-ctrip.com.cdn20.com
 ||pic.chinaz.com
 ||pic.chinaz.com.wscdns.com
@@ -65710,7 +65699,6 @@
 ||plycd.com
 ||plyz.net
 ||pm-summit.org
-||pm.3.cn.gslb.qianxun.com
 ||pm.aty.sohu.com
 ||pm.myapp.com
 ||pm222.com
@@ -66219,7 +66207,6 @@
 ||prod-rso.lol.qq.com
 ||prod-support.apple-support.akadns.net
 ||prod.api.xiaomi.cn
-||prodev.m.jd.com
 ||prodev.m.jd.com.gslb.qianxun.com
 ||product.58che.com
 ||product.dangdang.com
@@ -71499,6 +71486,7 @@
 ||s-ts.net
 ||s-v6-plt01.ugslb.com
 ||s-v6-plt03.ugslb.com
+||s.00oo00.com
 ||s.166.net
 ||s.17173cdn.com
 ||s.35kds.com
