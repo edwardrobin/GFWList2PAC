@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMTkyNDkxMwo=
+! Checksum: MTYzMjAxMTQ4Nwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210918-0
-! TimeUpdated: 2021-09-18T00:28:33+00:00
+! Version: 1.0.0-20210919-0
+! TimeUpdated: 2021-09-19T00:31:27+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -15084,7 +15084,6 @@
 ||getiton.com
 ||getjetso.com
 ||getkeepsafe.com
-||getlantern.cn
 ||getlantern.com
 ||getlantern.github.io
 ||getlantern.org
@@ -19842,6 +19841,7 @@
 ||kwcg.ca
 ||kwfq.tk
 ||kwikj.com
+||kwm.com
 ||kwok7.com
 ||kwongwah.com.my
 ||kx08s5838.ledetipe.com

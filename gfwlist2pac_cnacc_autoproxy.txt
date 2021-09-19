@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMTkyNDkwMAo=
+! Checksum: MTYzMjAxMTQ3Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20210918-0
-! TimeUpdated: 2021-09-18T00:28:20+00:00
+! Version: 1.0.0-20210919-0
+! TimeUpdated: 2021-09-19T00:31:13+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -927,6 +927,7 @@
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
+||1.feihua.net.cn
 ||1.guyaheng.com
 ||1.huobiwang.cc
 ||1.hysou.com
@@ -959,7 +960,6 @@
 ||1.url.cn
 ||1.url.cn.sched.px-dk.tdnsv6.com
 ||1.v-x.com.cn
-||1.vsimg.com
 ||1.weiheshidai.com
 ||1.wenzhangba.cn
 ||1.www.s81c.com
@@ -3850,7 +3850,6 @@
 ||2kxs.org
 ||2kz.net
 ||2l0dpp.tdum.alibaba.com
-||2l7ha.cn
 ||2liang.net
 ||2lieqi.com
 ||2loveyou.com
@@ -10344,6 +10343,7 @@
 ||a.rensheng5.com
 ||a.sayloving.com
 ||a.sh.vip.dianping.com
+||a.shczz.com
 ||a.tanx.com
 ||a.tiyuxiu.com
 ||a.tool.lu
@@ -10400,7 +10400,6 @@
 ||a0x.cn
 ||a1.99933.cn
 ||a1.99966.cn
-||a1.aichagu.com
 ||a1.alibabausercontent.com
 ||a1.alibabausercontent.com.w.cdngslb.com
 ||a1.alicdn.com
@@ -12008,7 +12007,6 @@
 ||aicdn2.com
 ||aicdn4.com
 ||aicdn5.com
-||aichagu.com
 ||aichaicp.com
 ||aichaoxing.com
 ||aichatu.com
@@ -14222,7 +14220,6 @@
 ||app.kwaixiaodian.com
 ||app.lz55.cn
 ||app.m.letv.com
-||app.market.xiaomi.com
 ||app.mengtuiapp.com
 ||app.mi.com
 ||app.moji001.com
@@ -16600,13 +16597,13 @@
 ||bds.haochu.com
 ||bds.haochu.com.cname4009.yjs-cdn.com
 ||bds.snssdk.com
-||bds.soarfi.cn
 ||bdsearch.2345.com
 ||bdsgps.com
 ||bdshuang.com
 ||bdsimg.com
 ||bdsk.a.yximgs.com
 ||bdskmov.a.yximgs.com
+||bdsp.x.jd.com
 ||bdstatic.com
 ||bdstatic.eastmoney.com
 ||bdsye.com
@@ -17414,6 +17411,7 @@
 ||biquge.vip
 ||biquge0.cc
 ||biquge11.com
+||biquge520.cc
 ||biquge5200.cc
 ||biquge5200.com
 ||biquge8.com
@@ -17521,7 +17519,6 @@
 ||bitsqa.com
 ||bitu360.com
 ||bituan.io
-||biuapp.im
 ||biubiu.tv
 ||biubiu001.com
 ||biubiubiu.org
@@ -25051,7 +25048,6 @@
 ||congzhi.com
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
-||conn1.oppomobile.com
 ||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
@@ -28935,6 +28931,7 @@
 ||dimg04.c-ctrip.com.wscdns.com
 ||dimg05.c-ctrip.com
 ||dimg05.c-ctrip.com.wscdns.com
+||dimg06.c-ctrip.com
 ||dimg06.c-ctrip.com.wscdns.com
 ||dimg07.c-ctrip.com
 ||dimg07.c-ctrip.com.wscdns.com
@@ -29499,7 +29496,6 @@
 ||dm300.com
 ||dm321.net
 ||dm5.com
-||dm50.jkyd.net
 ||dm50.ys137.com
 ||dm77.com
 ||dm789.com
@@ -32815,7 +32811,6 @@
 ||engine.tuicoco.com
 ||english.cctv.com
 ||english.gov.cn
-||english.gov.cn.wswebcdn.com
 ||english.sogou.com
 ||engliship4u.com
 ||englishpad.com
@@ -37547,6 +37542,7 @@
 ||gmm01.com
 ||gmmicro.com
 ||gmmsj.com
+||gmonitor.aliimg.com
 ||gmonline-all.com
 ||gmopce.com
 ||gmota.g188.net
@@ -38297,7 +38293,6 @@
 ||gt-oil.com
 ||gt-semi.com
 ||gt-wings.oss-cn-hangzhou.aliyuncs.com
-||gt.yy.com
 ||gt1.a.shifen.com
 ||gt1.baidu.com
 ||gt2.a.shifen.com
@@ -38883,7 +38878,6 @@
 ||gxkjdns.com
 ||gxkjec.com
 ||gxkjjt.com
-||gxkyl.com
 ||gxlcms.com
 ||gxlxs2008.net
 ||gxmenjin.com
@@ -39035,6 +39029,7 @@
 ||gzfilm.com
 ||gzfsnet.com
 ||gzfxkwl.com
+||gzfzcj.cn
 ||gzgc120.com
 ||gzgdwl.com
 ||gzguard12th.com
@@ -40959,6 +40954,7 @@
 ||hermes-server.hupu.com
 ||hermes.cn
 ||hermes.hupu.com
+||hermes.jd.com
 ||hermes.jd.com.gslb.qianxun.com
 ||hermesguanwang.com
 ||heroad-data.com
@@ -41534,7 +41530,6 @@
 ||hkcts.com
 ||hkctshotels.com
 ||hkctsmembers.com
-||hkdyys.cn
 ||hkfc.hk
 ||hkfe.hk
 ||hkfljt.com
@@ -41662,6 +41657,7 @@
 ||hm-yc.com
 ||hm-zif.com
 ||hm.baidu.com
+||hm.baidu.com.zzsdtzb.com
 ||hm.e.shifen.com
 ||hm.shuixyh.com
 ||hm.youlai.cn
@@ -42144,7 +42140,6 @@
 ||hostspaces.net
 ||hostxen.com
 ||hostyun.com
-||hot.browser.miui.com
 ||hot.m.shouji.360tpcdn.com
 ||hotalk.com
 ||hotcbit.org
@@ -45529,7 +45524,6 @@
 ||img.account.itpub.net
 ||img.account.itpub.net.w.kunlunca.com
 ||img.acgjc.com
-||img.ad.zhangyue.com
 ||img.adanxing.com
 ||img.adbox.sina.com.cn
 ||img.adm.xmfish.com
@@ -46157,6 +46151,7 @@
 ||incensechina.com
 ||inchangling.com
 ||incloudexpo.com
+||include.xs2345.com
 ||incnjp.com
 ||incoto.com
 ||incsg.com
@@ -47578,6 +47573,7 @@
 ||j.98158.com
 ||j.appjiagu.com
 ||j.baminw.cn
+||j.biquge520.cc
 ||j.credit.wwz114.cn
 ||j.diangon.com
 ||j.gamersky.com
@@ -49209,7 +49205,6 @@
 ||jktong.com
 ||jkx.cc
 ||jkxds.net
-||jkyd.net
 ||jkydt.com
 ||jkyeo.com
 ||jkys5.com
@@ -50052,7 +50047,6 @@
 ||jttv.net
 ||jtug.code.poyang.com
 ||jtv123.com
-||jtwlj.cn
 ||jtyjy.com
 ||jtyy.com
 ||ju33.com
@@ -51344,6 +51338,7 @@
 ||kepusky.com
 ||kepuwen.com
 ||kepuyanxue.com
+||keqii.com
 ||ker58.com
 ||kerlala.com
 ||kermitym.com
@@ -51453,6 +51448,7 @@
 ||kgdb.info
 ||kgfanr.com
 ||kgimg.com
+||kgmobilestat.kugou.com
 ||kgmobilestatbak.kugou.com
 ||kgnop2.kugou.com
 ||kgogame.com
@@ -51784,7 +51780,6 @@
 ||knewone.com
 ||knewsmart.com
 ||knicks.jd.com
-||knicks.jd.com.gslb.qianxun.com
 ||knja123.top
 ||knotesapp.com
 ||knowgive.com
@@ -52488,7 +52483,6 @@
 ||kwin.wang
 ||kwin.xyz
 ||kwkg.kuwo.cn
-||kwm.com
 ||kwmiosjump.kuwo.cn
 ||kwmsg.kuwo.cn
 ||kwting.com
@@ -54894,7 +54888,6 @@
 ||lmbsy.qq.com
 ||lmbus.com
 ||lmdk01.com
-||lmdknj.xsbiquge.com
 ||lmdouble.com
 ||lmf9.com
 ||lmgouwu.com
@@ -56328,7 +56321,6 @@
 ||m.gmw.cn
 ||m.gmw.cn.wscdns.com
 ||m.gotokeep.com
-||m.gxkyl.com
 ||m.gywlwh.com
 ||m.haiwainet.cn
 ||m.hao123.com
@@ -56399,6 +56391,7 @@
 ||m.manhuatai.com
 ||m.manhuatai.com.w.kunlunso.com
 ||m.manhuayang.com
+||m.manparis.cn
 ||m.meizhuli365.cn
 ||m.mgogo.com
 ||m.mgtv.com
@@ -56480,6 +56473,7 @@
 ||m.video.xiaomi.com
 ||m.vmall.com
 ||m.wandoujia.com
+||m.wdeie.com
 ||m.webshu.net
 ||m.weibo.cn
 ||m.wooboo.com.cn
@@ -57241,7 +57235,6 @@
 ||marry5.com
 ||marry80.com
 ||mars-droid.com
-||mars.jd.com
 ||mars.jd.com.gslb.qianxun.com
 ||mars.meituan.com
 ||marsfancy.com
@@ -58132,6 +58125,7 @@
 ||mf01.zybang.com
 ||mf02.zybang.com
 ||mf100.org
+||mf35.t7wl8.cn
 ||mf8.biz
 ||mf927.com
 ||mf999.com
@@ -59771,6 +59765,7 @@
 ||ms.bdimg.com
 ||ms.cnbanbao.com
 ||ms.cnczjy.com
+||ms.jr.jd.com
 ||ms.jr.jd.com.gslb.qianxun.com
 ||ms.vipstatic.com
 ||ms.zu.anjuke.com
@@ -65812,7 +65807,6 @@
 ||pole.6rooms.com
 ||policy-cde.le.com
 ||policy.jd.com
-||policy.jd.com.gslb.qianxun.com
 ||policy.video.iqiyi.com
 ||policy.video.ptqy.gitv.tv
 ||polingba.com
@@ -70936,7 +70930,6 @@
 ||rnstn-api.samsung.com.cn
 ||roadjava.com
 ||roadoor.com
-||roadwide.net
 ||roame.net
 ||roaming.wps.cn
 ||roay.cn
@@ -73694,6 +73687,7 @@
 ||shcsup.com
 ||shcwbz.com
 ||shcxzxgs.com
+||shczz.com
 ||shdctp.com
 ||shdjt.com
 ||shdsd.com
@@ -92902,6 +92896,7 @@
 ||xs.sspu.edu.cn
 ||xs163.net
 ||xs222.tw
+||xs2345.com
 ||xs2500.com
 ||xs321.com
 ||xs386.com
