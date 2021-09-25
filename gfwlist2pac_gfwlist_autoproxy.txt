@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMjQ0MzQ0Ngo=
+! Checksum: MTYzMjUyOTgyNwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20210924-0
-! TimeUpdated: 2021-09-24T00:30:46+00:00
+! Version: 1.0.0-20210925-0
+! TimeUpdated: 2021-09-25T00:30:27+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -4368,6 +4368,7 @@
 ||api-ds.kkbox.com.tw
 ||api-extractor.com
 ||api-login.kkbox.com.tw
+||api-p.videomarket.jp
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||api.a5188yes.com
@@ -26531,12 +26532,17 @@
 ||rarbg.is
 ||rarbg.me
 ||rarbgaccess.org
+||rarbgaccessed.org
+||rarbgget.org
 ||rarbggo.org
 ||rarbgmirror.com
 ||rarbgmirror.org
 ||rarbgproxy.org
 ||rarbgprx.org
+||rarbgto.org
 ||rarbgunblock.com
+||rarbgunblock.org
+||rarbgway.org
 ||raremovie.cc
 ||raremovie.net
 ||raspberrypi.org
@@ -32216,6 +32222,7 @@
 ||videojs.com
 ||videojug.com
 ||videolan.org
+||videomarket.jp
 ||videomega.tv
 ||videomo.com
 ||videomobo.com
