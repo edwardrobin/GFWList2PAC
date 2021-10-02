@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMzA0ODQ1Mwo=
+! Checksum: MTYzMzEzNDY1OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211001-0
-! TimeUpdated: 2021-10-01T00:34:13+00:00
+! Version: 1.0.0-20211002-0
+! TimeUpdated: 2021-10-02T00:30:59+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -8174,6 +8174,7 @@
 ||78fz.com
 ||78gk.com
 ||78hr.com
+||78o5a.cn
 ||78oa.com
 ||78pan.com
 ||78te.com
@@ -8407,7 +8408,6 @@
 ||7times.top
 ||7tou.com
 ||7tt3333.com
-||7uhwa65.cn
 ||7usa.net
 ||7uyx.com
 ||7v6.net
@@ -8926,6 +8926,7 @@
 ||8864.org
 ||886520.cc
 ||8866.org
+||8866786.com
 ||886966.com
 ||886abc.com
 ||886bl.com
@@ -13920,6 +13921,7 @@
 ||api.tw06.xlmc.sandai.net
 ||api.tw06.xlmc.sec.miui.com
 ||api.udache.com
+||api.ujian.cc
 ||api.union.vip.com
 ||api.unipay.qq.com
 ||api.uniplayad.com
@@ -14277,7 +14279,6 @@
 ||appdj.xesimg.com
 ||appdl-2-drcn.dbankcdn.com
 ||appdl-3-drcn.dbankcdn.com
-||appdl-4-drcn.dbankcdn.com
 ||appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
 ||appdl.hicloud.com.sched.s3hw.tdnsv5.com
 ||appdl.lenovo.com.cn
@@ -14789,6 +14790,7 @@
 ||asrsingapore.com
 ||assbbs.com
 ||asset.newyx.net
+||asset.tantanapp.com
 ||assets-global.viveport.com
 ||assets-mayun.b0.aicdn.com
 ||assets-share.dspunion.com
@@ -14801,6 +14803,7 @@
 ||assets.analog.com
 ||assets.asklib.com
 ||assets.ckjr001.com
+||assets.dspunion.com
 ||assets.dspunion.com.wswebcdn.com
 ||assets.easou.com
 ||assets.giocdn.com
@@ -16282,7 +16285,6 @@
 ||bbs.feng.com
 ||bbs.gameres.com
 ||bbs.greendown.cn
-||bbs.iapps.im
 ||bbs.iappstoday.com
 ||bbs.ikuai8.com
 ||bbs.ikuai8.com.w.kunluncan.com
@@ -19161,6 +19163,7 @@
 ||c.d3iz9md.com
 ||c.data.mob.com
 ||c.dcgwnhk.cn
+||c.dokrmob.com
 ||c.dun.163.com
 ||c.duomai.com
 ||c.eqxiu.com
@@ -19207,7 +19210,6 @@
 ||c.tdm.qq.com
 ||c.team
 ||c.tieba.baidu.com
-||c.totoc.top
 ||c.tvsou.com
 ||c.uaa.iqiyi.com
 ||c.v4dwkcv.com
@@ -20054,6 +20056,7 @@
 ||ccepc.com
 ||cces2006.org
 ||ccets.com
+||ccf.m.jd.com
 ||ccf.m.jd.com.gslb.qianxun.com
 ||ccfei.com
 ||ccfjma.m.jd.com
@@ -26182,7 +26185,6 @@
 ||cvsi1gqc.slt-dk.sched.tdnsv8.com
 ||cvte.com
 ||cvtvcn.com
-||cw.guominziben.com
 ||cw.yyb.sched.dcloudstc.com
 ||cw100.com
 ||cwbaike.com
@@ -31584,7 +31586,6 @@
 ||e.k2wx5.cn
 ||e.kuaishou.com
 ||e.nxypz.com
-||e.p7wj8.cn
 ||e.poonscn.com
 ||e.qq.com
 ||e.so.com
@@ -38617,7 +38618,6 @@
 ||guolv.com
 ||guomai.cc
 ||guomii.com
-||guominziben.com
 ||guopc.com
 ||guopeiwang.com
 ||guopi8.com
@@ -40850,7 +40850,6 @@
 ||henanpige.com
 ||henansenli.com
 ||henanyouth.com
-||henanzhulongjx.com
 ||henbt.com
 ||hencin.com
 ||hencoder.com
@@ -42299,7 +42298,6 @@
 ||hrchina.cc
 ||hrday.com
 ||href.lu
-||hreport.meituan.com
 ||hrexam.com
 ||hrfc.net
 ||hrflc.com
@@ -42527,7 +42525,6 @@
 ||httpdns.lss.baidu.n.shifen.com
 ||httpdns.meituan.com
 ||httpdns.n.netease.com
-||httpdns.ocloud.heytapmobi.com
 ||httprunner.org
 ||https-play-g3proxy.lecloud.com
 ||https.eol.cn
@@ -44384,7 +44381,6 @@
 ||icoc.in
 ||icoc.me
 ||icocg.com
-||icocoro.me
 ||icode9.com
 ||icodef.com
 ||icodelogic.com
@@ -44727,6 +44723,7 @@
 ||ifacelog.dns.iqiyi.com
 ||ifacelog.iqiyi.com
 ||ifaclub.com
+||ifactz.com
 ||ifahao.com
 ||ifanbei.com
 ||ifangarden.com
@@ -45654,6 +45651,7 @@
 ||img.zcool.cn
 ||img.zcool.cn.w.kunlungem.com
 ||img.zhls.qq.com
+||img.zuimh.com
 ||img.zuowenwang.net
 ||img.zuoyebang.cc
 ||img0-arch.pconline.com.cn
@@ -47574,7 +47572,6 @@
 ||ja.x9wj2.cn
 ||ja1.gamersky.com
 ||ja2.gamersky.com
-||jaaas.ivuoyb.7uhwa65.cn
 ||jaadee.com
 ||jaadee.net
 ||jabizb.com
@@ -50077,7 +50074,6 @@
 ||juhuio.com
 ||juhuisuan.com
 ||jui.org
-||juiceads.net
 ||juicefs.com
 ||juimg.com
 ||juiuns.com
@@ -51132,7 +51128,6 @@
 ||kdweibo.com
 ||kdx.mobi
 ||kdy365.vip
-||kdzs123.com
 ||kdzwy.com
 ||kdzxedu.com
 ||ke.com
@@ -54970,7 +54965,6 @@
 ||log.51cto.com
 ||log.9wuli.com
 ||log.ad.xiaomi.com
-||log.avlyun.com
 ||log.bitauto.com
 ||log.bol.wo.cn
 ||log.china.cn
@@ -56180,6 +56174,7 @@
 ||m.5you.com
 ||m.69o1c.cn
 ||m.6z1gf.cn
+||m.78o5a.cn
 ||m.8684.cn
 ||m.8of9hd.cn
 ||m.937920.com
@@ -56454,7 +56449,6 @@
 ||m.xm124.com
 ||m.xsk5j.cn
 ||m.xuexila.com
-||m.xyadaa.com
 ||m.xyadxia.com
 ||m.yalayi.com
 ||m.yanjunbo.com
@@ -58219,7 +58213,6 @@
 ||mhhf.net
 ||mhhospital.com
 ||mhi-ac.com
-||mhi9da.cn
 ||mhimg.com
 ||mhjk.1391.com
 ||mhpdf.com
@@ -58796,12 +58789,10 @@
 ||miusi.co
 ||miutour.com
 ||miutrip.com
-||miv.ububyiw6655.xyz
 ||mivideo.g.mi.com
 ||miwifi.com
 ||mix.adsame.com
 ||mix.kinostuff.com
-||mix.linkedin.com
 ||mix.moe
 ||mixbao.com
 ||mixcapp.com
@@ -61287,7 +61278,6 @@
 ||newzgc.com
 ||newzhizao.com
 ||newzkoo.com
-||nex.163.com
 ||nexiao.com
 ||nexmoe.com
 ||nexon.to
@@ -62106,7 +62096,6 @@
 ||nu1l.com
 ||nuan.io
 ||nuandao.com
-||nuandaoimg.com
 ||nuanjiayuan.com
 ||nuanmaoer.com
 ||nuanshi100.com
@@ -63942,7 +63931,6 @@
 ||p7.pstatp.com
 ||p7.qhimg.com
 ||p7api.qiecdn.com
-||p7wj8.cn
 ||p8-juejin.byteimg.com
 ||p8.95558000.com
 ||p8.itc.cn
@@ -67631,7 +67619,6 @@
 ||qhm123.com
 ||qhm2.cnzz.com
 ||qhmanhua.com
-||qhmhbkj.com
 ||qhmsg.com
 ||qhmt1xj5.v1d.szbdyd.com
 ||qhnadhoe.v1d.szbdyd.com
@@ -97309,7 +97296,6 @@
 ||xyacg.net
 ||xyacgvip.com
 ||xyad3hada.com
-||xyadaa.com
 ||xyadxia.com
 ||xyadz.byf.com
 ||xyb100.com
