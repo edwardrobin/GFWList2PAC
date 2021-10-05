@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMzMwNzc2NAo=
+! Checksum: MTYzMzM5Mzk0Ngo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211004-0
-! TimeUpdated: 2021-10-04T00:36:04+00:00
+! Version: 1.0.0-20211005-0
+! TimeUpdated: 2021-10-05T00:32:26+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -21200,6 +21200,7 @@
 ||man426.com
 ||man595.com
 ||man633.com
+||man655.com
 ||man715.com
 ||man795.com
 ||man799.com
