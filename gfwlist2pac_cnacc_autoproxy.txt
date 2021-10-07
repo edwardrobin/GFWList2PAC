@@ -1,15 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMzQ4MDQwNgo=
+! Checksum: MTYzMzU2Njc4MAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211006-0
-! TimeUpdated: 2021-10-06T00:33:26+00:00
+! Version: 1.0.0-20211007-0
+! TimeUpdated: 2021-10-07T00:33:00+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
 ||0-6.com
 ||0.pic.paopaoche.net
 ||0.pic.pc6.com
-||0.pool.ntp.org
 ||0.up.qingdaonews.com
 ||00.auto.sohu.com
 ||00000.host
@@ -288,7 +287,6 @@
 ||027jsxh.com
 ||027jz.cc
 ||027one.com
-||027qyt.com
 ||027qyy.com
 ||027tc.net
 ||027tianle.com
@@ -711,7 +709,6 @@
 ||08160.cn
 ||0817tv.com
 ||0817xm.com
-||0817zfbj.xyz
 ||0818tuan.com
 ||0824xfh.xyz
 ||0826j.com
@@ -963,6 +960,7 @@
 ||1.wenzhangba.cn
 ||1.www.s81c.com
 ||1.xilu.com
+||1.xuexili.com
 ||1.xytom.com
 ||1.yac8.net
 ||1.ytelc.com
@@ -3907,6 +3905,7 @@
 ||3.39zuoye.com
 ||3.5646.cn
 ||3.cn
+||3.cn.pool.ntp.org
 ||3.iscrv.com
 ||3.pic.pc6.com
 ||3.ssqzj.com
@@ -4530,7 +4529,6 @@
 ||365jz.com
 ||365kan.tv
 ||365key.com
-||365kqzs.cn
 ||365master.com
 ||365mini.com
 ||365pcbuy.com
@@ -8856,7 +8854,6 @@
 ||8770000.com
 ||877325.com
 ||87794560.com
-||877ky.com
 ||878009.com
 ||878090.com
 ||878275.p23.tc.cdntip.com
@@ -10274,7 +10271,6 @@
 ||a.hecdn.net.w.kunlunso.com
 ||a.hexuntech.cn
 ||a.hiphotos.baidu.com
-||a.hsbianma.com
 ||a.img.static.youmi.net
 ||a.imgso.cn
 ||a.iy.com.cn
@@ -10419,6 +10415,7 @@
 ||a2put.chinaz.com
 ||a2put.chinaz.com.wswebpic.com
 ||a3.att.hudong.com
+||a3.ikafan.com
 ||a3.img.static.youmi.net
 ||a3.jandan.net
 ||a3.mzstatic.com
@@ -11446,6 +11443,7 @@
 ||ads.oneway.mobi
 ||ads.privacy.qq.com
 ||ads.reader.yueyouxs.com
+||ads.service.kugou.com
 ||ads.serving-sys.cn
 ||ads.shovtvnet.com
 ||ads.sina.com
@@ -13646,7 +13644,6 @@
 ||api-pan.xunlei.com
 ||api-pay-biz.jd.com
 ||api-pay-biz.jd.com.gslb.qianxun.com
-||api-pricetag.dmall.com
 ||api-prod.leancloud.cn
 ||api-push.meizu.com
 ||api-sc.wtzw.com
@@ -13677,7 +13674,6 @@
 ||api.3839app.com
 ||api.557400.com
 ||api.5hte21mz.com
-||api.account.xiaomi.com
 ||api.ad.xiaomi.com
 ||api.ad.yipinread.com
 ||api.adbana.com
@@ -14043,6 +14039,7 @@
 ||apis1.ksapisrv.com
 ||apis2.gifshow.com
 ||apis2.ksapisrv.com
+||apisnd.heytapmobi.com
 ||apisoft.df0535.com
 ||apissl.gifshow.com
 ||apissl.ksapisrv.com
@@ -16898,6 +16895,7 @@
 ||betop365.com
 ||betslw15.com
 ||bettbio.com
+||better-better.com.cn
 ||betterdsp.com
 ||betteredu.net
 ||betterzip.net
@@ -17125,7 +17123,6 @@
 ||bigcooa.xyz
 ||bigcoob.xyz
 ||bigcood.xyz
-||bigcooe.xyz
 ||bigcook.xyz
 ||bigd.gome.com.cn
 ||bigda.com
@@ -18279,7 +18276,6 @@
 ||booeoo.com
 ||boohee.com
 ||book.img.ireader.com
-||book.qidian.com
 ||book.sina.com.cn
 ||book118.com
 ||book1234.com
@@ -19141,6 +19137,7 @@
 ||c.gj.qq.com
 ||c.gridsumdissector.com
 ||c.gsc.qq.com
+||c.haoanfang.cn
 ||c.hiphotos.baidu.com
 ||c.hjhkpx.cn
 ||c.hnzls8.cn
@@ -20025,10 +20022,12 @@
 ||ccepc.com
 ||cces2006.org
 ||ccets.com
+||ccf.m.jd.com
 ||ccf.m.jd.com.gslb.qianxun.com
 ||ccfei.com
 ||ccfjma.m.jd.com
 ||ccfjma.m.jd.com.gslb.qianxun.com
+||ccflbs.m.jd.com
 ||ccflbs.m.jd.com.gslb.qianxun.com
 ||ccflow.org
 ||ccfund.com.cn
@@ -28387,6 +28386,7 @@
 ||dh5.cntv.kcdnvip.com
 ||dh5idnf.com
 ||dh5whi.tdum.alibaba.com
+||dh6666.com
 ||dh693d5l.v1d.szbdyd.com
 ||dh693dfs.v1d.szbdyd.com
 ||dh693qw7.v1d.szbdyd.com
@@ -31526,6 +31526,7 @@
 ||e.8of9hd.cn
 ||e.91.com
 ||e.ad.xiaomi.com
+||e.ayues.com
 ||e.baidu.com
 ||e.banmamedia.com
 ||e.bentengcn.com
@@ -31562,6 +31563,7 @@
 ||e0734.com
 ||e077.com
 ||e07734160bcf0299e79d79c9f55ab9f5.dlied1.cdntips.net
+||e0hkzk2.cn
 ||e0n.cn
 ||e1-lb-k8s.leancloud.cn
 ||e118114.com
@@ -35335,7 +35337,6 @@
 ||fqjob.net
 ||fql.cc
 ||fqpai.com
-||fqriji.com
 ||fqsou.com
 ||fqsszx.com
 ||fqvpn.net
@@ -36124,6 +36125,7 @@
 ||galgamezs.com
 ||galiaoba.com
 ||galitv.alicdn.com
+||galleon.dmall.com
 ||galleryapi.micloud.xiaomi.net
 ||galleryfaceapi.micloud.xiaomi.net
 ||gallerysearchapi.micloud.xiaomi.net
@@ -36883,6 +36885,7 @@
 ||geshuishuilvbiao2017.com
 ||geshuiw.com
 ||gesuo.com
+||get.sogou.com
 ||get.vip
 ||get233.com
 ||getapk.cn
@@ -38642,6 +38645,7 @@
 ||gurd.snssdk.com
 ||gurd.snssdk.com.w.cdngslb.com
 ||gurudigger.com
+||guruguru.cn
 ||gush88.com
 ||gushengwl.com
 ||gushequ.com
@@ -39108,6 +39112,7 @@
 ||h-world.com
 ||h.appjiagu.com
 ||h.bilibili.com
+||h.e0hkzk2.cn
 ||h.hiphotos.baidu.com
 ||h.how5.cn
 ||h.m.jd.com
@@ -39298,6 +39303,7 @@
 ||hackerlink.io
 ||hackernews.cc
 ||hackertalk.net
+||hackfbprofile.com
 ||hackhome.com
 ||hackhp.com
 ||hackhw.com
@@ -39731,6 +39737,7 @@
 ||haoad.org
 ||haoadx.cn
 ||haoamc.com
+||haoanfang.cn
 ||haoayi.xyz
 ||haobanyi.com
 ||haobiaoke.com
@@ -40865,6 +40872,7 @@
 ||hermes.cn
 ||hermes.hupu.com
 ||hermes.jd.com
+||hermes.jd.com.gslb.qianxun.com
 ||hermesguanwang.com
 ||heroad-data.com
 ||heroclick.cn
@@ -41080,7 +41088,6 @@
 ||hhrdc.com
 ||hhrhl.vip
 ||hhrtu.com
-||hhsjtyn.com
 ||hhtravel.com
 ||hhtravel.com.tw
 ||hhvv.com
@@ -43208,7 +43215,6 @@
 ||huojub.com
 ||huojukk.com
 ||huojuli.com
-||huojutt.com
 ||huokebao.net
 ||huokesoft.com
 ||huolala.co
@@ -45297,6 +45303,7 @@
 ||images3.c-ctrip.com
 ||images3.c-ctrip.com.a.bdydns.com
 ||images3.c-ctrip.com.cdn20.com
+||images4.c-ctrip.com
 ||images4.c-ctrip.com.cdn20.com
 ||imagescale.gmugmu.com
 ||imagescale.gmugmu.com.w.cdngslb.com
@@ -45404,6 +45411,7 @@
 ||img-tx-ugcimg.douyucdn2.cn
 ||img-vip-ssl.a.88cdn.com
 ||img-vip-ssl.a.88cdn.com.w.kunlungr.com
+||img-x.jd.com
 ||img-x.jd.com.gslb.qianxun.com
 ||img-ys011.didistatic.com
 ||img.0279.net
@@ -46100,7 +46108,6 @@
 ||infineon-autoeco.com
 ||infineon-power-rf.org
 ||infinitescript.com
-||infinitiownerclub.com
 ||infinityarts.net
 ||infinitynewtab.com
 ||info.3g.qq.com
@@ -51221,7 +51228,6 @@
 ||kenxv.com
 ||kepingtong.com
 ||kepler-cn.captcha.qcloud.com
-||kepler.jd.com
 ||kepler.ptqy.gitv.tv
 ||kepuchina.org
 ||kepusky.com
@@ -51666,6 +51672,7 @@
 ||knewhy.com
 ||knewone.com
 ||knewsmart.com
+||knicks.jd.com
 ||knicks.jd.com.gslb.qianxun.com
 ||knja123.top
 ||knotesapp.com
@@ -53628,6 +53635,7 @@
 ||lfx20.com
 ||lfyzjck.com
 ||lfz57739256.51sole.com
+||lg.dmall.com
 ||lg1024.com
 ||lg199.com
 ||lg2.jointreport-switch.com
@@ -57130,6 +57138,7 @@
 ||maroon91.com
 ||marry5.com
 ||marry80.com
+||mars.jd.com
 ||mars.jd.com.gslb.qianxun.com
 ||mars.meituan.com
 ||marsfancy.com
@@ -58619,7 +58628,6 @@
 ||mintaibank.com
 ||mintake.com
 ||mintaylor.com
-||mintegral.com
 ||mintel.com
 ||mintmuse.com
 ||mints-id.com
@@ -62484,6 +62492,7 @@
 ||oiuwe.com
 ||oiwjcsh015.top
 ||oj3y7wx427mfa02u.aliyunddos1026.com
+||ojkskjfkd.yuyinqs.com
 ||ojshdkfjlas.zhixianghuibao.com
 ||ok-meeting.com
 ||ok06.com
@@ -63126,7 +63135,6 @@
 ||oraycn.com
 ||orayer.com
 ||orayimg.com
-||orbit.jd.com
 ||orbit.nfcos.cn
 ||orbitmes.com
 ||orcadt.com
@@ -66314,6 +66322,7 @@
 ||public.app.autohome.com.cn
 ||public.creditchina.gov.cn
 ||public.ffquan.cn
+||public.gw.dmall.com
 ||public.ias.tencent-cloud.net
 ||public.sparta.mig.tencent-cloud.net
 ||public.wlbaike.com
@@ -78359,6 +78368,7 @@
 ||t.dangdang.com
 ||t.dmall.com
 ||t.dsp.mediav.com
+||t.e0hkzk2.cn
 ||t.gdt.qq.com
 ||t.geedai.com
 ||t.go.sohu.com
@@ -81339,6 +81349,7 @@
 ||trylist.net
 ||trymoka.com
 ||trysenz.com
+||tryst.net.cn
 ||tryurbest.com
 ||tryxue.com
 ||ts-cooling.com
@@ -83686,6 +83697,7 @@
 ||v.freeride.com.cn
 ||v.gdt.qq.com
 ||v.ggsgww.cn
+||v.haoanfang.cn
 ||v.heygugu.com
 ||v.hjhkpx.cn
 ||v.hnzls8.cn
@@ -100539,6 +100551,7 @@
 ||yuyantang168.com
 ||yuyicai.com
 ||yuyin.tv
+||yuyinqs.com
 ||yuyiya.com
 ||yuyoutuan.com
 ||yuyu.com
