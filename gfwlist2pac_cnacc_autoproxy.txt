@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMzU2Njc4MAo=
+! Checksum: MTYzMzY1MzIwMAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211007-0
-! TimeUpdated: 2021-10-07T00:33:00+00:00
+! Version: 1.0.0-20211008-0
+! TimeUpdated: 2021-10-08T00:33:20+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -919,7 +919,6 @@
 ||1.cjcp.cn
 ||1.click.com.cn
 ||1.cms.s81c.com
-||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -1518,7 +1517,6 @@
 ||1232463.shop.liebiao.com
 ||12333.com
 ||12333ask.com
-||12333sb.com
 ||12333si.com
 ||1234.cx
 ||1234.zgxue.com
@@ -7206,7 +7204,6 @@
 ||5ykj.com
 ||5you.com
 ||5youchou.com
-||5yrra.deshuangwang.cn
 ||5yun.org
 ||5zai.com
 ||5zewin.tdum.alibaba.com
@@ -13674,6 +13671,7 @@
 ||api.3839app.com
 ||api.557400.com
 ||api.5hte21mz.com
+||api.account.xiaomi.com
 ||api.ad.xiaomi.com
 ||api.ad.yipinread.com
 ||api.adbana.com
@@ -16781,6 +16779,7 @@
 ||bemfa.com
 ||bemro.com
 ||bemyceo.com
+||benbaisteel.com
 ||benbenq.com
 ||benber.com
 ||benbun.com
@@ -18281,7 +18280,6 @@
 ||book1234.com
 ||book365.net
 ||book520.com
-||book9.net
 ||bookapka.com
 ||bookask.com
 ||bookba.net
@@ -18329,7 +18327,6 @@
 ||boosyi.com
 ||boot-img.xuexi.cn
 ||boot-video.xuexi.cn
-||boot.cdn.womendwxtaiyhng.top
 ||bootcdn.cn
 ||bootcdn.meihaoxiangwang.com
 ||bootcdn.net
@@ -18758,6 +18755,7 @@
 ||buildhr.com
 ||buildjob.net
 ||buimg.com
+||bujiangjiu123.com
 ||bujie.com
 ||buka.cn
 ||bukamanhua.com
@@ -19156,7 +19154,6 @@
 ||c.m.163.com
 ||c.mageti.cn
 ||c.mipcdn.com
-||c.mobishu.com
 ||c.mp.qq.com
 ||c.mse.360.cn
 ||c.n.shifen.com
@@ -20436,7 +20433,6 @@
 ||cdn-xphoto2.xiaoniangao.cn
 ||cdn-xyx.raink.com.cn
 ||cdn-zjk-trans.dingtalk.com
-||cdn.000714.xyz
 ||cdn.0i-i0.com
 ||cdn.10bests.com
 ||cdn.10bests.com.w.kunlungr.com
@@ -25923,7 +25919,6 @@
 ||ctc.qzs.qq.com
 ||ctc.weather.com.cn
 ||ctc100.com
-||ctcdns.com
 ||ctcefive.com
 ||ctcmo.com
 ||ctcnn.com
@@ -26852,6 +26847,7 @@
 ||dach665e.v1d.szbdyd.com
 ||dach7dpq.v1d.szbdyd.com
 ||dach7qpd.v1d.szbdyd.com
+||dachadu.cn
 ||dachanet.com
 ||dache.meituan.com
 ||dachenglaw.com
@@ -27401,7 +27397,6 @@
 ||data.help.jr.mi.com
 ||data.hicloud.com
 ||data.highpin.cn
-||data.mistat.xiaomi.com
 ||data.openspeech.cn
 ||data.p4psearch.1688.com
 ||data.qq.com
@@ -28087,7 +28082,6 @@
 ||desc.gome.com.cn.cdn20.com
 ||descnew.taobao.com
 ||desdev.cn
-||deshuangwang.cn
 ||deshui.wang
 ||design.sspu.edu.cn
 ||design521.com
@@ -28227,6 +28221,7 @@
 ||dfad.dfdaily.com
 ||dfafei.com
 ||dfbgv.com
+||dfc1.benbaisteel.com
 ||dfc6576a183420fc32b1d39450f216a0.safeframe.googlesyndication.com
 ||dfcfs.com
 ||dfcfw.com
@@ -34501,7 +34496,6 @@
 ||fenxi.org
 ||fenxiangdashi.com
 ||fenxianglife.com
-||fenxiaoba.net
 ||fenxiyi.com
 ||fenxuekeji.com
 ||fenyang.baixing.com
@@ -38074,7 +38068,6 @@
 ||grpc.biliapi.net
 ||grpc.snm0516.aisee.tv
 ||grs.dbankcloud.cn
-||grs.dbankcloud.com
 ||grs.hicloud.com
 ||grt-china.com
 ||grtn.cn
@@ -41416,6 +41409,7 @@
 ||hk.jtsh123.com
 ||hk.lianjia.com
 ||hk.linkedin.com
+||hk.pool.ntp.org
 ||hk.preview.ftn.qq.com
 ||hk.uwenku.com
 ||hk.uy
@@ -46696,7 +46690,6 @@
 ||iqiyi.com
 ||iqiyi.kim
 ||iqiyi.m.cn.miaozhen.com
-||iqiyi.pub
 ||iqiyi.space
 ||iqiyih5.com
 ||iqiyipic.com
@@ -53635,7 +53628,6 @@
 ||lfx20.com
 ||lfyzjck.com
 ||lfz57739256.51sole.com
-||lg.dmall.com
 ||lg1024.com
 ||lg199.com
 ||lg2.jointreport-switch.com
@@ -56277,6 +56269,7 @@
 ||m.lanshiwan.cn
 ||m.laxienian888.com
 ||m.le.com
+||m.lengren.com.cn
 ||m.lenovo.com.cn
 ||m.lenovo.com.cn.wscdns.com
 ||m.lizhi.fm
@@ -60857,7 +60850,6 @@
 ||ndstatic.cdn.bcebos.com
 ||ndtinfo.net
 ||ndtsg.com
-||ndtzx.com
 ||nduoa.com
 ||nduotuan.com
 ||ndvs87d.com
@@ -63135,6 +63127,7 @@
 ||oraycn.com
 ||orayer.com
 ||orayimg.com
+||orbit.jd.com
 ||orbit.nfcos.cn
 ||orbitmes.com
 ||orcadt.com
@@ -63143,7 +63136,6 @@
 ||order.imooc.com
 ||order.yystatic.com
 ||ordercenter.console.aliyun.com
-||orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ||orders-drcn.iap.hicloud.com
 ||orders.kfc.com.cn
 ||ordosbank.com
@@ -65578,8 +65570,6 @@
 ||plycd.com
 ||plyz.net
 ||pm-summit.org
-||pm.3.cn
-||pm.3.cn.gslb.qianxun.com
 ||pm.aty.sohu.com
 ||pm.myapp.com
 ||pm222.com
@@ -68488,7 +68478,6 @@
 ||qntz.cc
 ||qnvideo.mengniu99.com
 ||qnvod.net
-||qnvod.vip
 ||qnxxz.mengniu99.com
 ||qny.smzdm.com
 ||qnydns.com
