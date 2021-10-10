@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzMzczOTQyMgo=
+! Checksum: MTYzMzgyNTk5Ngo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211009-0
-! TimeUpdated: 2021-10-09T00:30:22+00:00
+! Version: 1.0.0-20211010-0
+! TimeUpdated: 2021-10-10T00:33:16+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -9239,6 +9239,7 @@
 ||coinf.com.mx
 ||coingi.com
 ||coinic.com
+||coinmarketcap.com
 ||coinonecore.com
 ||coinonecorp.com
 ||coinrail.co.kr
@@ -14466,6 +14467,7 @@
 ||ftimg.net
 ||ftopx.com
 ||ftp.cc
+||ftp.com
 ||ftp1.biz
 ||ftpaccess.cc
 ||ftpserver.biz
@@ -14565,7 +14567,6 @@
 ||fun530.com
 ||fun550.com
 ||fun5500.com
-||fun551.com
 ||fun560.com
 ||fun562.com
 ||fun586.com
