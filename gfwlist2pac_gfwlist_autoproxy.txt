@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNDA4NTEwNwo=
+! Checksum: MTYzNDE3MTQzMgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211013-0
-! TimeUpdated: 2021-10-13T00:31:47+00:00
+! Version: 1.0.0-20211014-0
+! TimeUpdated: 2021-10-14T00:30:32+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -2651,7 +2651,6 @@
 ||8821682.com
 ||88223885.com
 ||8822buyu.com
-||882fc.com
 ||8833buyu.com
 ||8837340.com
 ||8841261.com
@@ -14571,7 +14570,6 @@
 ||fun1818.com
 ||fun211.com
 ||fun216.com
-||fun277.com
 ||fun281.com
 ||fun307.com
 ||fun308.com
@@ -28474,6 +28472,7 @@
 ||slides.new
 ||slideshare.com
 ||slideshare.net
+||slidesharecdn.com
 ||slime.com.tw
 ||slimspots.com
 ||sling.com

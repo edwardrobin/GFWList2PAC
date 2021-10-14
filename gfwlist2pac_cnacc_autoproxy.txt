@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNDA4NTA5Nwo=
+! Checksum: MTYzNDE3MTQxOAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211013-0
-! TimeUpdated: 2021-10-13T00:31:37+00:00
+! Version: 1.0.0-20211014-0
+! TimeUpdated: 2021-10-14T00:30:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -914,6 +914,7 @@
 ||1.92caijing.com
 ||1.aili.com
 ||1.ajiyuming.com
+||1.asia.pool.ntp.org
 ||1.bashenghuo.com
 ||1.bh5.com.cn
 ||1.ccutu.com
@@ -8887,6 +8888,7 @@
 ||8825.com
 ||8827777.com
 ||8828dl.com
+||882fc.com
 ||88303887.com
 ||88360.com
 ||8838sl.com
@@ -10958,6 +10960,7 @@
 ||act.cmcmcdn.com
 ||act.commercial.shouji.360.cn
 ||act.daoju.qq.com
+||act.dmall.com
 ||act.guanjia.qq.com
 ||act.qq.com
 ||act.qzone.qq.com
@@ -13748,6 +13751,7 @@
 ||api.faceid.com
 ||api.fc.mob.com
 ||api.fd.mob.com
+||api.g.micloud.xiaomi.net
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
@@ -13764,6 +13768,7 @@
 ||api.hellobike.com
 ||api.hengdianfilm.com
 ||api.home.news.cn
+||api.huangye.miui.com
 ||api.huya.com
 ||api.hybrid.xiaomi.com
 ||api.hyhuo.com
@@ -13865,7 +13870,6 @@
 ||api.samsungcloudcn.com
 ||api.sdbao.com
 ||api.sdk.fmobi.cn
-||api.sec.miui.com
 ||api.share.baidu.com
 ||api.share.mob.com
 ||api.share.n.shifen.com
@@ -14125,7 +14129,7 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
-||app-site-association.g.aaplimg.com
+||app-site-association.cdn-apple.com
 ||app-store.name
 ||app-tj.adinall.com
 ||app-v6.ias.tencent-cloud.net
@@ -14145,6 +14149,7 @@
 ||app.bilibili.com
 ||app.biligame.com
 ||app.cctv.com
+||app.chat.xiaomi.net
 ||app.chinaz.com
 ||app.chinaz.com.wswebpic.com
 ||app.cloud.yfp2p.net
@@ -17781,6 +17786,7 @@
 ||bjsjob.com
 ||bjsjwl.com
 ||bjsjxtm.com
+||bjsjyg.cn
 ||bjsly.com
 ||bjsoho.com
 ||bjsound.com
@@ -17932,6 +17938,7 @@
 ||blackh4t.org
 ||blackhole-m.m.jd.com
 ||blackhole-m.m.jd.com.gslb.qianxun.com
+||blackhole.m.jd.com
 ||blackhole.m.jd.com.gslb.qianxun.com
 ||blackholeskins.com
 ||blackist.org
@@ -19130,6 +19137,7 @@
 ||c.duomai.com
 ||c.eqxiu.com
 ||c.f1zd.com
+||c.fedsdq.com
 ||c.freeride.com.cn
 ||c.fwone.com
 ||c.gdt.qq.com
@@ -19469,7 +19477,6 @@
 ||cai188.com
 ||cai8.net
 ||caian.net
-||caibaodi.com
 ||caibaojian.com
 ||caibaopay.com
 ||caibeike.com
@@ -20022,7 +20029,6 @@
 ||ccepc.com
 ||cces2006.org
 ||ccets.com
-||ccf.m.jd.com
 ||ccf.m.jd.com.gslb.qianxun.com
 ||ccfei.com
 ||ccfjma.m.jd.com
@@ -20471,7 +20477,6 @@
 ||cdn.cnbj1.fds.api.mi-img.com
 ||cdn.console.aliyun.com
 ||cdn.convergemob.com
-||cdn.cytivalifesciences.com.cn
 ||cdn.data.video.iqiyi.com
 ||cdn.data.video.ptqy.gitv.tv
 ||cdn.dcloud.net.cn
@@ -27402,6 +27407,7 @@
 ||data.help.jr.mi.com
 ||data.hicloud.com
 ||data.highpin.cn
+||data.mistat.xiaomi.com
 ||data.openspeech.cn
 ||data.p4psearch.1688.com
 ||data.qq.com
@@ -35631,6 +35637,7 @@
 ||fun.youth.cn.wswebcdn.com
 ||fun121.com
 ||fun223.com
+||fun277.com
 ||fun48.com
 ||fun501.com
 ||fun551.com
@@ -36722,7 +36729,6 @@
 ||gebilaoshi.com
 ||gebiqu.com
 ||gec123.com
-||gecidao.com
 ||gecimi.com
 ||geciwang.net
 ||gecko-hl.snssdk.com
@@ -43580,7 +43586,6 @@
 ||hym68.com
 ||hymom.com
 ||hynews.net
-||hynews.org
 ||hynixic.com
 ||hynkzkyy.cn
 ||hynpay.com
@@ -43983,7 +43988,6 @@
 ||i5i6.net
 ||i5mai.com
 ||i5zhen.com
-||i6.weather.oppomobile.com
 ||i618.com.cn
 ||i6879.com
 ||i7.3conline.com
@@ -52510,7 +52514,6 @@
 ||l4dk40faecw9jp.mwcname.com
 ||l4elb.cn
 ||l4scli1.cachenode.cn
-||l5-hdslb-js007.gslb.js007.jsfycdn3.com
 ||l5-hdslb.gslb.ksyuncdn.com
 ||l5550.com
 ||l570mb.cn
@@ -56286,6 +56289,7 @@
 ||m.maiduoer.com
 ||m.man66966.top
 ||m.manhua39.com
+||m.manhuama.net
 ||m.manhuatai.com
 ||m.manhuatai.com.w.kunlunso.com
 ||m.manhuayang.com
@@ -56299,6 +56303,7 @@
 ||m.mijisou.com
 ||m.mpl.dutils.com
 ||m.myams.cn
+||m.nabeghlavi.com.cn
 ||m.nb.17house.com
 ||m.news.cctv.com
 ||m.newsmth.net
@@ -56384,6 +56389,7 @@
 ||m.wsxxu.com
 ||m.wuxiamh.com
 ||m.ww.yjbys.com.w.kunlunle.com
+||m.x81zw.com
 ||m.xd5s.com
 ||m.ximalaya.com
 ||m.xinhuanet.com
@@ -56404,6 +56410,7 @@
 ||m.youshu.cc
 ||m.yoyi.com.cn
 ||m.ys137.com
+||m.yujiangchu.com
 ||m.yxixy.com
 ||m.yxwoo.com
 ||m.z83rj.cn
@@ -56540,6 +56547,7 @@
 ||mac69.com
 ||macabc.com
 ||macaihong.net
+||macapp.in
 ||macapp.so
 ||macapp8.com
 ||macappbox.com
@@ -59584,7 +59592,6 @@
 ||mq.api.unipay.qq.com
 ||mqant.com
 ||mqcoffee.com
-||mqcwr.cn
 ||mqego.com
 ||mqq-imgcache.gtimg.cn
 ||mqq-plugin.qq.com
@@ -61628,6 +61635,7 @@
 ||nljb.net
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com
 ||nlnln.com
+||nloader.xyz
 ||nlog.baidu.com
 ||nlp.ai.xiaomi.com
 ||nlp.map.qq.com
@@ -61679,6 +61687,7 @@
 ||nmhrjy.com
 ||nmimi.com
 ||nmkjxy.com
+||nmlhkj.com
 ||nmmwz.com
 ||nmobi.kuwo.cn
 ||nmpcdn.com
@@ -62601,7 +62610,6 @@
 ||oldtang.com
 ||oldwww.bjmu.edu.cn
 ||oleony.com
-||olil.peopleselect.cn
 ||olimenew.baidu.com
 ||olimenew.n.shifen.com
 ||olinone.com
@@ -63140,6 +63148,7 @@
 ||order.imooc.com
 ||order.yystatic.com
 ||ordercenter.console.aliyun.com
+||orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ||orders-drcn.iap.hicloud.com
 ||orders.kfc.com.cn
 ||ordosbank.com
@@ -65784,7 +65793,6 @@
 ||port.sec.miui.com
 ||portablesoft.org
 ||portal-portm.meituan.com
-||portal.xunyou.mobi
 ||portalcdn.cdnetworks.com
 ||portoflower.com
 ||portrait.gitee.com
@@ -75040,6 +75048,7 @@
 ||sjhfrj.com
 ||sjhgo.com
 ||sjhl.cc
+||sjhxy.cn
 ||sjhy.net
 ||sjimg.tcdn.qq.com
 ||sjmdh.com
@@ -87516,6 +87525,7 @@
 ||wiselong.com
 ||wisenjoy.com
 ||wisepush.video.baidu.com
+||wisesoftsh.com.cn
 ||wiseuc.com
 ||wisevector.com
 ||wishbuild.com
@@ -100123,6 +100133,7 @@
 ||yuike.com
 ||yujia.com
 ||yujiahui.com
+||yujiangchu.com
 ||yujie.pro
 ||yujunjie.com
 ||yujunren.com
