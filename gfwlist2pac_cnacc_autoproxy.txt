@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNDM0NDQ3Mgo=
+! Checksum: MTYzNDQzMDcxOAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211016-0
-! TimeUpdated: 2021-10-16T00:34:32+00:00
+! Version: 1.0.0-20211017-0
+! TimeUpdated: 2021-10-17T00:31:58+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -918,7 +918,6 @@
 ||1.cjcp.cn
 ||1.click.com.cn
 ||1.cms.s81c.com
-||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -2979,6 +2978,7 @@
 ||2008red.com
 ||2008zjj.com
 ||2009.name
+||200ax.com
 ||200call.com
 ||200ps.com
 ||200wan.com
@@ -8971,7 +8971,6 @@
 ||88ysg.com
 ||88zb.com
 ||88zb0.com
-||88zb15.com
 ||88zha.com
 ||88zy.live
 ||89178.com
@@ -10817,7 +10816,6 @@
 ||account.synology.cn
 ||account.umeng.com
 ||account.wps.cn
-||account.xiaomi.com
 ||account.youdao.com
 ||account.youku.com
 ||account.zhihu.com
@@ -11390,7 +11388,6 @@
 ||adpchina.com
 ||adpgsc.com
 ||adpic.chinadaily.com.cn
-||adplatform.vrtcal.com
 ||adplusx.com
 ||adpolestar.net
 ||adportion.com
@@ -13609,7 +13606,6 @@
 ||api-cn1.mpay.samsung.com.cn
 ||api-cname.growingio.com
 ||api-crep.ke.com
-||api-dd.jd.com
 ||api-dd.jd.com.gslb.qianxun.com
 ||api-e189.21cn.com
 ||api-edge.apps.apple.com
@@ -13672,7 +13668,6 @@
 ||api.557400.com
 ||api.5hte21mz.com
 ||api.account.xiaomi.com
-||api.ad.xiaomi.com
 ||api.ad.yipinread.com
 ||api.adbana.com
 ||api.adnet.mob.com
@@ -13751,6 +13746,7 @@
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
+||api.geetest.com
 ||api.gi.igexin.com
 ||api.gotokeep.com
 ||api.growingio.com
@@ -15307,6 +15303,7 @@
 ||b.iy.com.cn
 ||b.jinxiutengzhou.cn
 ||b.nstool.ntes53.netease.com
+||b.nvrentao8.com
 ||b.pingan.com.cn
 ||b.pingan.com.cn.wsglb0.com
 ||b.qchannel03.cn
@@ -18538,6 +18535,7 @@
 ||bs-adaptive.pull.yximgs.com
 ||bs-dolfin.net
 ||bs-origin.pull.yximgs.com
+||bs.csshq.com.cn
 ||bs.forward.douban.com
 ||bs008.com
 ||bs14.9669.cn
@@ -19854,7 +19852,6 @@
 ||casystar.com
 ||cat.sh.vip.dianping.com
 ||cat898.com
-||catalog-public-service-prod06.ol.epicgames.com
 ||catalog-tj.com
 ||catchdata.xiaojukeji.com
 ||catdot.dianping.com
@@ -20029,7 +20026,7 @@
 ||ccf.m.jd.com
 ||ccf.m.jd.com.gslb.qianxun.com
 ||ccfei.com
-||ccfjma.m.jd.com
+||ccfjma.m.jd.com.gslb.qianxun.com
 ||ccflbs.m.jd.com
 ||ccflbs.m.jd.com.gslb.qianxun.com
 ||ccflow.org
@@ -26452,7 +26449,6 @@
 ||d-api-m.le.com
 ||d-ctrip.com
 ||d-heaven.com
-||d-j.me
 ||d-meng.com
 ||d-prototype.com
 ||d-qc.tapimg.com
@@ -26541,7 +26537,6 @@
 ||d1--cn-gotcha05.bilivideo.com.wsdvs.com
 ||d1--cn-gotcha08.bilivideo.com
 ||d1--cn-gotcha103.bilivideo.com
-||d1--cn-gotcha108.bilivideo.com
 ||d1--cn-gotcha203.bilivideo.com
 ||d1--cn-gotcha203.bilivideo.com.w.alikunlun.com
 ||d1--cn-gotcha203.bilivideo.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -28799,6 +28794,7 @@
 ||diershoubing.com
 ||dietfd.com
 ||difanapp.com
+||dig.bdurl.net
 ||dig.qbao.com
 ||dig.zjurl.cn
 ||digcredit.com
@@ -29752,7 +29748,6 @@
 ||domarketing.org
 ||domengle.com
 ||domhttp.kksmg.com
-||domikoo.com
 ||domob.cn
 ||domobcdn.com
 ||domobnetwork.com
@@ -31549,7 +31544,6 @@
 ||e.dr-zh.com
 ||e.eqxiu.com
 ||e.fengyx.com
-||e.g7wf6.cn
 ||e.gitee.com
 ||e.ishansong.com
 ||e.joyxv.com
@@ -31800,7 +31794,6 @@
 ||easydarwin.org
 ||easyder.com
 ||easydoc.xyz
-||easydownload4you.com
 ||easyfami.com
 ||easyfang.com
 ||easyfapiao.com
@@ -36069,7 +36062,6 @@
 ||g77775555.com
 ||g77776666.com
 ||g7f9r7.tdum.alibaba.com
-||g7wf6.cn
 ||g88885555.com
 ||g88886666.com
 ||g8f8.com
@@ -40099,7 +40091,6 @@
 ||hb10000.com
 ||hb10000sale.com
 ||hb114.cc
-||hb1155.com
 ||hb12333.com
 ||hb189.cc
 ||hb189.mobi
@@ -40928,7 +40919,6 @@
 ||hexmeet.com
 ||hexun.com
 ||hexuntech.cn
-||hey-ganzhou.com
 ||heyang.cc
 ||heyang365.com
 ||heycan.com
@@ -41870,7 +41860,6 @@
 ||home.console.aliyun.com
 ||home.htcsense.com
 ||home.httpcn.com
-||home.m.jd.com
 ||home.m.jd.com.gslb.qianxun.com
 ||home.meishichina.com
 ||home.mi.com
@@ -44002,7 +43991,6 @@
 ||i51game.com
 ||i52tt.com
 ||i5399.com
-||i568vc.cn
 ||i5738.com
 ||i574ou0.cdnnodedns.cn
 ||i5i6.net
@@ -47930,7 +47918,6 @@
 ||jesgoo.com
 ||jesselauristonlivermore.com
 ||jesselivermore.com
-||jessicalaurax.com
 ||jestq.com
 ||jethoo.com
 ||jetmobo.com
@@ -49253,6 +49240,7 @@
 ||jndssd.com
 ||jndwyy.com
 ||jnesc.com
+||jngdg.top
 ||jnhcjzlw.com
 ||jnhouse.com
 ||jnj-group.com
@@ -56430,6 +56418,7 @@
 ||m.xitongzhijia.net
 ||m.xm124.com
 ||m.xsk5j.cn
+||m.xuanlimin.top
 ||m.xuexila.com
 ||m.yalayi.com
 ||m.yanjunbo.com
@@ -59093,6 +59082,7 @@
 ||mobcastlead.com
 ||mobcent.com
 ||mobdatas.com
+||mobds.pthejzb.com
 ||mobeehome.com
 ||mobeiwenhua.com
 ||mobgi.com
@@ -59576,7 +59566,6 @@
 ||mozigu.net
 ||mozillaonline.com
 ||mozillazg.com
-||mozsafety.com
 ||mp.ccb.com
 ||mp.dayu.com
 ||mp.iqiyi.com
@@ -61055,6 +61044,7 @@
 ||new.taobc.com
 ||new.users.51.la
 ||new.weibo.cn
+||new.yokaunion.com
 ||new1cloud.com
 ||new400.cn
 ||newacademic.net
@@ -62137,6 +62127,7 @@
 ||nvloo.com
 ||nvren.com
 ||nvren55.com
+||nvrentao8.com
 ||nvsay.com
 ||nvshenfan.com
 ||nvsheng.com
@@ -66132,7 +66123,6 @@
 ||prod-rso.lol.qq.com
 ||prod-support.apple-support.akadns.net
 ||prod.api.xiaomi.cn
-||prodev.m.jd.com
 ||prodev.m.jd.com.gslb.qianxun.com
 ||product.58che.com
 ||product.dangdang.com
@@ -66233,7 +66223,6 @@
 ||ps.res.netease.com
 ||ps123.net
 ||ps2.gamedl.qq.com
-||ps2.games.wanmei.com
 ||ps265.com
 ||ps3.tgbus.com
 ||ps3.tgbus.com.wscdns.com
@@ -66299,6 +66288,7 @@
 ||ptg.tcdn.qq.com
 ||pthc1.com
 ||pthc8.com
+||pthejzb.com
 ||pthxuexi.com
 ||ptimg.org
 ||ptisys.com
@@ -85144,7 +85134,6 @@
 ||vrpowder.com
 ||vrsat.com
 ||vrshendeng.com
-||vrtcal.com
 ||vrwuhan.com
 ||vrzb.com
 ||vs.banyunjuhe.com
@@ -93004,6 +92993,7 @@
 ||xuanhuange.net
 ||xuanjutong.com
 ||xuanke.com
+||xuanlimin.top
 ||xuanlishi.com
 ||xuanliwang.com
 ||xuannaer.com
@@ -99250,6 +99240,7 @@
 ||yoka.com
 ||yokacdn.com
 ||yokagames.com
+||yokaunion.com
 ||yoke.039nez.com
 ||yoke.jyhlo0.com
 ||yokmob.com
