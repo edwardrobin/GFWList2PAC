@@ -1,7 +1,7 @@
-# Checksum: MTYzNDg2MzAzNAo=
+# Checksum: MTYzNDk0OTI3MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20211022-0
-# TimeUpdated: 2021-10-22T00:37:14+00:00
+# Version: 1.0.0-20211023-0
+# TimeUpdated: 2021-10-23T00:34:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -25614,6 +25614,7 @@ domain:ponyking.com,
 domain:ponz.me,
 domain:poofreesky.gq,
 domain:poojaescorts.in,
+domain:pool.ntp.org,
 domain:poolwo.com,
 domain:poow.ga,
 domain:pop.com.br,

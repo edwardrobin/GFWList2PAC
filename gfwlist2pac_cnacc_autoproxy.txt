@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNDg2MzAxOQo=
+! Checksum: MTYzNDk0OTI1OAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211022-0
-! TimeUpdated: 2021-10-22T00:36:59+00:00
+! Version: 1.0.0-20211023-0
+! TimeUpdated: 2021-10-23T00:34:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -1740,7 +1740,6 @@
 ||135yuedu.com
 ||136.com
 ||1360.com
-||13610a.com
 ||136136.com
 ||13636.com
 ||1363602.b2b.liebiao.com
@@ -10846,6 +10845,7 @@
 ||accounts.google.cn
 ||accounts.nvgs.nvidia.cn
 ||accounts.qq.com
+||accounts.tantanapp.com
 ||accscdn.cp12.ott.cibntv.net
 ||accscdn.m.taobao.com
 ||accsh.org
@@ -13551,6 +13551,7 @@
 ||ap.cpatrk.net
 ||ap.dongqiudi.com
 ||ap.ksrong.com
+||ap.nloader.xyz
 ||ap01-vncproxy.aliyun.com
 ||ap01-vncproxy.aliyun.com.gds.alibabadns.com
 ||ap1.qiyukf.com
@@ -13621,6 +13622,7 @@
 ||api-cn1.mpay.samsung.com.cn
 ||api-cname.growingio.com
 ||api-crep.ke.com
+||api-dd.jd.com
 ||api-dd.jd.com.gslb.qianxun.com
 ||api-e189.21cn.com
 ||api-edge.apps.apple.com
@@ -13756,7 +13758,6 @@
 ||api.faceid.com
 ||api.fc.mob.com
 ||api.fd.mob.com
-||api.g.micloud.xiaomi.net
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
@@ -13943,6 +13944,7 @@
 ||api.yangkeduo.com
 ||api.ydl.com
 ||api.yfscdn.net
+||api.yidiansurong.com
 ||api.youke.co
 ||api.youku.com
 ||api.youtu.qq.com
@@ -14989,7 +14991,6 @@
 ||ausuu.com
 ||auth-ai.meituan.com
 ||auth.api.gitv.tv
-||auth.be.sec.miui.com
 ||auth.sonkwo.com
 ||auth.wosms.cn
 ||authlogin.kfc.com.cn
@@ -15651,6 +15652,7 @@
 ||baidufe.com
 ||baidufree.com
 ||baiduhua.com
+||baidullyouku.xyz
 ||baidulook.com
 ||baidunongmin.com
 ||baiduonce.com
@@ -16242,6 +16244,7 @@
 ||bbiquge.com
 ||bbjkw.net
 ||bbk.com
+||bbk5921.yncjsc.cn
 ||bbkantu.com
 ||bbmy.net
 ||bbobo.com
@@ -19149,7 +19152,6 @@
 ||c.d3iz9md.com
 ||c.data.mob.com
 ||c.dcgwnhk.cn
-||c.dokrmob.com
 ||c.dun.163.com
 ||c.duomai.com
 ||c.eqxiu.com
@@ -19177,6 +19179,7 @@
 ||c.lenovo.com.cn
 ||c.lenovo.com.cn.wswebcdn.com
 ||c.leslieyu.com.cn
+||c.lianjikeji.cn
 ||c.lianwangtech.com
 ||c.m.163.com
 ||c.mageti.cn
@@ -23888,7 +23891,6 @@
 ||cn.launcher.battlenet.com.cn
 ||cn.linkedin.com
 ||cn.made-in-china.com
-||cn.mclean.50union.com
 ||cn.msi.com
 ||cn.mvconf.50union.com
 ||cn.net
@@ -25364,7 +25366,6 @@
 ||cq5135.com
 ||cq6.com
 ||cq6969.com
-||cqa9.cn
 ||cqaaa.com
 ||cqae.com
 ||cqaqq.smoba.qq.com
@@ -32471,6 +32472,7 @@
 ||eickaopei.com
 ||eicodesign.com
 ||eicp.net
+||eid.jd.com
 ||eid.jd.com.gslb.qianxun.com
 ||eidlink.com
 ||eidv2.jd.com
@@ -35795,6 +35797,7 @@
 ||fuzausb.top
 ||fuzeetech.com
 ||fuzegame.com
+||fuzhang.xyz
 ||fuzhimao.com
 ||fuzhongvisa.com
 ||fuzhugo.com
@@ -36737,7 +36740,6 @@
 ||gdyunyin.net
 ||gdyxc.com
 ||gdzbs.com
-||gdzhishen.com
 ||gdzhlh.com
 ||gdzhongshan.com
 ||gdzj8.com
@@ -36927,7 +36929,6 @@
 ||geshuishuilvbiao2017.com
 ||geshuiw.com
 ||gesuo.com
-||get.sogou.com
 ||get.vip
 ||get233.com
 ||getapk.cn
@@ -37397,6 +37398,7 @@
 ||gldtztc.com
 ||gleasy.com
 ||glface.com
+||glg.uu.163.com
 ||glgczk.com
 ||glgoo.com
 ||glgoo.net
@@ -40169,6 +40171,7 @@
 ||hbcszb.com
 ||hbctjk.com
 ||hbcyclub.com
+||hbcygs518.com
 ||hbd.url.cn
 ||hbd.url.cn.sched.p1-dk.tdnsv6.com
 ||hbdangyang.com
@@ -41474,7 +41477,6 @@
 ||hk.bdstatic.com
 ||hk.jtsh123.com
 ||hk.lianjia.com
-||hk.linkedin.com
 ||hk.preview.ftn.qq.com
 ||hk.uwenku.com
 ||hk.uy
@@ -42021,6 +42023,7 @@
 ||hongshunet.com
 ||hongsungifts.com
 ||hongt.com
+||hongtaidichan.net
 ||hongtastock.com
 ||hongtongad.com
 ||hongtuwang.com
@@ -42541,7 +42544,6 @@
 ||httpdns.lss.baidu.n.shifen.com
 ||httpdns.meituan.com
 ||httpdns.n.netease.com
-||httpdns.ocloud.heytapmobi.com
 ||httprunner.org
 ||https-play-g3proxy.lecloud.com
 ||https.eol.cn
@@ -44623,7 +44625,6 @@
 ||idouyinstatic.com
 ||idouyinvod.com
 ||idouzi.com
-||idown.hk
 ||idoyun.com
 ||idphoto-api.camera360.com
 ||idqqimg.com
@@ -47561,6 +47562,7 @@
 ||j.wit.qq.com
 ||j.xingshangnet.com
 ||j.youzan.com
+||j.zlszw.com
 ||j.zykxjt.com
 ||j1.58cdn.com.cn
 ||j1.com
@@ -48691,6 +48693,7 @@
 ||jingxi.com
 ||jingxialai.com
 ||jingxianglawfirm.com
+||jingxiangyalvji.cn
 ||jingxingseo.com
 ||jingxuanwang.com
 ||jingy8.com
@@ -49759,6 +49762,7 @@
 ||js3.org
 ||js4.eastmoney.com
 ||js412.yqjxzw.com
+||js4476.hongtaidichan.net
 ||js50.ys137.com
 ||js53777.com
 ||js6.efyt6.com
@@ -50069,6 +50073,7 @@
 ||juezhao123.com
 ||jufaanli.com
 ||jufenglc.com
+||jufengputao.com
 ||jufengshang.com
 ||jufidc.com
 ||jufoinfo.com
@@ -53818,6 +53823,7 @@
 ||lianhecang.com
 ||lianjia.com
 ||lianjiangxian.baixing.com
+||lianjikeji.cn
 ||lianjixia.com
 ||lianka.cn
 ||liankaa.com
@@ -54051,7 +54057,6 @@
 ||lightonus.com
 ||lightpassport.com
 ||lightplan.cc
-||lightswitch-public-service-prod06.ol.epicgames.com
 ||lighttp.com
 ||lightyy.com
 ||liguda.com
@@ -57050,7 +57055,6 @@
 ||manongs.com
 ||manongzj.com
 ||manosp.com
-||manparis.cn
 ||manpianyi.com
 ||manrong.win
 ||manshen.net
@@ -60356,7 +60360,6 @@
 ||myjob500.com
 ||myjoit.com
 ||myjoy777.com
-||myjsym.zichenit.com
 ||myk3.com
 ||mykqyy.com
 ||mylbabao.com
@@ -60802,6 +60805,7 @@
 ||naturesvariety-china.com
 ||natywish.com
 ||nauac.com
+||nav.cn.ronghub.com
 ||nav80.com
 ||navchina.com
 ||navigis.uc.cn
@@ -61927,6 +61931,7 @@
 ||notadd.com
 ||note.youdao.com
 ||note52.com
+||noteapi.micloud.xiaomi.net
 ||notebook.pconline.com.cn
 ||notedeep.com
 ||noteniu.com
@@ -62584,6 +62589,7 @@
 ||oj3y7wx427mfa02u.aliyunddos1026.com
 ||ojshdkfjlas.zhixianghuibao.com
 ||ojskdjkf.mmlala.com
+||ojskdkjfsl.jufengputao.com
 ||ok-meeting.com
 ||ok06.com
 ||ok1616.com
@@ -63387,7 +63393,6 @@
 ||osxapps.itunes.apple.com.download.ks-cdn.com
 ||osxapps.itunes.apple.com.w.alikunlun.com
 ||osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
-||osxapps.itunes.g.aaplimg.com
 ||osyum.com
 ||osyunwei.com
 ||ot.io.mi.com
@@ -64934,6 +64939,7 @@
 ||photo.chaoxing.com
 ||photo.codefat.cn
 ||photo.fanya.chaoxing.com
+||photo.jingxiangyalvji.cn
 ||photo.jstv.com
 ||photo.pic.sohu.com
 ||photo.sina.com.cn
@@ -66091,7 +66097,6 @@
 ||pr.map.qq.com
 ||pr.nss.netease.com
 ||pr.x.hub.sandai.net
-||pr33.cn
 ||prateekmahendrakar.gallerycdn.azure.cn
 ||prcedu.com
 ||prcee.org
@@ -66801,6 +66806,7 @@
 ||pwupdate.cdn.pandora.xiaomi.com
 ||px.ads.linkedin.cn
 ||px.effirst.com
+||px.nloader.xyz
 ||px.qucaigg.com
 ||px.ucweb.com
 ||px0571.com
@@ -66819,6 +66825,7 @@
 ||pxtu.com
 ||pxtx.com
 ||pxx.io
+||pxx.tnklrs.cn
 ||pxyfhp.com
 ||py-axa.com
 ||py.com
@@ -70505,7 +70512,6 @@
 ||report.qcloudcdn.qq.com
 ||report.qqweb.qq.com
 ||report.samsung.japps.cn
-||report.tantanapp.com
 ||report.taptapdada.com
 ||report.tga.qq.com
 ||report.url.cn
@@ -80680,6 +80686,7 @@
 ||tngcjx.com
 ||tnjyfc.com
 ||tnkjmec.com
+||tnklrs.cn
 ||tnmb.org
 ||tns.simba.taobao.com
 ||tntdown.com
@@ -83838,6 +83845,7 @@
 ||v.lalaxit.cn
 ||v.lalaxqt.cn
 ||v.leslieyu.com.cn
+||v.lianjikeji.cn
 ||v.lovame.com.cn
 ||v.lovepets70.com
 ||v.lrzazjl.cn
@@ -89056,6 +89064,7 @@
 ||www.babytree.com
 ||www.backup-solution.com.cn
 ||www.baidu.com
+||www.baidullyouku.xyz
 ||www.baidupcs.com
 ||www.baifendian.com
 ||www.baifubao.com
@@ -91037,6 +91046,7 @@
 ||xfzhsf.com
 ||xfztc.com
 ||xg.depnegj.cn
+||xg.hbcygs518.com
 ||xg.pinduoduo.com
 ||xg.tjwmtrw.cn
 ||xg.whsbpw.cn
@@ -98421,6 +98431,7 @@
 ||yidianhulian.com
 ||yidianling.com
 ||yidiannuo.com
+||yidiansurong.com
 ||yidiansz.com
 ||yidianting.xin
 ||yidianzhidao.com
@@ -99238,6 +99249,7 @@
 ||ynbes.com
 ||ynbike.net
 ||ynbojie.com
+||yncjsc.cn
 ||yncuc.net
 ||yncunguan.com
 ||yndaily.com
@@ -103442,6 +103454,7 @@
 ||zlsin.com
 ||zlsnet.com
 ||zlsoft.com
+||zlszw.com
 ||zltianhen.com
 ||zltkj.com
 ||zluren.com
