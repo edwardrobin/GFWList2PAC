@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNDk0OTI3MQo=
+! Checksum: MTYzNTAzNTU2Mwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211023-0
-! TimeUpdated: 2021-10-23T00:34:31+00:00
+! Version: 1.0.0-20211024-0
+! TimeUpdated: 2021-10-24T00:32:43+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -1519,7 +1519,6 @@
 ||409z.com
 ||40inchplus.com
 ||40shopping.com
-||40sihu.com
 ||412580.com
 ||4135522.com
 ||4136.com
@@ -18945,7 +18944,6 @@
 ||jbo830.com
 ||jbo84.com
 ||jbo87.com
-||jbo8822.com
 ||jbo8877.com
 ||jbo9.com
 ||jbo919.com
