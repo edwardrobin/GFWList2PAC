@@ -1,7 +1,7 @@
-# Checksum: MTYzNTIwODIzNQo=
+# Checksum: MTYzNTI5NDY2MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211026-0
-# TimeUpdated: 2021-10-26T00:30:35+00:00
+# Version: 1.0.0-20211027-0
+# TimeUpdated: 2021-10-27T00:31:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2140,7 +2140,6 @@ DOMAIN-SUFFIX,666kb.com
 DOMAIN-SUFFIX,666let.com
 DOMAIN-SUFFIX,666ltou.com
 DOMAIN-SUFFIX,66773885.com
-DOMAIN-SUFFIX,6677gz.com
 DOMAIN-SUFFIX,668000010.com
 DOMAIN-SUFFIX,668000505.com
 DOMAIN-SUFFIX,668001000.com
@@ -6156,7 +6155,6 @@ DOMAIN-SUFFIX,betway119.com
 DOMAIN-SUFFIX,betway27.com
 DOMAIN-SUFFIX,betway388.com
 DOMAIN-SUFFIX,betway599.com
-DOMAIN-SUFFIX,betway888.com
 DOMAIN-SUFFIX,betway995.com
 DOMAIN-SUFFIX,betwin999.com
 DOMAIN-SUFFIX,bewww.net
@@ -14570,7 +14568,6 @@ DOMAIN-SUFFIX,fun1738.com
 DOMAIN-SUFFIX,fun1818.com
 DOMAIN-SUFFIX,fun211.com
 DOMAIN-SUFFIX,fun216.com
-DOMAIN-SUFFIX,fun281.com
 DOMAIN-SUFFIX,fun307.com
 DOMAIN-SUFFIX,fun308.com
 DOMAIN-SUFFIX,fun315.com
@@ -17854,6 +17851,7 @@ DOMAIN-SUFFIX,imacsources.com
 DOMAIN-SUFFIX,image01.fenhao24.com
 DOMAIN-SUFFIX,image1.fmgstatic.com
 DOMAIN-SUFFIX,imageab.com
+DOMAIN-SUFFIX,imagebam.com
 DOMAIN-SUFFIX,imagecurl.com
 DOMAIN-SUFFIX,imagecurl.org
 DOMAIN-SUFFIX,imagefap.com
@@ -31019,6 +31017,7 @@ DOMAIN-SUFFIX,trudireaume.com
 DOMAIN-SUFFIX,truebuddha-md.org
 DOMAIN-SUFFIX,truebuddha.se
 DOMAIN-SUFFIX,truedepth3d.com
+DOMAIN-SUFFIX,truesocial.media
 DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trust.zone
 DOMAIN-SUFFIX,trustasiassl.com
