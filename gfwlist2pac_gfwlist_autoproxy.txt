@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNTU1MzgyOAo=
+! Checksum: MTYzNTY0MDM3Nwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211030-0
-! TimeUpdated: 2021-10-30T00:30:28+00:00
+! Version: 1.0.0-20211031-0
+! TimeUpdated: 2021-10-31T00:32:57+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -10633,7 +10633,6 @@
 ||dc0069.com
 ||dc0071.com
 ||dc0078.com
-||dc0555.com
 ||dc1100.com
 ||dc1199.com
 ||dc221.com
@@ -15273,6 +15272,7 @@
 ||githubapp.com
 ||githubassets.com
 ||githubhackathon.com
+||githubmemory.com
 ||githubpreview.dev
 ||githubstatus.com
 ||githubuniverse.com
