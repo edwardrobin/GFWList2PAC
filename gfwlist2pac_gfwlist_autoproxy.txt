@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNjMzMTUzMgo=
+! Checksum: MTYzNjQxNzg5Mgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211108-0
-! TimeUpdated: 2021-11-08T00:32:12+00:00
+! Version: 1.0.0-20211109-0
+! TimeUpdated: 2021-11-09T00:31:32+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -14590,7 +14590,6 @@
 ||fun530.com
 ||fun550.com
 ||fun5500.com
-||fun551.com
 ||fun560.com
 ||fun562.com
 ||fun586.com
@@ -15457,6 +15456,7 @@
 ||gogle.com
 ||gogo-load.com
 ||gogo2sex.com
+||gogoanime.wiki
 ||gogocdn.net
 ||gogole.com
 ||gogoron.com
