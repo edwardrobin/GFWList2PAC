@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNjg0OTk2NAo=
+! Checksum: MTYzNjkzNjMxMgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211114-0
-! TimeUpdated: 2021-11-14T00:32:44+00:00
+! Version: 1.0.0-20211115-0
+! TimeUpdated: 2021-11-15T00:31:52+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -11940,6 +11940,7 @@
 ||aegis.qq.com
 ||aehyok.com
 ||aemedia.org
+||aencx.net
 ||aendc.com
 ||aeo-cctv.com
 ||aeonlifes.com
@@ -12367,6 +12368,7 @@
 ||aikf.com
 ||aikucun.com
 ||ailaba.org
+||ailamtrieuphu.com
 ||aileleba.com
 ||ailete.com
 ||ailewan.com
@@ -14431,7 +14433,6 @@
 ||app-router.com
 ||app-router.leancloud.cn
 ||app-sage.com
-||app-site-association.cdn-apple.com
 ||app-store.name
 ||app-tj.adinall.com
 ||app-v6.ias.tencent-cloud.net
@@ -14469,6 +14470,7 @@
 ||app.kwaixiaodian.com
 ||app.lz55.cn
 ||app.m.letv.com
+||app.market.xiaomi.com
 ||app.mengtuiapp.com
 ||app.mi.com
 ||app.moji001.com
@@ -18305,7 +18307,6 @@
 ||blackh4t.org
 ||blackhole-m.m.jd.com
 ||blackhole-m.m.jd.com.gslb.qianxun.com
-||blackhole.m.jd.com
 ||blackhole.m.jd.com.gslb.qianxun.com
 ||blackholeskins.com
 ||blackist.org
@@ -23940,7 +23941,6 @@
 ||club-img.douyucdn.cn
 ||club-v4.chinanorth.cloudapp.chinacloudapi.cn
 ||club.bilibili.com
-||club.jd.com
 ||club.jd.com.gslb.qianxun.com
 ||club.lenovo.com.cn
 ||club.m.autohome.com.cn
@@ -26987,6 +26987,7 @@
 ||d.pcs.baidu.com
 ||d.qchannel03.cn
 ||d.qingting.fm
+||d.rexuebi.com
 ||d.s11.cn
 ||d.taptapdada.com
 ||d.tjgxzs.com
@@ -28363,7 +28364,6 @@
 ||ddong.com
 ||ddooo.com
 ||ddos-bj2.youzan.com
-||ddos-defend.com
 ||ddos.com
 ||ddos2naive.com
 ||ddosc.com
@@ -29528,7 +29528,6 @@
 ||dispatcher.is.autonavi.com
 ||dispatcher.is.autonavi.com.gds.alibabadns.com
 ||dispatcher.upmc.uc.cn
-||display.360totalsecurity.com
 ||display.adhudong.com
 ||displink.com
 ||ditan360.com
@@ -33922,6 +33921,7 @@
 ||ewz4ksd98492555o.aliyunddos1026.com
 ||ex-silver.com
 ||ex-starch.com
+||ex.m.jd.com
 ||ex.m.jd.com.gslb.qianxun.com
 ||ex.mobmore.com
 ||ex.puata.info
@@ -36289,7 +36289,6 @@
 ||fun88-i78.com
 ||fun8807.com
 ||fun88113.com
-||fun88223.com
 ||fun88369.com
 ||fun88721.com
 ||funcdn.com
@@ -37616,6 +37615,7 @@
 ||gfcdn.shop
 ||gfcdn.xyz
 ||gfcvisa.com
+||gfd.huigoushop.com
 ||gfd178.com
 ||gfdns.net
 ||gfdsa.net
@@ -38217,6 +38217,7 @@
 ||goalan.net
 ||goalhi.com
 ||goalmobi.com
+||goaltraffic.com
 ||goapk.com
 ||gobanma.com
 ||gobasearcher.com
@@ -38558,6 +38559,7 @@
 ||goutanzi.com
 ||goutong.baidu.com
 ||gouwanmei.com
+||gouweida.cn
 ||gouwubang.com
 ||gouwuke.com
 ||gouwumai.com
@@ -42214,7 +42216,6 @@
 ||hk.bdstatic.com
 ||hk.jtsh123.com
 ||hk.lianjia.com
-||hk.pool.ntp.org
 ||hk.preview.ftn.qq.com
 ||hk.uwenku.com
 ||hk.uy
@@ -42976,7 +42977,6 @@
 ||hpd.a.shifen.com
 ||hpd.baidu.com
 ||hpe.cn
-||hpfjy.com
 ||hpoi.net
 ||hpplay.cdn.cibn.cc
 ||hpplay.cn
@@ -52420,6 +52420,7 @@
 ||kindlepush.com
 ||kinefinity.com
 ||king-capital.com
+||king-oak.cn
 ||kingandwood.com
 ||kingball.net
 ||kingborn.org
@@ -57310,7 +57311,6 @@
 ||m.health.pingan.com
 ||m.hellobike.com
 ||m.hlcnzz.com
-||m.hpfjy.com
 ||m.hubpd.com
 ||m.hupu.com
 ||m.huxiu.com
@@ -57332,6 +57332,7 @@
 ||m.jb51.net
 ||m.jb51.net.cdn20.com
 ||m.jcaik.com
+||m.jd.com
 ||m.jd.com.gslb.qianxun.com
 ||m.jf.10010.com
 ||m.jiaochengzhijia.com
@@ -58170,7 +58171,6 @@
 ||mapi.dianping.com
 ||mapi.fenqile.com
 ||mapi.hellobike.com
-||mapi.m.jd.com
 ||mapi.m.jd.com.gslb.qianxun.com
 ||mapi.meituan.com
 ||mapi.ttbike.com.cn
@@ -63010,6 +63010,7 @@
 ||notadd.com
 ||note.youdao.com
 ||note52.com
+||noteapi.micloud.xiaomi.net
 ||notebook.pconline.com.cn
 ||notedeep.com
 ||noteniu.com
@@ -64727,7 +64728,6 @@
 ||p.appjiagu.com
 ||p.aty.sohu.com
 ||p.biligame.com
-||p.bjdianyue.com
 ||p.cdn.persaas.dell.com
 ||p.clkservice.youdao.com
 ||p.comments.youku.com
@@ -64894,7 +64894,6 @@
 ||p2plive-ali.douyucdn.cn
 ||p2plive-ws.douyucdn.cn
 ||p2plog.douyucdn.cn
-||p2pmidzj.baofeng.com
 ||p2pport.yfp2p.net
 ||p2psdk.wscdns.com
 ||p2psearcher.org
@@ -67880,7 +67879,6 @@
 ||pvdata.ku6.com
 ||pvkj.com
 ||pvlog.hd.baofeng.com
-||pvlog.moviebox.baofeng.com
 ||pvlog.moviebox.baofeng.net
 ||pvm.zol.com.cn
 ||pvmama.com

@@ -1,7 +1,7 @@
-# Checksum: MTYzNjg0OTk3Ngo=
+# Checksum: MTYzNjkzNjMyNgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211114-0
-# TimeUpdated: 2021-11-14T00:32:56+00:00
+# Version: 1.0.0-20211115-0
+# TimeUpdated: 2021-11-15T00:32:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3342,7 +3342,6 @@ DOMAIN-SUFFIX,acer.com
 DOMAIN-SUFFIX,aceros-de-hispania.com
 DOMAIN-SUFFIX,acertainsound.com
 DOMAIN-SUFFIX,acethon.com
-DOMAIN-SUFFIX,acetop.com
 DOMAIN-SUFFIX,acevpn.com
 DOMAIN-SUFFIX,acextv.site
 DOMAIN-SUFFIX,acg.ci
@@ -14610,6 +14609,7 @@ DOMAIN-SUFFIX,fun8802.com
 DOMAIN-SUFFIX,fun8809.com
 DOMAIN-SUFFIX,fun8810.com
 DOMAIN-SUFFIX,fun88126.com
+DOMAIN-SUFFIX,fun88223.com
 DOMAIN-SUFFIX,fun8878.com
 DOMAIN-SUFFIX,fun8889.com
 DOMAIN-SUFFIX,fun888city.net
@@ -16931,7 +16931,6 @@ DOMAIN-SUFFIX,hkwcc.org.hk
 DOMAIN-SUFFIX,hkwesee.xyz
 DOMAIN-SUFFIX,hkwesi.com
 DOMAIN-SUFFIX,hkwesi1.xyz
-DOMAIN-SUFFIX,hkwesi111.xyz
 DOMAIN-SUFFIX,hkwesi2.xyz
 DOMAIN-SUFFIX,hkwesi22.xyz
 DOMAIN-SUFFIX,hkwesi22222.xyz

@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNjg0OTk3Ngo=
+! Checksum: MTYzNjkzNjMyNgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211114-0
-! TimeUpdated: 2021-11-14T00:32:56+00:00
+! Version: 1.0.0-20211115-0
+! TimeUpdated: 2021-11-15T00:32:06+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -3343,7 +3343,6 @@
 ||aceros-de-hispania.com
 ||acertainsound.com
 ||acethon.com
-||acetop.com
 ||acevpn.com
 ||acextv.site
 ||acg.ci
@@ -14611,6 +14610,7 @@
 ||fun8809.com
 ||fun8810.com
 ||fun88126.com
+||fun88223.com
 ||fun8878.com
 ||fun8889.com
 ||fun888city.net
@@ -16932,7 +16932,6 @@
 ||hkwesee.xyz
 ||hkwesi.com
 ||hkwesi1.xyz
-||hkwesi111.xyz
 ||hkwesi2.xyz
 ||hkwesi22.xyz
 ||hkwesi22222.xyz
