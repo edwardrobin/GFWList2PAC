@@ -1,7 +1,7 @@
-# Checksum: MTYzNzAyMjcxNwo=
+# Checksum: MTYzNzEwOTEyMAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211116-0
-# TimeUpdated: 2021-11-16T00:31:57+00:00
+# Version: 1.0.0-20211117-0
+# TimeUpdated: 2021-11-17T00:32:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5035,6 +5035,7 @@ DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
 DOMAIN-SUFFIX,authorizeddns.us
 DOMAIN-SUFFIX,authorxml.com
+DOMAIN-SUFFIX,authy.com
 DOMAIN-SUFFIX,auto-aufladen.de
 DOMAIN-SUFFIX,auto.freev2.top
 DOMAIN-SUFFIX,auto0391.com
@@ -30126,6 +30127,7 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tg333.net
 DOMAIN-SUFFIX,tg9000.net
 DOMAIN-SUFFIX,tgcom24.it
+DOMAIN-SUFFIX,tgfcer.com
 DOMAIN-SUFFIX,tgpasia.com
 DOMAIN-SUFFIX,tgraph.io
 DOMAIN-SUFFIX,tgs.tca.org.tw
@@ -31128,6 +31130,7 @@ DOMAIN-SUFFIX,tttnew.com
 DOMAIN-SUFFIX,ttuhsc.edu
 DOMAIN-SUFFIX,ttv.com.tw
 DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tub99.com
 DOMAIN-SUFFIX,tubaholic.com

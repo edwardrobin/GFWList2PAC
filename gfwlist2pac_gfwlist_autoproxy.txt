@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzNzAyMjcxNwo=
+! Checksum: MTYzNzEwOTEyMAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211116-0
-! TimeUpdated: 2021-11-16T00:31:57+00:00
+! Version: 1.0.0-20211117-0
+! TimeUpdated: 2021-11-17T00:32:00+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -5036,6 +5036,7 @@
 ||authorizeddns.org
 ||authorizeddns.us
 ||authorxml.com
+||authy.com
 ||auto-aufladen.de
 ||auto.freev2.top
 ||auto0391.com
@@ -30127,6 +30128,7 @@
 ||tg333.net
 ||tg9000.net
 ||tgcom24.it
+||tgfcer.com
 ||tgpasia.com
 ||tgraph.io
 ||tgs.tca.org.tw
@@ -31129,6 +31131,7 @@
 ||ttuhsc.edu
 ||ttv.com.tw
 ||ttvnw.net
+||ttwstatic.com
 ||tu8964.com
 ||tub99.com
 ||tubaholic.com
