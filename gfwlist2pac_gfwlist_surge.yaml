@@ -1,7 +1,7 @@
-# Checksum: MTYzNzE5NTU2NQo=
+# Checksum: MTYzNzI4MTkyMAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211118-0
-# TimeUpdated: 2021-11-18T00:32:45+00:00
+# Version: 1.0.0-20211119-0
+# TimeUpdated: 2021-11-19T00:32:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -441,6 +441,7 @@ DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,1364.xyz
 DOMAIN-SUFFIX,13647121919.com
 DOMAIN-SUFFIX,13647231919.com
+DOMAIN-SUFFIX,1365tu.com
 DOMAIN-SUFFIX,136696.com
 DOMAIN-SUFFIX,136sihu.com
 DOMAIN-SUFFIX,138.com
@@ -7020,6 +7021,7 @@ DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
 DOMAIN-SUFFIX,bnetshopus.akamaized.net
 DOMAIN-SUFFIX,bnews.co
+DOMAIN-SUFFIX,bnext.com.tw
 DOMAIN-SUFFIX,bnf7.ras.flnet.org
 DOMAIN-SUFFIX,bngpt.com
 DOMAIN-SUFFIX,bni.com
@@ -21030,6 +21032,7 @@ DOMAIN-SUFFIX,m6988.com
 DOMAIN-SUFFIX,m6vip2.com
 DOMAIN-SUFFIX,m78929.com
 DOMAIN-SUFFIX,m8.my03.com
+DOMAIN-SUFFIX,m8008.com
 DOMAIN-SUFFIX,m859.com
 DOMAIN-SUFFIX,m879.com
 DOMAIN-SUFFIX,m88.com
@@ -22058,6 +22061,7 @@ DOMAIN-SUFFIX,mirai.ca
 DOMAIN-SUFFIX,mirailab.tech
 DOMAIN-SUFFIX,miroguide.com
 DOMAIN-SUFFIX,mirrorbooks.com
+DOMAIN-SUFFIX,mirrormedia.com.tw
 DOMAIN-SUFFIX,mirrormedia.mg
 DOMAIN-SUFFIX,mirrormediagroup.com
 DOMAIN-SUFFIX,mirrorsedge.com
@@ -22143,6 +22147,7 @@ DOMAIN-SUFFIX,mmavday.com
 DOMAIN-SUFFIX,mmdnn.com
 DOMAIN-SUFFIX,mme.whatsapp.net
 DOMAIN-SUFFIX,mmg.whatsapp.net
+DOMAIN-SUFFIX,mmgal.com
 DOMAIN-SUFFIX,mmhz.us
 DOMAIN-SUFFIX,mmi292.whatsapp.net
 DOMAIN-SUFFIX,mmk.dyn.mk
@@ -31164,6 +31169,7 @@ DOMAIN-SUFFIX,tubexclips.com
 DOMAIN-SUFFIX,tucanotours.tur.ar
 DOMAIN-SUFFIX,tucao.cc
 DOMAIN-SUFFIX,tucao.me
+DOMAIN-SUFFIX,tucao.tv
 DOMAIN-SUFFIX,tufou.vip
 DOMAIN-SUFFIX,tug.org
 DOMAIN-SUFFIX,tui.orzdream.com
