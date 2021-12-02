@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzODMxODg4Mgo=
+! Checksum: MTYzODQwNTE1Nwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211201-0
-! TimeUpdated: 2021-12-01T00:34:42+00:00
+! Version: 1.0.0-20211202-0
+! TimeUpdated: 2021-12-02T00:32:37+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -8361,7 +8361,6 @@
 ||cg.net
 ||cg233.com
 ||cg7.cpk55.com
-||cg8.cpk55.com
 ||cg8xtv.site
 ||cgbc.org
 ||cgdepot.org
@@ -14612,6 +14611,7 @@
 ||fun612.com
 ||fun66996.com
 ||fun678.com
+||fun702.com
 ||fun712.com
 ||fun727.com
 ||fun767.com
