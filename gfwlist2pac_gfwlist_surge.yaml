@@ -1,7 +1,7 @@
-# Checksum: MTYzODQwNTE1Nwo=
+# Checksum: MTYzODQ5MTU2MAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211202-0
-# TimeUpdated: 2021-12-02T00:32:37+00:00
+# Version: 1.0.0-20211203-0
+# TimeUpdated: 2021-12-03T00:32:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -290,7 +290,6 @@ DOMAIN-SUFFIX,107sihu.com
 DOMAIN-SUFFIX,108-177-122-104.dynamic-ip.hinet.net
 DOMAIN-SUFFIX,108.hbmygj.cn
 DOMAIN-SUFFIX,1089827.com
-DOMAIN-SUFFIX,108tlc.com
 DOMAIN-SUFFIX,10b1000.com
 DOMAIN-SUFFIX,10b1010.com
 DOMAIN-SUFFIX,10b111.com
@@ -7638,7 +7637,6 @@ DOMAIN-SUFFIX,bwh8.net
 DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,bwin01.com
 DOMAIN-SUFFIX,bwin2020.com
-DOMAIN-SUFFIX,bwin3099.com
 DOMAIN-SUFFIX,bwin4477.com
 DOMAIN-SUFFIX,bwin5066.com
 DOMAIN-SUFFIX,bwin6099.com
@@ -8057,6 +8055,7 @@ DOMAIN-SUFFIX,cashpassport.net
 DOMAIN-SUFFIX,cashpassportglobe.com
 DOMAIN-SUFFIX,cashwork.kangdi-pay.com
 DOMAIN-SUFFIX,casi998.com
+DOMAIN-SUFFIX,casimages.com
 DOMAIN-SUFFIX,casino.com
 DOMAIN-SUFFIX,casino.kto.asia
 DOMAIN-SUFFIX,casino.williamhill.com
@@ -8979,6 +8978,8 @@ DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudhealthtech.com
 DOMAIN-SUFFIX,cloudimage.io
 DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net
 DOMAIN-SUFFIX,cloudinsights.com
 DOMAIN-SUFFIX,cloudlive.com
 DOMAIN-SUFFIX,cloudlock.com
@@ -14622,6 +14623,7 @@ DOMAIN-SUFFIX,fun88-i78.com
 DOMAIN-SUFFIX,fun88-mvp.com
 DOMAIN-SUFFIX,fun88.com.cn
 DOMAIN-SUFFIX,fun8802.com
+DOMAIN-SUFFIX,fun8807.com
 DOMAIN-SUFFIX,fun8809.com
 DOMAIN-SUFFIX,fun8810.com
 DOMAIN-SUFFIX,fun88126.com
@@ -15914,7 +15916,6 @@ DOMAIN-SUFFIX,grahamreaper.com
 DOMAIN-SUFFIX,grammaly.com
 DOMAIN-SUFFIX,grandsuite2.1eighty8bet.com
 DOMAIN-SUFFIX,grandtrial.org
-DOMAIN-SUFFIX,grangorz.org
 DOMAIN-SUFFIX,grannybet.com
 DOMAIN-SUFFIX,grantland.com
 DOMAIN-SUFFIX,grapecartoons.com
@@ -21799,6 +21800,7 @@ DOMAIN-SUFFIX,microsoft.io
 DOMAIN-SUFFIX,microsoft.is
 DOMAIN-SUFFIX,microsoft.it
 DOMAIN-SUFFIX,microsoft.lv
+DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,microsoft.pt
 DOMAIN-SUFFIX,microsoft.red
 DOMAIN-SUFFIX,microsoft.rs
@@ -25785,6 +25787,8 @@ DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postandcourier.com
 DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,posthentai.com
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,postini.com
 DOMAIN-SUFFIX,postnl.nl
