@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYzODY2NDUyNQo=
+! Checksum: MTYzODc1MDgzOQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20211205-0
-! TimeUpdated: 2021-12-05T00:35:25+00:00
+! Version: 1.0.0-20211206-0
+! TimeUpdated: 2021-12-06T00:33:59+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -11758,7 +11758,6 @@
 ||adv.grtn.cn
 ||adv.jxnews.com.cn
 ||adv.madserving.com
-||adv.sec.miui.com
 ||adv.zuimeitianqi.com
 ||adv5678.com
 ||advbeta.madserving.com
@@ -13946,7 +13945,6 @@
 ||api.faceid.com
 ||api.fc.mob.com
 ||api.fd.mob.com
-||api.g.micloud.xiaomi.net
 ||api.gameanalytics.com
 ||api.gamebox.cocos.com
 ||api.gcloud.qq.com
@@ -14465,7 +14463,6 @@
 ||appdp.com
 ||appdriver.cn
 ||appdriver.com.cn
-||appdump.nie.netease.com
 ||appduu.com
 ||appeasou.com
 ||appengine.wmpvp.com
@@ -15178,6 +15175,7 @@
 ||ausuu.com
 ||auth-ai.meituan.com
 ||auth.api.gitv.tv
+||auth.be.sec.miui.com
 ||auth.sonkwo.com
 ||auth.wosms.cn
 ||authlogin.kfc.com.cn
@@ -16490,6 +16488,7 @@
 ||bbs.elecfans.com
 ||bbs.elecfans.com.w.kunlunca.com
 ||bbs.feng.com
+||bbs.gameres.com
 ||bbs.greendown.cn
 ||bbs.iappstoday.com
 ||bbs.ikuai8.com
@@ -18187,7 +18186,6 @@
 ||blackh4t.org
 ||blackhole-m.m.jd.com
 ||blackhole-m.m.jd.com.gslb.qianxun.com
-||blackhole.m.jd.com
 ||blackhole.m.jd.com.gslb.qianxun.com
 ||blackholeskins.com
 ||blackist.org
@@ -18925,7 +18923,6 @@
 ||btrace.qq.com
 ||btrace.video.qq.com
 ||btrace.ysp.cctv.cn
-||btracker.top
 ||btrcsc.com
 ||btrmhg.com
 ||bts.hk
@@ -20266,6 +20263,7 @@
 ||ccc-2013.com
 ||ccc-x.jd.com
 ||ccc-x.jd.com.gslb.qianxun.com
+||ccc.sys.miui.com
 ||ccc.x.jd.com
 ||cccaq.com
 ||cccbs.net
@@ -20306,7 +20304,6 @@
 ||ccf.m.jd.com.gslb.qianxun.com
 ||ccfei.com
 ||ccfjma.m.jd.com.gslb.qianxun.com
-||ccflbs.m.jd.com
 ||ccflbs.m.jd.com.gslb.qianxun.com
 ||ccflow.org
 ||ccfund.com.cn
@@ -22957,7 +22954,6 @@
 ||chuanboyi.com
 ||chuandaizc.com
 ||chuandong.com
-||chuang-yi.com.cn
 ||chuang.pro
 ||chuangbie.com
 ||chuangcache-bilibili.all.a.aocde.com
@@ -25279,7 +25275,6 @@
 ||congzhi.com
 ||conn.wemeet.tencent.com
 ||conn1.coloros.com
-||conn1.oppomobile.com
 ||conn2.oppomobile.com
 ||conn3.coloros.com
 ||connb.gj.qq.com
@@ -25289,6 +25284,7 @@
 ||connect-drcn.hispace.hicloud.com
 ||connect.play.aiseet.atianqi.com
 ||connect.qq.com
+||connect.rom.miui.com
 ||connect.unity.cn
 ||connectivity.samsung.com.cn
 ||connectivitycheck.cbg-app.huawei.com
@@ -28348,7 +28344,6 @@
 ||dekeego.com
 ||dektw.com
 ||del.chinaz.com
-||delai.me
 ||delanauto.com
 ||delegation.a.shifen.com
 ||deli-tools.com
@@ -28464,7 +28459,6 @@
 ||detail.zol.com.cn
 ||detailskip.taobao.com
 ||detailskip.taobao.com.danuoyi.tbcache.com
-||detatu.com
 ||detdr2l5.v1d.szbdyd.com
 ||detect.mb.qq.com
 ||detian-chem.com
@@ -34984,7 +34978,6 @@
 ||ffyd8.com
 ||ffyinxiang.com
 ||ffyoo.com
-||fg-z.com
 ||fg.cc
 ||fg8uqn1.cachenode.cn
 ||fga0.market.xiaomi.com
@@ -36054,7 +36047,6 @@
 ||fun48.com
 ||fun501.com
 ||fun551.com
-||fun737.com
 ||fun7733.com
 ||fun78.com
 ||fun803.com
@@ -38801,7 +38793,6 @@
 ||guang.com
 ||guang.sdsgwy.com
 ||guang1.zhakao.cn
-||guang8.cc
 ||guangan.baixing.com
 ||guangbo.net
 ||guangchangwu.net
@@ -39807,7 +39798,6 @@
 ||hackpascal.net
 ||hackrf.net
 ||hackroad.com
-||hacksgenie.com
 ||hacori.com
 ||hacpai.com
 ||haczjob.com
@@ -48555,7 +48545,6 @@
 ||jf258.com
 ||jf2688.com
 ||jf365.boc.cn
-||jf88811.com
 ||jf95.com
 ||jf9p.com
 ||jfbcb.com
@@ -54669,7 +54658,6 @@
 ||lifanmy.com
 ||life.ccb.com
 ||life.e0575.com
-||life.html5.qq.com
 ||life.youku.com
 ||life365.com
 ||lifeall.com
@@ -55670,7 +55658,6 @@
 ||log.mpns.hunantv.com
 ||log.music.baidu.com
 ||log.nuomi.com
-||log.nvwa.baofeng.com
 ||log.p2p.hunantv.com
 ||log.qchannel03.cn
 ||log.qvb.qcloud.com
@@ -57040,7 +57027,6 @@
 ||m.myams.cn
 ||m.nabeghlavi.com.cn
 ||m.nb.17house.com
-||m.nejup.com
 ||m.news.cctv.com
 ||m.newsmth.net
 ||m.nuoqingck.cn
@@ -57066,7 +57052,6 @@
 ||m.qzone.com
 ||m.reachmax.cn
 ||m.robooot.com
-||m.rrsdl.com
 ||m.runoob.com
 ||m.sctcd.com
 ||m.sh.bendibao.com
@@ -57474,7 +57459,6 @@
 ||mail.yeah.net
 ||mail163.com
 ||maila88.com
-||mailatuan.net
 ||mailbusinfo.com
 ||mailehudong.com
 ||mailejifen.com
@@ -57825,6 +57809,7 @@
 ||mapi.dianping.com
 ||mapi.fenqile.com
 ||mapi.hellobike.com
+||mapi.m.jd.com
 ||mapi.m.jd.com.gslb.qianxun.com
 ||mapi.meituan.com
 ||mapi.ttbike.com.cn
@@ -58114,7 +58099,6 @@
 ||mbjb1.girl13.com
 ||mblode.gallerycdn.azure.cn
 ||mbokee.com
-||mbox98.com
 ||mboxone.com
 ||mbrowser.baidu.com
 ||mbrowser.n.shifen.com
@@ -59032,6 +59016,7 @@
 ||micai.com
 ||micaitu.net
 ||micaiying.com
+||micardapi.micloud.xiaomi.net
 ||micblo.com
 ||michael-j.net
 ||michaelapp.com
@@ -60466,7 +60451,6 @@
 ||msearch.51job.com
 ||mseddl.gitee.io
 ||msedge.b.tlu.dl.delivery.mp.microsoft.com
-||msedge.f.dl.delivery.mp.microsoft.com
 ||msedge.f.tlu.dl.delivery.mp.microsoft.com
 ||msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 ||msf.ias.tencent-cloud.net
@@ -61702,7 +61686,6 @@
 ||neituixiaowangzi.com
 ||neixin.cn
 ||nejmqianyan.cn
-||nejup.com
 ||nelkshuhe.com
 ||nellit.net
 ||nemosdo.com
@@ -65680,7 +65663,6 @@
 ||phonekr.com
 ||phopic.com
 ||phormchina.com
-||photo.941ziyuan.cn
 ||photo.backerbiotech.cn
 ||photo.chaoxing.com
 ||photo.codefat.cn
@@ -66081,7 +66063,6 @@
 ||pingcap.com
 ||pingcoo.com
 ||pingding.baixing.com
-||pingeds.cn
 ||pingfangx.com
 ||pingfenbang.com
 ||pingfore.qq.com
@@ -66355,6 +66336,7 @@
 ||player.cntv.cn
 ||player.mgtv.com
 ||player.mgtv.com.wscdns.com
+||player.tenglutg.com
 ||player.youku.com
 ||player888.cn
 ||playerhotfix.douyucdn.cn
@@ -66421,6 +66403,7 @@
 ||plycd.com
 ||plyz.net
 ||pm-summit.org
+||pm.3.cn
 ||pm.3.cn.gslb.qianxun.com
 ||pm.aty.sohu.com
 ||pm.myapp.com
