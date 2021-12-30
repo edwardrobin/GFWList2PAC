@@ -1,7 +1,7 @@
-# Checksum: MTY0MDczODA1Nwo=
+# Checksum: MTY0MDgyNDQ3OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20211229-0
-# TimeUpdated: 2021-12-29T00:34:17+00:00
+# Version: 1.0.0-20211230-0
+# TimeUpdated: 2021-12-30T00:34:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -533,7 +533,6 @@ DOMAIN-SUFFIX,1665dd.com
 DOMAIN-SUFFIX,1665e.com
 DOMAIN-SUFFIX,1665hhh.com
 DOMAIN-SUFFIX,1665kf.com
-DOMAIN-SUFFIX,1665tt.com
 DOMAIN-SUFFIX,1667934.com
 DOMAIN-SUFFIX,167178.com
 DOMAIN-SUFFIX,1676369.com
@@ -16313,6 +16312,7 @@ DOMAIN-SUFFIX,haskellstack.org
 DOMAIN-SUFFIX,haswel.com
 DOMAIN-SUFFIX,hasznaltauto.hu
 DOMAIN-SUFFIX,hatena.ne.jp
+DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,hatsiklopedia.org
 DOMAIN-SUFFIX,hautelook.com
 DOMAIN-SUFFIX,hautelookcdn.com
@@ -16505,6 +16505,7 @@ DOMAIN-SUFFIX,hentai.ms
 DOMAIN-SUFFIX,hentai.to
 DOMAIN-SUFFIX,hentai.xxx
 DOMAIN-SUFFIX,hentai4manga.com
+DOMAIN-SUFFIX,hentaiathome.net
 DOMAIN-SUFFIX,hentaicloud.com
 DOMAIN-SUFFIX,hentaifox.com
 DOMAIN-SUFFIX,hentaigasm.com
@@ -17115,7 +17116,6 @@ DOMAIN-SUFFIX,houtai045.com
 DOMAIN-SUFFIX,houtroos.com
 DOMAIN-SUFFIX,howbbs.com
 DOMAIN-SUFFIX,howeyun.com
-DOMAIN-SUFFIX,howfile.com
 DOMAIN-SUFFIX,howfu.me
 DOMAIN-SUFFIX,howstrange.me
 DOMAIN-SUFFIX,howtoforge.com
