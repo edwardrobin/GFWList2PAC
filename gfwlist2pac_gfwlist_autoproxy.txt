@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0MDkxMDk2MQo=
+! Checksum: MTY0MDk5NzM2Ngo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20211231-0
-! TimeUpdated: 2021-12-31T00:36:01+00:00
+! Version: 1.0.0-20220101-0
+! TimeUpdated: 2022-01-01T00:36:06+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -7745,7 +7745,6 @@
 ||ca518.com
 ||ca538.com
 ||ca559.com
-||ca6033.com
 ||ca6055.com
 ||ca6088.com
 ||ca661.com
@@ -22974,7 +22973,6 @@
 ||nalandabodhi.org
 ||nalandawest.org
 ||nalpathamkalam.com
-||naluone-av.com
 ||naluone.net
 ||name.com
 ||name.tr
