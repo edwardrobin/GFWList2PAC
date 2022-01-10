@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0MTY4ODY0NQo=
+! Checksum: MTY0MTc3NDk5Mgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220109-0
-! TimeUpdated: 2022-01-09T00:37:25+00:00
+! Version: 1.0.0-20220110-0
+! TimeUpdated: 2022-01-10T00:36:32+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -7115,6 +7115,7 @@
 ||borderlandindustry.ml
 ||borderlands-books.com
 ||borderlessprepaid.com
+||borgenmagazine.com
 ||boringart.lt
 ||boringcompany.com
 ||borquezyburr.cl
@@ -20501,6 +20502,7 @@
 ||lionsroar.com
 ||lipuman.com
 ||liquid.com
+||liquiditytp.com
 ||liquidvpn.com
 ||liquipedia.org
 ||lis888.com
@@ -22002,7 +22004,6 @@
 ||miniso-nz.com
 ||miniso.co
 ||miniso.co.id
-||miniso.com
 ||miniso.com.py
 ||miniso.pk
 ||minisoindia.com
@@ -23764,7 +23765,9 @@
 ||nothinghere.tk
 ||notify.dropboxapi.com
 ||notion-static.com
+||notion.com
 ||notion.new
+||notion.site
 ||notion.so
 ||notionsmarketing.com
 ||notnancy.cl
