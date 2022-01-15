@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0MjEyMDU3NQo=
+! Checksum: MTY0MjIwNjkyOQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220114-0
-! TimeUpdated: 2022-01-14T00:36:15+00:00
+! Version: 1.0.0-20220115-0
+! TimeUpdated: 2022-01-15T00:35:29+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -12687,7 +12687,6 @@
 ||eternal-group.com
 ||etet22.com
 ||eth0.org.uk
-||etheadphones.com
 ||etherdelta.com
 ||etherdream.github.io
 ||ethereum.foundation
@@ -27886,6 +27885,7 @@
 ||serverzone.net78.net
 ||serveuser.com
 ||serveusers.com
+||service-now.com
 ||service.kvbgc.com
 ||service001.net84.net
 ||services-apple.net
@@ -32014,6 +32014,7 @@
 ||uun97.com
 ||uun98.com
 ||uun99.com
+||uupdump.net
 ||uushare.com
 ||uuu711.net
 ||uuuvx.com
