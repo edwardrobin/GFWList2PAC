@@ -1,7 +1,7 @@
-# Checksum: MTY0MjIwNjkyOQo=
+# Checksum: MTY0MjI5MzQ3OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.0-20220115-0
-# TimeUpdated: 2022-01-15T00:35:29+00:00
+# Version: 1.0.0-20220116-0
+# TimeUpdated: 2022-01-16T00:37:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -25387,6 +25387,7 @@ DOMAIN-SUFFIX,piterjelles.nl,PROXY
 DOMAIN-SUFFIX,pittpatt.com,PROXY
 DOMAIN-SUFFIX,pivotalinitiative.com,PROXY
 DOMAIN-SUFFIX,pivx.com,PROXY
+DOMAIN-SUFFIX,piwheels.org,PROXY
 DOMAIN-SUFFIX,pixanalytics.com,PROXY
 DOMAIN-SUFFIX,pixandvideo.com,PROXY
 DOMAIN-SUFFIX,pixapp.net,PROXY
