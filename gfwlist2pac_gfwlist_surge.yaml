@@ -1,7 +1,7 @@
-# Checksum: MTY0MjQ2NjI5Mwo=
+# Checksum: MTY0MjU1MjM1OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220118-0
-# TimeUpdated: 2022-01-18T00:38:13+00:00
+# Version: 1.0.0-20220119-0
+# TimeUpdated: 2022-01-19T00:32:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -13752,6 +13752,7 @@ DOMAIN-SUFFIX,fl0002.com
 DOMAIN-SUFFIX,fl006.com
 DOMAIN-SUFFIX,fl010.com
 DOMAIN-SUFFIX,fl0333.com
+DOMAIN-SUFFIX,fl355.com
 DOMAIN-SUFFIX,flag.fi
 DOMAIN-SUFFIX,flagsonline.it
 DOMAIN-SUFFIX,flamary.com
@@ -20750,6 +20751,7 @@ DOMAIN-SUFFIX,lrip.org
 DOMAIN-SUFFIX,lrt.lt
 DOMAIN-SUFFIX,lrtnlsjne.com
 DOMAIN-SUFFIX,lrytas.lt
+DOMAIN-SUFFIX,ls4278.cn
 DOMAIN-SUFFIX,ls556.com
 DOMAIN-SUFFIX,ls663.com
 DOMAIN-SUFFIX,ls8828.com
@@ -31130,6 +31132,7 @@ DOMAIN-SUFFIX,tub99.com
 DOMAIN-SUFFIX,tubaholic.com
 DOMAIN-SUFFIX,tube.com
 DOMAIN-SUFFIX,tube.kissr.com
+DOMAIN-SUFFIX,tube4world.com
 DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tube8.es
 DOMAIN-SUFFIX,tube88.com
