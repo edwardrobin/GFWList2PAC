@@ -1,7 +1,7 @@
-# Checksum: MTY0Mjk4NDM4MQo=
+# Checksum: MTY0MzA3MTAzMQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220124-0
-# TimeUpdated: 2022-01-24T00:33:01+00:00
+# Version: 1.0.0-20220125-0
+# TimeUpdated: 2022-01-25T00:37:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1478,7 +1478,6 @@ DOMAIN-SUFFIX,3xplanet.com
 DOMAIN-SUFFIX,4.shop.tm
 DOMAIN-SUFFIX,40030d.com
 DOMAIN-SUFFIX,40066hg.com
-DOMAIN-SUFFIX,4008851718.com
 DOMAIN-SUFFIX,400ks.com
 DOMAIN-SUFFIX,4022011.com
 DOMAIN-SUFFIX,40220c.com
@@ -3655,6 +3654,8 @@ DOMAIN-SUFFIX,aircrack-ng.org
 DOMAIN-SUFFIX,airfrance.com.tw
 DOMAIN-SUFFIX,airfrance.fr
 DOMAIN-SUFFIX,airgonetworks.com
+DOMAIN-SUFFIX,airhorn.solutions
+DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,airiti.com
 DOMAIN-SUFFIX,airitilibrary.com
 DOMAIN-SUFFIX,airliners.net
@@ -11083,15 +11084,26 @@ DOMAIN-SUFFIX,dirtyrhino.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,discoins.com
 DOMAIN-SUFFIX,disconnect.me
+DOMAIN-SUFFIX,discord-activities.com
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.gift
 DOMAIN-SUFFIX,discord.gifts
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discordactivities.com
 DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
 DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,discountbeatsbydre-us.com
 DOMAIN-SUFFIX,discountbeatsstore.com
@@ -19833,7 +19845,6 @@ DOMAIN-SUFFIX,kshownow.net
 DOMAIN-SUFFIX,ksks.4irc.com
 DOMAIN-SUFFIX,kslive.tv
 DOMAIN-SUFFIX,ksmeow.moe
-DOMAIN-SUFFIX,ksmxpj.com
 DOMAIN-SUFFIX,ksnews.com.tw
 DOMAIN-SUFFIX,ksnotes2.eternal-group.com
 DOMAIN-SUFFIX,kspcoin.com
@@ -20470,6 +20481,7 @@ DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,lincolnisland.com
 DOMAIN-SUFFIX,lindadevries.com
 DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,line-cdn.net
@@ -20484,7 +20496,9 @@ DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linefriends.com
 DOMAIN-SUFFIX,lineinchina.com
 DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,linepost.hk
+DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linglingfa.com
 DOMAIN-SUFFIX,lingobite.com
 DOMAIN-SUFFIX,lingq.com
@@ -31616,6 +31630,8 @@ DOMAIN-SUFFIX,ubint.net
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
 DOMAIN-SUFFIX,ubktv.com
 DOMAIN-SUFFIX,ubl.com
 DOMAIN-SUFFIX,ublock.org
