@@ -1,7 +1,7 @@
-# Checksum: MTY0MzA3MTAzMQo=
+# Checksum: MTY0MzE1NzUwNAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220125-0
-# TimeUpdated: 2022-01-25T00:37:11+00:00
+# Version: 1.0.0-20220126-0
+# TimeUpdated: 2022-01-26T00:38:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -14570,7 +14570,6 @@ DOMAIN-SUFFIX,fulidao168.com
 DOMAIN-SUFFIX,fuligirls.me
 DOMAIN-SUFFIX,fuligirls.net
 DOMAIN-SUFFIX,fulione.com
-DOMAIN-SUFFIX,fulixtv.com
 DOMAIN-SUFFIX,fullcoveronline.com
 DOMAIN-SUFFIX,fullerconsideration.com
 DOMAIN-SUFFIX,fullstory.com
