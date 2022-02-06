@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NDAyMDk2MQo=
+! Checksum: MTY0NDEwODI1Nwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220205-0
-! TimeUpdated: 2022-02-05T00:29:21+00:00
+! Version: 1.0.0-20220206-0
+! TimeUpdated: 2022-02-06T00:44:17+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -1307,7 +1307,6 @@
 ||33hgvip.com
 ||33pk9.com
 ||3415677.com
-||342tt.com
 ||343dy.net
 ||344663.com
 ||344863.vip
@@ -15264,6 +15263,7 @@
 ||gitlab.com
 ||gitlab.io
 ||gitlab.net
+||gitmemory.com
 ||gitstar.com
 ||gitstar.net
 ||gittigidiyor.net
@@ -16248,7 +16248,6 @@
 ||hao999.ml
 ||haodiao.org
 ||haoel.github.io
-||haoheju.com
 ||haoli747.com
 ||haoli777.com
 ||haoli777.net
