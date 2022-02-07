@@ -1,13 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NDEwODI0Ngo=
+! Checksum: MTY0NDE5NDA3Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220206-0
-! TimeUpdated: 2022-02-06T00:44:06+00:00
+! Version: 1.0.0-20220207-0
+! TimeUpdated: 2022-02-07T00:34:32+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
 ||0-6.com
-||0.cn.pool.ntp.org
 ||0.pic.pc6.com
 ||0.up.qingdaonews.com
 ||00.auto.sohu.com
@@ -903,6 +902,7 @@
 ||1.800400.net
 ||1.92caijing.com
 ||1.aili.com
+||1.asia.pool.ntp.org
 ||1.ccutu.com
 ||1.cjcp.cn
 ||1.click.com.cn
@@ -3259,7 +3259,6 @@
 ||253u.com
 ||2541.com
 ||254game.com
-||25522jb.com
 ||255616.com
 ||2556r.com
 ||255899.p23.tc.cdntip.com
@@ -10544,6 +10543,7 @@
 ||abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 ||abtest.alibaba.com
 ||abtest.m.s.360.cn
+||abtest.tantanapp.com
 ||abtest3-misc-lq.zijieapi.com
 ||abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 ||abtionb.com
@@ -13693,6 +13693,7 @@
 ||api.luffycity.com
 ||api.m.gds.taobao.com
 ||api.m.huya.com
+||api.m.jd.com
 ||api.m.jd.com.gslb.qianxun.com
 ||api.m.mi.com
 ||api.m.sm.cn
@@ -14548,7 +14549,6 @@
 ||as-hitech.com
 ||as-proxy.rnd.huawei.com
 ||as-vip.missfresh.cn
-||as.61.com
 ||as.alipayobjects.com
 ||as.alipayobjects.com.danuoyi.tbcache.com
 ||as.aplus.pptv.com
@@ -18932,7 +18932,6 @@
 ||bw8848.com
 ||bwae.org
 ||bwangel.me
-||bway881360.com
 ||bway886.com
 ||bway996.com
 ||bwbot.org
@@ -19260,7 +19259,6 @@
 ||c.piecoupon.cn
 ||c.pwfhjjh.cn
 ||c.queene.cn
-||c.qv566.cn
 ||c.sayhi.360.cn
 ||c.skwenq.cn
 ||c.slsidvx.cn
@@ -19288,12 +19286,14 @@
 ||c.xiaobaipan.com
 ||c.y.qq.com
 ||c.yes.youku.com
+||c.yootui19999.com
 ||c.youdao.com
 ||c.youike.com.cn
 ||c.zbwnzb.cn
 ||c.zhangle.com
 ||c.zhidian3g.cn
 ||c.zlongad.com
+||c0.3.cn
 ||c0.3.cn.gslb.qianxun.com
 ||c0.ifengimg.com
 ||c01.i01.ctlsh.lv3.cloudglb.com
@@ -20393,6 +20393,7 @@
 ||cd.centanet.com
 ||cd.dabansuan.cn
 ||cd.file.myqcloud.com
+||cd.jd.com
 ||cd.jd.com.gslb.qianxun.com
 ||cd.lianjia.com
 ||cd.preview.ftn.qq.com
@@ -20841,6 +20842,7 @@
 ||cdntip.com
 ||cdntips.com
 ||cdntips.net
+||cdntlz.cn
 ||cdnudns.com
 ||cdnunion.com
 ||cdnunion.net
@@ -24029,7 +24031,6 @@
 ||cn-zjhz-cu-v-06.bilivideo.com
 ||cn-zjjh4-dx-v-03.bilivideo.com
 ||cn-zjwz-dx-v-01.bilivideo.com
-||cn-zjwz-dx-v-04.bilivideo.com
 ||cn-zjwz5-dx-v-05.bilivideo.com
 ||cn-zjwz5-dx-v-12.bilivideo.com
 ||cn.actual.battle.net
@@ -24051,7 +24052,6 @@
 ||cn.launcher.battlenet.com.cn
 ||cn.linkedin.com
 ||cn.made-in-china.com
-||cn.mclean.50union.com
 ||cn.msi.com
 ||cn.mvconf.50union.com
 ||cn.net
@@ -24860,7 +24860,6 @@
 ||codeym.dictall.com
 ||codez.cloud
 ||codezyw.com
-||codin.im
 ||coding-newsletter.com
 ||coding-pages.com
 ||coding.imooc.com
@@ -30686,7 +30685,6 @@
 ||dscloud.ltd
 ||dsdbearing.com
 ||dsdjclub.com
-||dsdsds8848.xyz
 ||dsfdc.com
 ||dsfof.com
 ||dsg.gdggzy.org.cn
@@ -31872,6 +31870,7 @@
 ||e.bjmu.edu.cn
 ||e.bnc66.com
 ||e.boc.cn
+||e.cdntlz.cn
 ||e.cn.miaozhen.com
 ||e.cnxmyb.cn
 ||e.dangdang.com
@@ -34018,6 +34017,7 @@
 ||fa597.com
 ||fa9f73.api1.shuzilm.cn
 ||fa9f73.d2api.shuzilm.cn
+||faachen.cn
 ||faakee.com
 ||fabang.com
 ||fabao365.com
@@ -38301,6 +38301,7 @@
 ||gotadd.cn
 ||goten.com
 ||goto.sogou.com
+||goto.www.iciba.com
 ||gotocdn.com
 ||gotodn.com
 ||gotohz.com
@@ -40569,7 +40570,6 @@
 ||happypingpang.com
 ||happyplaygame.net
 ||happyroll.net
-||happyschool.cc
 ||happysky.org
 ||happytrave.com
 ||happyux.com
@@ -40597,6 +40597,7 @@
 ||hars.gallerycdn.azure.cn
 ||harvestcm.com
 ||harvestpawn.com
+||hascosafety.com
 ||hasea.com
 ||hasee.com
 ||hasee.net
@@ -42402,7 +42403,6 @@
 ||hnxuntang.com
 ||hnxxjn.com
 ||hnxyjt.com
-||hnycsk.com
 ||hnyczs.club
 ||hnydmq.com
 ||hnyfkj.com
@@ -44160,7 +44160,6 @@
 ||hxqnj.org
 ||hxqwx.com
 ||hxrc.com
-||hxrdr.com
 ||hxs168.com
 ||hxsame.hexun.com
 ||hxsd.com
@@ -49279,7 +49278,6 @@
 ||jietusoft.com
 ||jiexi.la
 ||jiexi8.com
-||jiexin.name
 ||jiexiyouxuan.com
 ||jieyou.com
 ||jieyoujob.com
@@ -49723,7 +49721,6 @@
 ||jituofuture.com
 ||jituwang.com
 ||jiu.dsnfun.cn
-||jiu.rktupt.cn
 ||jiub.ren
 ||jiubuhua.com
 ||jiucaicaijing.com
@@ -53450,7 +53447,6 @@
 ||l.huoshan.com
 ||l.huoshan.com.w.cdngslb.com
 ||l.huya.com
-||l.mamababu.cn
 ||l.news.qq.com
 ||l.qq.com
 ||l.rcd.dns.iqiyi.com
@@ -57141,7 +57137,6 @@
 ||m.168ey.com
 ||m.1768.com
 ||m.1905.com
-||m.360buyimg.com
 ||m.360buyimg.com.gslb.qianxun.com
 ||m.3dmgame.com
 ||m.51dongshi.com
@@ -57216,7 +57211,6 @@
 ||m.cocounion.com
 ||m.cp12.ott.cibntv.net
 ||m.cqzspt888.cn
-||m.ctrip.com
 ||m.cudaojia.com
 ||m.czvv.com
 ||m.da.mgtv.com
@@ -57942,7 +57936,6 @@
 ||mam.netease.com
 ||mama.cn
 ||mama100.com
-||mamababu.cn
 ||mamacn.com
 ||mamahao.com
 ||mamahuo.com
@@ -61162,7 +61155,6 @@
 ||mvoicer.com
 ||mvote.net
 ||mvp.mediav.com
-||mvp.szyoyi.cn
 ||mvpdj.com
 ||mvpsky.com
 ||mvqm.funshion.com
@@ -62530,7 +62522,6 @@
 ||nicky1605.com
 ||nicolaszhao.com
 ||niconiconi.cc
-||nideu.com
 ||nidianwobang.com
 ||nidong.com
 ||nidongme.com
@@ -63414,6 +63405,7 @@
 ||o.phb123.com
 ||o1.jyjyj.cn
 ||o136.com
+||o2.cdn.t5.work
 ||o2123.com
 ||o2ee.com
 ||o2mania.com
@@ -64370,7 +64362,6 @@
 ||orders.kfc.com.cn
 ||ordosbank.com
 ||oreilly.com.cn
-||orfetuz.com
 ||org.cn
 ||org.in
 ||orgcc.com
@@ -65662,6 +65653,7 @@
 ||pb.hd.sohu.com.cn
 ||pb.i.sogou.com
 ||pb.jd.com
+||pb.sogou.com
 ||pb.sys.pp8.com
 ||pb1.pstatp.com
 ||pb10.sogou.com
@@ -68693,7 +68685,6 @@
 ||qdkebang.com
 ||qdkingst.com
 ||qdkongtiao.com
-||qdkzjdsb.cn
 ||qdl.duoyi.com
 ||qdl.duoyi.com.wswebpic.com
 ||qdlanrun.com
@@ -72196,7 +72187,6 @@
 ||rkeji.com
 ||rkgaming.com
 ||rksec.com
-||rktupt.cn
 ||rkvir.com
 ||rl-consult.com
 ||rl.cj.sina.cn
@@ -73561,6 +73551,7 @@
 ||sbzj.com
 ||sc-cdn.dpvs.yximgs.com
 ||sc-jiaoyu.com
+||sc-report.tantanapp.com
 ||sc-vis.com
 ||sc.51teach.club
 ||sc.94rp.com
@@ -74777,7 +74768,6 @@
 ||sh7.com
 ||sh85gk.com
 ||sh8y.com
-||sh8yyxmrk.com
 ||sh9130.com
 ||sh996.dftoutiao.com
 ||sh9yuan.com
@@ -79447,7 +79437,6 @@
 ||sxcyts.com
 ||sxcywy.com
 ||sxd408.com
-||sxdanke.cn
 ||sxddgxcy.com
 ||sxdech.cn
 ||sxdkj.com
@@ -80025,7 +80014,6 @@
 ||szyixiu.net
 ||szyjedu.com
 ||szymweb.com
-||szyoyi.cn
 ||szyran.com
 ||szysmpay.com
 ||szyuda88.com
@@ -101604,6 +101592,7 @@
 ||yoopu.baidu.com
 ||yoopu.cdn.bcebos.com
 ||yoopu.me
+||yootui19999.com
 ||yoouxi.com
 ||yooxun.com
 ||yooxuu.com
