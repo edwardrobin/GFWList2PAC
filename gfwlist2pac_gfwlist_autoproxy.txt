@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NDE5NDA4Ngo=
+! Checksum: MTY0NDI4MDUyNAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220207-0
-! TimeUpdated: 2022-02-07T00:34:46+00:00
+! Version: 1.0.0-20220208-0
+! TimeUpdated: 2022-02-08T00:35:24+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -29614,7 +29614,6 @@
 ||sysresccd.org
 ||systemsadvisers.com
 ||sytes.net
-||syx86.cn
 ||syx86.com
 ||sz.de
 ||szbbs.net
