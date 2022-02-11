@@ -1,7 +1,7 @@
-# Checksum: MTY0NDQ1MzM3MQo=
+# Checksum: MTY0NDUzOTk1Mgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.0-20220210-0
-# TimeUpdated: 2022-02-10T00:36:11+00:00
+# Version: 1.0.0-20220211-0
+# TimeUpdated: 2022-02-11T00:39:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -3634,6 +3634,7 @@ DOMAIN-SUFFIX,aibaobei.me,PROXY
 DOMAIN-SUFFIX,aikantube.com,PROXY
 DOMAIN-SUFFIX,aikeji.tk,PROXY
 DOMAIN-SUFFIX,aimei133.com,PROXY
+DOMAIN-SUFFIX,aimsciences.org,PROXY
 DOMAIN-SUFFIX,aing01.com,PROXY
 DOMAIN-SUFFIX,aint2late.com,PROXY
 DOMAIN-SUFFIX,aiosearch.com,PROXY
@@ -4696,6 +4697,7 @@ DOMAIN-SUFFIX,arcgis.com,PROXY
 DOMAIN-SUFFIX,arcgisonline.com,PROXY
 DOMAIN-SUFFIX,archimedicx.com,PROXY
 DOMAIN-SUFFIX,archive-it.org,PROXY
+DOMAIN-SUFFIX,archive.fastgit.org,PROXY
 DOMAIN-SUFFIX,archive.fo,PROXY
 DOMAIN-SUFFIX,archive.is,PROXY
 DOMAIN-SUFFIX,archive.istio.io,PROXY
@@ -4849,6 +4851,7 @@ DOMAIN-SUFFIX,asn.au,PROXY
 DOMAIN-SUFFIX,asnebula.cf,PROXY
 DOMAIN-SUFFIX,asp-cc.com,PROXY
 DOMAIN-SUFFIX,asp.net,PROXY
+DOMAIN-SUFFIX,aspbjournals.org,PROXY
 DOMAIN-SUFFIX,aspenpublishing.com,PROXY
 DOMAIN-SUFFIX,aspi.org.au,PROXY
 DOMAIN-SUFFIX,aspistrategist.org.au,PROXY
@@ -4858,6 +4861,7 @@ DOMAIN-SUFFIX,asproexapi.com,PROXY
 DOMAIN-SUFFIX,asredas.com,PROXY
 DOMAIN-SUFFIX,assembla.com,PROXY
 DOMAIN-SUFFIX,assets.bwbx.io,PROXY
+DOMAIN-SUFFIX,assets.fastgit.org,PROXY
 DOMAIN-SUFFIX,assets.gitlab-static.net,PROXY
 DOMAIN-SUFFIX,assetsadobe.com,PROXY
 DOMAIN-SUFFIX,assetshare.box.com,PROXY
@@ -8684,6 +8688,7 @@ DOMAIN-SUFFIX,chocalanwines.com,PROXY
 DOMAIN-SUFFIX,chocolatey.org,PROXY
 DOMAIN-SUFFIX,chocolatkey.com,PROXY
 DOMAIN-SUFFIX,choi-waru.com,PROXY
+DOMAIN-SUFFIX,choicereviews.org,PROXY
 DOMAIN-SUFFIX,chomp.com,PROXY
 DOMAIN-SUFFIX,chordscenter.net,PROXY
 DOMAIN-SUFFIX,chosa-kai.jp,PROXY
@@ -8765,6 +8770,7 @@ DOMAIN-SUFFIX,cineastentreff.de,PROXY
 DOMAIN-SUFFIX,cineblog01.com,PROXY
 DOMAIN-SUFFIX,cinemax.com,PROXY
 DOMAIN-SUFFIX,cio2020.com,PROXY
+DOMAIN-SUFFIX,cios.org,PROXY
 DOMAIN-SUFFIX,cipfg.org,PROXY
 DOMAIN-SUFFIX,cipher.to,PROXY
 DOMAIN-SUFFIX,ciprianman.net,PROXY
@@ -9185,6 +9191,7 @@ DOMAIN-SUFFIX,cobinhood.com,PROXY
 DOMAIN-SUFFIX,cobrasearch.com,PROXY
 DOMAIN-SUFFIX,cochina.co,PROXY
 DOMAIN-SUFFIX,cochina.org,PROXY
+DOMAIN-SUFFIX,cochranelibrary.com,PROXY
 DOMAIN-SUFFIX,cocktailsforever.com,PROXY
 DOMAIN-SUFFIX,coco-master.weebly.com,PROXY
 DOMAIN-SUFFIX,cocoa.zonble.net,PROXY
@@ -9844,6 +9851,7 @@ DOMAIN-SUFFIX,custombeatsforcheap.com,PROXY
 DOMAIN-SUFFIX,custombeatsny.com,PROXY
 DOMAIN-SUFFIX,custombeatssbydreus.com,PROXY
 DOMAIN-SUFFIX,customdrdrebeats.com,PROXY
+DOMAIN-SUFFIX,customer-stories-feed.fastgit.org,PROXY
 DOMAIN-SUFFIX,customizedbeatbydre.com,PROXY
 DOMAIN-SUFFIX,customizedbeatsbydre.com,PROXY
 DOMAIN-SUFFIX,customizedbeatsdre.com,PROXY
@@ -10565,6 +10573,7 @@ DOMAIN-SUFFIX,data.gov.tw,PROXY
 DOMAIN-SUFFIX,data.hugoboss.com,PROXY
 DOMAIN-SUFFIX,data.leafwind.tw,PROXY
 DOMAIN-SUFFIX,data.org.tr,PROXY
+DOMAIN-SUFFIX,databank.worldbank.org,PROXY
 DOMAIN-SUFFIX,database.asahi.com,PROXY
 DOMAIN-SUFFIX,datadefiner.com,PROXY
 DOMAIN-SUFFIX,datafilehost.com,PROXY
@@ -11526,6 +11535,7 @@ DOMAIN-SUFFIX,download.bluesprig.com,PROXY
 DOMAIN-SUFFIX,download.camfrogcdn.com,PROXY
 DOMAIN-SUFFIX,download.cnet.com,PROXY
 DOMAIN-SUFFIX,download.com,PROXY
+DOMAIN-SUFFIX,download.fastgit.org,PROXY
 DOMAIN-SUFFIX,download.i91av.org,PROXY
 DOMAIN-SUFFIX,download.ithome.com.tw,PROXY
 DOMAIN-SUFFIX,download.windowsupdate.nsatc.net,PROXY
@@ -12374,6 +12384,7 @@ DOMAIN-SUFFIX,electionsmeter.com,PROXY
 DOMAIN-SUFFIX,electrek.co,PROXY
 DOMAIN-SUFFIX,electric.bg,PROXY
 DOMAIN-SUFFIX,electricluxury.com,PROXY
+DOMAIN-SUFFIX,electrochem.org,PROXY
 DOMAIN-SUFFIX,electronicarts.com,PROXY
 DOMAIN-SUFFIX,electronjs.org,PROXY
 DOMAIN-SUFFIX,element.io,PROXY
@@ -12385,6 +12396,7 @@ DOMAIN-SUFFIX,elephantvpn.com,PROXY
 DOMAIN-SUFFIX,eletrica.eng.br,PROXY
 DOMAIN-SUFFIX,elevatehealth.eu,PROXY
 DOMAIN-SUFFIX,elf168.net,PROXY
+DOMAIN-SUFFIX,elgaronline.com,PROXY
 DOMAIN-SUFFIX,elgoog.im,PROXY
 DOMAIN-SUFFIX,elianapinzon.com,PROXY
 DOMAIN-SUFFIX,elib.maruzen.co.jp,PROXY
@@ -12425,6 +12437,7 @@ DOMAIN-SUFFIX,email.collegeplanning.com,PROXY
 DOMAIN-SUFFIX,email.umich.edu,PROXY
 DOMAIN-SUFFIX,emanna.com,PROXY
 DOMAIN-SUFFIX,emaw.com.br,PROXY
+DOMAIN-SUFFIX,embase.com,PROXY
 DOMAIN-SUFFIX,embed-cdn.com,PROXY
 DOMAIN-SUFFIX,embed.culturalspot.org,PROXY
 DOMAIN-SUFFIX,embeddedsw.org,PROXY
@@ -12748,6 +12761,7 @@ DOMAIN-SUFFIX,euphotravel.com,PROXY
 DOMAIN-SUFFIX,eurashe.be,PROXY
 DOMAIN-SUFFIX,eurasia-montpellier.org,PROXY
 DOMAIN-SUFFIX,eurasianet.org,PROXY
+DOMAIN-SUFFIX,eurekaselect.com,PROXY
 DOMAIN-SUFFIX,eurekavpt.com,PROXY
 DOMAIN-SUFFIX,euro.com.pl,PROXY
 DOMAIN-SUFFIX,eurocis.com,PROXY
@@ -13382,6 +13396,7 @@ DOMAIN-SUFFIX,fast.wistia.com,PROXY
 DOMAIN-SUFFIX,fastener.tw,PROXY
 DOMAIN-SUFFIX,fastest-proxy.com.de,PROXY
 DOMAIN-SUFFIX,fastestvpn.com,PROXY
+DOMAIN-SUFFIX,fastgit.org,PROXY
 DOMAIN-SUFFIX,fastlane.ci,PROXY
 DOMAIN-SUFFIX,fastlane.tools,PROXY
 DOMAIN-SUFFIX,fastlanecommission.com,PROXY
@@ -17337,6 +17352,7 @@ DOMAIN-SUFFIX,huayuel.com,PROXY
 DOMAIN-SUFFIX,huayueloubbs.com,PROXY
 DOMAIN-SUFFIX,huayuworld.org,PROXY
 DOMAIN-SUFFIX,huaze.org,PROXY
+DOMAIN-SUFFIX,hub.fastgit.org,PROXY
 DOMAIN-SUFFIX,hub.gf175588.com,PROXY
 DOMAIN-SUFFIX,hubg.org,PROXY
 DOMAIN-SUFFIX,huc111.com,PROXY
@@ -26611,6 +26627,7 @@ DOMAIN-SUFFIX,rationalwiki.org,PROXY
 DOMAIN-SUFFIX,ratujtybet.org,PROXY
 DOMAIN-SUFFIX,rauchmeldershop.ch,PROXY
 DOMAIN-SUFFIX,ravm.tv,PROXY
+DOMAIN-SUFFIX,raw.fastgit.org,PROXY
 DOMAIN-SUFFIX,raw.githack.com,PROXY
 DOMAIN-SUFFIX,rawcdn.githack.com,PROXY
 DOMAIN-SUFFIX,rawdirect.com,PROXY
@@ -27116,6 +27133,7 @@ DOMAIN-SUFFIX,roskam.nl,PROXY
 DOMAIN-SUFFIX,rostones.com,PROXY
 DOMAIN-SUFFIX,rotten.com,PROXY
 DOMAIN-SUFFIX,rou.tuzaijidi.com,PROXY
+DOMAIN-SUFFIX,roucdn.link,PROXY
 DOMAIN-SUFFIX,roupacaipira.com,PROXY
 DOMAIN-SUFFIX,routledgehandbooks.com,PROXY
 DOMAIN-SUFFIX,royalcams.com,PROXY
@@ -33820,6 +33838,7 @@ DOMAIN-SUFFIX,world-rights.org,PROXY
 DOMAIN-SUFFIX,world-sci.com,PROXY
 DOMAIN-SUFFIX,world.yam.com,PROXY
 DOMAIN-SUFFIX,world2be.com,PROXY
+DOMAIN-SUFFIX,worldbank.org,PROXY
 DOMAIN-SUFFIX,worldbull.com,PROXY
 DOMAIN-SUFFIX,worldcat.org,PROXY
 DOMAIN-SUFFIX,worldcoinpay.com,PROXY
@@ -33837,6 +33856,7 @@ DOMAIN-SUFFIX,worldpoliticsreview.com,PROXY
 DOMAIN-SUFFIX,worldpopulationreview.com,PROXY
 DOMAIN-SUFFIX,worldpress.com,PROXY
 DOMAIN-SUFFIX,worlds-diver-9515e.firebaseio.com,PROXY
+DOMAIN-SUFFIX,worldscientific.com,PROXY
 DOMAIN-SUFFIX,worldsecureemail.com,PROXY
 DOMAIN-SUFFIX,worldsecuresystems.com,PROXY
 DOMAIN-SUFFIX,worldsex.com,PROXY
