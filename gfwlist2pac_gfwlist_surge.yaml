@@ -1,7 +1,7 @@
-# Checksum: MTY0NDUzOTk1Mgo=
+# Checksum: MTY0NDYyNjMzMAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220211-0
-# TimeUpdated: 2022-02-11T00:39:12+00:00
+# Version: 1.0.0-20220212-0
+# TimeUpdated: 2022-02-12T00:38:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2343,7 +2343,6 @@ DOMAIN-SUFFIX,7646.com
 DOMAIN-SUFFIX,7652.com
 DOMAIN-SUFFIX,766352.com
 DOMAIN-SUFFIX,76652200.com
-DOMAIN-SUFFIX,7668924.com
 DOMAIN-SUFFIX,7673888.com
 DOMAIN-SUFFIX,7679229.com
 DOMAIN-SUFFIX,7686592.com
@@ -3289,6 +3288,7 @@ DOMAIN-SUFFIX,ac.mz
 DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,ac1124.com
 DOMAIN-SUFFIX,ac1125.com
+DOMAIN-SUFFIX,academic.eb.com
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,acca.com
 DOMAIN-SUFFIX,accbusiness.com
@@ -4157,6 +4157,7 @@ DOMAIN-SUFFIX,anandtech.com
 DOMAIN-SUFFIX,anantaravacationclub.com
 DOMAIN-SUFFIX,anarchistan.com
 DOMAIN-SUFFIX,anastasialin.com
+DOMAIN-SUFFIX,anatomy.tv
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,anchorfree.com
@@ -4687,6 +4688,7 @@ DOMAIN-SUFFIX,aquexu.github.io
 DOMAIN-SUFFIX,aqy103.com
 DOMAIN-SUFFIX,ar.hao123.com
 DOMAIN-SUFFIX,arabicbible.org
+DOMAIN-SUFFIX,arabidopsis.org
 DOMAIN-SUFFIX,arabslavetrade.com
 DOMAIN-SUFFIX,aransrl.com.ar
 DOMAIN-SUFFIX,arapurayil.com
@@ -4847,6 +4849,7 @@ DOMAIN-SUFFIX,asm.org
 DOMAIN-SUFFIX,asme.org
 DOMAIN-SUFFIX,asminternational.org
 DOMAIN-SUFFIX,asmr8.org
+DOMAIN-SUFFIX,asn-online.org
 DOMAIN-SUFFIX,asn.au
 DOMAIN-SUFFIX,asnebula.cf
 DOMAIN-SUFFIX,asp-cc.com
@@ -5970,6 +5973,8 @@ DOMAIN-SUFFIX,beauty.md
 DOMAIN-SUFFIX,bebc.us
 DOMAIN-SUFFIX,bebinin.com
 DOMAIN-SUFFIX,bebo.com
+DOMAIN-SUFFIX,beck-online.beck.de
+DOMAIN-SUFFIX,beck.de
 DOMAIN-SUFFIX,becketfund.org
 DOMAIN-SUFFIX,beckley.co.za
 DOMAIN-SUFFIX,becomeindex.com
@@ -5985,6 +5990,7 @@ DOMAIN-SUFFIX,beevpn.com
 DOMAIN-SUFFIX,beezmall.com
 DOMAIN-SUFFIX,beforeitsnews.com
 DOMAIN-SUFFIX,befuck.com
+DOMAIN-SUFFIX,begellhouse.com
 DOMAIN-SUFFIX,begin-trade.com
 DOMAIN-SUFFIX,behance.com
 DOMAIN-SUFFIX,behance.net
@@ -6324,9 +6330,11 @@ DOMAIN-SUFFIX,binwang.me
 DOMAIN-SUFFIX,biobioabogados.cl
 DOMAIN-SUFFIX,bioexpress.pt
 DOMAIN-SUFFIX,biofos.com
+DOMAIN-SUFFIX,biologists.com
 DOMAIN-SUFFIX,biomedcentral.com
 DOMAIN-SUFFIX,bione.cc
 DOMAIN-SUFFIX,bione.me
+DOMAIN-SUFFIX,bioone.org
 DOMAIN-SUFFIX,biorxiv.org
 DOMAIN-SUFFIX,bioware.com
 DOMAIN-SUFFIX,biowarestore.com
@@ -6742,6 +6750,7 @@ DOMAIN-SUFFIX,bloombergvault.com
 DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,bloomfortune.com
 DOMAIN-SUFFIX,bloommicroventures.com
+DOMAIN-SUFFIX,bloomsburycollections.com
 DOMAIN-SUFFIX,bloomsburydesignlibrary.com
 DOMAIN-SUFFIX,bloxcms.com
 DOMAIN-SUFFIX,blpcareers.com
@@ -8484,6 +8493,7 @@ DOMAIN-SUFFIX,checkpoint.com
 DOMAIN-SUFFIX,checkthis.com
 DOMAIN-SUFFIX,cheezit.com
 DOMAIN-SUFFIX,chei.us
+DOMAIN-SUFFIX,chemnetbase.com
 DOMAIN-SUFFIX,chen-lin.idv.tw
 DOMAIN-SUFFIX,chen0430tw.comyr.com
 DOMAIN-SUFFIX,chenboyo.com
@@ -11219,6 +11229,7 @@ DOMAIN-SUFFIX,dl-laby.jp
 DOMAIN-SUFFIX,dl.666987.com
 DOMAIN-SUFFIX,dl.98123e.com
 DOMAIN-SUFFIX,dl.98123l.com
+DOMAIN-SUFFIX,dl.begellhouse.com
 DOMAIN-SUFFIX,dl.box.net
 DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,dl.dropboxusercontent.com
@@ -12046,6 +12057,7 @@ DOMAIN-SUFFIX,easypic.com
 DOMAIN-SUFFIX,easyvpn.zone
 DOMAIN-SUFFIX,eatapple.net
 DOMAIN-SUFFIX,eater.com
+DOMAIN-SUFFIX,eb.com
 DOMAIN-SUFFIX,ebacc777.com
 DOMAIN-SUFFIX,ebahy.com
 DOMAIN-SUFFIX,ebanoapartments.com
@@ -13760,6 +13772,7 @@ DOMAIN-SUFFIX,firstfivefollowers.com
 DOMAIN-SUFFIX,firstory.me
 DOMAIN-SUFFIX,firstpost.com
 DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,firstsearch.oclc.org
 DOMAIN-SUFFIX,fisac-irsf.org
 DOMAIN-SUFFIX,fishfortomorrow.org
 DOMAIN-SUFFIX,fishing.tlc88108.com
@@ -19053,6 +19066,7 @@ DOMAIN-SUFFIX,jgoodies.com
 DOMAIN-SUFFIX,jhalderm.com
 DOMAIN-SUFFIX,jhanssen.org
 DOMAIN-SUFFIX,jhpeng.com
+DOMAIN-SUFFIX,jhu.edu
 DOMAIN-SUFFIX,ji5755.com
 DOMAIN-SUFFIX,jianduwang.site
 DOMAIN-SUFFIX,jiangweiping.com
@@ -19230,6 +19244,7 @@ DOMAIN-SUFFIX,journaldequebec.com
 DOMAIN-SUFFIX,journalgame.com
 DOMAIN-SUFFIX,journalism.org
 DOMAIN-SUFFIX,journalofdemocracy.org
+DOMAIN-SUFFIX,jove.com
 DOMAIN-SUFFIX,joyandkin.hk
 DOMAIN-SUFFIX,joyclub.de
 DOMAIN-SUFFIX,joyid-f154b.firebaseio.com
@@ -19490,6 +19505,7 @@ DOMAIN-SUFFIX,kaotic.com
 DOMAIN-SUFFIX,kapaza.be
 DOMAIN-SUFFIX,karayou.com
 DOMAIN-SUFFIX,karbon.to
+DOMAIN-SUFFIX,karger.com
 DOMAIN-SUFFIX,karirbdl.com
 DOMAIN-SUFFIX,karkhung.com
 DOMAIN-SUFFIX,karmapa-teachings.org
@@ -21573,6 +21589,7 @@ DOMAIN-SUFFIX,mediere-oradea.ro
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,medium.systems
 DOMAIN-SUFFIX,medley.com
+DOMAIN-SUFFIX,medone-education.thieme.com
 DOMAIN-SUFFIX,medrxiv.org
 DOMAIN-SUFFIX,meebo.com
 DOMAIN-SUFFIX,meet.new
@@ -22368,6 +22385,7 @@ DOMAIN-SUFFIX,moralesbrothers.com
 DOMAIN-SUFFIX,morazzia.com
 DOMAIN-SUFFIX,morbell.com
 DOMAIN-SUFFIX,moreheadphones.com
+DOMAIN-SUFFIX,morganclaypool.com
 DOMAIN-SUFFIX,morlive.com
 DOMAIN-SUFFIX,morningstar.com
 DOMAIN-SUFFIX,morningsun.org
@@ -22604,6 +22622,7 @@ DOMAIN-SUFFIX,muramura.tv
 DOMAIN-SUFFIX,murmur.tw
 DOMAIN-SUFFIX,murmurcn.com
 DOMAIN-SUFFIX,murtadho.com.br
+DOMAIN-SUFFIX,muse.jhu.edu
 DOMAIN-SUFFIX,musemagazine.it
 DOMAIN-SUFFIX,musescore.com
 DOMAIN-SUFFIX,mushroomtube.com
@@ -24074,6 +24093,7 @@ DOMAIN-SUFFIX,occupythebanks.com
 DOMAIN-SUFFIX,occupytiananmen.com
 DOMAIN-SUFFIX,oceandigitalshop.com
 DOMAIN-SUFFIX,oclaje.org.br
+DOMAIN-SUFFIX,oclc.org
 DOMAIN-SUFFIX,oclearningteam.co.uk
 DOMAIN-SUFFIX,oclearningteam.com
 DOMAIN-SUFFIX,oclp.hk
@@ -24115,6 +24135,7 @@ DOMAIN-SUFFIX,odobo.com
 DOMAIN-SUFFIX,odprava.si
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,oe3511.com
+DOMAIN-SUFFIX,oecd-ilibrary.org
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,oeea.org
 DOMAIN-SUFFIX,offbeatchina.com
@@ -24425,7 +24446,6 @@ DOMAIN-SUFFIX,openyu.org
 DOMAIN-SUFFIX,opera-mini.net
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,operavpn.com
-DOMAIN-SUFFIX,opg.optica.org
 DOMAIN-SUFFIX,opgg-static.akamaized.net
 DOMAIN-SUFFIX,opinionjournal.com
 DOMAIN-SUFFIX,opior.com
@@ -24518,6 +24538,7 @@ DOMAIN-SUFFIX,orz.pp.ru
 DOMAIN-SUFFIX,orzdream.com
 DOMAIN-SUFFIX,orzistic.org
 DOMAIN-SUFFIX,osakihsieh.tw
+DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,oscaro.com
 DOMAIN-SUFFIX,oscaryang.tw
 DOMAIN-SUFFIX,oscclub.com
@@ -25947,6 +25968,7 @@ DOMAIN-SUFFIX,project-syndicate.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
+DOMAIN-SUFFIX,projecteuclid.org
 DOMAIN-SUFFIX,projectfreetv.ch
 DOMAIN-SUFFIX,projecth.us
 DOMAIN-SUFFIX,projecthannah.org
@@ -27219,6 +27241,7 @@ DOMAIN-SUFFIX,runos.us
 DOMAIN-SUFFIX,runox.biz
 DOMAIN-SUFFIX,runox.net
 DOMAIN-SUFFIX,runoz.us
+DOMAIN-SUFFIX,rupress.org
 DOMAIN-SUFFIX,ruralgenius.com
 DOMAIN-SUFFIX,ruralict.com
 DOMAIN-SUFFIX,ruruba.com
@@ -27346,6 +27369,7 @@ DOMAIN-SUFFIX,sactownbankruptcy.com
 DOMAIN-SUFFIX,sadistic-v.com
 DOMAIN-SUFFIX,sadout.com
 DOMAIN-SUFFIX,sadpanda.us
+DOMAIN-SUFFIX,sae.org
 DOMAIN-SUFFIX,safasti.com
 DOMAIN-SUFFIX,safasti.net
 DOMAIN-SUFFIX,safe-inet.com
@@ -30348,6 +30372,7 @@ DOMAIN-SUFFIX,thewirecutter.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,theworldnus.com
 DOMAIN-SUFFIX,theync.com
+DOMAIN-SUFFIX,thieme-connect.com
 DOMAIN-SUFFIX,thieme.com
 DOMAIN-SUFFIX,thinkable.org
 DOMAIN-SUFFIX,thinkboxsoftware.com
@@ -30849,6 +30874,7 @@ DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,toshiba-medical.biz
 DOMAIN-SUFFIX,totalav.com
 DOMAIN-SUFFIX,totallynsfw.com
+DOMAIN-SUFFIX,totalmateria.com
 DOMAIN-SUFFIX,totalvpn.com
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,totogeeks.com
@@ -31651,6 +31677,7 @@ DOMAIN-SUFFIX,ukwhoswho.com
 DOMAIN-SUFFIX,ulike.net
 DOMAIN-SUFFIX,ulol.com
 DOMAIN-SUFFIX,ulop.net
+DOMAIN-SUFFIX,ulrichsweb.serialssolutions.com
 DOMAIN-SUFFIX,ultimaforever.com
 DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,ultimatesurrender.com
@@ -33793,6 +33820,7 @@ DOMAIN-SUFFIX,wolfatbestbuy.net
 DOMAIN-SUFFIX,wolfax.com
 DOMAIN-SUFFIX,wolfgang.site40.net
 DOMAIN-SUFFIX,wolislaw.com
+DOMAIN-SUFFIX,wolterskluwer.com
 DOMAIN-SUFFIX,womany.net
 DOMAIN-SUFFIX,wombo.ai
 DOMAIN-SUFFIX,womenresources.org
@@ -33901,6 +33929,7 @@ DOMAIN-SUFFIX,wral.com
 DOMAIN-SUFFIX,wrapmasterusa.com
 DOMAIN-SUFFIX,wrchina.org
 DOMAIN-SUFFIX,wrchristian.com
+DOMAIN-SUFFIX,wrds-www.wharton.upenn.edu
 DOMAIN-SUFFIX,wreac.org
 DOMAIN-SUFFIX,wrenchead.com
 DOMAIN-SUFFIX,wretch.cc

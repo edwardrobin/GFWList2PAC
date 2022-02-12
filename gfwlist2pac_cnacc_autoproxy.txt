@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NDUzOTkzNgo=
+! Checksum: MTY0NDYyNjMxNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220211-0
-! TimeUpdated: 2022-02-11T00:38:56+00:00
+! Version: 1.0.0-20220212-0
+! TimeUpdated: 2022-02-12T00:38:35+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -1692,7 +1692,6 @@
 ||13fuwu.com
 ||13gm.com
 ||13hangpifa.com
-||13ie.com
 ||13mobi.com
 ||13pwzkmj.sched.sma.tdnsv5.com
 ||13wn.com
@@ -2773,6 +2772,7 @@
 ||2.5646.cn
 ||2.92caijing.com
 ||2.aili.com
+||2.android.pool.ntp.org
 ||2.arpun.com
 ||2.cn.pool.ntp.org
 ||2.haoxue360.com
@@ -10051,7 +10051,6 @@
 ||a.tanx.com
 ||a.tiyuxiu.com
 ||a.tn.token-ad.com
-||a.tool.lu
 ||a.track.sohu.com
 ||a.tuizhuti.com
 ||a.tvsou.com
@@ -14142,7 +14141,6 @@
 ||appdelivery.4008123123.com
 ||appdetailh5.vivo.com.cn
 ||appdj.xesimg.com
-||appdl-1-drcn.dbankcdn.com
 ||appdl-2-drcn.dbankcdn.com
 ||appdl-3-drcn.dbankcdn.com
 ||appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14557,6 +14555,7 @@
 ||as35q8.cn
 ||as3f.com
 ||as5.com
+||asa.commerce.apple.com
 ||asa.commerce.apple.com.cdn20.com
 ||asaki.me
 ||asao.com
@@ -16425,7 +16424,6 @@
 ||bd1.yidu.cc
 ||bd1.zuimeitianqi.com
 ||bd10j05p.sched.sma.tdnsv5.com
-||bd2-china.6789.com
 ||bd2-china.xsfaya.com
 ||bd2.52che.com
 ||bd2.dopa.com
@@ -19272,7 +19270,6 @@
 ||c0.3.cn
 ||c0.3.cn.gslb.qianxun.com
 ||c0.ifengimg.com
-||c01.i01.ctlsh.lv3.cloudglb.com
 ||c02.3dwwwgame.com
 ||c0594.com
 ||c0736c2b3516e0d225569220270acced.safeframe.googlesyndication.com
@@ -28838,7 +28835,6 @@
 ||dian-ai.com
 ||dian-stable.com
 ||dian-ying.com
-||dian.io
 ||dian.so
 ||dian123.com
 ||dian321.com
@@ -32840,6 +32836,7 @@
 ||elecrystal.com
 ||elecshop.com
 ||elefang.com
+||elefantsearch.com
 ||eleme.cn
 ||eleme.io
 ||elemecdn.com
@@ -37473,7 +37470,6 @@
 ||ggdata1.cnr.cn
 ||ggdawanjia.com
 ||ggdm1.nhaidu.net
-||ggdoc.com
 ||ggemo.com
 ||ggerg.com
 ||ggeye.com
@@ -44915,7 +44911,6 @@
 ||iceshi.org
 ||icesimba.com
 ||icevpn.org
-||icewing.cc
 ||icewingcc.com
 ||icfans.com
 ||icfcc.com
@@ -46304,6 +46299,7 @@
 ||img.xiaohongshu.com
 ||img.xiaozhuvideo.com
 ||img.xiaozhuvideo.com.w.kunlungr.com
+||img.xitongcheng.com
 ||img.xitongcheng.com.cname.yunjiasu-cdn.net
 ||img.xiwnu.cn
 ||img.xuexila.com
@@ -46409,7 +46405,6 @@
 ||img1.xitongzhijia.net
 ||img1.yulu99.com
 ||img10.360buyimg.com
-||img10.360buyimg.com.gslb.qianxun.com
 ||img10.jdcdn.com
 ||img11-sched.jcloudimg.com
 ||img11.18183.com
@@ -49719,6 +49714,7 @@
 ||jiulesy.com
 ||jiulingwan.com
 ||jiulishi.com
+||jiulx.com
 ||jiumaojiu.com
 ||jiumaster.com
 ||jiumei.com
@@ -57291,6 +57287,7 @@
 ||m.nb.17house.com
 ||m.news.cctv.com
 ||m.newsmth.net
+||m.nq37f.cn
 ||m.nuoqingck.cn
 ||m.nxypz.com
 ||m.nydjsm.cn
@@ -63037,6 +63034,7 @@
 ||npyun.com
 ||npz.com
 ||nq.com
+||nq37f.cn
 ||nq6.com
 ||nqfwx.cn
 ||nr-esc.com
@@ -63214,7 +63212,6 @@
 ||nutz.io
 ||nutzam.com
 ||nuubao.com
-||nuuha.com
 ||nuuxie.com
 ||nuvoltatech.com
 ||nuvoton-m0.com
@@ -63476,8 +63473,8 @@
 ||ocsp.pki.goog
 ||ocsp.sectigochina.com
 ||ocsp.us.cdnetworks.com
-||ocsp2-lb.apple.com.akadns.net
 ||ocsp2.apple.com
+||ocsp2.g.aaplimg.com
 ||ocsp2.globalsign.com
 ||ocsp3.sheca.com
 ||oct-asia.com
