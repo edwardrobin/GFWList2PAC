@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NTIzMTI0MAo=
+! Checksum: MTY0NTMxNzc5MAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220219-0
-! TimeUpdated: 2022-02-19T00:40:40+00:00
+! Version: 1.0.0-20220220-0
+! TimeUpdated: 2022-02-20T00:43:10+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -2594,7 +2594,6 @@
 ||874962.co
 ||8757.org
 ||8758809.com
-||876xx.com
 ||8786.net
 ||878867.com
 ||88.ssh01.com
@@ -7639,6 +7638,7 @@
 ||bway928.com
 ||bway981.com
 ||bway991.com
+||bway996.com
 ||bway997.com
 ||bwaycn.com
 ||bwbx.io
@@ -22134,7 +22134,6 @@
 ||mjpservices.us
 ||mjs-122.com
 ||mjsnails.com.au
-||mk5000.com
 ||mkhq.co.kr
 ||mklegaladvice.com
 ||mksa.top
