@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NTQwMzg2MQo=
+! Checksum: MTY0NTQ5MDI3Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220221-0
-! TimeUpdated: 2022-02-21T00:37:41+00:00
+! Version: 1.0.0-20220222-0
+! TimeUpdated: 2022-02-22T00:37:52+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -907,6 +907,7 @@
 ||1.cjcp.cn
 ||1.click.com.cn
 ||1.cms.s81c.com
+||1.cn.pool.ntp.org
 ||1.codesdq.com
 ||1.feeddsp.cn
 ||1.feihua.com
@@ -3094,6 +3095,7 @@
 ||233d.net
 ||233fe74fb3ae83d76629e5e5cd504e89.v.smtcdns.net
 ||233i.me
+||233lyly.com
 ||233o.net
 ||233py.com
 ||233wo.com
@@ -3307,7 +3309,6 @@
 ||264802.com
 ||265.com
 ||2656000.com
-||265660.com
 ||26595.com
 ||265g.com
 ||265o.com
@@ -3512,7 +3513,6 @@
 ||2gmbbl.cn
 ||2gua.gallerycdn.azure.cn
 ||2gxw.com
-||2gz9nc.cn
 ||2hainan.com
 ||2hanju.com
 ||2hanjutv.com
@@ -6137,7 +6137,6 @@
 ||52wendang.com
 ||52wlw.com
 ||52wmb.com
-||52wooolpk.com
 ||52wubi.com
 ||52xiaomian.com
 ||52xiaoshuowang.com
@@ -8321,7 +8320,6 @@
 ||8289880.com
 ||828g.com
 ||8296686.fls.doubleclick.net
-||82a.net
 ||82aeb8ed591c18d800b6cab4e4e46176.v.smtcdns.net
 ||82ip.com
 ||82ky.com
@@ -9160,7 +9158,6 @@
 ||91town.com
 ||91tuyatu.com
 ||91tw.net
-||91tzy.com
 ||91ud.com
 ||91up.com
 ||91vpn.com
@@ -13664,6 +13661,7 @@
 ||api.luffycity.com
 ||api.m.gds.taobao.com
 ||api.m.huya.com
+||api.m.jd.com
 ||api.m.jd.com.gslb.qianxun.com
 ||api.m.mi.com
 ||api.m.sm.cn
@@ -14826,6 +14824,7 @@
 ||atzjg.net
 ||atzlinux.com
 ||atzuche.com
+||au.download.windowsupdate.com
 ||au.w.inmobi.cn
 ||au.youmi.net
 ||auak.com
@@ -21125,6 +21124,7 @@
 ||cfp1li1.cachenode.cn
 ||cfpa.pw
 ||cfpl.online
+||cfpsf.com
 ||cfsc.com.cn
 ||cfsino.com
 ||cfsl2017.com
@@ -26593,6 +26593,7 @@
 ||czongyi.com
 ||czopen.com
 ||czpoly.com
+||czqfloor.com
 ||czrj.com
 ||czrxw.com
 ||czry888.com
@@ -27023,7 +27024,6 @@
 ||dabaicai.pw
 ||dabaicai.shop
 ||dabaigongju.com
-||daban001.com
 ||dabangm.com
 ||dabangp.com
 ||dabangq.com
@@ -27625,6 +27625,7 @@
 ||data.xxt.aichaoxing.com
 ||data2.itv.ptqy.gitv.tv
 ||data380.com
+||data5u.com
 ||data6.video.iqiyi.com
 ||data985.com
 ||dataaq.yy.com
@@ -31575,7 +31576,6 @@
 ||dy-vod-i.yangyi02.com
 ||dy-vod-j.yangyi02.com
 ||dy.163.com
-||dy.cm
 ||dy008.com
 ||dy1-vip-ssl.xunlei.com
 ||dy1905.net
@@ -35961,7 +35961,6 @@
 ||fujinli.com
 ||fujunjie.com
 ||fuka.cc
-||fukebi.com
 ||fukeha.com
 ||fulantv.com
 ||fulevmy.com
@@ -36847,7 +36846,6 @@
 ||garnoc.com
 ||garphy.com
 ||garply.com
-||gars57.cn
 ||gas-analyzers.com
 ||gas.data.pplive.com
 ||gasfw.com
@@ -38569,6 +38567,7 @@
 ||gsjtky.com
 ||gsjy.net
 ||gsktraining.com
+||gskwai.com
 ||gskyty.com
 ||gslb-all.geekzu.org.cname.yunjiasu-cdn.net
 ||gslb.cdn.163fen.com
@@ -39010,6 +39009,7 @@
 ||guodafdc.com
 ||guodegang.org
 ||guodingnet.com
+||guodongbaohe.com
 ||guodu.com
 ||guodu.hk
 ||guoers.com
@@ -40180,6 +40180,7 @@
 ||hanzhong.lianjia.com
 ||hanzhong123.com
 ||hanzify.org
+||hanzufang.com
 ||hao-sheng-yi.com
 ||hao.17173.com
 ||hao.7654.com
@@ -44056,7 +44057,6 @@
 ||hx76xwgr.v1d.szbdyd.com
 ||hx76xwnl.v1d.szbdyd.com
 ||hx8886.com
-||hx95.com
 ||hx99.net
 ||hx9999.com
 ||hxage.com
@@ -46782,7 +46782,6 @@
 ||incake.net
 ||incensechina.com
 ||incloudexpo.com
-||incnjp.com
 ||incopat.com
 ||incoto.com
 ||incsg.com
@@ -47049,6 +47048,7 @@
 ||inspur.com
 ||inspuronline.com
 ||inspurpower.com
+||insta360.com
 ||instafogging.com
 ||install.kugou.com
 ||install.yzapi.top
@@ -53197,7 +53197,6 @@
 ||kuqin.com
 ||kurogame.com
 ||kurokingdom.com
-||kurongdai.com
 ||kurukurumi.com
 ||kusdk.com
 ||kushenchina.net
@@ -53976,7 +53975,6 @@
 ||lcdwiki.com
 ||lcfby.com
 ||lcfile.com
-||lcfs0769.com
 ||lcfw.co
 ||lcgod.com
 ||lchot.com
@@ -54399,6 +54397,7 @@
 ||letaikeji.com
 ||letao.com
 ||letfind.com
+||letinet.com
 ||leting.io
 ||letoom.com
 ||letou118.net
@@ -56821,7 +56820,6 @@
 ||lw208.com
 ||lw23.com
 ||lw54.com
-||lw85.com
 ||lw88.site
 ||lwcj.com
 ||lwd3699.com
@@ -61848,6 +61846,7 @@
 ||nbd.com.cn
 ||nbdeli.com
 ||nbdeli.net
+||nbdig.com
 ||nbdisco.com
 ||nbdskj.com
 ||nbegame.com
@@ -64436,7 +64435,6 @@
 ||oss.haomaishou.com
 ||oss.link
 ||oss.mail.qq.com
-||oss.mzyyun.com
 ||oss.oact.net
 ||oss.so
 ||oss.suning.com
@@ -65496,7 +65494,6 @@
 ||passport.douyu.com
 ||passport.douyu.com.w.cdngslb.com
 ||passport.iqiyi.com
-||passport.jd.com
 ||passport.jd.com.gslb.qianxun.com
 ||passport.jomodns.com
 ||passport.krcom.cn
@@ -77108,7 +77105,6 @@
 ||soa.vip.xunlei.com
 ||soagw.live.xunlei.com
 ||soagw.pw.xunlei.com
-||soarfi.cn
 ||soarwatch.com
 ||soba8.com
 ||sobaidupan.com
@@ -77687,7 +77683,6 @@
 ||spps.cc
 ||spr-atm.com
 ||sprabbit.com
-||spralipay.com
 ||spread.sm.cn
 ||spreton.com
 ||spring4all.com
@@ -78695,6 +78690,7 @@
 ||store.steamchina.com
 ||store.storeimages.apple.com.akadns.net
 ||store.storeimages.cdn-apple.com
+||store.storevideos.cdn-apple.com
 ||store.sunlands.com
 ||store.sunlands.com.wswebcdn.com
 ||store.taobao.com
@@ -81569,7 +81565,6 @@
 ||tianfupic.com
 ||tianfus.com
 ||tianfusoftwarepark.com
-||tianhaijiaodai.com
 ||tianhaohz.com
 ||tianhejiayi.com
 ||tianhenggo.xyz
@@ -82494,7 +82489,6 @@
 ||tongyi.com
 ||tongyidrying.com
 ||tongyongji.net
-||tongyongpe.com
 ||tongyou188.com
 ||tongyuanos.com
 ||tongyue.com
@@ -82922,7 +82916,6 @@
 ||tracking.babytree.com
 ||tracking.cat898.com
 ||tracking.chacha.com
-||tracking.epicgames.com
 ||tracking.kdnet.net
 ||tracking.miui.com
 ||tracking.v.tf.360.cn
@@ -84088,6 +84081,7 @@
 ||tzfuke.com
 ||tzgcjie.com
 ||tzhealth.com
+||tzhqg.cn
 ||tzhsdqyxgs850.shop.258.com
 ||tzhubo.com
 ||tzhwcc.com
