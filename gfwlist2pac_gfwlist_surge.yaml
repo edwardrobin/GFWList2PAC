@@ -1,7 +1,7 @@
-# Checksum: MTY0NTU3Njk4Mgo=
+# Checksum: MTY0NTY2MzI2Mgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220223-0
-# TimeUpdated: 2022-02-23T00:43:02+00:00
+# Version: 1.0.0-20220224-0
+# TimeUpdated: 2022-02-24T00:41:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4076,6 +4076,7 @@ DOMAIN-SUFFIX,amisdutibet.be
 DOMAIN-SUFFIX,amitabhafoundation.us
 DOMAIN-SUFFIX,amittal.in
 DOMAIN-SUFFIX,amjs669.com
+DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,amnesty.ca
 DOMAIN-SUFFIX,amnesty.ch
 DOMAIN-SUFFIX,amnesty.org
@@ -8151,6 +8152,7 @@ DOMAIN-SUFFIX,cbs.ntu.edu.tw
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
 DOMAIN-SUFFIX,cbsi.video
 DOMAIN-SUFFIX,cbsiam.com
 DOMAIN-SUFFIX,cbsig.net
@@ -8159,7 +8161,9 @@ DOMAIN-SUFFIX,cbsinteractive.com
 DOMAIN-SUFFIX,cbsistatic.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
 DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
 DOMAIN-SUFFIX,cbssports.com
 DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,cbssvideo.com
@@ -18493,6 +18497,7 @@ DOMAIN-SUFFIX,iqqtv.net
 DOMAIN-SUFFIX,iqqtv.vip
 DOMAIN-SUFFIX,iqqtv.xyz
 DOMAIN-SUFFIX,ir3177.com
+DOMAIN-SUFFIX,irdeto.com
 DOMAIN-SUFFIX,iredmail.org
 DOMAIN-SUFFIX,irfanet.net
 DOMAIN-SUFFIX,iri.org
@@ -20541,6 +20546,7 @@ DOMAIN-SUFFIX,lining888.com
 DOMAIN-SUFFIX,link-o-rama.com
 DOMAIN-SUFFIX,link.getsync.com
 DOMAIN-SUFFIX,link.gkfxprime.com
+DOMAIN-SUFFIX,link.theplatform.com
 DOMAIN-SUFFIX,link2know.co
 DOMAIN-SUFFIX,linkbucks.com
 DOMAIN-SUFFIX,linkedin.com
@@ -22608,6 +22614,7 @@ DOMAIN-SUFFIX,mtslash.net
 DOMAIN-SUFFIX,mtt.org
 DOMAIN-SUFFIX,mtu.sp5178.net
 DOMAIN-SUFFIX,mtvav.com
+DOMAIN-SUFFIX,mtvnservices.com
 DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mua6sf.net
 DOMAIN-SUFFIX,muadness.com
@@ -24877,6 +24884,7 @@ DOMAIN-SUFFIX,paradisetrends.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,paramitadirect.com
 DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,parceljs.org
 DOMAIN-SUFFIX,parcocolosseo.it
@@ -25864,6 +25872,7 @@ DOMAIN-SUFFIX,pp59.net
 DOMAIN-SUFFIX,pp699.net
 DOMAIN-SUFFIX,pp9444.com
 DOMAIN-SUFFIX,ppaypal.com
+DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,ppnycaction.org
 DOMAIN-SUFFIX,ppp3285.com
 DOMAIN-SUFFIX,ppp626.net
@@ -29713,6 +29722,7 @@ DOMAIN-SUFFIX,synaptic.net
 DOMAIN-SUFFIX,sync.com
 DOMAIN-SUFFIX,sync2it.com
 DOMAIN-SUFFIX,syncback.com
+DOMAIN-SUFFIX,syncbak.com
 DOMAIN-SUFFIX,syncroweb.com
 DOMAIN-SUFFIX,syndication-o.twimg.com
 DOMAIN-SUFFIX,syndtrak.com
@@ -29943,6 +29953,7 @@ DOMAIN-SUFFIX,tb771.com
 DOMAIN-SUFFIX,tb772.com
 DOMAIN-SUFFIX,tb777.com
 DOMAIN-SUFFIX,tb8600.com
+DOMAIN-SUFFIX,tb988.com
 DOMAIN-SUFFIX,tb9907.com
 DOMAIN-SUFFIX,tb9991.com
 DOMAIN-SUFFIX,tb9994.com
@@ -30339,6 +30350,7 @@ DOMAIN-SUFFIX,thepillage.net
 DOMAIN-SUFFIX,thepiratebay.ee
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,thepiratebay.org.es
+DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,thepolicy.us
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,theportalwiki.com
