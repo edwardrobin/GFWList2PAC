@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NTY2MzI2Mgo=
+! Checksum: MTY0NTc0OTY3NAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220224-0
-! TimeUpdated: 2022-02-24T00:41:02+00:00
+! Version: 1.0.0-20220225-0
+! TimeUpdated: 2022-02-25T00:41:14+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -31101,6 +31101,7 @@
 ||truthontour.org
 ||truthortrust.com
 ||truthrevolt.org
+||truthsocial.com
 ||truthtalkradio.net
 ||truveo.com
 ||trycatchme.com
@@ -31225,7 +31226,6 @@
 ||tuintuin.nl
 ||tuite.im
 ||tuite.in
-||tuitui.info
 ||tuitwit.com
 ||tuk-tuk.co.uk
 ||tumblr.agardenday.com

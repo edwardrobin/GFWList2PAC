@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0NTY2MzI2Mgo=
+# Checksum: MTY0NTc0OTY3NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.0-20220224-0
-# TimeUpdated: 2022-02-24T00:41:02+00:00
+# Version: 1.0.0-20220225-0
+# TimeUpdated: 2022-02-25T00:41:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -31101,6 +31101,7 @@ payload:
   - DOMAIN-SUFFIX,truthontour.org
   - DOMAIN-SUFFIX,truthortrust.com
   - DOMAIN-SUFFIX,truthrevolt.org
+  - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,truthtalkradio.net
   - DOMAIN-SUFFIX,truveo.com
   - DOMAIN-SUFFIX,trycatchme.com
@@ -31225,7 +31226,6 @@ payload:
   - DOMAIN-SUFFIX,tuintuin.nl
   - DOMAIN-SUFFIX,tuite.im
   - DOMAIN-SUFFIX,tuite.in
-  - DOMAIN-SUFFIX,tuitui.info
   - DOMAIN-SUFFIX,tuitwit.com
   - DOMAIN-SUFFIX,tuk-tuk.co.uk
   - DOMAIN-SUFFIX,tumblr.agardenday.com

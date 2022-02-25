@@ -1,7 +1,7 @@
-# Checksum: MTY0NTY2MzI2Mgo=
+# Checksum: MTY0NTc0OTY3NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20220224-0
-# TimeUpdated: 2022-02-24T00:41:02+00:00
+# Version: 1.0.0-20220225-0
+# TimeUpdated: 2022-02-25T00:41:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -31100,6 +31100,7 @@ domain:truth101.co.tv,
 domain:truthontour.org,
 domain:truthortrust.com,
 domain:truthrevolt.org,
+domain:truthsocial.com,
 domain:truthtalkradio.net,
 domain:truveo.com,
 domain:trycatchme.com,
@@ -31224,7 +31225,6 @@ domain:tuidang1.mh4u.org,
 domain:tuintuin.nl,
 domain:tuite.im,
 domain:tuite.in,
-domain:tuitui.info,
 domain:tuitwit.com,
 domain:tuk-tuk.co.uk,
 domain:tumblr.agardenday.com,
