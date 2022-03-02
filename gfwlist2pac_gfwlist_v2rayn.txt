@@ -1,7 +1,7 @@
-# Checksum: MTY0NjA5NTc0Mgo=
+# Checksum: MTY0NjE4MTgxNgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20220301-0
-# TimeUpdated: 2022-03-01T00:49:02+00:00
+# Version: 1.0.0-20220302-0
+# TimeUpdated: 2022-03-02T00:43:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -935,7 +935,6 @@ domain:222k8.com,
 domain:222ub.com,
 domain:223.ax.lt,
 domain:223.t28.net,
-domain:2233xpj.com,
 domain:22341cp.com,
 domain:2235h.com,
 domain:223dd.net,
@@ -29261,6 +29260,7 @@ domain:steamcdn-a.akamaihd.net,
 domain:steamcommunity-a.akamaihd.net,
 domain:steamcommunity.com,
 domain:steamcontent.com,
+domain:steamdeck.com,
 domain:steamedfish.org,
 domain:steamgames.com,
 domain:steamoe.com,

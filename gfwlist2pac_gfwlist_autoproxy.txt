@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NjA5NTc0Mgo=
+! Checksum: MTY0NjE4MTgxNgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220301-0
-! TimeUpdated: 2022-03-01T00:49:02+00:00
+! Version: 1.0.0-20220302-0
+! TimeUpdated: 2022-03-02T00:43:36+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -936,7 +936,6 @@
 ||222ub.com
 ||223.ax.lt
 ||223.t28.net
-||2233xpj.com
 ||22341cp.com
 ||2235h.com
 ||223dd.net
@@ -29262,6 +29261,7 @@
 ||steamcommunity-a.akamaihd.net
 ||steamcommunity.com
 ||steamcontent.com
+||steamdeck.com
 ||steamedfish.org
 ||steamgames.com
 ||steamoe.com
