@@ -1,7 +1,7 @@
-# Checksum: MTY0NjE4MTgxNgo=
+# Checksum: MTY0NjI2ODE1OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220302-0
-# TimeUpdated: 2022-03-02T00:43:36+00:00
+# Version: 1.0.0-20220303-0
+# TimeUpdated: 2022-03-03T00:42:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1476,6 +1476,7 @@ DOMAIN-SUFFIX,3xplanet.com
 DOMAIN-SUFFIX,4.shop.tm
 DOMAIN-SUFFIX,40030d.com
 DOMAIN-SUFFIX,40066hg.com
+DOMAIN-SUFFIX,4008851718.com
 DOMAIN-SUFFIX,400ks.com
 DOMAIN-SUFFIX,4022011.com
 DOMAIN-SUFFIX,40220c.com
@@ -9322,7 +9323,6 @@ DOMAIN-SUFFIX,com.es
 DOMAIN-SUFFIX,com.et
 DOMAIN-SUFFIX,com.fj
 DOMAIN-SUFFIX,com.gh
-DOMAIN-SUFFIX,com.gi
 DOMAIN-SUFFIX,com.google
 DOMAIN-SUFFIX,com.gr
 DOMAIN-SUFFIX,com.gt
@@ -20723,6 +20723,7 @@ DOMAIN-SUFFIX,logme.in
 DOMAIN-SUFFIX,logmein.com
 DOMAIN-SUFFIX,logos.com.hk
 DOMAIN-SUFFIX,logular.com
+DOMAIN-SUFFIX,loixtv.com
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,lolespor.com
@@ -24246,6 +24247,7 @@ DOMAIN-SUFFIX,oktube.net
 DOMAIN-SUFFIX,oktvusa.com
 DOMAIN-SUFFIX,oktw.6te.net
 DOMAIN-SUFFIX,okvpn.cn
+DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okxav.com
 DOMAIN-SUFFIX,olabloga.pl
 DOMAIN-SUFFIX,olcl.com
@@ -26637,7 +26639,6 @@ DOMAIN-SUFFIX,rame.net
 DOMAIN-SUFFIX,ramma.net
 DOMAIN-SUFFIX,randomazon.com
 DOMAIN-SUFFIX,randyblue.com
-DOMAIN-SUFFIX,rangcui.net
 DOMAIN-SUFFIX,rangwang.biz
 DOMAIN-SUFFIX,rangzen.com
 DOMAIN-SUFFIX,rangzen.net
