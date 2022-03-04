@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0NjI2ODE1OQo=
+! Checksum: MTY0NjM1NDc5MQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220303-0
-! TimeUpdated: 2022-03-03T00:42:39+00:00
+! Version: 1.0.0-20220304-0
+! TimeUpdated: 2022-03-04T00:46:31+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -462,7 +462,6 @@
 ||1452162.com
 ||145ld.cc
 ||1462157.com
-||146e.com
 ||1471030.com
 ||1490055.com
 ||1499368.com
@@ -14660,7 +14659,6 @@
 ||fun8810.com
 ||fun88126.com
 ||fun88223.com
-||fun8889.com
 ||fun888city.net
 ||fun88asia.com
 ||fun88city.com
