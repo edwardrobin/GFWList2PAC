@@ -1,7 +1,7 @@
-# Checksum: MTY0NzEzMjAzOQo=
+# Checksum: MTY0NzIxODYyOAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220313-0
-# TimeUpdated: 2022-03-13T00:40:39+00:00
+# Version: 1.0.0-20220314-0
+# TimeUpdated: 2022-03-14T00:43:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1346,7 +1346,6 @@ DOMAIN-SUFFIX,360289.com
 DOMAIN-SUFFIX,3603765.com
 DOMAIN-SUFFIX,36060555.com
 DOMAIN-SUFFIX,362665.com
-DOMAIN-SUFFIX,3630573.com
 DOMAIN-SUFFIX,3630685.com
 DOMAIN-SUFFIX,3637.com
 DOMAIN-SUFFIX,365-588.com
@@ -7657,6 +7656,7 @@ DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypass.pw
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,bypasskey.com
+DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,byt0022.com
 DOMAIN-SUFFIX,byt020.com
@@ -20269,6 +20269,7 @@ DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,levels.io
 DOMAIN-SUFFIX,leviathyn.com
 DOMAIN-SUFFIX,levote68.net
+DOMAIN-SUFFIX,levyhsu.com
 DOMAIN-SUFFIX,lewrockwell.com
 DOMAIN-SUFFIX,lex.idv.tw
 DOMAIN-SUFFIX,lexisnexis.com
@@ -27181,6 +27182,7 @@ DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,ruten.com.tw
 DOMAIN-SUFFIX,rutnerspazzacamino.ch
 DOMAIN-SUFFIX,rutor.org
+DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,ruvpn.top
 DOMAIN-SUFFIX,ruyiseek.com
