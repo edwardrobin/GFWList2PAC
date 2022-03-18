@@ -1,7 +1,7 @@
-# Checksum: MTY0NzQ3Nzg1OQo=
+# Checksum: MTY0NzU2NDE1OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220317-0
-# TimeUpdated: 2022-03-17T00:44:19+00:00
+# Version: 1.0.0-20220318-0
+# TimeUpdated: 2022-03-18T00:42:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2266,7 +2266,6 @@ DOMAIN-SUFFIX,72.cr.rs
 DOMAIN-SUFFIX,72.edns.biz
 DOMAIN-SUFFIX,72.effers.com
 DOMAIN-SUFFIX,72.iseoz.com
-DOMAIN-SUFFIX,720diving.com
 DOMAIN-SUFFIX,721av.com
 DOMAIN-SUFFIX,7230874.com
 DOMAIN-SUFFIX,7235671.com
@@ -21660,6 +21659,7 @@ DOMAIN-SUFFIX,mes.org
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,meson.tk
 DOMAIN-SUFFIX,mesotw.com
+DOMAIN-SUFFIX,mespro360.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,messenger.live.com
 DOMAIN-SUFFIX,messenger.providesupport.com
