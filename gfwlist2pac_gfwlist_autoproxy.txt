@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0ODY4NzU5MQo=
+! Checksum: MTY0ODc3NDQyNQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220331-0
-! TimeUpdated: 2022-03-31T00:46:31+00:00
+! Version: 1.0.0-20220401-0
+! TimeUpdated: 2022-04-01T00:53:45+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -599,7 +599,6 @@
 ||177pic.info
 ||177picyy.com
 ||177wyt.com
-||1783919.com
 ||178537.com
 ||1788bet.com
 ||178letou.com
@@ -2573,6 +2572,7 @@
 ||874962.co
 ||8757.org
 ||8758809.com
+||876xx.com
 ||8786.net
 ||878867.com
 ||88.ssh01.com
