@@ -1,7 +1,7 @@
-# Checksum: MTY0ODg2MDI4NAo=
+# Checksum: MTY0ODk0Njk2OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20220402-0
-# TimeUpdated: 2022-04-02T00:44:44+00:00
+# Version: 1.0.0-20220403-0
+# TimeUpdated: 2022-04-03T00:49:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -4190,6 +4190,7 @@ domain:angola.org,
 domain:angulardart.org,
 domain:angularjs.org,
 domain:anhqv.es,
+domain:anidb.net,
 domain:anidom.com,
 domain:anime-sharing.com,
 domain:animecrazy.net,
@@ -4854,6 +4855,7 @@ domain:asproexapi.com,
 domain:asredas.com,
 domain:assembla.com,
 domain:assets.bwbx.io,
+domain:assets.fanart.tv,
 domain:assets.fastgit.org,
 domain:assets.gitlab-static.net,
 domain:assetsadobe.com,
@@ -5381,7 +5383,6 @@ domain:baidu.masonic-lodge.ca,
 domain:baidu.swmbudokan.com,
 domain:baiduyun.me,
 domain:baidyanath.net.in,
-domain:baifayule.com,
 domain:baige-vpn.com,
 domain:baihua.org,
 domain:baijie.org,
@@ -13342,6 +13343,7 @@ domain:famousfootwear.com,
 domain:famunion.com,
 domain:fan-qiang.com,
 domain:fanarchive.campfirenow.com,
+domain:fanart.tv,
 domain:fanatical.com,
 domain:fanbox.cc,
 domain:fancy7.com,

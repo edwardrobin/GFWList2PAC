@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0ODg2MDI4NAo=
+# Checksum: MTY0ODk0Njk2OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.0-20220402-0
-# TimeUpdated: 2022-04-02T00:44:44+00:00
+# Version: 1.0.0-20220403-0
+# TimeUpdated: 2022-04-03T00:49:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4191,6 +4191,7 @@ payload:
   - DOMAIN-SUFFIX,angulardart.org
   - DOMAIN-SUFFIX,angularjs.org
   - DOMAIN-SUFFIX,anhqv.es
+  - DOMAIN-SUFFIX,anidb.net
   - DOMAIN-SUFFIX,anidom.com
   - DOMAIN-SUFFIX,anime-sharing.com
   - DOMAIN-SUFFIX,animecrazy.net
@@ -4855,6 +4856,7 @@ payload:
   - DOMAIN-SUFFIX,asredas.com
   - DOMAIN-SUFFIX,assembla.com
   - DOMAIN-SUFFIX,assets.bwbx.io
+  - DOMAIN-SUFFIX,assets.fanart.tv
   - DOMAIN-SUFFIX,assets.fastgit.org
   - DOMAIN-SUFFIX,assets.gitlab-static.net
   - DOMAIN-SUFFIX,assetsadobe.com
@@ -5382,7 +5384,6 @@ payload:
   - DOMAIN-SUFFIX,baidu.swmbudokan.com
   - DOMAIN-SUFFIX,baiduyun.me
   - DOMAIN-SUFFIX,baidyanath.net.in
-  - DOMAIN-SUFFIX,baifayule.com
   - DOMAIN-SUFFIX,baige-vpn.com
   - DOMAIN-SUFFIX,baihua.org
   - DOMAIN-SUFFIX,baijie.org
@@ -13343,6 +13344,7 @@ payload:
   - DOMAIN-SUFFIX,famunion.com
   - DOMAIN-SUFFIX,fan-qiang.com
   - DOMAIN-SUFFIX,fanarchive.campfirenow.com
+  - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,fancy7.com

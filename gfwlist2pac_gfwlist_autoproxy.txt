@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0ODg2MDI4NAo=
+! Checksum: MTY0ODk0Njk2OAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220402-0
-! TimeUpdated: 2022-04-02T00:44:44+00:00
+! Version: 1.0.0-20220403-0
+! TimeUpdated: 2022-04-03T00:49:28+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -4191,6 +4191,7 @@
 ||angulardart.org
 ||angularjs.org
 ||anhqv.es
+||anidb.net
 ||anidom.com
 ||anime-sharing.com
 ||animecrazy.net
@@ -4855,6 +4856,7 @@
 ||asredas.com
 ||assembla.com
 ||assets.bwbx.io
+||assets.fanart.tv
 ||assets.fastgit.org
 ||assets.gitlab-static.net
 ||assetsadobe.com
@@ -5382,7 +5384,6 @@
 ||baidu.swmbudokan.com
 ||baiduyun.me
 ||baidyanath.net.in
-||baifayule.com
 ||baige-vpn.com
 ||baihua.org
 ||baijie.org
@@ -13343,6 +13344,7 @@
 ||famunion.com
 ||fan-qiang.com
 ||fanarchive.campfirenow.com
+||fanart.tv
 ||fanatical.com
 ||fanbox.cc
 ||fancy7.com
