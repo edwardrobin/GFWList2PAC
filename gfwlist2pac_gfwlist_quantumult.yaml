@@ -1,7 +1,7 @@
-# Checksum: MTY0ODk0Njk2OAo=
+# Checksum: MTY0OTAzMzI4OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.0-20220403-0
-# TimeUpdated: 2022-04-03T00:49:28+00:00
+# Version: 1.0.0-20220404-0
+# TimeUpdated: 2022-04-04T00:48:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -9384,6 +9384,7 @@ DOMAIN-SUFFIX,community.windy.com,PROXY
 DOMAIN-SUFFIX,communitychoicecu.com,PROXY
 DOMAIN-SUFFIX,como-hackearfacebook.com,PROXY
 DOMAIN-SUFFIX,comodo.com,PROXY
+DOMAIN-SUFFIX,comodo.net,PROXY
 DOMAIN-SUFFIX,comodoca.com,PROXY
 DOMAIN-SUFFIX,comodoca2.com,PROXY
 DOMAIN-SUFFIX,comodoca3.com,PROXY
@@ -10996,6 +10997,7 @@ DOMAIN-SUFFIX,digg.com,PROXY
 DOMAIN-SUFFIX,diggingtunnels.com,PROXY
 DOMAIN-SUFFIX,digi-ateljee.be,PROXY
 DOMAIN-SUFFIX,digibet.com,PROXY
+DOMAIN-SUFFIX,digicert-cn.com,PROXY
 DOMAIN-SUFFIX,digicert.com,PROXY
 DOMAIN-SUFFIX,digifinex.com,PROXY
 DOMAIN-SUFFIX,digiket.com,PROXY
@@ -14622,6 +14624,7 @@ DOMAIN-SUFFIX,fun277.com,PROXY
 DOMAIN-SUFFIX,fun281.com,PROXY
 DOMAIN-SUFFIX,fun307.com,PROXY
 DOMAIN-SUFFIX,fun308.com,PROXY
+DOMAIN-SUFFIX,fun315.com,PROXY
 DOMAIN-SUFFIX,fun327.com,PROXY
 DOMAIN-SUFFIX,fun371.com,PROXY
 DOMAIN-SUFFIX,fun392.com,PROXY
@@ -20764,7 +20767,6 @@ DOMAIN-SUFFIX,londonchinese.ca,PROXY
 DOMAIN-SUFFIX,londonmithraeum.com,PROXY
 DOMAIN-SUFFIX,londonreal.tv,PROXY
 DOMAIN-SUFFIX,lonestar.edu,PROXY
-DOMAIN-SUFFIX,long-learning.com,PROXY
 DOMAIN-SUFFIX,long3158.com,PROXY
 DOMAIN-SUFFIX,long8706.com,PROXY
 DOMAIN-SUFFIX,longbl.com,PROXY
@@ -21317,6 +21319,7 @@ DOMAIN-SUFFIX,managedmeetingrooms.com,PROXY
 DOMAIN-SUFFIX,manager-magazin.de,PROXY
 DOMAIN-SUFFIX,manarat.com,PROXY
 DOMAIN-SUFFIX,manausclass.com.br,PROXY
+DOMAIN-SUFFIX,manbetx36.bet,PROXY
 DOMAIN-SUFFIX,manbetx711.com,PROXY
 DOMAIN-SUFFIX,manbetx852.com,PROXY
 DOMAIN-SUFFIX,manchukuo.net,PROXY
@@ -24807,6 +24810,7 @@ DOMAIN-SUFFIX,packages.kognito.com,PROXY
 DOMAIN-SUFFIX,packagist.org,PROXY
 DOMAIN-SUFFIX,packer.io,PROXY
 DOMAIN-SUFFIX,packetix.net,PROXY
+DOMAIN-SUFFIX,pacloudflare.com,PROXY
 DOMAIN-SUFFIX,pacopacomama.com,PROXY
 DOMAIN-SUFFIX,pacspace.com,PROXY
 DOMAIN-SUFFIX,pad.flnet.org,PROXY
@@ -25792,6 +25796,7 @@ DOMAIN-SUFFIX,pornpussy.com,PROXY
 DOMAIN-SUFFIX,pornrabbit.com,PROXY
 DOMAIN-SUFFIX,pornradise.com,PROXY
 DOMAIN-SUFFIX,pornrapidshare.com,PROXY
+DOMAIN-SUFFIX,pornrips.cc,PROXY
 DOMAIN-SUFFIX,pornsake.com,PROXY
 DOMAIN-SUFFIX,pornscum.com,PROXY
 DOMAIN-SUFFIX,pornsharing.com,PROXY
@@ -30369,6 +30374,7 @@ DOMAIN-SUFFIX,thenation.com,PROXY
 DOMAIN-SUFFIX,thenational.scot,PROXY
 DOMAIN-SUFFIX,thenationalpulse.com,PROXY
 DOMAIN-SUFFIX,thenewamerican.com,PROXY
+DOMAIN-SUFFIX,thenewgirlspooping.com,PROXY
 DOMAIN-SUFFIX,thenewgrace.org,PROXY
 DOMAIN-SUFFIX,thenewslens.com,PROXY
 DOMAIN-SUFFIX,thenextweb.com,PROXY
