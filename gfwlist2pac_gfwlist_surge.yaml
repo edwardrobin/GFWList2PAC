@@ -1,7 +1,7 @@
-# Checksum: MTY0OTExOTYzNQo=
+# Checksum: MTY0OTIwNjI1NQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.0-20220405-0
-# TimeUpdated: 2022-04-05T00:47:15+00:00
+# Version: 1.0.0-20220406-0
+# TimeUpdated: 2022-04-06T00:50:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1134,6 +1134,7 @@ DOMAIN-SUFFIX,2dway.com
 DOMAIN-SUFFIX,2femdom.com
 DOMAIN-SUFFIX,2fine.de
 DOMAIN-SUFFIX,2gw.publichealthonline.gwu.edu
+DOMAIN-SUFFIX,2ilt.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kgames.com
@@ -7762,7 +7763,6 @@ DOMAIN-SUFFIX,ca2033.com
 DOMAIN-SUFFIX,ca2055.com
 DOMAIN-SUFFIX,ca227.com
 DOMAIN-SUFFIX,ca231.com
-DOMAIN-SUFFIX,ca261.com
 DOMAIN-SUFFIX,ca269.com
 DOMAIN-SUFFIX,ca273.com
 DOMAIN-SUFFIX,ca295.com
@@ -17101,6 +17101,7 @@ DOMAIN-SUFFIX,hongkongfp.org
 DOMAIN-SUFFIX,honglinzhang.com
 DOMAIN-SUFFIX,hongmeimei.com
 DOMAIN-SUFFIX,hongzhi.li
+DOMAIN-SUFFIX,honkaistarrail.com
 DOMAIN-SUFFIX,honto.jp
 DOMAIN-SUFFIX,honven.xyz
 DOMAIN-SUFFIX,hoob.us
@@ -17202,6 +17203,8 @@ DOMAIN-SUFFIX,howstrange.me
 DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,howtohackfacebook-account.com
 DOMAIN-SUFFIX,hoxx.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,hp-imagine.com
 DOMAIN-SUFFIX,hp-infolab.com
 DOMAIN-SUFFIX,hp-invent.com
