@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY0OTYzODE1NAo=
+! Checksum: MTY0OTcyNDM5NAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20220411-0
-! TimeUpdated: 2022-04-11T00:49:14+00:00
+! Version: 1.0.0-20220412-0
+! TimeUpdated: 2022-04-12T00:46:34+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000000000000000000000000000000000000000000000000000000000000001.com
@@ -1676,7 +1676,6 @@
 ||5141.mmavday.com
 ||51442.weboxtv.com
 ||51489.godxtv.com
-||5155046.com
 ||516ee.net
 ||516gg.net
 ||516hh.net
@@ -14634,7 +14633,6 @@
 ||fun678.com
 ||fun702.com
 ||fun712.com
-||fun727.com
 ||fun737.com
 ||fun7733.com
 ||fun78.com
