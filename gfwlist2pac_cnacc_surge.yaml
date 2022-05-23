@@ -1,7 +1,7 @@
-# Checksum: MTY1MzE4MTAxNwo=
+# Checksum: MTY1MzI2NzE0NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20220522-0
-# TimeUpdated: 2022-05-22T00:56:57+00:00
+# Version: 1.0.0-20220523-0
+# TimeUpdated: 2022-05-23T00:52:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -11212,6 +11212,7 @@ DOMAIN-SUFFIX,adxpand.com
 DOMAIN-SUFFIX,adxqd.com
 DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn
 DOMAIN-SUFFIX,adxvip.com
+DOMAIN-SUFFIX,adyounger.com
 DOMAIN-SUFFIX,adyun.com
 DOMAIN-SUFFIX,adzh.com
 DOMAIN-SUFFIX,adzhongdian.com
@@ -38479,7 +38480,6 @@ DOMAIN-SUFFIX,guideir.com
 DOMAIN-SUFFIX,guiderank-app.com
 DOMAIN-SUFFIX,guiderank.org
 DOMAIN-SUFFIX,guideserv.cn
-DOMAIN-SUFFIX,guifan110.com
 DOMAIN-SUFFIX,guifun.com
 DOMAIN-SUFFIX,guigang.baixing.com
 DOMAIN-SUFFIX,guigu.org
@@ -53549,6 +53549,7 @@ DOMAIN-SUFFIX,leeleo.top
 DOMAIN-SUFFIX,leenzhu.com
 DOMAIN-SUFFIX,leeon.me
 DOMAIN-SUFFIX,leepoint.net
+DOMAIN-SUFFIX,leeqing.com
 DOMAIN-SUFFIX,leesou.com
 DOMAIN-SUFFIX,leetcode-cn.com
 DOMAIN-SUFFIX,leetcodechina.com
@@ -76134,7 +76135,6 @@ DOMAIN-SUFFIX,smgjj.com
 DOMAIN-SUFFIX,smgstar.com
 DOMAIN-SUFFIX,smh.ink
 DOMAIN-SUFFIX,smhdoto.com
-DOMAIN-SUFFIX,smhom1.com
 DOMAIN-SUFFIX,smhtv-pic.tga.qq.com
 DOMAIN-SUFFIX,smhyplay.com
 DOMAIN-SUFFIX,smianet.com
@@ -85077,7 +85077,6 @@ DOMAIN-SUFFIX,v5.kwaicdn.com.a.bdydns.com
 DOMAIN-SUFFIX,v5.xsj.wasu.tv
 DOMAIN-SUFFIX,v5424f3.cachenode.cn
 DOMAIN-SUFFIX,v54321.com
-DOMAIN-SUFFIX,v58008.com
 DOMAIN-SUFFIX,v5875.com
 DOMAIN-SUFFIX,v588.top
 DOMAIN-SUFFIX,v5bjq.com
