@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY1NzU4Nzc2NAo=
+! Checksum: MTY1NzY3MzkxNAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220712-0
-! TimeUpdated: 2022-07-12T01:02:44+00:00
+! Version: 1.0.0-20220713-0
+! TimeUpdated: 2022-07-13T00:58:34+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -3887,6 +3887,7 @@
 ||360bzl.com
 ||360caifu.com
 ||360cdn.com
+||360cdnjiasu.com
 ||360changshi.com
 ||360che.com
 ||360chezhan.com
@@ -10316,7 +10317,6 @@
 ||acf92a74bd53ae3d5c5a3f85177ecf2f.dlied1.cdntips.net
 ||acftu.org
 ||acftu.workercn.cn
-||acfun.cc
 ||acfun.cn
 ||acfunchina.com
 ||acg-moe.com
@@ -16690,7 +16690,6 @@
 ||bh7fku1.cachenode.cn
 ||bh8sel.com
 ||bhdata.com
-||bhdns.net
 ||bhfangchan.com
 ||bhgmarketplace.com
 ||bhgxq.com
@@ -17797,7 +17796,6 @@
 ||bmw143.com
 ||bmw8033.com
 ||bmzz.yuanfudao.com
-||bn016.com
 ||bn13.com
 ||bn54.com
 ||bn76hw.tdum.alibaba.com
@@ -18089,7 +18087,6 @@
 ||botui.ink
 ||botuu.adsame.com
 ||bouffalolab.com
-||bounb.com
 ||boweifeng.com
 ||bowerp.com
 ||bowuzhi.fm
@@ -19524,7 +19521,6 @@
 ||carodpiano.com
 ||carp.baidu.com
 ||carp56.com
-||carpela.me
 ||carrobot.com
 ||carrotchou.blog
 ||carrotchou.com
@@ -25733,7 +25729,6 @@
 ||ctg.jd.com.gslb.qianxun.com
 ||ctghealthy.com
 ||ctghr.com
-||ctguqmx.com
 ||cthnet.com
 ||cthuwork.com
 ||cthuwork.net
@@ -27597,6 +27592,7 @@
 ||ddiaas.com
 ||ddianle.com
 ||ddianshang.com
+||ddijg.com
 ||ddimg.cn
 ||ddimg.ddxq.mobi
 ||ddimg.mobi
@@ -36856,6 +36852,7 @@
 ||gfjl.org
 ||gflcsiot.com
 ||gflearn.aichaoxing.com
+||gfnormal00an.com
 ||gfnormal01aq.com
 ||gfnormal03ab.com
 ||gfnormal03aj.com
@@ -48003,7 +48000,6 @@
 ||jdworldwide.com
 ||jdwx.cc
 ||jdwx.info
-||jdwxmagazine.com
 ||jdwxs.com
 ||jdwxwz.com
 ||jdx.com
@@ -49699,7 +49695,6 @@
 ||jqgc.com
 ||jqgcw.com
 ||jqhtml.com
-||jqingdashi.xyz
 ||jqpress.com
 ||jqr.com
 ||jqr5.com
@@ -51866,6 +51861,7 @@
 ||kmlcl.com
 ||kmlhh.com
 ||kmmama.com
+||kmmklo.com
 ||kmplayercn.com
 ||kmpxq.cn
 ||kmtarena.net
@@ -52653,6 +52649,7 @@
 ||kxly360.com
 ||kxnboat.com
 ||kxpay.net
+||kxqo2ev.com
 ||kxscience.com
 ||kxt.com
 ||kxting.com
@@ -62161,7 +62158,6 @@
 ||nnylf168.com
 ||nnynrc.com
 ||nnzsxblaw.com
-||noah-dream.com
 ||noah2-1252317822.file.myqcloud.com
 ||noahedu.com
 ||noahsnail.com
@@ -62997,6 +62993,7 @@
 ||oklx.com
 ||okmart.com
 ||okmeeting.com
+||okmjd.com
 ||okmyapp.com
 ||okng.com
 ||okoer.com
@@ -69845,6 +69842,7 @@
 ||quimg.com
 ||quji.com
 ||qujianpan.com
+||qujiemi.com
 ||qujinhuo.com
 ||qujishu.com
 ||qujunde.com
@@ -71340,7 +71338,6 @@
 ||rivergame.net
 ||rixingkj.com
 ||riyuanma.com
-||riyuba.com
 ||riyuexing.org
 ||riyuezhuan.com
 ||riyugo.com
@@ -72901,6 +72898,7 @@
 ||scmttec.com
 ||scmylike.com
 ||scnjnews.com
+||scnleee.com
 ||scntv.com
 ||sco-marathon.com
 ||scodereview.com
@@ -75047,6 +75045,7 @@
 ||shuaigay.com
 ||shuaigay6.com
 ||shuaigay7.com
+||shuaigay9.com
 ||shuaigeshe.com
 ||shuaihuajun.com
 ||shuaiming.com
@@ -75763,6 +75762,7 @@
 ||sjf029.com
 ||sjfcdn.com
 ||sjfpro.com
+||sjfs.xyz
 ||sjfx.com
 ||sjfzxm.com
 ||sjgnskf.com
@@ -77837,7 +77837,6 @@
 ||stm-collect.cn.miaozhen.com
 ||stmaoyi.com
 ||stmbuy.com
-||stmcu.org
 ||stmybj.com
 ||stnetsdk.appstore.vivo.com.cn
 ||stnetsdk.vivo.com.cn
@@ -79095,7 +79094,6 @@
 ||sztalent.org
 ||sztanko.com
 ||sztara.com
-||szteacher.net
 ||sztkc.com
 ||sztmt.com
 ||sztongdazulin.com
@@ -80575,6 +80573,7 @@
 ||thearenacapital.com
 ||thearyong.com
 ||theateliercouture.com
+||thebabaoffatherofson.com
 ||thebeastshop.com
 ||thebeautools.com
 ||thebeijinger.com
@@ -94037,7 +94036,6 @@
 ||xnhdgame.com
 ||xnimg.cn
 ||xninja.org
-||xnipapp.com
 ||xnjcw.com
 ||xnjjob.com
 ||xnjypt.com
@@ -99953,6 +99951,7 @@
 ||yinfeiy.com
 ||yinfos.com
 ||ying-ji.com
+||yingbei365.com
 ||yingbishufa.com
 ||yingcankeji.com
 ||yingchao.pptv.com
@@ -101219,6 +101218,7 @@
 ||yphuifu.com
 ||ypicw.com
 ||ypjiameng.com
+||ypk.cc
 ||yplady.com
 ||yplmzx.com
 ||ypmeiwen.com
