@@ -1,7 +1,7 @@
-# Checksum: MTY1OTQwMjM1OAo=
+# Checksum: MTY1OTQ4ODcwMwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20220802-0
-# TimeUpdated: 2022-08-02T01:05:58+00:00
+# Version: 1.0.0-20220803-0
+# TimeUpdated: 2022-08-03T01:05:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -20642,6 +20642,8 @@ DOMAIN-SUFFIX,cernet.net
 DOMAIN-SUFFIX,cernet2.net
 DOMAIN-SUFFIX,cersp.com
 DOMAIN-SUFFIX,certify.alipay.com
+DOMAIN-SUFFIX,certs-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,certs.apple.com
 DOMAIN-SUFFIX,ces-transaction.com
 DOMAIN-SUFFIX,cescnb.com
 DOMAIN-SUFFIX,ceseasons.com
@@ -25325,10 +25327,12 @@ DOMAIN-SUFFIX,crifst.com
 DOMAIN-SUFFIX,crimoon.net
 DOMAIN-SUFFIX,crispstata.com
 DOMAIN-SUFFIX,crjfw.com
+DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,crl.apple.com
 DOMAIN-SUFFIX,crl.globalsign.net
 DOMAIN-SUFFIX,crl.kaspersky.com
 DOMAIN-SUFFIX,crl.pki.goog
+DOMAIN-SUFFIX,crl2.alphassl.com
 DOMAIN-SUFFIX,crlcn.com
 DOMAIN-SUFFIX,crlf0710.com
 DOMAIN-SUFFIX,crlg.com
@@ -73346,6 +73350,7 @@ DOMAIN-SUFFIX,secun.com
 DOMAIN-SUFFIX,secure.dsp.com
 DOMAIN-SUFFIX,secure.globalsign.com
 DOMAIN-SUFFIX,secure.mediav.com
+DOMAIN-SUFFIX,secure2.alphassl.com
 DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,securemetrics.apple.com.cn
 DOMAIN-SUFFIX,securepubads.g.doubleclick.net
