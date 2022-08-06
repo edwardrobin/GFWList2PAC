@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY1OTY2MTcxMAo=
+! Checksum: MTY1OTc0NzQ0NQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220805-0
-! TimeUpdated: 2022-08-05T01:08:30+00:00
+! Version: 1.0.0-20220806-0
+! TimeUpdated: 2022-08-06T00:57:25+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -68712,6 +68712,7 @@
 ||qiusuoge.com
 ||qiutianaimeili.com
 ||qiuweili.com
+||qiuwen.wiki
 ||qiuwu.net
 ||qiuxue360.com
 ||qiuyexitong.com
@@ -74450,6 +74451,7 @@
 ||shidapx.com
 ||shidastudy.com
 ||shidi.org
+||shidianbaike.com
 ||shidiao136.com
 ||shidiao18.com
 ||shidu.com
