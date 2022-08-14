@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY2MDM1MjEwOQo=
+! Checksum: MTY2MDQzODgyMAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20220813-0
-! TimeUpdated: 2022-08-13T00:55:09+00:00
+! Version: 1.0.0-20220814-0
+! TimeUpdated: 2022-08-14T01:00:20+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -51750,6 +51750,7 @@
 ||klmyssn.com
 ||kln.grid.sinaedge.com
 ||klniu.com
+||klpbbs.com
 ||klqian.com
 ||klsadm.com
 ||klsygz.cn

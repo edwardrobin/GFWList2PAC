@@ -1,7 +1,7 @@
-# Checksum: MTY2MDM1MjEwOQo=
+# Checksum: MTY2MDQzODgyMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20220813-0
-# TimeUpdated: 2022-08-13T00:55:09+00:00
+# Version: 1.0.0-20220814-0
+# TimeUpdated: 2022-08-14T01:00:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-100.com,
@@ -51749,6 +51749,7 @@ domain:klmygjj.com,
 domain:klmyssn.com,
 domain:kln.grid.sinaedge.com,
 domain:klniu.com,
+domain:klpbbs.com,
 domain:klqian.com,
 domain:klsadm.com,
 domain:klsygz.cn,
