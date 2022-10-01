@@ -1,7 +1,7 @@
-# Checksum: MTY2NDUwMjMyNwo=
+# Checksum: MTY2NDU4NzQ1NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20220930-0
-# TimeUpdated: 2022-09-30T01:45:27+00:00
+# Version: 1.0.0-20221001-0
+# TimeUpdated: 2022-10-01T01:24:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -5116,6 +5116,7 @@ DOMAIN-SUFFIX,51cir.com
 DOMAIN-SUFFIX,51city.fun
 DOMAIN-SUFFIX,51cjyy.com
 DOMAIN-SUFFIX,51cma.org
+DOMAIN-SUFFIX,51cocoa.com
 DOMAIN-SUFFIX,51code.com
 DOMAIN-SUFFIX,51cok.com
 DOMAIN-SUFFIX,51comp.com
@@ -78744,6 +78745,7 @@ DOMAIN-SUFFIX,swisswalls.com
 DOMAIN-SUFFIX,switch.pcfg.cache.wpscdn.cn
 DOMAIN-SUFFIX,switching.atm.punchbox.org
 DOMAIN-SUFFIX,switchvip.com
+DOMAIN-SUFFIX,switchxiazai.com
 DOMAIN-SUFFIX,swjack.com
 DOMAIN-SUFFIX,swjoy.com
 DOMAIN-SUFFIX,swjrzk.cn
@@ -85658,6 +85660,7 @@ DOMAIN-SUFFIX,vcloudstc.com
 DOMAIN-SUFFIX,vcloudstc.net
 DOMAIN-SUFFIX,vcloudvod.com
 DOMAIN-SUFFIX,vclusters.com
+DOMAIN-SUFFIX,vcnews.com
 DOMAIN-SUFFIX,vcode.cc
 DOMAIN-SUFFIX,vcomic.com
 DOMAIN-SUFFIX,vcomputes.com
@@ -87937,6 +87940,7 @@ DOMAIN-SUFFIX,weijinzhuancc.com
 DOMAIN-SUFFIX,weijiu.org
 DOMAIN-SUFFIX,weijiuxin.com
 DOMAIN-SUFFIX,weijj.com
+DOMAIN-SUFFIX,weijq.com
 DOMAIN-SUFFIX,weiju.net
 DOMAIN-SUFFIX,weijuju.com
 DOMAIN-SUFFIX,weijuwhua.com
