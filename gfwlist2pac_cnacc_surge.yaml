@@ -1,7 +1,7 @@
-# Checksum: MTY2NTM2NDQ5NQo=
+# Checksum: MTY2NTQ1MDQ3NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20221010-0
-# TimeUpdated: 2022-10-10T01:14:55+00:00
+# Version: 1.0.0-20221011-0
+# TimeUpdated: 2022-10-11T01:07:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -807,7 +807,6 @@ DOMAIN-SUFFIX,0t2h1i0.cachenode.cn
 DOMAIN-SUFFIX,0ulfpx.cn
 DOMAIN-SUFFIX,0uu97x.cn
 DOMAIN-SUFFIX,0x0.biz
-DOMAIN-SUFFIX,0x0.ooo
 DOMAIN-SUFFIX,0x100.club
 DOMAIN-SUFFIX,0x3.me
 DOMAIN-SUFFIX,0x5.me
@@ -8995,7 +8994,6 @@ DOMAIN-SUFFIX,94831.com
 DOMAIN-SUFFIX,948a6c5cadd23c1f2572ea14f5a81ddc.dlied1.cdntips.net
 DOMAIN-SUFFIX,9495.com
 DOMAIN-SUFFIX,949678.com
-DOMAIN-SUFFIX,9499.net
 DOMAIN-SUFFIX,94994.com
 DOMAIN-SUFFIX,949949.com
 DOMAIN-SUFFIX,94ab.com
@@ -22396,7 +22394,6 @@ DOMAIN-SUFFIX,chtwm.com
 DOMAIN-SUFFIX,chuaiguo.com
 DOMAIN-SUFFIX,chuairan.com
 DOMAIN-SUFFIX,chuaizhe.com
-DOMAIN-SUFFIX,chuanbofanyi.com
 DOMAIN-SUFFIX,chuanbojia.com
 DOMAIN-SUFFIX,chuanboyi.com
 DOMAIN-SUFFIX,chuandaizc.com
@@ -57931,6 +57928,7 @@ DOMAIN-SUFFIX,maxuscloud.com
 DOMAIN-SUFFIX,maxvinch.com
 DOMAIN-SUFFIX,maxwealthfund.com
 DOMAIN-SUFFIX,maxwi.com
+DOMAIN-SUFFIX,maxws.com
 DOMAIN-SUFFIX,maxxipoint.com
 DOMAIN-SUFFIX,may.ltd
 DOMAIN-SUFFIX,maya-r.com
@@ -76648,7 +76646,6 @@ DOMAIN-SUFFIX,smokeliq.com
 DOMAIN-SUFFIX,smoothgroup.cc
 DOMAIN-SUFFIX,smovie168.com
 DOMAIN-SUFFIX,smp-device-content.apple.com
-DOMAIN-SUFFIX,smpeizi.com
 DOMAIN-SUFFIX,smpimg-1258344701.file.myqcloud.com
 DOMAIN-SUFFIX,smppw.com
 DOMAIN-SUFFIX,smr.snssdk.com
@@ -76815,7 +76812,6 @@ DOMAIN-SUFFIX,soa.vip.xunlei.com
 DOMAIN-SUFFIX,soagw.live.xunlei.com
 DOMAIN-SUFFIX,soagw.pw.xunlei.com
 DOMAIN-SUFFIX,soarwatch.com
-DOMAIN-SUFFIX,soba8.com
 DOMAIN-SUFFIX,sobaidupan.com
 DOMAIN-SUFFIX,sobar.baidu.com
 DOMAIN-SUFFIX,sobeian.com
@@ -82932,7 +82928,6 @@ DOMAIN-SUFFIX,tsingtoo.com
 DOMAIN-SUFFIX,tsis.jpush.cn
 DOMAIN-SUFFIX,tskscn.com
 DOMAIN-SUFFIX,tskscn.org
-DOMAIN-SUFFIX,tslapinshang.com
 DOMAIN-SUFFIX,tsljzs.com
 DOMAIN-SUFFIX,tslongtai.com
 DOMAIN-SUFFIX,tslsmart.com
@@ -95004,6 +94999,7 @@ DOMAIN-SUFFIX,xtyx918.com
 DOMAIN-SUFFIX,xtyxdq.com
 DOMAIN-SUFFIX,xtyzljs.cn
 DOMAIN-SUFFIX,xtzhao.com
+DOMAIN-SUFFIX,xtzjcz.com
 DOMAIN-SUFFIX,xu1s.com
 DOMAIN-SUFFIX,xu7b.com
 DOMAIN-SUFFIX,xuanad.com
@@ -95064,7 +95060,6 @@ DOMAIN-SUFFIX,xue.youdao.com
 DOMAIN-SUFFIX,xue.zbyw.cn
 DOMAIN-SUFFIX,xue126.com
 DOMAIN-SUFFIX,xue163.net
-DOMAIN-SUFFIX,xue3dmax.com
 DOMAIN-SUFFIX,xue51.com
 DOMAIN-SUFFIX,xue63.com
 DOMAIN-SUFFIX,xueanquan.com
