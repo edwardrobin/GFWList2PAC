@@ -1,7 +1,7 @@
-# Checksum: MTY2ODA0MjEyNwo=
+# Checksum: MTY2ODEyODc0OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20221110-0
-# TimeUpdated: 2022-11-10T01:02:07+00:00
+# Version: 1.0.0-20221111-0
+# TimeUpdated: 2022-11-11T01:05:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -9395,7 +9395,6 @@ DOMAIN-SUFFIX,9clive.com
 DOMAIN-SUFFIX,9coc.com
 DOMAIN-SUFFIX,9conn.net
 DOMAIN-SUFFIX,9cp.cn
-DOMAIN-SUFFIX,9cts.com
 DOMAIN-SUFFIX,9cwx.com
 DOMAIN-SUFFIX,9d19.com
 DOMAIN-SUFFIX,9d4d.com
@@ -19901,7 +19900,6 @@ DOMAIN-SUFFIX,cctv18.com
 DOMAIN-SUFFIX,cctv1zhibo.com
 DOMAIN-SUFFIX,cctv4g.com
 DOMAIN-SUFFIX,cctv886.com
-DOMAIN-SUFFIX,cctvcaizhi.com
 DOMAIN-SUFFIX,cctvcdn.net
 DOMAIN-SUFFIX,cctvcj.com
 DOMAIN-SUFFIX,cctvcnch5ca.v.wscdns.com
@@ -39889,7 +39887,6 @@ DOMAIN-SUFFIX,haofajz.com
 DOMAIN-SUFFIX,haofan005.com
 DOMAIN-SUFFIX,haofanben.com
 DOMAIN-SUFFIX,haofang.net
-DOMAIN-SUFFIX,haofang365.com
 DOMAIN-SUFFIX,haofang5.com
 DOMAIN-SUFFIX,haofangkankan.com
 DOMAIN-SUFFIX,haofangyuan.net
@@ -54835,7 +54832,6 @@ DOMAIN-SUFFIX,linjiedg.com
 DOMAIN-SUFFIX,linjin.net
 DOMAIN-SUFFIX,linjunet.com
 DOMAIN-SUFFIX,linjunlong.com
-DOMAIN-SUFFIX,linjuyihao.com
 DOMAIN-SUFFIX,link-jdsx01.netease.im
 DOMAIN-SUFFIX,link.00oo00.com
 DOMAIN-SUFFIX,link.17173.com
@@ -59752,7 +59748,6 @@ DOMAIN-SUFFIX,mmyfilm.com
 DOMAIN-SUFFIX,mmzh.com
 DOMAIN-SUFFIX,mn-soft.com
 DOMAIN-SUFFIX,mn.aty.sohu.com
-DOMAIN-SUFFIX,mn21.com
 DOMAIN-SUFFIX,mnancheng.com
 DOMAIN-SUFFIX,mnbvtgv.com
 DOMAIN-SUFFIX,mndqlib.net
@@ -79647,7 +79642,6 @@ DOMAIN-SUFFIX,szputy.com
 DOMAIN-SUFFIX,szpxe.com
 DOMAIN-SUFFIX,szqcz.com
 DOMAIN-SUFFIX,szqf.org
-DOMAIN-SUFFIX,szqgzx.com
 DOMAIN-SUFFIX,szqhbs.cn
 DOMAIN-SUFFIX,szqianbaidun.com
 DOMAIN-SUFFIX,szqinxindz.com
@@ -80942,7 +80936,6 @@ DOMAIN-SUFFIX,tender-bucket.oss-cn-beijing.aliyuncs.com.gds.alibabadns.com
 DOMAIN-SUFFIX,tendis.net
 DOMAIN-SUFFIX,tendyron.com
 DOMAIN-SUFFIX,tenganxinxi.com
-DOMAIN-SUFFIX,tengattack.com
 DOMAIN-SUFFIX,tengbai-it.com
 DOMAIN-SUFFIX,tengbo.cc
 DOMAIN-SUFFIX,tengchu.com
@@ -84245,7 +84238,6 @@ DOMAIN-SUFFIX,ucsec.ucweb.com
 DOMAIN-SUFFIX,ucsec1.ucweb.com
 DOMAIN-SUFFIX,ucss.ninja
 DOMAIN-SUFFIX,uctrac.com
-DOMAIN-SUFFIX,uctxt.com
 DOMAIN-SUFFIX,ucun.tech
 DOMAIN-SUFFIX,ucuuc.com
 DOMAIN-SUFFIX,ucvgg.com
@@ -103860,7 +103852,6 @@ DOMAIN-SUFFIX,zgc-dsa.org
 DOMAIN-SUFFIX,zgcahpw.com
 DOMAIN-SUFFIX,zgcbank.com
 DOMAIN-SUFFIX,zgcbb.com
-DOMAIN-SUFFIX,zgcbzs.com
 DOMAIN-SUFFIX,zgcdcs.com
 DOMAIN-SUFFIX,zgcdiy.com
 DOMAIN-SUFFIX,zgchawang.com
@@ -105491,7 +105482,6 @@ DOMAIN-SUFFIX,zj2460.com
 DOMAIN-SUFFIX,zj31.net
 DOMAIN-SUFFIX,zj32.com
 DOMAIN-SUFFIX,zj339.com
-DOMAIN-SUFFIX,zj93zp.com
 DOMAIN-SUFFIX,zj96596.com
 DOMAIN-SUFFIX,zjabank.com
 DOMAIN-SUFFIX,zjaf.net
