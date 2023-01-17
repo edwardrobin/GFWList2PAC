@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY3MzgzMDI0Nwo=
+! Checksum: MTY3MzkxNjYzOAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20230116-0
-! TimeUpdated: 2023-01-16T00:50:47+00:00
+! Version: 1.0.0-20230117-0
+! TimeUpdated: 2023-01-17T00:50:38+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -13336,6 +13336,8 @@
 ||cf-china.info
 ||cf-ns.com
 ||cf-ns.net
+||cf-ns.site
+||cf-ns.tech
 ||cf.com
 ||cf69.com
 ||cf865.com
@@ -13375,6 +13377,8 @@
 ||cfsino.com
 ||cfsl2017.com
 ||cftea.com
+||cftest7.com
+||cftest8.com
 ||cftong.com
 ||cfucn.com
 ||cfund108.com
@@ -15310,6 +15314,11 @@
 ||clouddream.net
 ||cloudflare-cn.com
 ||cloudflare520.com
+||cloudflarecn.net
+||cloudflareinsights-cn.com
+||cloudflareprod.com
+||cloudflarestaging.com
+||cloudflarestoragegw.com
 ||cloudfoshan.com
 ||cloudfront-cn.net
 ||cloudfuqing.com

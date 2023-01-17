@@ -1,7 +1,7 @@
-# Checksum: MTY3MzgzMDI0Nwo=
+# Checksum: MTY3MzkxNjYzOAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230116-0
-# TimeUpdated: 2023-01-16T00:50:47+00:00
+# Version: 1.0.0-20230117-0
+# TimeUpdated: 2023-01-17T00:50:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -13335,6 +13335,8 @@ DOMAIN-SUFFIX,cevsn.com
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
+DOMAIN-SUFFIX,cf-ns.site
+DOMAIN-SUFFIX,cf-ns.tech
 DOMAIN-SUFFIX,cf.com
 DOMAIN-SUFFIX,cf69.com
 DOMAIN-SUFFIX,cf865.com
@@ -13374,6 +13376,8 @@ DOMAIN-SUFFIX,cfryny.com
 DOMAIN-SUFFIX,cfsino.com
 DOMAIN-SUFFIX,cfsl2017.com
 DOMAIN-SUFFIX,cftea.com
+DOMAIN-SUFFIX,cftest7.com
+DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cftong.com
 DOMAIN-SUFFIX,cfucn.com
 DOMAIN-SUFFIX,cfund108.com
@@ -15309,6 +15313,11 @@ DOMAIN-SUFFIX,clouddongying.com
 DOMAIN-SUFFIX,clouddream.net
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare520.com
+DOMAIN-SUFFIX,cloudflarecn.net
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareprod.com
+DOMAIN-SUFFIX,cloudflarestaging.com
+DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cloudfoshan.com
 DOMAIN-SUFFIX,cloudfront-cn.net
 DOMAIN-SUFFIX,cloudfuqing.com
