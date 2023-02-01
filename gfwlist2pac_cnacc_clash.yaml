@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3NTEyNjQzMgo=
+# Checksum: MTY3NTIxMzA1OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20230131-0
-# TimeUpdated: 2023-01-31T00:53:52+00:00
+# Version: 1.0.0-20230201-0
+# TimeUpdated: 2023-02-01T00:57:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
@@ -18394,6 +18394,7 @@ payload:
   - DOMAIN-SUFFIX,dgjiuqi.com
   - DOMAIN-SUFFIX,dgjoy.co
   - DOMAIN-SUFFIX,dgjxmk.com
+  - DOMAIN-SUFFIX,dgjy.net
   - DOMAIN-SUFFIX,dgjyw.com
   - DOMAIN-SUFFIX,dglpool.com
   - DOMAIN-SUFFIX,dgmama.net
@@ -62226,6 +62227,7 @@ payload:
   - DOMAIN-SUFFIX,younfor.com
   - DOMAIN-SUFFIX,young40.com
   - DOMAIN-SUFFIX,youngfunding.co.uk
+  - DOMAIN-SUFFIX,youngmoe.com
   - DOMAIN-SUFFIX,youngor.com
   - DOMAIN-SUFFIX,youni.im
   - DOMAIN-SUFFIX,youo.net
