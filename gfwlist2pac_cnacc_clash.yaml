@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3OTUzMjQ0Mgo=
+# Checksum: MTY3OTYxODg5Mwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20230323-0
-# TimeUpdated: 2023-03-23T00:47:22+00:00
+# Version: 1.0.0-20230324-0
+# TimeUpdated: 2023-03-24T00:48:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
@@ -523,6 +523,7 @@ payload:
   - DOMAIN-SUFFIX,0772job.com
   - DOMAIN-SUFFIX,0775fcw.com
   - DOMAIN-SUFFIX,0775jzw.com
+  - DOMAIN-SUFFIX,07879.com
   - DOMAIN-SUFFIX,07890.com
   - DOMAIN-SUFFIX,0791look.com
   - DOMAIN-SUFFIX,0791quanquan.com
@@ -2858,6 +2859,7 @@ payload:
   - DOMAIN-SUFFIX,365500.com
   - DOMAIN-SUFFIX,365708.com
   - DOMAIN-SUFFIX,36578.com
+  - DOMAIN-SUFFIX,3658888.com
   - DOMAIN-SUFFIX,365960.com
   - DOMAIN-SUFFIX,365art.com
   - DOMAIN-SUFFIX,365auto.com
@@ -5488,6 +5490,7 @@ payload:
   - DOMAIN-SUFFIX,75n474.com
   - DOMAIN-SUFFIX,75team.com
   - DOMAIN-SUFFIX,75xyx.com
+  - DOMAIN-SUFFIX,76065.com
   - DOMAIN-SUFFIX,7618.com
   - DOMAIN-SUFFIX,761a.com
   - DOMAIN-SUFFIX,762rc.com
@@ -9324,6 +9327,7 @@ payload:
   - DOMAIN-SUFFIX,awotuan.com
   - DOMAIN-SUFFIX,awoyun.com
   - DOMAIN-SUFFIX,awsdns-cn-21.biz
+  - DOMAIN-SUFFIX,awsdns-cn-24.com
   - DOMAIN-SUFFIX,awsdns-cn-36.net
   - DOMAIN-SUFFIX,awsdns-cn-57.com
   - DOMAIN-SUFFIX,awsdns-cn-58.net
@@ -10442,6 +10446,8 @@ payload:
   - DOMAIN-SUFFIX,bestzone.org
   - DOMAIN-SUFFIX,bet007.com
   - DOMAIN-SUFFIX,bet18lk.biz
+  - DOMAIN-SUFFIX,bet333.com
+  - DOMAIN-SUFFIX,bet555.com
   - DOMAIN-SUFFIX,betaflare.com
   - DOMAIN-SUFFIX,betaidc.com
   - DOMAIN-SUFFIX,betajy.com
@@ -15333,6 +15339,7 @@ payload:
   - DOMAIN-SUFFIX,cmcm55.cc
   - DOMAIN-SUFFIX,cmcmcdn.com
   - DOMAIN-SUFFIX,cmct.tv
+  - DOMAIN-SUFFIX,cmct22.com
   - DOMAIN-SUFFIX,cmd5.com
   - DOMAIN-SUFFIX,cmd5.la
   - DOMAIN-SUFFIX,cmd5.org
@@ -21369,7 +21376,6 @@ payload:
   - DOMAIN-SUFFIX,f5gh.com
   - DOMAIN-SUFFIX,f5sd.com
   - DOMAIN-SUFFIX,f5yx.com
-  - DOMAIN-SUFFIX,f773.com
   - DOMAIN-SUFFIX,f7777.net
   - DOMAIN-SUFFIX,fa-today.com
   - DOMAIN-SUFFIX,fa597.com
@@ -22949,6 +22955,7 @@ payload:
   - DOMAIN-SUFFIX,fychinago.com
   - DOMAIN-SUFFIX,fycpu.com
   - DOMAIN-SUFFIX,fydeos.com
+  - DOMAIN-SUFFIX,fydns360.net
   - DOMAIN-SUFFIX,fyeds.com
   - DOMAIN-SUFFIX,fyeds0.com
   - DOMAIN-SUFFIX,fyeds1.com
@@ -23219,6 +23226,7 @@ payload:
   - DOMAIN-SUFFIX,ganlv.org
   - DOMAIN-SUFFIX,ganlvji.com
   - DOMAIN-SUFFIX,ganniu.com
+  - DOMAIN-SUFFIX,ganode.org
   - DOMAIN-SUFFIX,ganqi.com
   - DOMAIN-SUFFIX,ganqi.net
   - DOMAIN-SUFFIX,ganso.net
@@ -25586,7 +25594,6 @@ payload:
   - DOMAIN-SUFFIX,halomobi.com
   - DOMAIN-SUFFIX,haluoha.com
   - DOMAIN-SUFFIX,hama-net.com
-  - DOMAIN-SUFFIX,hamanw.com
   - DOMAIN-SUFFIX,hambut.com
   - DOMAIN-SUFFIX,hamir.net
   - DOMAIN-SUFFIX,hamreus.com
@@ -33633,6 +33640,7 @@ payload:
   - DOMAIN-SUFFIX,kada.com
   - DOMAIN-SUFFIX,kadang.com
   - DOMAIN-SUFFIX,kadingding.com
+  - DOMAIN-SUFFIX,kaertuo.com
   - DOMAIN-SUFFIX,kafangtech.com
   - DOMAIN-SUFFIX,kafka.cc
   - DOMAIN-SUFFIX,kagirl.net
@@ -34113,6 +34121,7 @@ payload:
   - DOMAIN-SUFFIX,keyoou.com
   - DOMAIN-SUFFIX,keyray-hk.com
   - DOMAIN-SUFFIX,keyshot.cc
+  - DOMAIN-SUFFIX,keytoix.vip
   - DOMAIN-SUFFIX,keyuhome.com
   - DOMAIN-SUFFIX,keyunidc.com
   - DOMAIN-SUFFIX,keyunsoft.com
@@ -50737,6 +50746,7 @@ payload:
   - DOMAIN-SUFFIX,szjunfei.com
   - DOMAIN-SUFFIX,szjuquan.com
   - DOMAIN-SUFFIX,szjytx.com
+  - DOMAIN-SUFFIX,szkegao.net
   - DOMAIN-SUFFIX,szkingdom.com
   - DOMAIN-SUFFIX,szkoa.com
   - DOMAIN-SUFFIX,szlan.com
@@ -51288,6 +51298,7 @@ payload:
   - DOMAIN-SUFFIX,tbhelper.com
   - DOMAIN-SUFFIX,tbhjgc.com
   - DOMAIN-SUFFIX,tbizk.com
+  - DOMAIN-SUFFIX,tbjtss.com
   - DOMAIN-SUFFIX,tbkf.net
   - DOMAIN-SUFFIX,tbl-import.com
   - DOMAIN-SUFFIX,tblk.me
