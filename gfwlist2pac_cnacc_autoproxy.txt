@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY4MjgxNTk1OQo=
+! Checksum: MTY4MjkwMjI3Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20230430-0
-! TimeUpdated: 2023-04-30T00:52:39+00:00
+! Version: 1.0.0-20230501-0
+! TimeUpdated: 2023-05-01T00:51:13+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -10535,6 +10535,7 @@
 ||bhnsh.com
 ||bhpiano.com
 ||bhrencai.com
+||bhsr.com
 ||bhuitong.com
 ||bhxww.com
 ||bhzck.club

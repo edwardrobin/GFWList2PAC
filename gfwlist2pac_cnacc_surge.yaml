@@ -1,7 +1,7 @@
-# Checksum: MTY4MjgxNTk1OQo=
+# Checksum: MTY4MjkwMjI3Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230430-0
-# TimeUpdated: 2023-04-30T00:52:39+00:00
+# Version: 1.0.0-20230501-0
+# TimeUpdated: 2023-05-01T00:51:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -10534,6 +10534,7 @@ DOMAIN-SUFFIX,bhk.mobi
 DOMAIN-SUFFIX,bhnsh.com
 DOMAIN-SUFFIX,bhpiano.com
 DOMAIN-SUFFIX,bhrencai.com
+DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,bhuitong.com
 DOMAIN-SUFFIX,bhxww.com
 DOMAIN-SUFFIX,bhzck.club

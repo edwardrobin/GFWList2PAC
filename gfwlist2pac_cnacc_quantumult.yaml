@@ -1,7 +1,7 @@
-# Checksum: MTY4MjgxNTk1OQo=
+# Checksum: MTY4MjkwMjI3Mwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20230430-0
-# TimeUpdated: 2023-04-30T00:52:39+00:00
+# Version: 1.0.0-20230501-0
+# TimeUpdated: 2023-05-01T00:51:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com,DIRECT
@@ -10534,6 +10534,7 @@ DOMAIN-SUFFIX,bhk.mobi,DIRECT
 DOMAIN-SUFFIX,bhnsh.com,DIRECT
 DOMAIN-SUFFIX,bhpiano.com,DIRECT
 DOMAIN-SUFFIX,bhrencai.com,DIRECT
+DOMAIN-SUFFIX,bhsr.com,DIRECT
 DOMAIN-SUFFIX,bhuitong.com,DIRECT
 DOMAIN-SUFFIX,bhxww.com,DIRECT
 DOMAIN-SUFFIX,bhzck.club,DIRECT
