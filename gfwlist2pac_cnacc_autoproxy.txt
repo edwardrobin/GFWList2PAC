@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY4MzUwNjcyNQo=
+! Checksum: MTY4MzU5MzI4Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20230508-0
-! TimeUpdated: 2023-05-08T00:45:25+00:00
+! Version: 1.0.0-20230509-0
+! TimeUpdated: 2023-05-09T00:48:02+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-100.com
@@ -21339,6 +21339,7 @@
 ||eznowdns.net
 ||ezone-h5.com
 ||ezpaychain.com
+||ezpro.pro
 ||ezrpro.com
 ||ezsmth.com
 ||eztcn.com
@@ -53717,6 +53718,7 @@
 ||uiste.com
 ||uiu.cc
 ||uiusc.com
+||uiwow.com
 ||ujakn.com
 ||ujia007.com
 ||ujian.cc
