@@ -1,7 +1,7 @@
-# Checksum: MTY4NDE5ODA2Mwo=
+# Checksum: MTY4NDI4NDY2Mwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20230516-0
-# TimeUpdated: 2023-05-16T00:47:43+00:00
+# Version: 1.0.0-20230517-0
+# TimeUpdated: 2023-05-17T00:51:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com,DIRECT
@@ -27977,6 +27977,7 @@ DOMAIN-SUFFIX,huangxinwei.com,DIRECT
 DOMAIN-SUFFIX,huangye88.com,DIRECT
 DOMAIN-SUFFIX,huangye88.net,DIRECT
 DOMAIN-SUFFIX,huangyixiaoshuo.com,DIRECT
+DOMAIN-SUFFIX,huangyuhui.net,DIRECT
 DOMAIN-SUFFIX,huangyunkun.com,DIRECT
 DOMAIN-SUFFIX,huangz.me,DIRECT
 DOMAIN-SUFFIX,huangze.net,DIRECT
