@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4NDcxNDAzOAo=
+# Checksum: MTY4NDgwMDQzNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20230522-0
-# TimeUpdated: 2023-05-22T00:07:18+00:00
+# Version: 1.0.0-20230523-0
+# TimeUpdated: 2023-05-23T00:07:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
