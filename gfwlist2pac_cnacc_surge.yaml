@@ -1,7 +1,7 @@
-# Checksum: MTY4NjI2OTI2MAo=
+# Checksum: MTY4NjM1NTYzNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230609-0
-# TimeUpdated: 2023-06-09T00:07:40+00:00
+# Version: 1.0.0-20230610-0
+# TimeUpdated: 2023-06-10T00:07:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -3604,9 +3604,12 @@ DOMAIN-SUFFIX,517huizhou.com
 DOMAIN-SUFFIX,517huwai.com
 DOMAIN-SUFFIX,517idc.com
 DOMAIN-SUFFIX,517japan.com
+DOMAIN-SUFFIX,517la.com
+DOMAIN-SUFFIX,517la.net
 DOMAIN-SUFFIX,517lppz.com
 DOMAIN-SUFFIX,517ming.com
 DOMAIN-SUFFIX,517mr.com
+DOMAIN-SUFFIX,517na.com
 DOMAIN-SUFFIX,517rcw.com
 DOMAIN-SUFFIX,517sc.com
 DOMAIN-SUFFIX,517tez.com
@@ -19146,7 +19149,6 @@ DOMAIN-SUFFIX,dongqiniqin.com
 DOMAIN-SUFFIX,dongqiudi.com
 DOMAIN-SUFFIX,dongqiudi.net
 DOMAIN-SUFFIX,dongsenzs.com
-DOMAIN-SUFFIX,dongshenghuiyang.com
 DOMAIN-SUFFIX,dongshou.com
 DOMAIN-SUFFIX,dongsport.com
 DOMAIN-SUFFIX,dongtaijt.com
@@ -35367,6 +35369,7 @@ DOMAIN-SUFFIX,lanrentuku.com
 DOMAIN-SUFFIX,lanrenzhaofang.com
 DOMAIN-SUFFIX,lanrenzhijia.com
 DOMAIN-SUFFIX,lanrenzhoumo.com
+DOMAIN-SUFFIX,lansancn.com
 DOMAIN-SUFFIX,lansedongli.com
 DOMAIN-SUFFIX,lansha.tv
 DOMAIN-SUFFIX,lanshanweb.com
@@ -39560,7 +39563,6 @@ DOMAIN-SUFFIX,moeking.me
 DOMAIN-SUFFIX,moeli123.com
 DOMAIN-SUFFIX,moemiao.net
 DOMAIN-SUFFIX,moeover.com
-DOMAIN-SUFFIX,moerail.ml
 DOMAIN-SUFFIX,moerkeji.net
 DOMAIN-SUFFIX,moerlong.com
 DOMAIN-SUFFIX,moetu.org
@@ -40511,7 +40513,6 @@ DOMAIN-SUFFIX,namipan.com
 DOMAIN-SUFFIX,namisoft.com
 DOMAIN-SUFFIX,namitiyu.com
 DOMAIN-SUFFIX,namoc.org
-DOMAIN-SUFFIX,nanadao.com
 DOMAIN-SUFFIX,nanapro.org
 DOMAIN-SUFFIX,nanbeijt.com
 DOMAIN-SUFFIX,nanbeiyou.com
@@ -41918,6 +41919,7 @@ DOMAIN-SUFFIX,onceoa.com
 DOMAIN-SUFFIX,onche.net
 DOMAIN-SUFFIX,oncity.cc
 DOMAIN-SUFFIX,one-all.com
+DOMAIN-SUFFIX,one-netbook.com
 DOMAIN-SUFFIX,one918.com
 DOMAIN-SUFFIX,onealert.com
 DOMAIN-SUFFIX,oneapm.com
@@ -42014,6 +42016,7 @@ DOMAIN-SUFFIX,oolap.com
 DOMAIN-SUFFIX,oomake.com
 DOMAIN-SUFFIX,ooniu.com
 DOMAIN-SUFFIX,ooogo.com
+DOMAIN-SUFFIX,ooooai.com
 DOMAIN-SUFFIX,ooopic.com
 DOMAIN-SUFFIX,ooopn.com
 DOMAIN-SUFFIX,ooppoo.com
@@ -50272,7 +50275,6 @@ DOMAIN-SUFFIX,sun-wish.com
 DOMAIN-SUFFIX,sun0769.com
 DOMAIN-SUFFIX,sun0769ns.com
 DOMAIN-SUFFIX,sun0816.com
-DOMAIN-SUFFIX,sun19.com
 DOMAIN-SUFFIX,sun66.net
 DOMAIN-SUFFIX,sunacctg.com
 DOMAIN-SUFFIX,sunater.com
@@ -53968,6 +53970,7 @@ DOMAIN-SUFFIX,umajor.net
 DOMAIN-SUFFIX,umaman.com
 DOMAIN-SUFFIX,umbpay.com
 DOMAIN-SUFFIX,umcloud.com
+DOMAIN-SUFFIX,umdac.com
 DOMAIN-SUFFIX,umeng.co
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umeng.online
