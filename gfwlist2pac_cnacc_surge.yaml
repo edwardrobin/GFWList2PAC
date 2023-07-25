@@ -1,7 +1,7 @@
-# Checksum: MTY5MDE1NzI3MAo=
+# Checksum: MTY5MDI0MzY5Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230724-0
-# TimeUpdated: 2023-07-24T00:07:50+00:00
+# Version: 1.0.0-20230725-0
+# TimeUpdated: 2023-07-25T00:08:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -5264,7 +5264,6 @@ DOMAIN-SUFFIX,6acm.com
 DOMAIN-SUFFIX,6an8.com
 DOMAIN-SUFFIX,6api.net
 DOMAIN-SUFFIX,6apt.com
-DOMAIN-SUFFIX,6b-0k.tech
 DOMAIN-SUFFIX,6b3b.com
 DOMAIN-SUFFIX,6bdns.com
 DOMAIN-SUFFIX,6c6c.com
@@ -5519,7 +5518,6 @@ DOMAIN-SUFFIX,77169.net
 DOMAIN-SUFFIX,7717wan.com
 DOMAIN-SUFFIX,7723.com
 DOMAIN-SUFFIX,7724.com
-DOMAIN-SUFFIX,772457.com
 DOMAIN-SUFFIX,7724yx.com
 DOMAIN-SUFFIX,7725.com
 DOMAIN-SUFFIX,77275.cc
@@ -10087,7 +10085,6 @@ DOMAIN-SUFFIX,bbmar.com
 DOMAIN-SUFFIX,bbmy.net
 DOMAIN-SUFFIX,bbobo.com
 DOMAIN-SUFFIX,bbonfire.com
-DOMAIN-SUFFIX,bbpopo.com
 DOMAIN-SUFFIX,bbqe.com
 DOMAIN-SUFFIX,bbqk.com
 DOMAIN-SUFFIX,bbqmw.net
@@ -12083,6 +12080,7 @@ DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytedns.com
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytedns1.com
@@ -12845,7 +12843,6 @@ DOMAIN-SUFFIX,ccutchi.com
 DOMAIN-SUFFIX,ccutu.com
 DOMAIN-SUFFIX,ccv160.com
 DOMAIN-SUFFIX,ccv168.com
-DOMAIN-SUFFIX,ccv5.com
 DOMAIN-SUFFIX,ccview.net
 DOMAIN-SUFFIX,ccwcw.com
 DOMAIN-SUFFIX,ccwcyw.com
@@ -16873,6 +16870,7 @@ DOMAIN-SUFFIX,csjcs.com
 DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,csjwang.com
 DOMAIN-SUFFIX,csjyzq.com
+DOMAIN-SUFFIX,cskaoyan.com
 DOMAIN-SUFFIX,cskefu.com
 DOMAIN-SUFFIX,cskule.com
 DOMAIN-SUFFIX,cslfans.com
@@ -19155,7 +19153,6 @@ DOMAIN-SUFFIX,dodomh.com
 DOMAIN-SUFFIX,dodonew.com
 DOMAIN-SUFFIX,dodovip.com
 DOMAIN-SUFFIX,doergob.com
-DOMAIN-SUFFIX,doershow.com
 DOMAIN-SUFFIX,dofund.com
 DOMAIN-SUFFIX,dogecdn.com
 DOMAIN-SUFFIX,dogecloud.com
@@ -21868,7 +21865,6 @@ DOMAIN-SUFFIX,fatkun.com
 DOMAIN-SUFFIX,fatunb.com
 DOMAIN-SUFFIX,fatvg.com
 DOMAIN-SUFFIX,favdeb.com
-DOMAIN-SUFFIX,favolist.com
 DOMAIN-SUFFIX,favopen.com
 DOMAIN-SUFFIX,favorites.ren
 DOMAIN-SUFFIX,faw-benteng.com
@@ -28587,7 +28583,6 @@ DOMAIN-SUFFIX,huiwo.com
 DOMAIN-SUFFIX,huiword.com
 DOMAIN-SUFFIX,huixiang360.com
 DOMAIN-SUFFIX,huixiangtiandi.com
-DOMAIN-SUFFIX,huixianjiaoyuedu.com
 DOMAIN-SUFFIX,huixiaoer.com
 DOMAIN-SUFFIX,huixiaoer.net
 DOMAIN-SUFFIX,huixing.hk
@@ -49951,7 +49946,6 @@ DOMAIN-SUFFIX,soupv.com
 DOMAIN-SUFFIX,souqian.com
 DOMAIN-SUFFIX,souqiu8.com
 DOMAIN-SUFFIX,souqupu.com
-DOMAIN-SUFFIX,source.tutorabc.com
 DOMAIN-SUFFIX,source3g.com
 DOMAIN-SUFFIX,sourcecodecap.com
 DOMAIN-SUFFIX,sourcecvs.com
@@ -54192,7 +54186,6 @@ DOMAIN-SUFFIX,uf-tobacco.com
 DOMAIN-SUFFIX,ufanw.com
 DOMAIN-SUFFIX,ufcap.com
 DOMAIN-SUFFIX,ufenqi.com
-DOMAIN-SUFFIX,uff1.com
 DOMAIN-SUFFIX,ufhost.com
 DOMAIN-SUFFIX,ufhosted.com
 DOMAIN-SUFFIX,ufida-lcwy.com
