@@ -1,7 +1,7 @@
-# Checksum: MTY5MjU3NjQxMQo=
+# Checksum: MTY5MjY2MjgwMQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230821-0
-# TimeUpdated: 2023-08-21T00:06:51+00:00
+# Version: 1.0.0-20230822-0
+# TimeUpdated: 2023-08-22T00:06:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -11281,6 +11281,7 @@ DOMAIN-SUFFIX,blszhifa.com
 DOMAIN-SUFFIX,blue-city.com
 DOMAIN-SUFFIX,blue-zero.com
 DOMAIN-SUFFIX,blueaggrestore.com
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,bluebeebox.com
 DOMAIN-SUFFIX,bluebonnetbikes.com
 DOMAIN-SUFFIX,bluecatyun.com
