@@ -1,7 +1,7 @@
-# Checksum: MTY5NjAzMjQwMgo=
+# Checksum: MTY5NjExODg5OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20230930-0
-# TimeUpdated: 2023-09-30T00:06:42+00:00
+# Version: 1.0.0-20231001-0
+# TimeUpdated: 2023-10-01T00:08:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -16475,6 +16475,7 @@ domain:crimoon.net,
 domain:crispstata.com,
 domain:crjfw.com,
 domain:crl-lb.apple.com.akadns.net,
+domain:crl.alphassl.com,
 domain:crl.apple.com,
 domain:crl.globalsign.net,
 domain:crl.pki.goog,
@@ -23777,6 +23778,7 @@ domain:global-jf.com,
 domain:global-scsl.com,
 domain:global-tractor.com,
 domain:global-trade-center.com,
+domain:global.prd.cdn.globalsign.com,
 domain:globalaccentchinese.com,
 domain:globalbuy.cc,
 domain:globalcompressor.com,

@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY5NjAzMjQwMgo=
+! Checksum: MTY5NjExODg5OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20230930-0
-! TimeUpdated: 2023-09-30T00:06:42+00:00
+! Version: 1.0.0-20231001-0
+! TimeUpdated: 2023-10-01T00:08:19+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -16476,6 +16476,7 @@
 ||crispstata.com
 ||crjfw.com
 ||crl-lb.apple.com.akadns.net
+||crl.alphassl.com
 ||crl.apple.com
 ||crl.globalsign.net
 ||crl.pki.goog
@@ -23778,6 +23779,7 @@
 ||global-scsl.com
 ||global-tractor.com
 ||global-trade-center.com
+||global.prd.cdn.globalsign.com
 ||globalaccentchinese.com
 ||globalbuy.cc
 ||globalcompressor.com

@@ -1,7 +1,7 @@
-# Checksum: MTY5NjAzMjQwMgo=
+# Checksum: MTY5NjExODg5OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230930-0
-# TimeUpdated: 2023-09-30T00:06:42+00:00
+# Version: 1.0.0-20231001-0
+# TimeUpdated: 2023-10-01T00:08:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -16475,6 +16475,7 @@ DOMAIN-SUFFIX,crimoon.net
 DOMAIN-SUFFIX,crispstata.com
 DOMAIN-SUFFIX,crjfw.com
 DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,crl.alphassl.com
 DOMAIN-SUFFIX,crl.apple.com
 DOMAIN-SUFFIX,crl.globalsign.net
 DOMAIN-SUFFIX,crl.pki.goog
@@ -23777,6 +23778,7 @@ DOMAIN-SUFFIX,global-jf.com
 DOMAIN-SUFFIX,global-scsl.com
 DOMAIN-SUFFIX,global-tractor.com
 DOMAIN-SUFFIX,global-trade-center.com
+DOMAIN-SUFFIX,global.prd.cdn.globalsign.com
 DOMAIN-SUFFIX,globalaccentchinese.com
 DOMAIN-SUFFIX,globalbuy.cc
 DOMAIN-SUFFIX,globalcompressor.com
