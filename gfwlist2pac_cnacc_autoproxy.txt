@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY5NjQ2NDQ0MAo=
+! Checksum: MTY5NjU1MDgyNwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20231005-0
-! TimeUpdated: 2023-10-05T00:07:20+00:00
+! Version: 1.0.0-20231006-0
+! TimeUpdated: 2023-10-06T00:07:07+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -632,6 +632,7 @@
 ||1000phone.com
 ||1000phone.net
 ||1000plan.org
+||1000qoi.com
 ||1000thinktank.com
 ||1000tuan.com
 ||1000uc.com
@@ -3298,7 +3299,6 @@
 ||45win.com
 ||45xie.com
 ||45yx.com
-||462546.com
 ||46412.com
 ||46466.me
 ||465676.tv
@@ -5978,7 +5978,6 @@
 ||8bb8b.com
 ||8bcd9.com
 ||8bears.com
-||8bit.xin
 ||8btc-ops.com
 ||8btc.com
 ||8btm.com
@@ -6770,6 +6769,7 @@
 ||9host.org
 ||9hou.com
 ||9ht.com
+||9huadian.net
 ||9icode.net
 ||9icy.com
 ||9idudu.com
@@ -12422,6 +12422,7 @@
 ||ccchz.com
 ||cccitu.com
 ||cccity.cc
+||cccm-em120.com
 ||cccmat.com
 ||cccnec.com
 ||cccollector.com
@@ -13427,7 +13428,6 @@
 ||chemcyber.com
 ||chemdrug.com
 ||chemicalbook.com
-||chemishu.com
 ||chemm.com
 ||chemmade.com
 ||chemnet.com
@@ -15190,6 +15190,7 @@
 ||cmt7.com
 ||cmtdi.com
 ||cmtech.net
+||cmtopdr.com
 ||cmtrq.com
 ||cmu1h.com
 ||cmuliang.com
@@ -15603,7 +15604,6 @@
 ||cnobol.com
 ||cnoic.com
 ||cnoil.com
-||cnol.cc
 ||cnolnic.com
 ||cnolnic.net
 ||cnonline.org
@@ -16639,6 +16639,7 @@
 ||csw18.com
 ||csweigou.com
 ||cswf888.com
+||csxbank.com
 ||csxcdj.com
 ||csxdf.com
 ||csxingfutemple.org
@@ -18329,7 +18330,6 @@
 ||digiwin.com
 ||digiwork.com
 ||digod.com
-||digpage.com
 ||digu.com
 ||digu365.com
 ||digua.com
@@ -21508,6 +21508,7 @@
 ||fb.mu
 ||fbabi.com
 ||fbaichuan.com
+||fbank.com
 ||fbirdsmall.com
 ||fbkjapp.com
 ||fblife.com
@@ -28388,6 +28389,7 @@
 ||hwclouds.mobi
 ||hwclouds.net
 ||hwcloudvis.com
+||hwcpb.com
 ||hwcrazy.com
 ||hwehs.com
 ||hweimall.com
@@ -29240,7 +29242,6 @@
 ||idouzi.com
 ||idoyun.com
 ||idqqimg.com
-||idreamschool.com
 ||idreamsky.com
 ||idreamsoft.com
 ||idrools.com
@@ -30560,7 +30561,6 @@
 ||itjspx.com
 ||itjuzi.com
 ||itkoudai.com
-||itlsc.com
 ||itlu.org
 ||itmanbu.com
 ||itmastergame.com
@@ -30739,7 +30739,6 @@
 ||iwopop.com
 ||iwordnet.com
 ||iwordshow.com
-||iworm.net
 ||iwpai.com
 ||iwshang.com
 ||iwshuma.com
@@ -32606,7 +32605,6 @@
 ||jrecchina.com
 ||jrexam.com
 ||jrgang.com
-||jrhdg.com
 ||jrj.com
 ||jrjhg.com
 ||jrjingshan.com
@@ -33614,6 +33612,7 @@
 ||kbyun.com
 ||kc.kexinshe.com
 ||kc87.com
+||kcbebank.com
 ||kccidc.com
 ||kcdn0.com
 ||kcdnvip.com
@@ -39178,7 +39177,6 @@
 ||mohu.org
 ||moihu.com
 ||moimg.net
-||moioi.com
 ||moith.com
 ||moji.com
 ||moji001.com
@@ -39241,7 +39239,6 @@
 ||monsterlin.com
 ||montage-tech.com
 ||monternet.com
-||monthdate.com
 ||montnets.com
 ||monv.com
 ||monxin.com
@@ -40057,6 +40054,7 @@
 ||naimei.com
 ||nainiuapp.com
 ||naiping.net
+||naisiw.com
 ||naitang.com
 ||naiveblue.com
 ||naixuecha.com
@@ -40477,6 +40475,7 @@
 ||newtouch-elec.com
 ||newtrip.com
 ||newume.com
+||newupbank.com
 ||newvfx.com
 ||newxing.com
 ||newxitong.com
@@ -44159,7 +44158,6 @@
 ||qingzhouaote.com
 ||qingzhouip.com
 ||qingzhu.co
-||qiniao.com
 ||qiniu.com
 ||qiniu.in
 ||qiniu.io
@@ -45141,6 +45139,7 @@
 ||ramboplay.com
 ||ramostear.com
 ||ran10.com
+||random-online.com
 ||ranfenghd.com
 ||rangercd.com
 ||rangnihaokan.com
@@ -50182,6 +50181,7 @@
 ||sykong.com
 ||sylixos.com
 ||sylnst.com
+||sylnyx.com
 ||symama.com
 ||symtc.com
 ||symuge.com
@@ -50761,6 +50761,7 @@
 ||tao616.com
 ||tao800.com
 ||tao8090.com
+||taoa.com
 ||taobao-img.com
 ||taobao.co
 ||taobao.com
@@ -51119,7 +51120,6 @@
 ||tehui001.com
 ||tehuituan.com
 ||tejiabei.com
-||tejiaquan.com
 ||tejiawang.com
 ||tel-id.com
 ||tel139.com
@@ -53124,7 +53124,6 @@
 ||u58.com
 ||u5wan.com
 ||u69cn.com
-||u6u.com
 ||u77.com
 ||u7u9.com
 ||u8sy.com
@@ -57185,6 +57184,7 @@
 ||wxpushuo.com
 ||wxrb.com
 ||wxrrd.com
+||wxsbank.com
 ||wxscreen.com
 ||wxsell.com
 ||wxshake.com
@@ -57343,6 +57343,7 @@
 ||x86android.com
 ||x8ds.com
 ||x8sb.com
+||xa-bank.com
 ||xa-online.com
 ||xa.com
 ||xa189.net
@@ -60618,6 +60619,7 @@
 ||yilingshop.com
 ||yilinguoji.com
 ||yilinweb.com
+||yillionbank.com
 ||yilong.com
 ||yilongnews.com
 ||yilongtv.com
@@ -60674,6 +60676,7 @@
 ||ying-ji.com
 ||yingbar.com
 ||yingbei365.com
+||yingbio.com
 ||yingbishufa.com
 ||yingcankeji.com
 ||yingchaozhibo.com
@@ -61126,6 +61129,7 @@
 ||ymatou.com
 ||ymatou.hk
 ||ymbaidu.com
+||ymbank.com
 ||ymbq301.com
 ||ymcall.com
 ||ymcart.com
