@@ -1,7 +1,7 @@
-# Checksum: MTY5NjU1MDgyNwo=
+# Checksum: MTY5NjYzNzIyNwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20231006-0
-# TimeUpdated: 2023-10-06T00:07:07+00:00
+# Version: 1.0.0-20231007-0
+# TimeUpdated: 2023-10-07T00:07:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -10042,6 +10042,7 @@ DOMAIN-SUFFIX,beautifullinux.com
 DOMAIN-SUFFIX,beautifulzzzz.com
 DOMAIN-SUFFIX,bechangedt.com
 DOMAIN-SUFFIX,beckwai.com
+DOMAIN-SUFFIX,becukwai.com
 DOMAIN-SUFFIX,bedtimepoem.com
 DOMAIN-SUFFIX,beduu.com
 DOMAIN-SUFFIX,bee-net.com
@@ -13818,6 +13819,7 @@ DOMAIN-SUFFIX,chinacft.org
 DOMAIN-SUFFIX,chinachemnet.com
 DOMAIN-SUFFIX,chinachilun.org
 DOMAIN-SUFFIX,chinachugui.com
+DOMAIN-SUFFIX,chinacid.org
 DOMAIN-SUFFIX,chinacil.com
 DOMAIN-SUFFIX,chinacir.com
 DOMAIN-SUFFIX,chinacity.net
@@ -16002,7 +16004,6 @@ DOMAIN-SUFFIX,compass-fit.jp
 DOMAIN-SUFFIX,compassedu.hk
 DOMAIN-SUFFIX,compevt.com
 DOMAIN-SUFFIX,compgoo.com
-DOMAIN-SUFFIX,compliant1.com
 DOMAIN-SUFFIX,computeinit.com
 DOMAIN-SUFFIX,comra.org
 DOMAIN-SUFFIX,comsenz-service.com
@@ -18851,7 +18852,6 @@ DOMAIN-SUFFIX,dominoh.com
 DOMAIN-SUFFIX,domobcdn.com
 DOMAIN-SUFFIX,domolo.com
 DOMAIN-SUFFIX,domp4.cc
-DOMAIN-SUFFIX,domp4.com
 DOMAIN-SUFFIX,domyshop.com
 DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dong-shou.com
@@ -30267,7 +30267,6 @@ DOMAIN-SUFFIX,iqing.com
 DOMAIN-SUFFIX,iqingdao.com
 DOMAIN-SUFFIX,iqingua.com
 DOMAIN-SUFFIX,iqishu.la
-DOMAIN-SUFFIX,iqiwx.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyih5.com
 DOMAIN-SUFFIX,iqiyipic.com
@@ -30301,6 +30300,7 @@ DOMAIN-SUFFIX,irelxtech.com
 DOMAIN-SUFFIX,iresearchad.com
 DOMAIN-SUFFIX,iresearchchina.com
 DOMAIN-SUFFIX,irest.tv
+DOMAIN-SUFFIX,irestapp.com
 DOMAIN-SUFFIX,irising.me
 DOMAIN-SUFFIX,irlianmeng.com
 DOMAIN-SUFFIX,irockbunny.com
@@ -32510,7 +32510,6 @@ DOMAIN-SUFFIX,joyany.com
 DOMAIN-SUFFIX,joyapi.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
-DOMAIN-SUFFIX,joycbd.com
 DOMAIN-SUFFIX,joydin.com
 DOMAIN-SUFFIX,joyeriapamelamacias.com
 DOMAIN-SUFFIX,joyes.com
@@ -43708,7 +43707,6 @@ DOMAIN-SUFFIX,qhdatongnews.com
 DOMAIN-SUFFIX,qhdfxkj.com
 DOMAIN-SUFFIX,qhdgjj.com
 DOMAIN-SUFFIX,qhdglc.com
-DOMAIN-SUFFIX,qhdjinyuan.com
 DOMAIN-SUFFIX,qhdnews.com
 DOMAIN-SUFFIX,qhdok.com
 DOMAIN-SUFFIX,qhdren.com
@@ -50574,7 +50572,6 @@ DOMAIN-SUFFIX,tac.googleapis.com
 DOMAIN-SUFFIX,tachangxing.com
 DOMAIN-SUFFIX,tacool.com
 DOMAIN-SUFFIX,tactan.net
-DOMAIN-SUFFIX,tadseeker.com
 DOMAIN-SUFFIX,tadu.com
 DOMAIN-SUFFIX,taeapp.com
 DOMAIN-SUFFIX,tag.gg
@@ -64344,6 +64341,7 @@ DOMAIN-SUFFIX,zizaike.com
 DOMAIN-SUFFIX,zizhengfang.com
 DOMAIN-SUFFIX,zizhuauto.com
 DOMAIN-SUFFIX,zizhupark.com
+DOMAIN-SUFFIX,zizhuyuangongyuan.com
 DOMAIN-SUFFIX,zizisi.com
 DOMAIN-SUFFIX,zizizizizi.com
 DOMAIN-SUFFIX,zizzs.com
