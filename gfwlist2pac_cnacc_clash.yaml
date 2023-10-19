@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NzU4NzYzNAo=
+# Checksum: MTY5NzY3NDAyMgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20231018-0
-# TimeUpdated: 2023-10-18T00:07:14+00:00
+# Version: 1.0.0-20231019-0
+# TimeUpdated: 2023-10-19T00:07:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8602,7 +8602,6 @@ payload:
   - DOMAIN-SUFFIX,apowo.com
   - DOMAIN-SUFFIX,apowogame.com
   - DOMAIN-SUFFIX,apoyl.com
-  - DOMAIN-SUFFIX,app-123.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app-router.com
@@ -37716,6 +37715,7 @@ payload:
   - DOMAIN-SUFFIX,marioin.com
   - DOMAIN-SUFFIX,markdown.xyz
   - DOMAIN-SUFFIX,markdream.com
+  - DOMAIN-SUFFIX,marketingconv.com
   - DOMAIN-SUFFIX,marketreportchina.com
   - DOMAIN-SUFFIX,markhoo.com
   - DOMAIN-SUFFIX,markiapp.com
@@ -50568,7 +50568,6 @@ payload:
   - DOMAIN-SUFFIX,tandjx.com
   - DOMAIN-SUFFIX,tang-lei.com
   - DOMAIN-SUFFIX,tang.su
-  - DOMAIN-SUFFIX,tang8.com
   - DOMAIN-SUFFIX,tangdaoya.com
   - DOMAIN-SUFFIX,tangdou.com
   - DOMAIN-SUFFIX,tangdouimg.com
@@ -61982,7 +61981,6 @@ payload:
   - DOMAIN-SUFFIX,yuncdndun.com
   - DOMAIN-SUFFIX,yunceng.com
   - DOMAIN-SUFFIX,yuncheng.com
-  - DOMAIN-SUFFIX,yunchong-powder.com
   - DOMAIN-SUFFIX,yunchou.com
   - DOMAIN-SUFFIX,yuncii.com
   - DOMAIN-SUFFIX,yuncode.net

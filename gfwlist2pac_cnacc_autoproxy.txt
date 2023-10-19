@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTY5NzU4NzYzNAo=
+! Checksum: MTY5NzY3NDAyMgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20231018-0
-! TimeUpdated: 2023-10-18T00:07:14+00:00
+! Version: 1.0.0-20231019-0
+! TimeUpdated: 2023-10-19T00:07:02+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -8602,7 +8602,6 @@
 ||apowo.com
 ||apowogame.com
 ||apoyl.com
-||app-123.com
 ||app-measurement-cn.com
 ||app-measurement.com
 ||app-router.com
@@ -37716,6 +37715,7 @@
 ||marioin.com
 ||markdown.xyz
 ||markdream.com
+||marketingconv.com
 ||marketreportchina.com
 ||markhoo.com
 ||markiapp.com
@@ -50568,7 +50568,6 @@
 ||tandjx.com
 ||tang-lei.com
 ||tang.su
-||tang8.com
 ||tangdaoya.com
 ||tangdou.com
 ||tangdouimg.com
@@ -61982,7 +61981,6 @@
 ||yuncdndun.com
 ||yunceng.com
 ||yuncheng.com
-||yunchong-powder.com
 ||yunchou.com
 ||yuncii.com
 ||yuncode.net
