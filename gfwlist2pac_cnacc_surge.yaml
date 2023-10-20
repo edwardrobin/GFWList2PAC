@@ -1,7 +1,7 @@
-# Checksum: MTY5NzY3NDAyMgo=
+# Checksum: MTY5Nzc2MDQzMgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20231019-0
-# TimeUpdated: 2023-10-19T00:07:02+00:00
+# Version: 1.0.0-20231020-0
+# TimeUpdated: 2023-10-20T00:07:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -7652,6 +7652,7 @@ DOMAIN-SUFFIX,airmb.com
 DOMAIN-SUFFIX,airmobyte.com
 DOMAIN-SUFFIX,airnut.com
 DOMAIN-SUFFIX,airoha.com.tw
+DOMAIN-SUFFIX,airportcip.com
 DOMAIN-SUFFIX,airsavvi.com
 DOMAIN-SUFFIX,airspa.net
 DOMAIN-SUFFIX,airstar.com
@@ -7874,6 +7875,7 @@ DOMAIN-SUFFIX,alibabadesign.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabadoctor.com
 DOMAIN-SUFFIX,alibabafapiao.com
+DOMAIN-SUFFIX,alibabafoundation.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabaonline.com
@@ -8568,6 +8570,7 @@ DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,apimkt.net
 DOMAIN-SUFFIX,apispace.com
+DOMAIN-SUFFIX,apitd.net
 DOMAIN-SUFFIX,apiview.com
 DOMAIN-SUFFIX,apixj.xyz
 DOMAIN-SUFFIX,apizb.com
@@ -30098,6 +30101,7 @@ DOMAIN-SUFFIX,ip3366.net
 DOMAIN-SUFFIX,ip518.com
 DOMAIN-SUFFIX,ip669.com
 DOMAIN-SUFFIX,ip87.com
+DOMAIN-SUFFIX,ipaddr.host
 DOMAIN-SUFFIX,ipadown.com
 DOMAIN-SUFFIX,ipadview.com
 DOMAIN-SUFFIX,ipaiban.com
@@ -36861,6 +36865,7 @@ DOMAIN-SUFFIX,lua.ren
 DOMAIN-SUFFIX,luaninfo.com
 DOMAIN-SUFFIX,luanren.com
 DOMAIN-SUFFIX,luastudio.net
+DOMAIN-SUFFIX,luatos.com
 DOMAIN-SUFFIX,lubandata.com
 DOMAIN-SUFFIX,lubangd.com
 DOMAIN-SUFFIX,lubanjianye.com
@@ -37859,9 +37864,11 @@ DOMAIN-SUFFIX,mbazl.com
 DOMAIN-SUFFIX,mbb0760.com
 DOMAIN-SUFFIX,mbcloud.com
 DOMAIN-SUFFIX,mbgo.com
+DOMAIN-SUFFIX,mbian.com
 DOMAIN-SUFFIX,mbinary.xyz
 DOMAIN-SUFFIX,mbldbb.com
 DOMAIN-SUFFIX,mbokee.com
+DOMAIN-SUFFIX,mbsifu.com
 DOMAIN-SUFFIX,mbsky.com
 DOMAIN-SUFFIX,mbxt.net
 DOMAIN-SUFFIX,mc-ccpit.com
@@ -38449,6 +38456,7 @@ DOMAIN-SUFFIX,mico.io
 DOMAIN-SUFFIX,micrenzheng.com
 DOMAIN-SUFFIX,micro-bee.com
 DOMAIN-SUFFIX,micro-servs.com
+DOMAIN-SUFFIX,micro-x.net
 DOMAIN-SUFFIX,microad-cn.com
 DOMAIN-SUFFIX,microad.jp
 DOMAIN-SUFFIX,microadinc.com
@@ -43629,6 +43637,8 @@ DOMAIN-SUFFIX,qhlyou.com
 DOMAIN-SUFFIX,qhm123.com
 DOMAIN-SUFFIX,qhmed.com
 DOMAIN-SUFFIX,qhmsg.com
+DOMAIN-SUFFIX,qhnet.club
+DOMAIN-SUFFIX,qhnet.site
 DOMAIN-SUFFIX,qhnews.com
 DOMAIN-SUFFIX,qhong.net
 DOMAIN-SUFFIX,qhpcc.com
@@ -44258,6 +44268,7 @@ DOMAIN-SUFFIX,qlbchina.com
 DOMAIN-SUFFIX,qlbg.net
 DOMAIN-SUFFIX,qlchat.com
 DOMAIN-SUFFIX,qldzj.com
+DOMAIN-SUFFIX,qlelectrons.com
 DOMAIN-SUFFIX,qlgpy.com
 DOMAIN-SUFFIX,qlidc.com
 DOMAIN-SUFFIX,qlivecdn.com
@@ -46301,6 +46312,7 @@ DOMAIN-SUFFIX,sci99.com
 DOMAIN-SUFFIX,scichina.com
 DOMAIN-SUFFIX,scicn.net
 DOMAIN-SUFFIX,scidict.org
+DOMAIN-SUFFIX,sciengine.com
 DOMAIN-SUFFIX,scientrans.com
 DOMAIN-SUFFIX,scies.org
 DOMAIN-SUFFIX,scievent.com
@@ -49889,6 +49901,7 @@ DOMAIN-SUFFIX,swiftjava.com
 DOMAIN-SUFFIX,swiftlet.net
 DOMAIN-SUFFIX,swiftstar.net
 DOMAIN-SUFFIX,swijoy.com
+DOMAIN-SUFFIX,swirebev.com
 DOMAIN-SUFFIX,switchxiazai.com
 DOMAIN-SUFFIX,switzerland-visacenter.com
 DOMAIN-SUFFIX,swjoy.com
@@ -52322,6 +52335,7 @@ DOMAIN-SUFFIX,trustmta.com
 DOMAIN-SUFFIX,trustocean.com
 DOMAIN-SUFFIX,trustsoc.com
 DOMAIN-SUFFIX,trustutn.org
+DOMAIN-SUFFIX,trvok.com
 DOMAIN-SUFFIX,trwl.net
 DOMAIN-SUFFIX,tryenough.com
 DOMAIN-SUFFIX,tryfun.com
@@ -59504,6 +59518,7 @@ DOMAIN-SUFFIX,xxyfgy.com
 DOMAIN-SUFFIX,xxyhzd.com
 DOMAIN-SUFFIX,xxyo.com
 DOMAIN-SUFFIX,xxyw.com
+DOMAIN-SUFFIX,xxyy.co
 DOMAIN-SUFFIX,xxzfgjj.com
 DOMAIN-SUFFIX,xxzhushou.com
 DOMAIN-SUFFIX,xxzsgame.com
@@ -62705,6 +62720,7 @@ DOMAIN-SUFFIX,zbqlm.com
 DOMAIN-SUFFIX,zbrushcn.com
 DOMAIN-SUFFIX,zbstatic1.com
 DOMAIN-SUFFIX,zbt.com
+DOMAIN-SUFFIX,zbt.net
 DOMAIN-SUFFIX,zbuhe.com
 DOMAIN-SUFFIX,zbusa.com
 DOMAIN-SUFFIX,zbwbbs.com
@@ -63762,6 +63778,7 @@ DOMAIN-SUFFIX,zhongwenhexinqikan.com
 DOMAIN-SUFFIX,zhongwucan.com
 DOMAIN-SUFFIX,zhongxiangdichan.net
 DOMAIN-SUFFIX,zhongxiaole.net
+DOMAIN-SUFFIX,zhongxinwei.net
 DOMAIN-SUFFIX,zhongxunrunda.com
 DOMAIN-SUFFIX,zhongxuntv.com
 DOMAIN-SUFFIX,zhongyao1.com
