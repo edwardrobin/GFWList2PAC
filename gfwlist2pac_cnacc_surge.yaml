@@ -1,7 +1,7 @@
-# Checksum: MTY5ODcxMDgyNQo=
+# Checksum: MTY5ODc5NzI2NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20231031-0
-# TimeUpdated: 2023-10-31T00:07:05+00:00
+# Version: 1.0.0-20231101-0
+# TimeUpdated: 2023-11-01T00:07:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -8161,6 +8161,9 @@ DOMAIN-SUFFIX,amo9.com
 DOMAIN-SUFFIX,amobbs.com
 DOMAIN-SUFFIX,amoe.cc
 DOMAIN-SUFFIX,amoere.com
+DOMAIN-SUFFIX,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
 DOMAIN-SUFFIX,amp-api-edge.music.apple.com
 DOMAIN-SUFFIX,amp-api-search-edge.apps.apple.com
 DOMAIN-SUFFIX,amp-api.apps.apple.com
@@ -29817,6 +29820,9 @@ DOMAIN-SUFFIX,in955.com
 DOMAIN-SUFFIX,inabr.com
 DOMAIN-SUFFIX,inad.com
 DOMAIN-SUFFIX,inanrenbang.com
+DOMAIN-SUFFIX,inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,inbeijing.org
 DOMAIN-SUFFIX,inbilin.com
 DOMAIN-SUFFIX,inbooker.com
@@ -29908,6 +29914,8 @@ DOMAIN-SUFFIX,init-p01st.push.apple.com
 DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-s01st.push.apple.com
 DOMAIN-SUFFIX,init.ess.apple.com
+DOMAIN-SUFFIX,init.gc-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,init.gc.apple.com
 DOMAIN-SUFFIX,init.itunes.apple.com
 DOMAIN-SUFFIX,init.itunes.apple.com.mwcname.com
 DOMAIN-SUFFIX,initialview.com
@@ -48455,6 +48463,7 @@ DOMAIN-SUFFIX,skyzms.com
 DOMAIN-SUFFIX,sl-360.com
 DOMAIN-SUFFIX,sl.al
 DOMAIN-SUFFIX,sl153.com
+DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,sl91d.com
 DOMAIN-SUFFIX,slamtec.com
 DOMAIN-SUFFIX,slanissue.com
