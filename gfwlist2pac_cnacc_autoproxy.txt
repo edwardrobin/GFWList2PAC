@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTcwMjA4MDQ0Mgo=
+! Checksum: MTcwMjE2NjkxMQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20231209-0
-! TimeUpdated: 2023-12-09T00:07:22+00:00
+! Version: 1.0.0-20231210-0
+! TimeUpdated: 2023-12-10T00:08:31+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -4373,7 +4373,6 @@
 ||56dagong.com
 ||56dichan.com
 ||56dr.com
-||56en.com
 ||56ggb.com
 ||56gk.com
 ||56golf.com
@@ -11131,7 +11130,6 @@
 ||bobcfc.com
 ||bobcoder.cc
 ||bobdirectbank.com
-||bobidc.com
 ||boblog.com
 ||bobo.com
 ||bobopic.com
@@ -16706,7 +16704,6 @@
 ||cuekit.com
 ||cuelog.com
 ||cufeyk.com
-||cufou.com
 ||cug2313.com
 ||cugstore.com
 ||cuihuan.net
@@ -18420,8 +18417,11 @@
 ||djfj.net
 ||djhgyy.com
 ||dji.com
+||dji.net
 ||djiavip.com
 ||djicdn.com
+||djiops.com
+||djiservice.org
 ||djivideos.com
 ||djjlseo.com
 ||djjw.com
@@ -18899,7 +18899,6 @@
 ||doudou.in
 ||doudou3.com
 ||doudouad.com
-||doudouba.com
 ||doudoubird.com
 ||doufan.tv
 ||doufl.com
@@ -22762,7 +22761,6 @@
 ||gai.net
 ||gaiamount.com
 ||gaibar.com
-||gain-coupon.com
 ||gainda.net
 ||gainet.com
 ||gaini.net
@@ -24368,7 +24366,6 @@
 ||guangwangye.com
 ||guangxi910.com
 ||guangxigrc.com
-||guangxiyou.com
 ||guangyinglvxing.com
 ||guangyv.com
 ||guangzhitui.com
@@ -28533,6 +28530,7 @@
 ||i-lewan.com
 ||i-m.dev
 ||i-manji.com
+||i-markit.com
 ||i-matcher.com
 ||i-md.com
 ||i-modec.com
@@ -29803,7 +29801,6 @@
 ||ingkee.com
 ||ingping.com
 ||inhdd.com
-||inhe.net
 ||inhuawei.com
 ||ini3e.com
 ||inibiru.com
@@ -34760,6 +34757,7 @@
 ||lanmaos.com
 ||lanmit.com
 ||lanmon.net
+||lanosso.com
 ||lanou3g.com
 ||lanpanpan.com
 ||lanqb.com
@@ -34826,6 +34824,7 @@
 ||lanzoux.com
 ||lanzouy.com
 ||lanzouz.com
+||lanzov.com
 ||lanzun.net
 ||laobaigan-hs.com
 ||laobandq.com
@@ -38426,7 +38425,6 @@
 ||milvzn.com
 ||mima.club
 ||mimgame.com
-||mimi456.com
 ||mimi518.com
 ||mimidi.com
 ||mimiteng.com
@@ -38863,7 +38861,6 @@
 ||moeking.me
 ||moeli123.com
 ||moemiao.net
-||moerkeji.net
 ||moerlong.com
 ||moetu.org
 ||moetuji.com
@@ -40280,7 +40277,6 @@
 ||ni8.com
 ||ni93.com
 ||nianbin.com
-||niandai.org
 ||nianhua.plus
 ||niankawang.com
 ||nianzhi.cc
@@ -43549,7 +43545,6 @@
 ||qianyuangx.com
 ||qianyue999.com
 ||qianyuewenhua.xyz
-||qianyunyingyong.com
 ||qianyuwang.com
 ||qianzhan.com
 ||qianzhan123.com
@@ -45326,6 +45321,7 @@
 ||rnfengwo.com
 ||rngtest.com
 ||rnhqxh.com
+||ro.com
 ||ro4.cc
 ||ro50.com
 ||road-group.com
@@ -47185,7 +47181,6 @@
 ||shiciyun.com
 ||shida66.com
 ||shidaedu.vip
-||shidai.tv
 ||shidapx.com
 ||shidastudy.com
 ||shidi.org
@@ -47284,6 +47279,7 @@
 ||shiqidu.com
 ||shiqu.com
 ||shiqutech.com
+||shiritianchengtech.com
 ||shishagame.com
 ||shishangfengyun.com
 ||shishihuihui.com
@@ -47431,6 +47427,7 @@
 ||shoujimi.com
 ||shoujitouping.com
 ||shoujiwan.com
+||shoukala.com
 ||shouliwang.com
 ||shoumizhibo.com
 ||shoumm.com
@@ -48228,6 +48225,7 @@
 ||skynicecity.com
 ||skynj.com
 ||skype-china.net
+||skypixel.com
 ||skyrichpower.com
 ||skyrivers.org
 ||skyrj.com
@@ -50505,11 +50503,13 @@
 ||tapdb.net
 ||tapenjoy.com
 ||tapimg.com
+||tapimg.net
 ||tapotiexie.com
 ||tapque.com
 ||tapsvc.com
 ||taptap-api.com
 ||taptap.com
+||taptap.io
 ||taptapcode.com
 ||taptapdada.com
 ||taraniss.com
@@ -58591,6 +58591,7 @@
 ||xlcidc.com
 ||xlctyd.com
 ||xlcz.com
+||xldlive.com
 ||xlgao.com
 ||xlgogo.com
 ||xlgtx.com
@@ -58955,7 +58956,6 @@
 ||xu1s.com
 ||xuanad.com
 ||xuanba.com
-||xuanbar.com
 ||xuancaizi.com
 ||xuanceo.com
 ||xuancheng.org
