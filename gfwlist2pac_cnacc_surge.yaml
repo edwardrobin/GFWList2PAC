@@ -1,7 +1,7 @@
-# Checksum: MTcwMjY4NTI0MAo=
+# Checksum: MTcwMjc3MTcxNQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20231216-0
-# TimeUpdated: 2023-12-16T00:07:20+00:00
+# Version: 1.0.0-20231217-0
+# TimeUpdated: 2023-12-17T00:08:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -9131,6 +9131,7 @@ DOMAIN-SUFFIX,b2b168.org
 DOMAIN-SUFFIX,b2b179.com
 DOMAIN-SUFFIX,b2b6.com
 DOMAIN-SUFFIX,b2baa.com
+DOMAIN-SUFFIX,b2bgo.com
 DOMAIN-SUFFIX,b2bic.com
 DOMAIN-SUFFIX,b2bname.com
 DOMAIN-SUFFIX,b2bvip.com
@@ -20029,6 +20030,7 @@ DOMAIN-SUFFIX,edu80.com
 DOMAIN-SUFFIX,edu84.com
 DOMAIN-SUFFIX,edu84.net
 DOMAIN-SUFFIX,edu88.com
+DOMAIN-SUFFIX,eduapaashwc.com
 DOMAIN-SUFFIX,eduartisan.com
 DOMAIN-SUFFIX,educg.net
 DOMAIN-SUFFIX,educhn.net
@@ -25848,6 +25850,7 @@ DOMAIN-SUFFIX,hbzywh.com
 DOMAIN-SUFFIX,hc-byq.com
 DOMAIN-SUFFIX,hc-cdn.com
 DOMAIN-SUFFIX,hc-software.com
+DOMAIN-SUFFIX,hc-sre.com
 DOMAIN-SUFFIX,hc01.com
 DOMAIN-SUFFIX,hc121.com
 DOMAIN-SUFFIX,hc23.com
@@ -27693,6 +27696,7 @@ DOMAIN-SUFFIX,huaweicloud-smn.net
 DOMAIN-SUFFIX,huaweicloud.com
 DOMAIN-SUFFIX,huaweicloudapis.com
 DOMAIN-SUFFIX,huaweicloudlive.com
+DOMAIN-SUFFIX,huaweicloudsite.com
 DOMAIN-SUFFIX,huaweicloudwaf.com
 DOMAIN-SUFFIX,huaweidevice.com
 DOMAIN-SUFFIX,huaweidun.com
@@ -27701,8 +27705,10 @@ DOMAIN-SUFFIX,huaweimall.com
 DOMAIN-SUFFIX,huaweimarine.com
 DOMAIN-SUFFIX,huaweimarketplace.com
 DOMAIN-SUFFIX,huaweimossel.com
+DOMAIN-SUFFIX,huaweioneaccess.com
 DOMAIN-SUFFIX,huaweirom.com
 DOMAIN-SUFFIX,huaweisafedns.com
+DOMAIN-SUFFIX,huaweisre.com
 DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiuniversity.com
 DOMAIN-SUFFIX,huaweiyun.com
@@ -28190,6 +28196,7 @@ DOMAIN-SUFFIX,hwadmin.com
 DOMAIN-SUFFIX,hwangda.com
 DOMAIN-SUFFIX,hwanjia.com
 DOMAIN-SUFFIX,hwasmart.com
+DOMAIN-SUFFIX,hwastro.com
 DOMAIN-SUFFIX,hwbaoan.com
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,hwcdnsre.com
@@ -28200,6 +28207,7 @@ DOMAIN-SUFFIX,hwclouds-dns.net
 DOMAIN-SUFFIX,hwclouds.com
 DOMAIN-SUFFIX,hwclouds.mobi
 DOMAIN-SUFFIX,hwclouds.net
+DOMAIN-SUFFIX,hwcloudsite.com
 DOMAIN-SUFFIX,hwcloudvis.com
 DOMAIN-SUFFIX,hwcpb.com
 DOMAIN-SUFFIX,hwcrazy.com
@@ -39540,6 +39548,7 @@ DOMAIN-SUFFIX,myhuilv.com
 DOMAIN-SUFFIX,myhwcdn.com
 DOMAIN-SUFFIX,myhwcloudlive.com
 DOMAIN-SUFFIX,myhwclouds.com
+DOMAIN-SUFFIX,myhwclouds.net
 DOMAIN-SUFFIX,myie.me
 DOMAIN-SUFFIX,myie9.com
 DOMAIN-SUFFIX,myilibrary.com
@@ -54159,6 +54168,7 @@ DOMAIN-SUFFIX,vsaker.com
 DOMAIN-SUFFIX,vsane.com
 DOMAIN-SUFFIX,vsbclub.com
 DOMAIN-SUFFIX,vsbuys.com
+DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,vsens.com
 DOMAIN-SUFFIX,vshangdaili.com
 DOMAIN-SUFFIX,vsharecloud.com

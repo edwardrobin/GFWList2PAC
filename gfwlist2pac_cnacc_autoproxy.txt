@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTcwMjY4NTI0MAo=
+! Checksum: MTcwMjc3MTcxNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20231216-0
-! TimeUpdated: 2023-12-16T00:07:20+00:00
+! Version: 1.0.0-20231217-0
+! TimeUpdated: 2023-12-17T00:08:35+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -9132,6 +9132,7 @@
 ||b2b179.com
 ||b2b6.com
 ||b2baa.com
+||b2bgo.com
 ||b2bic.com
 ||b2bname.com
 ||b2bvip.com
@@ -20030,6 +20031,7 @@
 ||edu84.com
 ||edu84.net
 ||edu88.com
+||eduapaashwc.com
 ||eduartisan.com
 ||educg.net
 ||educhn.net
@@ -25849,6 +25851,7 @@
 ||hc-byq.com
 ||hc-cdn.com
 ||hc-software.com
+||hc-sre.com
 ||hc01.com
 ||hc121.com
 ||hc23.com
@@ -27694,6 +27697,7 @@
 ||huaweicloud.com
 ||huaweicloudapis.com
 ||huaweicloudlive.com
+||huaweicloudsite.com
 ||huaweicloudwaf.com
 ||huaweidevice.com
 ||huaweidun.com
@@ -27702,8 +27706,10 @@
 ||huaweimarine.com
 ||huaweimarketplace.com
 ||huaweimossel.com
+||huaweioneaccess.com
 ||huaweirom.com
 ||huaweisafedns.com
+||huaweisre.com
 ||huaweistatic.com
 ||huaweiuniversity.com
 ||huaweiyun.com
@@ -28191,6 +28197,7 @@
 ||hwangda.com
 ||hwanjia.com
 ||hwasmart.com
+||hwastro.com
 ||hwbaoan.com
 ||hwccpc.com
 ||hwcdnsre.com
@@ -28201,6 +28208,7 @@
 ||hwclouds.com
 ||hwclouds.mobi
 ||hwclouds.net
+||hwcloudsite.com
 ||hwcloudvis.com
 ||hwcpb.com
 ||hwcrazy.com
@@ -39541,6 +39549,7 @@
 ||myhwcdn.com
 ||myhwcloudlive.com
 ||myhwclouds.com
+||myhwclouds.net
 ||myie.me
 ||myie9.com
 ||myilibrary.com
@@ -54160,6 +54169,7 @@
 ||vsane.com
 ||vsbclub.com
 ||vsbuys.com
+||vscode.download.prss.microsoft.com
 ||vsens.com
 ||vshangdaili.com
 ||vsharecloud.com
