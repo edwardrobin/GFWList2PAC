@@ -1,7 +1,7 @@
-# Checksum: MTcwMzM3NjUwOAo=
+# Checksum: MTcwMzQ2Mjg2Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20231224-0
-# TimeUpdated: 2023-12-24T00:08:28+00:00
+# Version: 1.0.0-20231225-0
+# TimeUpdated: 2023-12-25T00:07:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -39650,6 +39650,7 @@ DOMAIN-SUFFIX,myunlu.com
 DOMAIN-SUFFIX,myunying.com
 DOMAIN-SUFFIX,myushan.com
 DOMAIN-SUFFIX,myvactrip.com
+DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mywakao.com
 DOMAIN-SUFFIX,mywayboo.net
 DOMAIN-SUFFIX,myweimai.com
@@ -40951,6 +40952,7 @@ DOMAIN-SUFFIX,oejournal.org
 DOMAIN-SUFFIX,oelove.com
 DOMAIN-SUFFIX,oemresource.com
 DOMAIN-SUFFIX,oemsnavi.com
+DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,oeob.net
 DOMAIN-SUFFIX,oesell.com
@@ -48516,6 +48518,7 @@ DOMAIN-SUFFIX,softgostop.com
 DOMAIN-SUFFIX,softhead-citavi.com
 DOMAIN-SUFFIX,softhome.cc
 DOMAIN-SUFFIX,softtest.com
+DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,softwarechn.com
 DOMAIN-SUFFIX,softwarecn.com
 DOMAIN-SUFFIX,softwarekeyclub.com
@@ -49518,6 +49521,7 @@ DOMAIN-SUFFIX,suqishi.com
 DOMAIN-SUFFIX,suqnn.com
 DOMAIN-SUFFIX,suremotoo.site
 DOMAIN-SUFFIX,surerp.com
+DOMAIN-SUFFIX,surface.downloads.prss.microsoft.com
 DOMAIN-SUFFIX,surgerycast.com
 DOMAIN-SUFFIX,surprising.studio
 DOMAIN-SUFFIX,sursen.com
@@ -54251,6 +54255,7 @@ DOMAIN-SUFFIX,vyin.com
 DOMAIN-SUFFIX,vynior.com
 DOMAIN-SUFFIX,vysj.com
 DOMAIN-SUFFIX,vyuan8.com
+DOMAIN-SUFFIX,vz.download.prss.microsoft.com
 DOMAIN-SUFFIX,vz41.com
 DOMAIN-SUFFIX,vzan.cc
 DOMAIN-SUFFIX,vzan.com
