@@ -1,7 +1,7 @@
-# Checksum: MTcwNDQxMzI3Mgo=
+# Checksum: MTcwNDQ5OTYzOAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20240105-0
-# TimeUpdated: 2024-01-05T00:07:52+00:00
+# Version: 1.0.0-20240106-0
+# TimeUpdated: 2024-01-06T00:07:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -12610,6 +12610,7 @@ domain:cdn-v.com,
 domain:cdn.ampproject.org,
 domain:cdn.apple-mapkit.com,
 domain:cdn.fun,
+domain:cdn.jetbrains.com,
 domain:cdn.marketplaceimages.windowsphone.com,
 domain:cdn.razersynapse.com,
 domain:cdn.samsung.com,
