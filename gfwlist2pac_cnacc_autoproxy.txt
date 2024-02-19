@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTcwODIxNDg3Mwo=
+! Checksum: MTcwODMwMTI3NAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20240218-0
-! TimeUpdated: 2024-02-18T00:07:53+00:00
+! Version: 1.0.0-20240219-0
+! TimeUpdated: 2024-02-19T00:07:54+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -15584,8 +15584,11 @@
 ||clouddongying.com
 ||clouddream.net
 ||cloudflare-cn.com
+||cloudflareanycast.net
 ||cloudflarecn.net
+||cloudflareglobal.net
 ||cloudflareinsights-cn.com
+||cloudflareperf.com
 ||cloudflareprod.com
 ||cloudflarestaging.com
 ||cloudflarestoragegw.com

@@ -1,7 +1,7 @@
-# Checksum: MTcwODIxNDg3Mwo=
+# Checksum: MTcwODMwMTI3NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20240218-0
-# TimeUpdated: 2024-02-18T00:07:53+00:00
+# Version: 1.0.0-20240219-0
+# TimeUpdated: 2024-02-19T00:07:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -15583,8 +15583,11 @@ DOMAIN-SUFFIX,clouddns1.vip,DIRECT
 DOMAIN-SUFFIX,clouddongying.com,DIRECT
 DOMAIN-SUFFIX,clouddream.net,DIRECT
 DOMAIN-SUFFIX,cloudflare-cn.com,DIRECT
+DOMAIN-SUFFIX,cloudflareanycast.net,DIRECT
 DOMAIN-SUFFIX,cloudflarecn.net,DIRECT
+DOMAIN-SUFFIX,cloudflareglobal.net,DIRECT
 DOMAIN-SUFFIX,cloudflareinsights-cn.com,DIRECT
+DOMAIN-SUFFIX,cloudflareperf.com,DIRECT
 DOMAIN-SUFFIX,cloudflareprod.com,DIRECT
 DOMAIN-SUFFIX,cloudflarestaging.com,DIRECT
 DOMAIN-SUFFIX,cloudflarestoragegw.com,DIRECT
