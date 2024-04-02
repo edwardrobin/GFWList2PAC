@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTcxMTkzMDEwMQo=
+! Checksum: MTcxMjAxNjQ0OAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20240401-0
-! TimeUpdated: 2024-04-01T00:08:21+00:00
+! Version: 1.0.0-20240402-0
+! TimeUpdated: 2024-04-02T00:07:28+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||0-6.com
@@ -58232,7 +58232,6 @@
 ||testeb.com
 ||testerhome.com
 ||testerlife.com
-||testflight.apple.com
 ||testict.com
 ||testingpai.com
 ||testlrq.com

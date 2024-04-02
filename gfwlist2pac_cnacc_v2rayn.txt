@@ -1,7 +1,7 @@
-# Checksum: MTcxMTkzMDEwMQo=
+# Checksum: MTcxMjAxNjQ0OAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20240401-0
-# TimeUpdated: 2024-04-01T00:08:21+00:00
+# Version: 1.0.0-20240402-0
+# TimeUpdated: 2024-04-02T00:07:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -58231,7 +58231,6 @@ domain:testdocs.com,
 domain:testeb.com,
 domain:testerhome.com,
 domain:testerlife.com,
-domain:testflight.apple.com,
 domain:testict.com,
 domain:testingpai.com,
 domain:testlrq.com,
