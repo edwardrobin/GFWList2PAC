@@ -1,7 +1,7 @@
-# Checksum: MTcyODg2NDYyOQo=
+# Checksum: MTcyODk1MDk4Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20241014-0
-# TimeUpdated: 2024-10-14T00:10:29+00:00
+# Version: 1.0.0-20241015-0
+# TimeUpdated: 2024-10-15T00:09:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -16542,6 +16542,7 @@ DOMAIN-SUFFIX,centrmus.com
 DOMAIN-SUFFIX,centrostuditaliani.com
 DOMAIN-SUFFIX,century21cn.com
 DOMAIN-SUFFIX,centurycreation.com
+DOMAIN-SUFFIX,centuryenglish.com
 DOMAIN-SUFFIX,centurytrip.com
 DOMAIN-SUFFIX,cenvan.net
 DOMAIN-SUFFIX,cenvandns.com
