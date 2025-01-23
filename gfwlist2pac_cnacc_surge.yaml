@@ -1,7 +1,7 @@
-# Checksum: MTczNzUwNDU4OQo=
+# Checksum: MTczNzU5MDk4OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20250122-0
-# TimeUpdated: 2025-01-22T00:09:49+00:00
+# Version: 1.0.0-20250123-0
+# TimeUpdated: 2025-01-23T00:09:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -4252,6 +4252,7 @@ DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,50vm.com
 DOMAIN-SUFFIX,50yc.com
 DOMAIN-SUFFIX,50yin.com
+DOMAIN-SUFFIX,50yu.com
 DOMAIN-SUFFIX,50zera.com
 DOMAIN-SUFFIX,50zw.co
 DOMAIN-SUFFIX,50zw.com
@@ -9802,6 +9803,7 @@ DOMAIN-SUFFIX,akhtm.com
 DOMAIN-SUFFIX,akhy.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,aki-game.net
+DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,aki-game2.net
 DOMAIN-SUFFIX,akile.net
 DOMAIN-SUFFIX,akjianding.com
@@ -15657,6 +15659,7 @@ DOMAIN-SUFFIX,bytefcdn.com
 DOMAIN-SUFFIX,bytefcdnrd.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegeckoext.com
+DOMAIN-SUFFIX,bytegle.site
 DOMAIN-SUFFIX,bytegle.tech
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytegqpo.net
@@ -19656,6 +19659,7 @@ DOMAIN-SUFFIX,clamptek.com
 DOMAIN-SUFFIX,clanzx.net
 DOMAIN-SUFFIX,claritywallpaper.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,classa-z.com
 DOMAIN-SUFFIX,classcms.com
 DOMAIN-SUFFIX,classinpaas.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
@@ -23361,6 +23365,7 @@ DOMAIN-SUFFIX,dcarstatic.com
 DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcatgame.com
 DOMAIN-SUFFIX,dcb123.com
+DOMAIN-SUFFIX,dcccji.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcdkjx.com
 DOMAIN-SUFFIX,dcdnx.com
@@ -29720,6 +29725,7 @@ DOMAIN-SUFFIX,fofhc.com
 DOMAIN-SUFFIX,fogcloud.io
 DOMAIN-SUFFIX,foguanghui.org
 DOMAIN-SUFFIX,foioo.com
+DOMAIN-SUFFIX,foisonad.com
 DOMAIN-SUFFIX,fojiaonet.com
 DOMAIN-SUFFIX,fojiaoyongpin.com
 DOMAIN-SUFFIX,foldur.com
@@ -32745,6 +32751,7 @@ DOMAIN-SUFFIX,gouwuke.com
 DOMAIN-SUFFIX,gouwule.com
 DOMAIN-SUFFIX,gouwuyu.com
 DOMAIN-SUFFIX,gouyoukeji.com
+DOMAIN-SUFFIX,gov-static.tech
 DOMAIN-SUFFIX,gov.mo
 DOMAIN-SUFFIX,govfz.com
 DOMAIN-SUFFIX,govisionox.net
@@ -40859,6 +40866,7 @@ DOMAIN-SUFFIX,huinkj.net
 DOMAIN-SUFFIX,huinongtx.com
 DOMAIN-SUFFIX,huion.com
 DOMAIN-SUFFIX,huiqia.net
+DOMAIN-SUFFIX,huiqianfan.com
 DOMAIN-SUFFIX,huiqiyu.com
 DOMAIN-SUFFIX,huiqk.com
 DOMAIN-SUFFIX,huiqudsp.com
@@ -41713,6 +41721,7 @@ DOMAIN-SUFFIX,hzncc.com
 DOMAIN-SUFFIX,hznetwk.com
 DOMAIN-SUFFIX,hznews.com
 DOMAIN-SUFFIX,hznk91.com
+DOMAIN-SUFFIX,hznkg.com
 DOMAIN-SUFFIX,hznlxs.com
 DOMAIN-SUFFIX,hznsh.com
 DOMAIN-SUFFIX,hzntjt.com
@@ -42273,6 +42282,7 @@ DOMAIN-SUFFIX,ict18.com
 DOMAIN-SUFFIX,ict361.com
 DOMAIN-SUFFIX,ict88.com
 DOMAIN-SUFFIX,ictcsr.org
+DOMAIN-SUFFIX,ictdns.cloud
 DOMAIN-SUFFIX,ictdns.fun
 DOMAIN-SUFFIX,ictdns.store
 DOMAIN-SUFFIX,ictdns.tech
@@ -62207,6 +62217,7 @@ DOMAIN-SUFFIX,pksf8.com
 DOMAIN-SUFFIX,pksfc.com
 DOMAIN-SUFFIX,pksky.com
 DOMAIN-SUFFIX,pkslow.com
+DOMAIN-SUFFIX,pku-cele.com
 DOMAIN-SUFFIX,pku-hit.com
 DOMAIN-SUFFIX,pku-lvxin.com
 DOMAIN-SUFFIX,pku.tech
@@ -63471,6 +63482,7 @@ DOMAIN-SUFFIX,qh.dlservice.microsoft.com
 DOMAIN-SUFFIX,qh24.com
 DOMAIN-SUFFIX,qh4321.com
 DOMAIN-SUFFIX,qh6bc.com
+DOMAIN-SUFFIX,qh9y.com
 DOMAIN-SUFFIX,qhangyun.com
 DOMAIN-SUFFIX,qhass.org
 DOMAIN-SUFFIX,qhbtv.com
@@ -69144,6 +69156,7 @@ DOMAIN-SUFFIX,shevdc.org
 DOMAIN-SUFFIX,shewang.net
 DOMAIN-SUFFIX,shewantea.com
 DOMAIN-SUFFIX,sheweikeji.com
+DOMAIN-SUFFIX,shexcloud.com
 DOMAIN-SUFFIX,shexiannet.com
 DOMAIN-SUFFIX,sheying001.net
 DOMAIN-SUFFIX,sheyingtg.com
@@ -70721,6 +70734,7 @@ DOMAIN-SUFFIX,skimit.net
 DOMAIN-SUFFIX,skinme.cc
 DOMAIN-SUFFIX,skip-links.com
 DOMAIN-SUFFIX,skjcsc.com
+DOMAIN-SUFFIX,skland.com
 DOMAIN-SUFFIX,skldoor.com
 DOMAIN-SUFFIX,sklinux.com
 DOMAIN-SUFFIX,skomart.com
@@ -81371,6 +81385,7 @@ DOMAIN-SUFFIX,witschools.com
 DOMAIN-SUFFIX,witspring.com
 DOMAIN-SUFFIX,wityx.com
 DOMAIN-SUFFIX,wiwide.com
+DOMAIN-SUFFIX,wiwide.net
 DOMAIN-SUFFIX,wiz03.com
 DOMAIN-SUFFIX,wj-chem.com
 DOMAIN-SUFFIX,wj-hospital.com
@@ -89178,6 +89193,7 @@ DOMAIN-SUFFIX,young40.com
 DOMAIN-SUFFIX,youngem.com
 DOMAIN-SUFFIX,youngerfeel.com
 DOMAIN-SUFFIX,youngjoygame.com
+DOMAIN-SUFFIX,youngle.tech
 DOMAIN-SUFFIX,youngor.com
 DOMAIN-SUFFIX,youni.im
 DOMAIN-SUFFIX,younuokeji.cloud
