@@ -1,7 +1,7 @@
-# Checksum: MTc0MTM5MjQ4Nwo=
+# Checksum: MTc0MTQ3ODk2Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20250308-0
-# TimeUpdated: 2025-03-08T00:08:07+00:00
+# Version: 1.0.0-20250309-0
+# TimeUpdated: 2025-03-09T00:09:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -19530,7 +19530,6 @@ DOMAIN-SUFFIX,clamc.com
 DOMAIN-SUFFIX,clamptek.com
 DOMAIN-SUFFIX,clanzx.net
 DOMAIN-SUFFIX,claritywallpaper.com
-DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,classa-z.com
 DOMAIN-SUFFIX,classcms.com
 DOMAIN-SUFFIX,classinpaas.com
@@ -23461,6 +23460,7 @@ DOMAIN-SUFFIX,deerjet.com
 DOMAIN-SUFFIX,deerma.com
 DOMAIN-SUFFIX,deernice.com
 DOMAIN-SUFFIX,defcoding.com
+DOMAIN-SUFFIX,defineabc.com
 DOMAIN-SUFFIX,deflw.com
 DOMAIN-SUFFIX,defoen.com
 DOMAIN-SUFFIX,defofy.com
@@ -36529,6 +36529,7 @@ DOMAIN-SUFFIX,hangzhoufcw.com
 DOMAIN-SUFFIX,hangzhouluohu.com
 DOMAIN-SUFFIX,hangzhoumengfa.com
 DOMAIN-SUFFIX,hangzhouqisheng.com
+DOMAIN-SUFFIX,hangzhousports.com
 DOMAIN-SUFFIX,hangzhoutianqi114.com
 DOMAIN-SUFFIX,hangzhouyiyao.com
 DOMAIN-SUFFIX,hangzhouyq.com
@@ -48421,6 +48422,7 @@ DOMAIN-SUFFIX,kazhifu.com
 DOMAIN-SUFFIX,kazithai.com
 DOMAIN-SUFFIX,kb.com
 DOMAIN-SUFFIX,kb9.com
+DOMAIN-SUFFIX,kbao123.com
 DOMAIN-SUFFIX,kbccvwz.com
 DOMAIN-SUFFIX,kbcdn.com
 DOMAIN-SUFFIX,kbcmw.com
@@ -62809,6 +62811,7 @@ DOMAIN-SUFFIX,q6u.com
 DOMAIN-SUFFIX,q77777777.com
 DOMAIN-SUFFIX,q88b.net
 DOMAIN-SUFFIX,q88c.net
+DOMAIN-SUFFIX,q8jghk.com
 DOMAIN-SUFFIX,qacn.net
 DOMAIN-SUFFIX,qagpublic.qatp1.net
 DOMAIN-SUFFIX,qagpublic.qcpp1.net
@@ -64915,6 +64918,8 @@ DOMAIN-SUFFIX,qw5599.com
 DOMAIN-SUFFIX,qwbk.cc
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,qwerhost.com
 DOMAIN-SUFFIX,qwfync.com
 DOMAIN-SUFFIX,qwgg.com
@@ -86776,6 +86781,7 @@ DOMAIN-SUFFIX,ychxie.com
 DOMAIN-SUFFIX,ychxiex.com
 DOMAIN-SUFFIX,ycig.com
 DOMAIN-SUFFIX,ycigilink.com
+DOMAIN-SUFFIX,yciou.com
 DOMAIN-SUFFIX,ycis-bj.com
 DOMAIN-SUFFIX,yciyun.com
 DOMAIN-SUFFIX,ycjmgk.com
