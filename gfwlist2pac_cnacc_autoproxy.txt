@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc0MzEyMDYzNwo=
+! Checksum: MTc0MzIwNzAxMwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20250328-0
-! TimeUpdated: 2025-03-28T00:10:37+00:00
+! Version: 1.0.0-20250329-0
+! TimeUpdated: 2025-03-29T00:10:13+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -64129,7 +64129,6 @@
 ||noxue.com
 ||noxxxx.com
 ||noyes88.com
-||np-edge.itunes.apple.com
 ||npbdp.com
 ||npbeta.com
 ||npc.ink
@@ -64295,6 +64294,7 @@
 ||ntrcb.com
 ||ntrun.com
 ||ntsanta.com
+||ntservicepack.microsoft.com
 ||ntsgx.com
 ||ntsloadcell.com
 ||ntsuye.com
@@ -83940,6 +83940,7 @@
 ||upd.kaspersky.com
 ||update.crashlytics.com
 ||update.googleapis.com
+||update.microsoft.com
 ||updates-http.cdn-apple.com
 ||updates-http.cdn-apple.com.akadns.net
 ||updates.cdn-apple.com
@@ -87638,6 +87639,7 @@
 ||windows10zj.com
 ||windows11.pro
 ||windows7en.com
+||windowsupdate.microsoft.com
 ||windowszj.com
 ||winds.red
 ||windsns.com
@@ -89004,6 +89006,7 @@
 ||www.destinationurl.com
 ||www.dji.com
 ||www.djivideos.com
+||www.entrust.cn
 ||www.epsonconnect.com
 ||www.googleadapis.com
 ||www.gov.mo
