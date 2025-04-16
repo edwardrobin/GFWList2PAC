@@ -1,7 +1,7 @@
-# Checksum: MTc0NDY3NTg2Mgo=
+# Checksum: MTc0NDc2MjI1OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20250415-0
-# TimeUpdated: 2025-04-15T00:11:02+00:00
+# Version: 1.0.0-20250416-0
+# TimeUpdated: 2025-04-16T00:10:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -12168,6 +12168,7 @@ DOMAIN-SUFFIX,amayad.com
 DOMAIN-SUFFIX,amazeui.org
 DOMAIN-SUFFIX,amazfit.com
 DOMAIN-SUFFIX,amazingsys.com
+DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazoni2.com
 DOMAIN-SUFFIX,ambassador-sh.com
 DOMAIN-SUFFIX,ambassadorchina.com
@@ -34721,6 +34722,7 @@ DOMAIN-SUFFIX,eszyb.com
 DOMAIN-SUFFIX,eszzxxz.com
 DOMAIN-SUFFIX,et-api.com
 DOMAIN-SUFFIX,et-fine.com
+DOMAIN-SUFFIX,et001.com
 DOMAIN-SUFFIX,et363.com
 DOMAIN-SUFFIX,et59.com
 DOMAIN-SUFFIX,et998.com
@@ -41763,6 +41765,7 @@ DOMAIN-SUFFIX,guahaoe.com
 DOMAIN-SUFFIX,guahaowang.com
 DOMAIN-SUFFIX,guaiguai.com
 DOMAIN-SUFFIX,guaihou.com
+DOMAIN-SUFFIX,guaiku.com
 DOMAIN-SUFFIX,guaileicp.com
 DOMAIN-SUFFIX,guaili.org
 DOMAIN-SUFFIX,guailuo.com
@@ -70712,6 +70715,7 @@ DOMAIN-SUFFIX,mingxigu.com
 DOMAIN-SUFFIX,mingxingbobbin.com
 DOMAIN-SUFFIX,mingxingku.com
 DOMAIN-SUFFIX,mingxinglai.com
+DOMAIN-SUFFIX,mingxuan.store
 DOMAIN-SUFFIX,mingxuanxz.com
 DOMAIN-SUFFIX,mingya.mobi
 DOMAIN-SUFFIX,mingyafeng.com
@@ -95549,6 +95553,7 @@ DOMAIN-SUFFIX,tillglance.com
 DOMAIN-SUFFIX,timanetworks.com
 DOMAIN-SUFFIX,time-weekly.com
 DOMAIN-SUFFIX,time-year.com
+DOMAIN-SUFFIX,time.amazonaws.cn
 DOMAIN-SUFFIX,time.izatcloud.net
 DOMAIN-SUFFIX,time.xtracloud.net
 DOMAIN-SUFFIX,timecloud.us
