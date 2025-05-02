@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc0NjA1ODM1MQo=
+! Checksum: MTc0NjE0NDY2Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20250501-0
-! TimeUpdated: 2025-05-01T00:12:31+00:00
+! Version: 1.0.0-20250502-0
+! TimeUpdated: 2025-05-02T00:11:03+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -30766,6 +30766,7 @@
 ||djigo-hk.djiservice.org
 ||djigo.djicdn.com
 ||djigoapi.djiservice.org
+||djiits.com
 ||djiops.com
 ||djiservice.org
 ||djivideos.com
@@ -71395,6 +71396,7 @@
 ||mored.com
 ||moredian.com
 ||morefood.com
+||morefreegame.com
 ||morefun-philippines.com
 ||moregy.com
 ||moreless.io
@@ -71680,7 +71682,6 @@
 ||mshouyou.com
 ||mshw.net
 ||mshxw.com
-||msi.com
 ||msits.com
 ||msjingmi.com
 ||msjy123.com
