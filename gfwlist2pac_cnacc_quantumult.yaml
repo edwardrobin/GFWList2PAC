@@ -1,7 +1,7 @@
-# Checksum: MTc0OTE2ODY5NQo=
+# Checksum: MTc0OTI1NTA4Mgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20250606-0
-# TimeUpdated: 2025-06-06T00:11:35+00:00
+# Version: 1.0.0-20250607-0
+# TimeUpdated: 2025-06-07T00:11:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -13458,6 +13458,7 @@ DOMAIN-SUFFIX,asthis.net,DIRECT
 DOMAIN-SUFFIX,astipaint.com,DIRECT
 DOMAIN-SUFFIX,astra-biotech.com,DIRECT
 DOMAIN-SUFFIX,astraintel.com,DIRECT
+DOMAIN-SUFFIX,astral-vector.com,DIRECT
 DOMAIN-SUFFIX,astroai-in.com,DIRECT
 DOMAIN-SUFFIX,astroaio.com,DIRECT
 DOMAIN-SUFFIX,astron.ac,DIRECT

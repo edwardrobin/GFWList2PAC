@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc0OTE2ODY5NQo=
+! Checksum: MTc0OTI1NTA4Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20250606-0
-! TimeUpdated: 2025-06-06T00:11:35+00:00
+! Version: 1.0.0-20250607-0
+! TimeUpdated: 2025-06-07T00:11:22+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -13459,6 +13459,7 @@
 ||astipaint.com
 ||astra-biotech.com
 ||astraintel.com
+||astral-vector.com
 ||astroai-in.com
 ||astroaio.com
 ||astron.ac
