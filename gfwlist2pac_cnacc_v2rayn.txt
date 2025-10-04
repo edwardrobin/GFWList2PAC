@@ -1,7 +1,7 @@
-# Checksum: MTc1OTQ1MDIyNgo=
+# Checksum: MTc1OTUzNjYyNwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20251003-0
-# TimeUpdated: 2025-10-03T00:10:26+00:00
+# Version: 1.0.0-20251004-0
+# TimeUpdated: 2025-10-04T00:10:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -92345,7 +92345,6 @@ domain:tapque.com,
 domain:tapsvc.com,
 domain:taptap-api.com,
 domain:taptap.com,
-domain:taptap.io,
 domain:taptapcode.com,
 domain:taptapdada.com,
 domain:tapulsads.ru,
