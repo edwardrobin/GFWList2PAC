@@ -1,7 +1,7 @@
-# Checksum: MTc1OTk2ODYyOQo=
+# Checksum: MTc2MDA1NTA2OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20251009-0
-# TimeUpdated: 2025-10-09T00:10:29+00:00
+# Version: 1.0.0-20251010-0
+# TimeUpdated: 2025-10-10T00:11:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -30741,6 +30741,7 @@ DOMAIN-SUFFIX,doooor.net
 DOMAIN-SUFFIX,door-expo.com
 DOMAIN-SUFFIX,dooready.com
 DOMAIN-SUFFIX,doorhr.com
+DOMAIN-SUFFIX,doorqr.com
 DOMAIN-SUFFIX,doorzo.app
 DOMAIN-SUFFIX,doorzo.net
 DOMAIN-SUFFIX,doosunggroup.com
@@ -35071,6 +35072,7 @@ DOMAIN-SUFFIX,feimalv.com
 DOMAIN-SUFFIX,feimao666.com
 DOMAIN-SUFFIX,feimaoweb.com
 DOMAIN-SUFFIX,feimaoyun.com
+DOMAIN-SUFFIX,feimawaiqin.com
 DOMAIN-SUFFIX,feimayun.com
 DOMAIN-SUFFIX,feimooo.com
 DOMAIN-SUFFIX,feimosheji.com
@@ -39557,7 +39559,6 @@ DOMAIN-SUFFIX,gmm01.com
 DOMAIN-SUFFIX,gmmicro.com
 DOMAIN-SUFFIX,gmmsj.com
 DOMAIN-SUFFIX,gmmtcc.com
-DOMAIN-SUFFIX,gmnetworks.net
 DOMAIN-SUFFIX,gmoe.cc
 DOMAIN-SUFFIX,gmonline-all.com
 DOMAIN-SUFFIX,gmpanel.com
@@ -44995,6 +44996,7 @@ DOMAIN-SUFFIX,haomai.net
 DOMAIN-SUFFIX,haomaikeji.com
 DOMAIN-SUFFIX,haomaishe.com
 DOMAIN-SUFFIX,haomaishou.com
+DOMAIN-SUFFIX,haomaitong.com
 DOMAIN-SUFFIX,haomaizhizao.com
 DOMAIN-SUFFIX,haomaku.com
 DOMAIN-SUFFIX,haomei-alu.com
@@ -79349,6 +79351,7 @@ DOMAIN-SUFFIX,qqb.pub
 DOMAIN-SUFFIX,qqba.com
 DOMAIN-SUFFIX,qqbiaoqing.com
 DOMAIN-SUFFIX,qqbibile.com
+DOMAIN-SUFFIX,qqbytrans.com
 DOMAIN-SUFFIX,qqcdn.com
 DOMAIN-SUFFIX,qqcg.com
 DOMAIN-SUFFIX,qqcjw.com
@@ -82363,6 +82366,7 @@ DOMAIN-SUFFIX,sac-china.com
 DOMAIN-SUFFIX,sacdr.net
 DOMAIN-SUFFIX,sachenpharm.com
 DOMAIN-SUFFIX,sact-digital.com
+DOMAIN-SUFFIX,sadidc.com
 DOMAIN-SUFFIX,sae-china.org
 DOMAIN-SUFFIX,saebbs.com
 DOMAIN-SUFFIX,saec.cc
@@ -97366,6 +97370,7 @@ DOMAIN-SUFFIX,verygslb.net
 DOMAIN-SUFFIX,veryhappy.pw
 DOMAIN-SUFFIX,veryhuo.com
 DOMAIN-SUFFIX,veryide.com
+DOMAIN-SUFFIX,veryim.com
 DOMAIN-SUFFIX,veryitman.com
 DOMAIN-SUFFIX,verykuai.com
 DOMAIN-SUFFIX,verym.com
@@ -98987,6 +98992,7 @@ DOMAIN-SUFFIX,wbtech.com
 DOMAIN-SUFFIX,wbtrans.com
 DOMAIN-SUFFIX,wbw.im
 DOMAIN-SUFFIX,wbwbwb.net
+DOMAIN-SUFFIX,wbxcx.net
 DOMAIN-SUFFIX,wbxinxi.com
 DOMAIN-SUFFIX,wbzd.net
 DOMAIN-SUFFIX,wc-soft.com
