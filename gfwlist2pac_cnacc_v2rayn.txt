@@ -1,7 +1,7 @@
-# Checksum: MTc2MTA5MTg4NAo=
+# Checksum: MTc2MTE3ODI2Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20251022-0
-# TimeUpdated: 2025-10-22T00:11:24+00:00
+# Version: 1.0.0-20251023-0
+# TimeUpdated: 2025-10-23T00:11:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -23868,6 +23868,7 @@ domain:cn-zhongrui.com,
 domain:cn.bing.com,
 domain:cn.bing.net,
 domain:cn.download.nvidia.com,
+domain:cn.eset.com,
 domain:cn.mm.bing.net,
 domain:cn.net,
 domain:cn.online.standardchartered.com,
@@ -59799,8 +59800,6 @@ domain:kashen8.com,
 domain:kashengauto.com,
 domain:kasitesoft.com,
 domain:kaslyju.com,
-domain:kaspersky-labs.com,
-domain:kaspersky.com,
 domain:kasscloud.com,
 domain:kataliya.net,
 domain:kate-kanebo.net,

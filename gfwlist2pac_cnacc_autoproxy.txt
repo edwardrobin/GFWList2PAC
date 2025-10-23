@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2MTA5MTg4NAo=
+! Checksum: MTc2MTE3ODI2Ngo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20251022-0
-! TimeUpdated: 2025-10-22T00:11:24+00:00
+! Version: 1.0.0-20251023-0
+! TimeUpdated: 2025-10-23T00:11:06+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -23869,6 +23869,7 @@
 ||cn.bing.com
 ||cn.bing.net
 ||cn.download.nvidia.com
+||cn.eset.com
 ||cn.mm.bing.net
 ||cn.net
 ||cn.online.standardchartered.com
@@ -59800,8 +59801,6 @@
 ||kashengauto.com
 ||kasitesoft.com
 ||kaslyju.com
-||kaspersky-labs.com
-||kaspersky.com
 ||kasscloud.com
 ||kataliya.net
 ||kate-kanebo.net
