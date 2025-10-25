@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2MTI2NDUzNwo=
+! Checksum: MTc2MTM1MTA0Ngo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20251024-0
-! TimeUpdated: 2025-10-24T00:08:57+00:00
+! Version: 1.0.0-20251025-0
+! TimeUpdated: 2025-10-25T00:10:46+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -20163,6 +20163,7 @@
 ||ceyice.net
 ||ceyige.com
 ||cezhu.net
+||cf-china.info
 ||cf-ns.com
 ||cf-ns.net
 ||cf-ns.site
@@ -28702,7 +28703,6 @@
 ||deepfast.com
 ||deepin-ai.com
 ||deepin.com
-||deepin.io
 ||deepin.org
 ||deepinghost.com
 ||deepinmind.com
@@ -63892,6 +63892,7 @@
 ||linglingkaimen.com
 ||linglingmo.site
 ||linglong.dev
+||linglong.space
 ||linglongart.com
 ||linglonglife.com
 ||linglongtech.com
