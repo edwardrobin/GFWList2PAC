@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2MTY5NjY5NAo=
+! Checksum: MTc2MTc4MzA5MQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20251029-0
-! TimeUpdated: 2025-10-29T00:11:34+00:00
+! Version: 1.0.0-20251030-0
+! TimeUpdated: 2025-10-30T00:11:31+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -28375,8 +28375,14 @@
 ||dcloud.io
 ||dcloud.xin
 ||dcloudlive.com
+||dcloudlive.net
 ||dclouds.cloud
+||dcloudsp.com
+||dcloudsp.net
 ||dcloudstc.com
+||dcloudstc.net
+||dcloudvod.com
+||dcloudvod.net
 ||dclygroup.com
 ||dcmagcn.com
 ||dcmap.deploy.akamai.com
@@ -46279,7 +46285,10 @@
 ||herllamo.com
 ||hermod1.com
 ||hero-geek.com
+||hero.com
 ||herocoming.com
+||heroesports.com
+||herogame.com
 ||herohr.net
 ||heroic-ltd.com
 ||heroje.com
@@ -86365,6 +86374,7 @@
 ||shyuzhai.com
 ||shywly.com
 ||shyx-bio.com
+||shyxhy.com
 ||shyxi5.com
 ||shyxwz.com
 ||shyy6688.com
