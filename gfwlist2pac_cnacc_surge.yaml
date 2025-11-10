@@ -1,7 +1,7 @@
-# Checksum: MTc2MjY0NzE1Nwo=
+# Checksum: MTc2MjczMzUzNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20251109-0
-# TimeUpdated: 2025-11-09T00:12:37+00:00
+# Version: 1.0.0-20251110-0
+# TimeUpdated: 2025-11-10T00:12:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -52879,7 +52879,6 @@ DOMAIN-SUFFIX,inferoey.com
 DOMAIN-SUFFIX,infertilitybridge.com
 DOMAIN-SUFFIX,infimotion.com
 DOMAIN-SUFFIX,infineon-autoeco.com
-DOMAIN-SUFFIX,infineon.com
 DOMAIN-SUFFIX,infini-ai.com
 DOMAIN-SUFFIX,infinisign.com
 DOMAIN-SUFFIX,infinitescript.com
@@ -92815,7 +92814,6 @@ DOMAIN-SUFFIX,thztv.net
 DOMAIN-SUFFIX,thzu.cc
 DOMAIN-SUFFIX,ti-node.com
 DOMAIN-SUFFIX,ti-solar.com
-DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,ti0s.com
 DOMAIN-SUFFIX,ti4la.icu
 DOMAIN-SUFFIX,tiamaes.com

@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2MjY0NzE1Nwo=
+! Checksum: MTc2MjczMzUzNAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20251109-0
-! TimeUpdated: 2025-11-09T00:12:37+00:00
+! Version: 1.0.0-20251110-0
+! TimeUpdated: 2025-11-10T00:12:14+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -52880,7 +52880,6 @@
 ||infertilitybridge.com
 ||infimotion.com
 ||infineon-autoeco.com
-||infineon.com
 ||infini-ai.com
 ||infinisign.com
 ||infinitescript.com
@@ -92816,7 +92815,6 @@
 ||thzu.cc
 ||ti-node.com
 ||ti-solar.com
-||ti.com
 ||ti0s.com
 ||ti4la.icu
 ||tiamaes.com
