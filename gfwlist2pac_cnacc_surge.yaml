@@ -1,7 +1,7 @@
-# Checksum: MTc2MjkwNjI3OAo=
+# Checksum: MTc2Mjk5MjY4MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20251112-0
-# TimeUpdated: 2025-11-12T00:11:18+00:00
+# Version: 1.0.0-20251113-0
+# TimeUpdated: 2025-11-13T00:11:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -9637,7 +9637,9 @@ DOMAIN-SUFFIX,acthd123.com
 DOMAIN-SUFFIX,actime.net
 DOMAIN-SUFFIX,actions-semi.com
 DOMAIN-SUFFIX,actionsky.com
+DOMAIN-SUFFIX,activate.activation-v2.kaspersky.com
 DOMAIN-SUFFIX,activation-gp.com
+DOMAIN-SUFFIX,activation-v2.geo.kaspersky.com
 DOMAIN-SUFFIX,activation-v2.kaspersky.com
 DOMAIN-SUFFIX,active.dji.com
 DOMAIN-SUFFIX,activeclub.net
@@ -28344,6 +28346,11 @@ DOMAIN-SUFFIX,dbtclub.com
 DOMAIN-SUFFIX,dbyun.net
 DOMAIN-SUFFIX,dc-cn.com
 DOMAIN-SUFFIX,dc0792.com
+DOMAIN-SUFFIX,dc1-cert.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,dc1-file.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,dc1-pp.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,dc1-st.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,dc1.ksn.kaspersky-labs.com
 DOMAIN-SUFFIX,dc568.com
 DOMAIN-SUFFIX,dc625.com
 DOMAIN-SUFFIX,dcarapi.com
@@ -32438,6 +32445,7 @@ DOMAIN-SUFFIX,edengjiang.com
 DOMAIN-SUFFIX,edesson.com
 DOMAIN-SUFFIX,edfni.xyz
 DOMAIN-SUFFIX,edge-byted.com
+DOMAIN-SUFFIX,edge.geo.kaspersky.com
 DOMAIN-SUFFIX,edgefn.net
 DOMAIN-SUFFIX,edgegslb.com
 DOMAIN-SUFFIX,edgekey88.net
@@ -60986,9 +60994,29 @@ DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksmobile.net
 DOMAIN-SUFFIX,ksmq5a9kxzmr.com
 DOMAIN-SUFFIX,ksn-cinfo-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-cinfo.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-crypto-info-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-kas-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-tcert-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-url-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-verdict-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-wifiplus-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-crypto-wifiplus.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-dc1-cert.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-dc1-file.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-dc1.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-file-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-file.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-info-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-info.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-kas.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-mdr.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ksn-tcert-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-tcert.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-url.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com
+DOMAIN-SUFFIX,ksn-verdict.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksndsa.com
 DOMAIN-SUFFIX,ksnows.com
 DOMAIN-SUFFIX,ksoapp.com
@@ -67408,6 +67436,7 @@ DOMAIN-SUFFIX,mdouvip.com
 DOMAIN-SUFFIX,mdouwz.com
 DOMAIN-SUFFIX,mdpda.com
 DOMAIN-SUFFIX,mdpetrotech.com
+DOMAIN-SUFFIX,mdr.ksn.kaspersky-labs.com
 DOMAIN-SUFFIX,mdrmyy.com
 DOMAIN-SUFFIX,mdsin.com
 DOMAIN-SUFFIX,mdsmos.com
@@ -74209,7 +74238,6 @@ DOMAIN-SUFFIX,oogsy.com
 DOMAIN-SUFFIX,oohdear.com
 DOMAIN-SUFFIX,ooiii.com
 DOMAIN-SUFFIX,oojsq.com
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,oolap.com
 DOMAIN-SUFFIX,oomake.com
 DOMAIN-SUFFIX,ooniu.com
@@ -80612,6 +80640,7 @@ DOMAIN-SUFFIX,refineidea.com
 DOMAIN-SUFFIX,refire.com
 DOMAIN-SUFFIX,refond.com
 DOMAIN-SUFFIX,reformdata.org
+DOMAIN-SUFFIX,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN-SUFFIX,reg.lenovo.com
 DOMAIN-SUFFIX,reg007.com
 DOMAIN-SUFFIX,regal-marathon.com
