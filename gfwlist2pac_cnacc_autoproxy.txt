@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2NTQ5ODMyMQo=
+! Checksum: MTc2NTU4NDcwOAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20251212-0
-! TimeUpdated: 2025-12-12T00:12:01+00:00
+! Version: 1.0.0-20251213-0
+! TimeUpdated: 2025-12-13T00:11:48+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -18094,7 +18094,6 @@
 ||bytedanceapi.com
 ||bytedancehermestest.com
 ||bytedancevod.com
-||bytedapm.com
 ||bytedcdn.com
 ||bytedeliver.com
 ||bytedgames.com
