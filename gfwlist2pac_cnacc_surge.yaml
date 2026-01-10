@@ -1,7 +1,7 @@
-# Checksum: MTc2NzkxNzU0NQo=
+# Checksum: MTc2ODAwMzk0MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260109-0
-# TimeUpdated: 2026-01-09T00:12:25+00:00
+# Version: 1.0.0-20260110-0
+# TimeUpdated: 2026-01-10T00:12:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -35237,6 +35237,7 @@ DOMAIN-SUFFIX,fnkslift.com
 DOMAIN-SUFFIX,fnkvision.com
 DOMAIN-SUFFIX,fnmobi.com
 DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnnspa.com
 DOMAIN-SUFFIX,fnos.net
@@ -90196,6 +90197,7 @@ DOMAIN-SUFFIX,tapafun.com
 DOMAIN-SUFFIX,tapai.com
 DOMAIN-SUFFIX,tapaijiu.com
 DOMAIN-SUFFIX,tapapis.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapas.net
 DOMAIN-SUFFIX,tapbooster.net
 DOMAIN-SUFFIX,tapdata.net
