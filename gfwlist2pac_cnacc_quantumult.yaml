@@ -1,7 +1,7 @@
-# Checksum: MTc2ODA5MDQ1MQo=
+# Checksum: MTc2ODE3Njc5MAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20260111-0
-# TimeUpdated: 2026-01-11T00:14:11+00:00
+# Version: 1.0.0-20260112-0
+# TimeUpdated: 2026-01-12T00:13:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -68009,6 +68009,7 @@ DOMAIN-SUFFIX,moboplayer.com,DIRECT
 DOMAIN-SUFFIX,mobotap.com,DIRECT
 DOMAIN-SUFFIX,mobring.co,DIRECT
 DOMAIN-SUFFIX,mobrtb.com,DIRECT
+DOMAIN-SUFFIX,mobsdks.com,DIRECT
 DOMAIN-SUFFIX,mobsurl.com,DIRECT
 DOMAIN-SUFFIX,mobtou.com,DIRECT
 DOMAIN-SUFFIX,mobvoi.com,DIRECT
