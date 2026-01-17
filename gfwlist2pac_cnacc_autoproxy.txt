@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc2ODUyMjM2Nwo=
+! Checksum: MTc2ODYwODczMQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260116-0
-! TimeUpdated: 2026-01-16T00:12:47+00:00
+! Version: 1.0.0-20260117-0
+! TimeUpdated: 2026-01-17T00:12:11+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -95855,6 +95855,7 @@
 ||volcfcdnsc.com
 ||volcfxgjrtm.com
 ||volcgroup.com
+||volcgslb-mlt.com
 ||volcgslb.com
 ||volcgtm.com
 ||volchina.com
