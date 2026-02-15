@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc3MTAyODIxMQo=
+! Checksum: MTc3MTExNDYwNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260214-0
-! TimeUpdated: 2026-02-14T00:16:51+00:00
+! Version: 1.0.0-20260215-0
+! TimeUpdated: 2026-02-15T00:16:45+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -80368,7 +80368,6 @@
 ||redmart.com
 ||redmou.com
 ||rednetdns.com
-||rednotecdn.com
 ||redocn.com
 ||redodopower.com
 ||redoop.com
@@ -103111,7 +103110,6 @@
 ||xhslink.com
 ||xhslw.com
 ||xhsmlt.com
-||xhsrcdn.com
 ||xhsrmyy.com
 ||xhsxmt.com
 ||xhsyqx.com

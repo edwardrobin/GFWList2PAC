@@ -1,7 +1,7 @@
-# Checksum: MTc3MTAyODIxMQo=
+# Checksum: MTc3MTExNDYwNQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260214-0
-# TimeUpdated: 2026-02-14T00:16:51+00:00
+# Version: 1.0.0-20260215-0
+# TimeUpdated: 2026-02-15T00:16:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -80367,7 +80367,6 @@ DOMAIN-SUFFIX,redmagic.com
 DOMAIN-SUFFIX,redmart.com
 DOMAIN-SUFFIX,redmou.com
 DOMAIN-SUFFIX,rednetdns.com
-DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,redocn.com
 DOMAIN-SUFFIX,redodopower.com
 DOMAIN-SUFFIX,redoop.com
@@ -103110,7 +103109,6 @@ DOMAIN-SUFFIX,xhsf.com
 DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xhslw.com
 DOMAIN-SUFFIX,xhsmlt.com
-DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xhsrmyy.com
 DOMAIN-SUFFIX,xhsxmt.com
 DOMAIN-SUFFIX,xhsyqx.com
