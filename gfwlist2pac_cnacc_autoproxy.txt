@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc3MjIzNzYyNwo=
+! Checksum: MTc3MjMyNDI1Mgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260228-0
-! TimeUpdated: 2026-02-28T00:13:47+00:00
+! Version: 1.0.0-20260301-0
+! TimeUpdated: 2026-03-01T00:17:32+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -70618,6 +70618,7 @@
 ||musiceol.com
 ||musicgw.com
 ||musicheng.com
+||musicstatus.music.apple.com
 ||musikid.com
 ||musiness.vip
 ||muslimwww.com
@@ -70674,6 +70675,7 @@
 ||mvad.com
 ||mvashanghai.org
 ||mvhere.com
+||mvod.itunes.apple.com
 ||mvoicer.com
 ||mvote.net
 ||mvpdj.com
@@ -89000,6 +89002,7 @@
 ||speedws.com
 ||speedws.info
 ||speedws.org
+||speedysub.music.apple.com
 ||speedzonerc.com
 ||speiyou.com
 ||sperogenix.com

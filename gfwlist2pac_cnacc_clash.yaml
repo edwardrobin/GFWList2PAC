@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MjIzNzYyNwo=
+# Checksum: MTc3MjMyNDI1Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20260228-0
-# TimeUpdated: 2026-02-28T00:13:47+00:00
+# Version: 1.0.0-20260301-0
+# TimeUpdated: 2026-03-01T00:17:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -70618,6 +70618,7 @@ payload:
   - DOMAIN-SUFFIX,musiceol.com
   - DOMAIN-SUFFIX,musicgw.com
   - DOMAIN-SUFFIX,musicheng.com
+  - DOMAIN-SUFFIX,musicstatus.music.apple.com
   - DOMAIN-SUFFIX,musikid.com
   - DOMAIN-SUFFIX,musiness.vip
   - DOMAIN-SUFFIX,muslimwww.com
@@ -70674,6 +70675,7 @@ payload:
   - DOMAIN-SUFFIX,mvad.com
   - DOMAIN-SUFFIX,mvashanghai.org
   - DOMAIN-SUFFIX,mvhere.com
+  - DOMAIN-SUFFIX,mvod.itunes.apple.com
   - DOMAIN-SUFFIX,mvoicer.com
   - DOMAIN-SUFFIX,mvote.net
   - DOMAIN-SUFFIX,mvpdj.com
@@ -89000,6 +89002,7 @@ payload:
   - DOMAIN-SUFFIX,speedws.com
   - DOMAIN-SUFFIX,speedws.info
   - DOMAIN-SUFFIX,speedws.org
+  - DOMAIN-SUFFIX,speedysub.music.apple.com
   - DOMAIN-SUFFIX,speedzonerc.com
   - DOMAIN-SUFFIX,speiyou.com
   - DOMAIN-SUFFIX,sperogenix.com
