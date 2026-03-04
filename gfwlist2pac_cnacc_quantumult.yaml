@@ -1,7 +1,7 @@
-# Checksum: MTc3MjQ5Njk4Nwo=
+# Checksum: MTc3MjU4MzMzNQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20260303-0
-# TimeUpdated: 2026-03-03T00:16:27+00:00
+# Version: 1.0.0-20260304-0
+# TimeUpdated: 2026-03-04T00:15:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -69974,6 +69974,7 @@ DOMAIN-SUFFIX,monfetch.com,DIRECT
 DOMAIN-SUFFIX,mongac.com,DIRECT
 DOMAIN-SUFFIX,monhun.fun,DIRECT
 DOMAIN-SUFFIX,monidata.com,DIRECT
+DOMAIN-SUFFIX,monika.love,DIRECT
 DOMAIN-SUFFIX,monitoring.qpdp1.net,DIRECT
 DOMAIN-SUFFIX,monkeylsp.com,DIRECT
 DOMAIN-SUFFIX,monknow.com,DIRECT
