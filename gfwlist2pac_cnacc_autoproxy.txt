@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc3NDM5NzgzNQo=
+! Checksum: MTc3NDQ4NDM2NQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260325-0
-! TimeUpdated: 2026-03-25T00:17:15+00:00
+! Version: 1.0.0-20260326-0
+! TimeUpdated: 2026-03-26T00:19:25+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -105591,7 +105591,6 @@
 ||xiaomidns.com
 ||xiaomidns.net
 ||xiaomiev.com
-||xiaomiflash.com
 ||xiaomiinc.net
 ||xiaomimimo.com
 ||xiaomimobile.com
