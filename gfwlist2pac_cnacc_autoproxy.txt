@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc3NDQ4NDM2NQo=
+! Checksum: MTc3NDU3MDc1MAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260326-0
-! TimeUpdated: 2026-03-26T00:19:25+00:00
+! Version: 1.0.0-20260327-0
+! TimeUpdated: 2026-03-27T00:19:10+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -12841,6 +12841,7 @@
 ||anhuisjx.com
 ||anhuisuya.com
 ||anhuiwine.com
+||anhuiyun.com
 ||anhuizk.com
 ||ani-sh.com
 ||aniccw.net
@@ -28010,6 +28011,7 @@
 ||ctdcn.com
 ||ctdisk.com
 ||ctdns.net
+||ctdsb.clouddiffuse.xyz
 ||ctdsb.com
 ||ctdsb.net
 ||ctdzsk.com

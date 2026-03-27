@@ -1,7 +1,7 @@
-# Checksum: MTc3NDQ4NDM2NQo=
+# Checksum: MTc3NDU3MDc1MAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20260326-0
-# TimeUpdated: 2026-03-26T00:19:25+00:00
+# Version: 1.0.0-20260327-0
+# TimeUpdated: 2026-03-27T00:19:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -12840,6 +12840,7 @@ DOMAIN-SUFFIX,anhuiry.com,DIRECT
 DOMAIN-SUFFIX,anhuisjx.com,DIRECT
 DOMAIN-SUFFIX,anhuisuya.com,DIRECT
 DOMAIN-SUFFIX,anhuiwine.com,DIRECT
+DOMAIN-SUFFIX,anhuiyun.com,DIRECT
 DOMAIN-SUFFIX,anhuizk.com,DIRECT
 DOMAIN-SUFFIX,ani-sh.com,DIRECT
 DOMAIN-SUFFIX,aniccw.net,DIRECT
@@ -28009,6 +28010,7 @@ DOMAIN-SUFFIX,ctdcdn.com,DIRECT
 DOMAIN-SUFFIX,ctdcn.com,DIRECT
 DOMAIN-SUFFIX,ctdisk.com,DIRECT
 DOMAIN-SUFFIX,ctdns.net,DIRECT
+DOMAIN-SUFFIX,ctdsb.clouddiffuse.xyz,DIRECT
 DOMAIN-SUFFIX,ctdsb.com,DIRECT
 DOMAIN-SUFFIX,ctdsb.net,DIRECT
 DOMAIN-SUFFIX,ctdzsk.com,DIRECT
